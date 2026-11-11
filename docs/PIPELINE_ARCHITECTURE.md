@@ -18,7 +18,7 @@
     [ Local LM Studio (Qwen 2.5 7B) / Gemini ] ──> Strict JSON Schema Enforcement
                                          │
                                          ├──> [ Exact Quote Verification: 100% Grounded ]
-                                         └──> [ Extracted 336 Claims with Metadata ]
+                                         └──> [ Extracted 631 Claims with Metadata ]
                                          │
  5. EVIDENCE RETRIEVAL                   ▼
     [ BM25 Full-Report Inverted Index ] ──> [ Top-K Candidate Chunks per Claim ]

@@ -502,5 +502,11 @@
     "stage": "verify",
     "claim_id": "cocacola_2025_4c7006dc47c1",
     "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "extract",
+    "page": 201,
+    "error": "LM Studio trả kết quả chưa hoàn chỉnh; không lưu như kết quả thành công."
   }
 ]

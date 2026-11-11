@@ -1,6 +1,6 @@
 # Kết quả phân tích 20 báo cáo PTBV
 
-Cập nhật (UTC): 2026-11-11T16:17:53.070020+00:00
+Cập nhật (UTC): 2026-11-11T16:32:01.433317+00:00
 
 Độ phủ hiện tại: 388/389 trang qua bộ lọc; 631 claim được chấp nhận; 560 đối chiếu hợp lệ; 71 claim chưa có đối chiếu hợp lệ.
 

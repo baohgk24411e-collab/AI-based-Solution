@@ -293,8 +293,17 @@ with tab_dashboard:
         audit_cols[2].metric("Insufficient Evidence", total_insuff, delta=f"{total_insuff/total_claims*100:.1f}%" if total_claims else "0%")
         audit_cols[3].metric("Quote Grounding Rate", "100%", delta="Zero Quote Fabrication")
 
+        # Enrich summary_data with risk flag counts from assessments
+        flag_counts = {}
+        for af in glob.glob(str(DATA / 'assessments' / '*.json')):
+            ass = load_json(af, {})
+            if ass.get('flags'):
+                rid = ass.get('report_id')
+                flag_counts[rid] = flag_counts.get(rid, 0) + 1
+        enriched_summary = [dict(r, risk_flags=flag_counts.get(r['report_id'], 0)) for r in summary_data]
+
         st.markdown("#### 📋 Enterprise Disclosure Breakdown")
-        st.dataframe(summary_data, hide_index=True, width='stretch')
+        st.dataframe(enriched_summary, hide_index=True, width='stretch')
     elif stats:
         st.dataframe(stats, hide_index=True, width='stretch')
 
@@ -310,8 +319,9 @@ with tab_dashboard:
     )
     claims_csv = DATA / 'results' / 'claims_and_assessments.csv'
     if claims_csv.exists():
+        c_label = f"Download {sum(r['claims'] for r in summary_data)} Claims CSV" if summary_data else "Download Claims CSV"
         dcols[2].download_button(
-            "Download 336 Claims CSV", claims_csv.read_bytes(),
+            c_label, claims_csv.read_bytes(),
             "claims_and_assessments.csv", "text/csv", width='stretch'
         )
     md_report = DATA / 'results' / 'BAO_CAO_PHAN_TICH.md'
@@ -472,17 +482,18 @@ with tab_hallucination:
     h_kpis[2].metric("Mismatched / Hallucinated", f"{len(val_mismatch)}", delta=f"-{len(val_mismatch)/total_quant*100:.1f}%")
     h_kpis[3].metric("Quote Grounding Integrity", "100%", delta="Strict Exact Substring Gate")
 
-    tab_good, tab_bad = st.tabs(["✅ 165 Verified Grounded Metrics (100% Match)", "⚠️ 24 Hallucinated / Shifted Metrics (Audit Flagged)"])
+    tab_good, tab_bad = st.tabs([f"✅ {len(val_match)} Verified Grounded Metrics (100% Match)", f"⚠️ {len(val_mismatch)} Hallucinated / Shifted Metrics (Audit Flagged)"])
     with tab_good:
-        st.success("These 165 metrics were extracted with 100% fidelity directly from the verbatim text with zero hallucination.")
+        st.success(f"These {len(val_match)} metrics were extracted with 100% fidelity directly from the verbatim text with zero hallucination.")
         st.dataframe(val_match, width='stretch')
 
     with tab_bad:
-        st.warning("""
-        Root Causes of the 24 Mismatched Metrics:
+        st.warning(f"""
+        Root Causes of the {len(val_mismatch)} Mismatched Metrics:
         1. **Neighboring Table Cell Confusion:** The LLM picked up a current progress number (e.g. 90%) from a nearby row rather than the headline commitment (100%).
         2. **Implicit Verbal Conversion:** Phrases like *"halve our virgin plastics"* were converted to `50%` despite the digit 50 not being written in the text.
-        3. **Extraneous Field Insertion:** A broad policy statement without numbers had a percentage injected from a preceding paragraph.
+        3. **Scale Expansion / Unit Normalization:** Phrases like *"3 million metric tons"* were expanded to `3000000` by the LLM while the text literally says `3`.
+        4. **Extraneous Field Insertion:** A broad policy statement without numbers had a percentage injected from a preceding paragraph.
         """)
         st.dataframe(val_mismatch, width='stretch')
 

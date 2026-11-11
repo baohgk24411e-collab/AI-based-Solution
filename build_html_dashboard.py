@@ -622,9 +622,10 @@ def build_dashboard():
             return;
         }
 
-        container.innerHTML = claims.slice(0, 80).map(c => {
+        container.innerHTML = `<div style="margin-bottom:12px; font-size:13px; color:#94a3b8;">Showing ${Math.min(claims.length, 100)} of ${claims.length} matching claims</div>` + claims.slice(0, 100).map(c => {
             const label = c.label || 'not_assessed';
             const badgeClass = 'badge-' + label;
+            const flagsHtml = (c.flags && c.flags.length) ? `<div style="margin-bottom:8px;">${c.flags.map(f => `<span class="badge badge-scope_mismatch" style="margin-right:6px;">⚠️ ${f}</span>`).join('')}</div>` : '';
             const citations = (c.evidence_refs || []).map(ref => 
                 `<div class="citation-box">📄 <b>PDF Page ${ref.pdf_page}</b>: "${ref.quote}" <i>[Chunk: ${ref.chunk_id}]</i></div>`
             ).join('');
@@ -636,6 +637,7 @@ def build_dashboard():
                     <span class="claim-meta"><b>${c.company || ''}</b> · ${c.report_id} · PDF Page <b>${c.source_page}</b> · Type: <b>${c.claim_type || 'general'}</b></span>
                 </div>
                 <div class="claim-quote">"${c.claim_text}"</div>
+                ${flagsHtml}
                 ${c.rationale ? `<div class="claim-rationale"><b>AI Forensic Assessment:</b> ${c.rationale}</div>` : ''}
                 ${citations ? `<div style="margin-top:8px;"><b>Corroborating Evidentiary Citations:</b>${citations}</div>` : ''}
             </div>
