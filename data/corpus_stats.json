@@ -1,0 +1,222 @@
+[
+  {
+    "report_id": "nestle_2021",
+    "company": "Nestlé",
+    "year": 2021,
+    "split": "development",
+    "pages": 59,
+    "chunks": 156,
+    "relevant_pages": 12,
+    "low_text_pages": 0,
+    "candidate_count": 47
+  },
+  {
+    "report_id": "nestle_2022",
+    "company": "Nestlé",
+    "year": 2022,
+    "split": "development",
+    "pages": 63,
+    "chunks": 171,
+    "relevant_pages": 16,
+    "low_text_pages": 0,
+    "candidate_count": 56
+  },
+  {
+    "report_id": "nestle_2023",
+    "company": "Nestlé",
+    "year": 2023,
+    "split": "test",
+    "pages": 89,
+    "chunks": 198,
+    "relevant_pages": 20,
+    "low_text_pages": 0,
+    "candidate_count": 64
+  },
+  {
+    "report_id": "nestle_2024",
+    "company": "Nestlé",
+    "year": 2024,
+    "split": "test",
+    "pages": 50,
+    "chunks": 77,
+    "relevant_pages": 6,
+    "low_text_pages": 1,
+    "candidate_count": 12
+  },
+  {
+    "report_id": "danone_2021",
+    "company": "Danone",
+    "year": 2021,
+    "split": "development",
+    "pages": 345,
+    "chunks": 674,
+    "relevant_pages": 25,
+    "low_text_pages": 11,
+    "candidate_count": 44
+  },
+  {
+    "report_id": "danone_2022",
+    "company": "Danone",
+    "year": 2022,
+    "split": "development",
+    "pages": 345,
+    "chunks": 675,
+    "relevant_pages": 30,
+    "low_text_pages": 9,
+    "candidate_count": 56
+  },
+  {
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "year": 2023,
+    "split": "test",
+    "pages": 421,
+    "chunks": 798,
+    "relevant_pages": 56,
+    "low_text_pages": 2,
+    "candidate_count": 137
+  },
+  {
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "year": 2024,
+    "split": "test",
+    "pages": 494,
+    "chunks": 960,
+    "relevant_pages": 63,
+    "low_text_pages": 3,
+    "candidate_count": 175
+  },
+  {
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "year": 2022,
+    "split": "development",
+    "pages": 88,
+    "chunks": 172,
+    "relevant_pages": 29,
+    "low_text_pages": 1,
+    "candidate_count": 99
+  },
+  {
+    "report_id": "cocacola_2023",
+    "company": "The Coca-Cola Company",
+    "year": 2023,
+    "split": "development",
+    "pages": 12,
+    "chunks": 22,
+    "relevant_pages": 3,
+    "low_text_pages": 1,
+    "candidate_count": 21
+  },
+  {
+    "report_id": "cocacola_2024",
+    "company": "The Coca-Cola Company",
+    "year": 2024,
+    "split": "test",
+    "pages": 14,
+    "chunks": 23,
+    "relevant_pages": 5,
+    "low_text_pages": 1,
+    "candidate_count": 18
+  },
+  {
+    "report_id": "pg_2021",
+    "company": "Procter & Gamble",
+    "year": 2021,
+    "split": "development",
+    "pages": 20,
+    "chunks": 21,
+    "relevant_pages": 2,
+    "low_text_pages": 0,
+    "candidate_count": 2
+  },
+  {
+    "report_id": "pg_2022",
+    "company": "Procter & Gamble",
+    "year": 2022,
+    "split": "development",
+    "pages": 42,
+    "chunks": 43,
+    "relevant_pages": 4,
+    "low_text_pages": 1,
+    "candidate_count": 18
+  },
+  {
+    "report_id": "pg_2023",
+    "company": "Procter & Gamble",
+    "year": 2023,
+    "split": "test",
+    "pages": 83,
+    "chunks": 84,
+    "relevant_pages": 10,
+    "low_text_pages": 0,
+    "candidate_count": 21
+  },
+  {
+    "report_id": "pg_2024",
+    "company": "Procter & Gamble",
+    "year": 2024,
+    "split": "test",
+    "pages": 11,
+    "chunks": 14,
+    "relevant_pages": 4,
+    "low_text_pages": 0,
+    "candidate_count": 4
+  },
+  {
+    "report_id": "reckitt_2021",
+    "company": "Reckitt",
+    "year": 2021,
+    "split": "development",
+    "pages": 116,
+    "chunks": 243,
+    "relevant_pages": 28,
+    "low_text_pages": 2,
+    "candidate_count": 58
+  },
+  {
+    "report_id": "reckitt_2022",
+    "company": "Reckitt",
+    "year": 2022,
+    "split": "development",
+    "pages": 134,
+    "chunks": 269,
+    "relevant_pages": 30,
+    "low_text_pages": 2,
+    "candidate_count": 53
+  },
+  {
+    "report_id": "reckitt_2023",
+    "company": "Reckitt",
+    "year": 2023,
+    "split": "test",
+    "pages": 97,
+    "chunks": 177,
+    "relevant_pages": 24,
+    "low_text_pages": 0,
+    "candidate_count": 64
+  },
+  {
+    "report_id": "reckitt_2024",
+    "company": "Reckitt",
+    "year": 2024,
+    "split": "test",
+    "pages": 68,
+    "chunks": 129,
+    "relevant_pages": 17,
+    "low_text_pages": 2,
+    "candidate_count": 59
+  },
+  {
+    "report_id": "cocacola_2025",
+    "company": "The Coca-Cola Company",
+    "year": 2025,
+    "split": "test",
+    "pages": 14,
+    "chunks": 24,
+    "relevant_pages": 5,
+    "low_text_pages": 1,
+    "candidate_count": 18
+  }
+]

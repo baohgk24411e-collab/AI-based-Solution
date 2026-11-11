@@ -1,0 +1,9 @@
+{
+  "status": "pending_human_labels",
+  "n": 0,
+  "macro_f1": null,
+  "accuracy": null,
+  "human_adjudicated_claims": 0,
+  "ai_assessments": 0,
+  "note": "Conditional verification accuracy on adjudicated test claims with saved AI predictions. Not end-to-end accuracy. No extraction recall without exhaustive annotation. AI-assisted examples excluded."
+}

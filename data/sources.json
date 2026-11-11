@@ -1,0 +1,213 @@
+[
+  {
+    "report_id": "nestle_2021",
+    "company": "Nestlé",
+    "report_year": 2021,
+    "language": "en",
+    "source_url": "https://www.nestle.com/sites/default/files/2022-03/creating-shared-value-sustainability-report-2021-en.pdf",
+    "discovery_url": "https://www.nestle.co.jp/csv/downloads",
+    "report_type": "CSV / sustainability report",
+    "split": "development",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "nestle_2022",
+    "company": "Nestlé",
+    "report_year": 2022,
+    "language": "en",
+    "source_url": "https://www.nestle.com/sites/default/files/2023-03/creating-shared-value-sustainability-report-2022-en.pdf",
+    "discovery_url": "https://www.nestle.co.jp/csv/downloads",
+    "report_type": "CSV / sustainability report",
+    "split": "development",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "nestle_2023",
+    "company": "Nestlé",
+    "report_year": 2023,
+    "language": "en",
+    "source_url": "https://www.nestle.com/sites/default/files/2024-02/creating-shared-value-sustainability-report-2023-en.pdf",
+    "discovery_url": "https://www.nestle.co.jp/csv/downloads",
+    "report_type": "CSV / sustainability report",
+    "split": "test",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "nestle_2024",
+    "company": "Nestlé",
+    "report_year": 2024,
+    "language": "en",
+    "source_url": "https://www.nestle.com/sites/default/files/2025-02/creating-shared-value-nestle-2024.pdf",
+    "discovery_url": "https://www.nestle.co.jp/csv/downloads",
+    "report_type": "CSV / sustainability report",
+    "split": "test",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "danone_2021",
+    "company": "Danone",
+    "report_year": 2021,
+    "language": "en",
+    "source_url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2021/registrationdocuments/danoneurd2021env2.pdf",
+    "discovery_url": "https://www.danone.com/investors/publications-and-events/financial-and-extra-financial-reports.html",
+    "report_type": "Universal registration document with environmental disclosures",
+    "split": "development",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "danone_2022",
+    "company": "Danone",
+    "report_year": 2022,
+    "language": "en",
+    "source_url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2022/registrationdocuments/danoneurd2022eng.pdf",
+    "discovery_url": "https://www.danone.com/investors/publications-and-events/financial-and-extra-financial-reports.html",
+    "report_type": "Universal registration document with environmental disclosures",
+    "split": "development",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "language": "en",
+    "source_url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2023/registrationdocuments/urddanone2023.pdf",
+    "discovery_url": "https://www.danone.com/investors/publications-and-events/financial-and-extra-financial-reports.html",
+    "report_type": "Universal registration document with environmental disclosures",
+    "split": "test",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "language": "en",
+    "source_url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2025/registrationdocuments/danoneuniversalregistrationdocument2024.pdf",
+    "discovery_url": "https://www.danone.com/investors/publications-and-events/financial-and-extra-financial-reports.html",
+    "report_type": "Universal registration document with environmental disclosures",
+    "split": "test",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "language": "en",
+    "source_url": "https://www.coca-colacompany.com/content/dam/corporate/us/en/reports/coca-cola-business-sustainability-report-2022.pdf",
+    "discovery_url": "https://www.coca-colacompany.com/policies-and-practices/sustainability",
+    "report_type": "Business / sustainability report",
+    "split": "development",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "cocacola_2023",
+    "company": "The Coca-Cola Company",
+    "report_year": 2023,
+    "language": "en",
+    "source_url": "https://www.coca-colacompany.com/content/dam/corporate/us/en/reports/2023-environmental-update/2023-environmental-update.pdf",
+    "discovery_url": "https://www.coca-colacompany.com/policies-and-practices/sustainability",
+    "report_type": "Environmental update",
+    "split": "development",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "cocacola_2024",
+    "company": "The Coca-Cola Company",
+    "report_year": 2024,
+    "language": "en",
+    "source_url": "https://www.coca-colacompany.com/content/dam/corporate/us/en/reports/2024-environmental-update/2024-environmental-update.pdf",
+    "discovery_url": "https://www.coca-colacompany.com/policies-and-practices/sustainability",
+    "report_type": "Environmental update",
+    "split": "test",
+    "selection": "Official report; packaging relevance to be checked after parsing"
+  },
+  {
+    "report_id": "pg_2021",
+    "company": "Procter & Gamble",
+    "report_year": 2021,
+    "language": "en",
+    "source_url": "https://assets.ctfassets.net/oggad6svuzkv/3u1N8qHW6TMWWudT5KoIkK/c3dffd1e64bec7ed22dd8df1e31b690a/2021_Citizenship_Report.pdf",
+    "discovery_url": "https://us.pg.com/sustainability-reports/",
+    "report_type": "Citizenship report",
+    "split": "development"
+  },
+  {
+    "report_id": "pg_2022",
+    "company": "Procter & Gamble",
+    "report_year": 2022,
+    "language": "en",
+    "source_url": "https://downloads.ctfassets.net/oggad6svuzkv/69o0QQzHdF7oyBFlihXZ6N/867d0cffd3fc6ae7810b3869b1a226f8/2022_Citizenship_Report__1_.pdf",
+    "discovery_url": "https://us.pg.com/sustainability-reports/",
+    "report_type": "Citizenship report",
+    "split": "development"
+  },
+  {
+    "report_id": "pg_2023",
+    "company": "Procter & Gamble",
+    "report_year": 2023,
+    "language": "en",
+    "source_url": "https://downloads.ctfassets.net/oggad6svuzkv/7PrU3Jq8gGsPAUl7fgZiR/509f602424dc551f49200fda48c30d7f/P_G_2023_Citizenship_Report_PDF.pdf",
+    "discovery_url": "https://us.pg.com/sustainability-reports/",
+    "report_type": "Citizenship report",
+    "split": "test"
+  },
+  {
+    "report_id": "pg_2024",
+    "company": "Procter & Gamble",
+    "report_year": 2024,
+    "language": "en",
+    "source_url": "https://assets.ctfassets.net/oggad6svuzkv/ecEvyMWjjJ9rCBEY9qsUw/5825bda5ec5cf42c8e8991ac3a867277/2024_Citizenship_Data_Metrics.pdf",
+    "discovery_url": "https://us.pg.com/sustainability-reports/",
+    "report_type": "Citizenship data and metrics",
+    "split": "test"
+  },
+  {
+    "report_id": "reckitt_2021",
+    "company": "Reckitt",
+    "report_year": 2021,
+    "language": "en",
+    "source_url": "https://eu-assets.contentstack.com/v3/assets/blt93c8bc7a598af9f0/blta4c91575545d7969/69b22f823d72ec2a8f176fd4/reckitt-sustainability-insights-2021.pdf",
+    "discovery_url": "https://www.reckitt.com/our-impact/reporting-hub/reporting-hub-archive/",
+    "report_type": "Sustainability report / insights",
+    "split": "development"
+  },
+  {
+    "report_id": "reckitt_2022",
+    "company": "Reckitt",
+    "report_year": 2022,
+    "language": "en",
+    "source_url": "https://eu-assets.contentstack.com/v3/assets/blt93c8bc7a598af9f0/blt749342e71b2391db/68792f6563f5b62a01f4d919/sustainability-insights-2022.pdf",
+    "discovery_url": "https://www.reckitt.com/our-impact/reporting-hub/reporting-hub-archive/",
+    "report_type": "Sustainability report / insights",
+    "split": "development"
+  },
+  {
+    "report_id": "reckitt_2023",
+    "company": "Reckitt",
+    "report_year": 2023,
+    "language": "en",
+    "source_url": "https://eu-assets.contentstack.com/v3/assets/blt93c8bc7a598af9f0/blt08d538edad38df4d/69b352a0d63aed05475f94a1/reckitt_sustainability-report_2023_(1).pdf",
+    "discovery_url": "https://www.reckitt.com/our-impact/reporting-hub/reporting-hub-archive/",
+    "report_type": "Sustainability report / insights",
+    "split": "test"
+  },
+  {
+    "report_id": "reckitt_2024",
+    "company": "Reckitt",
+    "report_year": 2024,
+    "language": "en",
+    "source_url": "https://eu-assets.contentstack.com/v3/assets/blt93c8bc7a598af9f0/bltbebbb6e3f17de88e/69c6a698c82dc1ec6581285b/reckitt_sustainability-report-2024-1.pdf",
+    "discovery_url": "https://www.reckitt.com/our-impact/reporting-hub/reporting-hub-archive/",
+    "report_type": "Sustainability report / insights",
+    "split": "test"
+  },
+  {
+    "report_id": "cocacola_2025",
+    "company": "The Coca-Cola Company",
+    "report_year": 2025,
+    "language": "en",
+    "source_url": "https://www.coca-colacompany.com/content/dam/corporate/us/en/reports/2025-environmental-update/2025-environmental-update.pdf",
+    "discovery_url": "https://www.coca-colacompany.com/policies-and-practices/sustainability",
+    "report_type": "Environmental update",
+    "split": "test"
+  }
+]

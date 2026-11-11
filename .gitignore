@@ -1,0 +1,14 @@
+.vendor/
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.streamlit/secrets.toml
+data/cache/
+data/uploads/
+*.log
+*.tmp
+

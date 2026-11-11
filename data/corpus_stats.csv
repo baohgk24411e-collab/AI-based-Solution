@@ -1,0 +1,21 @@
+﻿report_id,company,year,split,pages,chunks,relevant_pages,low_text_pages,candidate_count
+nestle_2021,Nestlé,2021,development,59,156,12,0,47
+nestle_2022,Nestlé,2022,development,63,171,16,0,56
+nestle_2023,Nestlé,2023,test,89,198,20,0,64
+nestle_2024,Nestlé,2024,test,50,77,6,1,12
+danone_2021,Danone,2021,development,345,674,25,11,44
+danone_2022,Danone,2022,development,345,675,30,9,56
+danone_2023,Danone,2023,test,421,798,56,2,137
+danone_2024,Danone,2024,test,494,960,63,3,175
+cocacola_2022,The Coca-Cola Company,2022,development,88,172,29,1,99
+cocacola_2023,The Coca-Cola Company,2023,development,12,22,3,1,21
+cocacola_2024,The Coca-Cola Company,2024,test,14,23,5,1,18
+pg_2021,Procter & Gamble,2021,development,20,21,2,0,2
+pg_2022,Procter & Gamble,2022,development,42,43,4,1,18
+pg_2023,Procter & Gamble,2023,test,83,84,10,0,21
+pg_2024,Procter & Gamble,2024,test,11,14,4,0,4
+reckitt_2021,Reckitt,2021,development,116,243,28,2,58
+reckitt_2022,Reckitt,2022,development,134,269,30,2,53
+reckitt_2023,Reckitt,2023,test,97,177,24,0,64
+reckitt_2024,Reckitt,2024,test,68,129,17,2,59
+cocacola_2025,The Coca-Cola Company,2025,test,14,24,5,1,18
