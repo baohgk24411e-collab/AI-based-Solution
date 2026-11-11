@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng tỷ lệ thu hồi rác thải bao bì nhựa tại các cơ sở sản xuất vào năm 2024 là 99%. Điều này được nêu rõ trong đoạn văn trên trang 356 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p356:c1",
+      "pdf_page": 356,
+      "quote": "In 2024, the recovery rate for plastic packaging waste at the production sites totaled 99%."
+    }
+  ],
+  "claim_id": "danone_2024_e429c3a78842",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4097,
+      "completion_tokens": 130,
+      "total_tokens": 4227,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.95,
+    "timestamp": "2026-11-11T08:49:38.182030+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "c812e5b502b9b1173446444a9cfdbdc035f1c597556c72f13be8ac2508604586",
+  "retrieved_chunk_ids": [
+    "danone_2024:p356:c1",
+    "danone_2024:p365:c1",
+    "danone_2024:p252:c2",
+    "danone_2024:p252:c1",
+    "danone_2024:p340:c1"
+  ]
+}

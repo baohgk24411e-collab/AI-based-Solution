@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Danone sử dụng nhựa ở các nhà máy của mình để đảm bảo hoạt động hiệu quả, đồng thời cũng đề cập đến việc tái chế và quản lý chất thải nhựa. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p356:c1",
+      "pdf_page": 356,
+      "quote": "Danone's production sites also use plastic components to enable its sites to operate effectively."
+    }
+  ],
+  "claim_id": "danone_2024_041524578f68",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3887,
+      "completion_tokens": 131,
+      "total_tokens": 4018,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.97,
+    "timestamp": "2026-11-11T08:49:31.171431+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "0fe01de701c7269d7cf26332067e407dd7f6836961c79d7d00efefc1bc9b6371",
+  "retrieved_chunk_ids": [
+    "danone_2024:p356:c1",
+    "danone_2024:p365:c1",
+    "danone_2024:p231:c1",
+    "danone_2024:p340:c1",
+    "danone_2024:p239:c3"
+  ]
+}

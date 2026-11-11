@@ -1,8 +1,8 @@
 # Kết quả phân tích 20 báo cáo PTBV
 
-Cập nhật (UTC): 2026-11-11T08:48:51.336796+00:00
+Cập nhật (UTC): 2026-11-11T08:57:18.780424+00:00
 
-Độ phủ hiện tại: 250/389 trang qua bộ lọc; 336 claim được chấp nhận; 263 đối chiếu hợp lệ; 73 claim chưa có đối chiếu hợp lệ.
+Độ phủ hiện tại: 274/389 trang qua bộ lọc; 379 claim được chấp nhận; 284 đối chiếu hợp lệ; 95 claim chưa có đối chiếu hợp lệ.
 
 Model/provider từng báo cáo có trong summary.csv. Metadata từng lần gọi gồm thời gian UTC, token và cache; bản ghi AI chưa được người đọc xác nhận.
 
@@ -19,8 +19,8 @@ Nhãn là nhận định AI cần người đọc kiểm tra. Supported chỉ l�
 | danone_2021 | 25/25 | 27 | 15 | 8 | 0 | 0 | 0 | 4 |
 | danone_2022 | 30/30 | 34 | 20 | 6 | 0 | 0 | 1 | 7 |
 | danone_2023 | 55/56 | 62 | 42 | 6 | 0 | 0 | 0 | 14 |
-| danone_2024 | 63/63 | 75 | 34 | 8 | 0 | 0 | 0 | 33 |
-| cocacola_2022 | 0/29 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| danone_2024 | 63/63 | 75 | 51 | 12 | 0 | 0 | 0 | 12 |
+| cocacola_2022 | 24/29 | 43 | 0 | 0 | 0 | 0 | 0 | 43 |
 | cocacola_2023 | 3/3 | 11 | 4 | 1 | 0 | 0 | 0 | 6 |
 | cocacola_2024 | 5/5 | 9 | 5 | 1 | 0 | 0 | 0 | 3 |
 | pg_2021 | 2/2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
@@ -152,6 +152,16 @@ recyclable and compostable.
 
 ### cocacola_2022
 
+- PDF trang 4 — **not_assessed**: In 2022, we collected 61% of the equivalent bottles and cans that we introduced into the market and used 15% rPET in our bottles.
+  
+- PDF trang 7 — **not_assessed**: Make 100% of our packaging recyclable globally by 2025
+  
+- PDF trang 7 — **not_assessed**: Use at least 50% recycled content in our packaging by 2030
+  
+- PDF trang 7 — **not_assessed**: Collect and recycle a bottle or can for each one we sell by 2030
+  
+- PDF trang 7 — **not_assessed**: 15% of PET used is recycled PET (rPET)
+  
 
 ### cocacola_2023
 

@@ -43,3 +43,4 @@ for r, cid, val, unit, txt in val_match[:6]:
     print(f"• Báo cáo [{r}] (ID: {cid}):")
     print(f"  - Đoạn gốc PDF: \"{txt.strip()}\"")
     print(f"  - Metric trích xuất: {val} {unit or ''} (Khớp chính xác với số liệu văn bản)")
+

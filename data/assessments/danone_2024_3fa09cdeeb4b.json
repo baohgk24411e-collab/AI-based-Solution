@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Danone đã và đang thực hiện các hoạt động để phát triển hệ thống thu gom và tái chế hiệu quả và bao gồm chi phí tài chính cho mục đích này. Báo cáo cũng xác nhận rằng trong năm 2024, 60% nhựa được nhóm đặt trên thị trường đã được thu hồi (so với 58% vào năm 2023).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p359:c1",
+      "pdf_page": 359,
+      "quote": "In 2024, 60% of the plastic that the Group placed on the market was recovered (versus 58% in 2023)."
+    }
+  ],
+  "claim_id": "danone_2024_3fa09cdeeb4b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3914,
+      "completion_tokens": 183,
+      "total_tokens": 4097,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.2,
+    "timestamp": "2026-11-11T08:51:48.734462+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "28d915c853514e49b14f2e1316869ed3813924b324b5744060368bc70bb1075d",
+  "retrieved_chunk_ids": [
+    "danone_2024:p359:c1",
+    "danone_2024:p245:c3",
+    "danone_2024:p245:c2",
+    "danone_2024:p214:c1",
+    "danone_2024:p356:c2"
+  ]
+}

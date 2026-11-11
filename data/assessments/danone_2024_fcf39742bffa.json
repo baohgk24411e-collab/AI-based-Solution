@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về việc sử dụng 100% rPET trong chai nước của Danone từ năm 2021. Chỉ có thông tin về việc sử dụng 30% rPET trong các ly PET tại Pháp và Bỉ, cũng như việc ký kết hợp đồng đầu tiên ở Mỹ để sử dụng nhựa tái chế HDPE vào năm 2023.",
+  "flags": [
+    "缺少具体年份的数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p245:c2",
+      "pdf_page": 245,
+      "quote": "The Group has entered into long-term contracts with its Suppliers and Subcontractors, providing them with sufficient visibility to encourage them to invest in collection and recycling technologies and infrastructures; • Danone continues to incorporate recycled materials into its cups portfolio, with PET cups containing 30% rPET in France and Belgium. Furthermore, in 2023, the Group signed its first contract in the US for the use of food-grade recycled high density polyethylene (HDPE) to incorporate it into its beverage offering; • the Group continued the launch of 100% rPET bottles. Since 2021, all Danone's main water brands have had at least one format made from 100% recycled materials (in the countries where this is authorized);"
+    }
+  ],
+  "claim_id": "danone_2024_fcf39742bffa",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4200,
+      "completion_tokens": 296,
+      "total_tokens": 4496,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.75,
+    "timestamp": "2026-11-11T08:51:40.462973+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "22c1361abcaa4491cc764a15b074dd30d1a6c6f10c61d52086336e27051951ef",
+  "retrieved_chunk_ids": [
+    "danone_2024:p245:c2",
+    "danone_2024:p359:c1",
+    "danone_2024:p357:c2",
+    "danone_2024:p55:c1",
+    "danone_2024:p369:c1"
+  ]
+}

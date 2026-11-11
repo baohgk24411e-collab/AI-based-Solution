@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận Danone là một trong những nhà sản xuất sử dụng nhựa bao bì nhiều nhất, đặc biệt trong một số quốc gia và khu vực. Điều này được thể hiện ở đoạn văn: 'Danone, like other Food and Beverages companies, has become a major user of plastic packaging, and one of the main users in certain countries and regions.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p354:c1",
+      "pdf_page": 354,
+      "quote": "Danone, like other Food and Beverages companies, has become a major user of plastic packaging, and one of the main users in certain countries and regions."
+    }
+  ],
+  "claim_id": "danone_2024_afe8e52ba0c1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3817,
+      "completion_tokens": 165,
+      "total_tokens": 3982,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.62,
+    "timestamp": "2026-11-11T08:49:17.313538+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "b04b57c15f58b991cce5e317a8684237b75d52f4cf47c0935ebc75d509ec6065",
+  "retrieved_chunk_ids": [
+    "danone_2024:p354:c1",
+    "danone_2024:p174:c1",
+    "danone_2024:p243:c2",
+    "danone_2024:p239:c2",
+    "danone_2024:p32:c1"
+  ]
+}

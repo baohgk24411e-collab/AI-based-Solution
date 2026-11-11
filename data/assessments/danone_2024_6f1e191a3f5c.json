@@ -1,0 +1,50 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về tiến bộ cụ thể của Danone trong việc giảm sử dụng nhựa, giảm nhựa nguyên sinh, tái chế và nội dung tái chế. Các mục tiêu và cam kết được đề cập đến cũng hỗ trợ tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p356:c2",
+      "pdf_page": 356,
+      "quote": "Since then, Danone has made tangible progress in key areas such as in the reduction in the use of plastic, virgin plastic reduction, reuse, recyclability rate and recycled content."
+    },
+    {
+      "chunk_id": "danone_2024:p32:c2",
+      "pdf_page": 32,
+      "quote": "Since then, Danone has been working to progress on its targets as well as to advocate for a collective global transition. Since 2018, Danone has demonstrated tangible progress in key areas such as virgin plastic reduction, reuse, recyclability, and recycled content."
+    },
+    {
+      "chunk_id": "danone_2024:p357:c2",
+      "pdf_page": 357,
+      "quote": "Key results in 2024: ■ Total packaging volumes: 1,397,960 metric tons, of which 670,107 metric tons of plastic. ■ 2% reduction in absolute terms of plastic packaging use between 2020 and 2024."
+    }
+  ],
+  "claim_id": "danone_2024_6f1e191a3f5c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3901,
+      "completion_tokens": 332,
+      "total_tokens": 4233,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 12.39,
+    "timestamp": "2026-11-11T08:49:50.631064+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "a75eaefaf8c2317ac8e50c3260995e8700ba1cc6f184bf10449fe442db2c0c35",
+  "retrieved_chunk_ids": [
+    "danone_2024:p356:c2",
+    "danone_2024:p32:c2",
+    "danone_2024:p356:c3",
+    "danone_2024:p357:c2",
+    "danone_2024:p228:c2"
+  ]
+}

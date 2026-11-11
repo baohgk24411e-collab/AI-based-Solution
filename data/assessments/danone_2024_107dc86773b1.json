@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến giảm sử dụng nhựa nguyên sinh từ nguồn nhiên liệu hóa thạch là 8% giữa năm 2020 và 2024, nhưng không cung cấp dữ liệu cụ thể về việc đạt được mục tiêu này.",
+  "flags": [
+    "缺少具体实现数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p369:c1",
+      "pdf_page": 369,
+      "quote": "8% reduction in the use of virgin fossil-based packaging between 2020 (excluding EDP Russia) and 2024."
+    }
+  ],
+  "claim_id": "danone_2024_107dc86773b1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4426,
+      "completion_tokens": 151,
+      "total_tokens": 4577,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.89,
+    "timestamp": "2026-11-11T08:52:57.050938+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "5f6129371fc8e2e5948f3add9aabb20afe3385d696e5bc896467415f99395795",
+  "retrieved_chunk_ids": [
+    "danone_2024:p365:c1",
+    "danone_2024:p369:c1",
+    "danone_2024:p351:c1",
+    "danone_2024:p357:c2",
+    "danone_2024:p174:c1"
+  ]
+}

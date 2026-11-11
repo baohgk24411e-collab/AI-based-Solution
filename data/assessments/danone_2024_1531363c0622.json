@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc nhựa chiếm khoảng 50% trong bao bì của Danone (tương đương với năm trước), nhưng không cung cấp dữ liệu cụ thể về tỷ lệ tái chế. Không có thông tin về lượng nhựa được tái chế hay mục tiêu tái chế.",
+  "flags": [
+    "缺失具体回收数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p355:c2",
+      "pdf_page": 355,
+      "quote": "Currently, plastic represents around 50% of Danone's packaging (same as last year)."
+    }
+  ],
+  "claim_id": "danone_2024_1531363c0622",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3437,
+      "completion_tokens": 145,
+      "total_tokens": 3582,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.78,
+    "timestamp": "2026-11-11T08:49:24.145158+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "54d54d30c3b08e42cecdb0a204e4d951c02cce96b589e137b05e79299e40301b",
+  "retrieved_chunk_ids": [
+    "danone_2024:p355:c2",
+    "danone_2024:p355:c1",
+    "danone_2024:p240:c1",
+    "danone_2024:p357:c3",
+    "danone_2024:p244:c2"
+  ]
+}

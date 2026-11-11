@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về việc sử dụng PET tái chế (rPET) với tỷ lệ trung bình 29.2% trong danh mục nước (so sánh với 23.8% năm 2023), và 36.6% ở các quốc gia cho phép theo quy định địa phương (so sánh với 31.3% năm 2023).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p369:c1",
+      "pdf_page": 369,
+      "quote": "29.2% recycled PET (rPET) used on average by the Waters category (compared with 23.8% in 2023) and 36.6% in countries where local standards and regulations allow it (compared with 31.3% in 2023)."
+    }
+  ],
+  "claim_id": "danone_2024_343985bfe931",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4255,
+      "completion_tokens": 216,
+      "total_tokens": 4471,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.48,
+    "timestamp": "2026-11-11T08:53:14.687485+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "bb3672aea9460a5108a7db08287c35112abc10c68109a32b4752de327827de8b",
+  "retrieved_chunk_ids": [
+    "danone_2024:p245:c2",
+    "danone_2024:p369:c1",
+    "danone_2024:p351:c1",
+    "danone_2024:p358:c2",
+    "danone_2024:p245:c1"
+  ]
+}

@@ -286,5 +286,29 @@
     "stage": "verify",
     "claim_id": "danone_2024_a4d3649b822a",
     "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_71250132c5da",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_8af3348c9088",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_f5bb2fa4b315",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_064970285513",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
   }
 ]

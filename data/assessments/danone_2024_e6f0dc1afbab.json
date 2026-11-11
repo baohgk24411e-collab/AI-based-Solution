@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng SSP được xây dựng dựa trên ba nguyên tắc cơ bản về xã hội, môi trường và đạo đức kinh doanh. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p360:c1",
+      "pdf_page": 360,
+      "quote": "The SSP is articulated around three sets of Fundamental Principles on social, environmental and business ethics issues."
+    }
+  ],
+  "claim_id": "danone_2024_e6f0dc1afbab",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3330,
+      "completion_tokens": 120,
+      "total_tokens": 3450,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.02,
+    "timestamp": "2026-11-11T08:52:41.127740+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "4b8866fff8a5be6d051c459b1900320d53f6cbca3a229ed35ebd284f81c21d0c",
+  "retrieved_chunk_ids": [
+    "danone_2024:p356:c3",
+    "danone_2024:p360:c1",
+    "danone_2024:p241:c2",
+    "danone_2024:p241:c3",
+    "danone_2024:p175:c1"
+  ]
+}

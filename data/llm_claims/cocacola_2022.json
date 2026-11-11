@@ -1,0 +1,1751 @@
+{
+  "claims": [
+    {
+      "claim_text": "In 2022, we collected 61% of the equivalent bottles and cans that we introduced into the market and used 15% rPET in our bottles.",
+      "source_page": 4,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": "bottles and cans, rPET",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 61,
+      "claim_id": "cocacola_2022_5fdf7d500304",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Make 100% of our packaging recyclable globally by 2025",
+      "source_page": 7,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "cocacola_2022_71ddb1022e41",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Use at least 50% recycled content in our packaging by 2030",
+      "source_page": 7,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": 50,
+      "claim_id": "cocacola_2022_feb9a11e53a1",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Collect and recycle a bottle or can for each one we sell by 2030",
+      "source_page": 7,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "cocacola_2022_841d371aa8eb",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "15% of PET used is recycled PET (rPET)",
+      "source_page": 7,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 15,
+      "claim_id": "cocacola_2022_1e5b7b56ffb4",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "~68% of the products in our beverage portfolio have less than 100 calories per 12-ounce serving",
+      "source_page": 7,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 68,
+      "claim_id": "cocacola_2022_d73204cd128d",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "90% of our packaging is recyclable",
+      "source_page": 7,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 90,
+      "claim_id": "cocacola_2022_75921cda134f",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "61% of our packaging collected for recycling",
+      "source_page": 7,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 61,
+      "claim_id": "cocacola_2022_3a9c675e0da0",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Use at least 50% recycled content in our packaging by 2030",
+      "source_page": 9,
+      "claim_type": "target",
+      "scope": null,
+      "material": "recycled material",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": 50,
+      "claim_id": "cocacola_2022_2bdb66c80047",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2022, we avoided around half a million metric tons of virgin plastic usage through our efforts on lightweighting and use of recycled content with an incremental avoidance of over 50,000 metric tons compared to 2021. However, growth of plastic packaging has outpaced these efforts, so we did not reduce virgin plastic usage overall in 2022",
+      "source_page": 9,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "virgin plastic",
+      "unit": "metric tons",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": -500000,
+      "claim_id": "cocacola_2022_70dd3eea2ff9",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Approximately 14% of total beverage volume was served in reusable packaging in 2022",
+      "source_page": 9,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "reusable packaging",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 14,
+      "claim_id": "cocacola_2022_76c4ee8fd26e",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "•   C oca-Cola Philippines and Indorama Ventures partnered to establish PETValue Philippines, a full operation recycling facility that is the first of its kind in the country. The facility is helping to drive collective action toward a circular economy for PET plastic, by providing more than 800 collection points for PET bottles in the country.",
+      "source_page": 22,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": "PET plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_ff2aae5ce8d3",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "•   W e partnered with the CEO Water Mandate, denkstatt and others to help build the business case for Nature-Based Solutions (NBS) by developing a standardized methodology to quantify the co-benefits of NBS projects and calculate the social return on investment.",
+      "source_page": 22,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_5cee090e76a1",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "•    W e joined the Supplier Leadership on Climate Transition initiative along with 18 other companies to mobilize collective climate action by providing suppliers with resources, tools and knowledge to accelerate their decarbonization. Ten suppliers that we sponsored, who completed the program, have set or committed to setting emissions reduction targets through the Science-Based Targets initiative.",
+      "source_page": 22,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_9e0e8b7de484",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "•    W e joined with the Business Coalition for a Global Plastics Treaty and the International Council of Beverages Associations in support of a UN Global Plastics Treaty. The Business Coalition is supporting the treaty negotiations around the vision of a circular economy in which plastic never becomes waste or pollution, and the value of products and materials is retained in the economy.",
+      "source_page": 22,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_1ffa83c63c1a",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "using at least 50% recycled material in our packaging by 2030 (DESIGN)",
+      "source_page": 36,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": 50,
+      "claim_id": "cocacola_2022_652e03614820",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Scotland, Costa Limited (“Costa”) carried out a 14-store pilot of an on-the-go reusable cup scheme, which invited consumers to rent a cup by scanning a QR code before enjoying their drink and then returning the cup for it to be washed and reused. The effort supports Costa’s global goal for 25% of its drinks to be served in reusable or refillable packaging by 2030.",
+      "source_page": 37,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": 25,
+      "claim_id": "cocacola_2022_7fba9fcecc3a",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2022, we were proud to announce an industry-leading goal to have at least 25% of our beverage volume worldwide sold in refillable/returnable glass or plastic bottles or in fountain dispensers with reusable packaging by 2030.",
+      "source_page": 37,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "glass, plastic",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": 2030,
+      "value": 25,
+      "claim_id": "cocacola_2022_8fa344cfe41c",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Make 100% of our packaging recyclable globally by 2025\n90% globally",
+      "source_page": 37,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 90,
+      "claim_id": "cocacola_2022_83c54b8f1707",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Use at least 50% recycled content in our packaging by 2030\n25%2 recycled material in our packaging globally and 15% of PET used is recycled PET (rPET)",
+      "source_page": 37,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET, other",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": 50,
+      "claim_id": "cocacola_2022_a4f167e1c3dc",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Reduce our use of virgin plastic derived from non-renewable sources by a cumulative 3 million metric tons from 2020–2025",
+      "source_page": 37,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "metric tons",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 3000000,
+      "claim_id": "cocacola_2022_db43797f65db",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, we set a goal to reduce our use of virgin plastic derived from nonrenewable sources by avoiding a cumulative 3 million metric tons by 2025 compared to 2020.",
+      "source_page": 38,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "metric tons",
+      "measurement_year": 2020,
+      "target_year": 2025,
+      "value": 3000000,
+      "claim_id": "cocacola_2022_cf72ebf69b4a",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2022, we avoided around half a million metric tons of virgin plastic usage through these efforts with an incremental avoidance of over 50,000 metric tons since last year.",
+      "source_page": 38,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "metric tons",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 500000,
+      "claim_id": "cocacola_2022_4df51b1791cb",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Demand for recycled PET plastic for food-grade applications currently exceeds supply, so we need to help build a sustainable pipeline of high-quality material.",
+      "source_page": 38,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_7b59da7f5a53",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In the United\u0007States\u0007and\u0007Canada, we recently began offering the majority of DASANI bottles— from 20-oz. and 1.5-liter singles to 10-oz. and 12-oz. multipacks—in 100% rPET plastic.",
+      "source_page": 38,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 100,
+      "claim_id": "cocacola_2022_08bead43cd2f",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Eigh t markets in Europe ( Austria, Belgium, Iceland, Luxembourg, Netherlands, Norway, Sweden, Switzerland) offer their entire locally produced portfolios in 100% rPET.",
+      "source_page": 38,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 100,
+      "claim_id": "cocacola_2022_beebd787fd7d",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Qatar, Coca-Cola, Sprite, Fanta and Arwa water were sold in 100% rPET bottles in FIFA World Cup 2022 stadiums and fan zones.",
+      "source_page": 38,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 100,
+      "claim_id": "cocacola_2022_14ed36176f79",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Vietnam, we launched 100% rPET Coca-Cola bottles, which is projected to avoid 2,000 metric tons of virgin plastic usage annually.",
+      "source_page": 39,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "rPET",
+      "unit": "metric tons",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 2000,
+      "claim_id": "cocacola_2022_b5a01a787d95",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Japan, we achieved our World Without Waste goal of 50% recycled material use in Q1 2022. Four brands are now offered in 100% recycled PET and supported by an educational marketing campaign.",
+      "source_page": 39,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "recycled PET",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 50,
+      "claim_id": "cocacola_2022_5887fb0aa178",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We continued to transition Sprite plastic bottles from green to clear PET to help increase the efficiency of recycling systems.",
+      "source_page": 39,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "PET",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_631e3aa677de",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We work with partners across business, government and civil society to create or support closed-loop systems that ensure our packages are collected and recycled or reused.",
+      "source_page": 40,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_e94ee19c7001",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In emerging markets, we advocate for government regulations permitting the use of rPET in food and beverage packaging, and we seek ways to empower the informal waste collection sector in the circular economy.",
+      "source_page": 40,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "rPET",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_560839509880",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In developed markets, we are working with industry peers to build collection infrastructures—including our more than 40 years of experience operating 40+ local Deposit Return Systems (DRS).",
+      "source_page": 40,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_c230777f3c66",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Countries with a well-designed DRS scheme, like Germany, can achieve high levels of collection (approximately 97% collection for non-refillable packages in Germany).",
+      "source_page": 40,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_a3b3e0e2966e",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In the United States, we’re making progress one community at a time, through our industry initiative Every Bottle Back. As of November 2022, the initiative has launched over 25 projects which are projected to collect and capture nearly 700 million pounds of PET over ten years.",
+      "source_page": 41,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": "PET",
+      "unit": "pounds",
+      "measurement_year": 2022,
+      "target_year": 2032,
+      "value": 700000000,
+      "claim_id": "cocacola_2022_17c6fd81a7b9",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In the Philippines, we partnered with the Technical Education and Skills Development Authority to pilot a certified skills training program for workers in the informal waste collection sector. These workers have access to training, tools and equipment for efficient waste collection and connections to materials recovery facilities (MRF) that buy the waste that is collected.",
+      "source_page": 41,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_a605b4886ad3",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Brazil, SustentaPET collection centers take in more than 700,000 PET bottles a day to produce recycled resin that ultimately becomes new packaging. In its first three years, the program has recycled more than 83,000 metric tons of PET—and will expand to additional states in 2023.",
+      "source_page": 41,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "PET",
+      "unit": "metric tons",
+      "measurement_year": 2022,
+      "target_year": 2023,
+      "value": 83000,
+      "claim_id": "cocacola_2022_f8894dd9e48f",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Egypt, we partner with BariQ, the largest bottle-to-bottle recycling plant in the Middle East, to recycle 14,000 metric tons of plastic waste annually to food-grade product compatible with the European Food Safety Authority (EFSA), Food and Drug Administration (FDA) and Egyptian Organization for Standardization (EOS).",
+      "source_page": 41,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "metric tons",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 14000,
+      "claim_id": "cocacola_2022_d98723ff3dca",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In India, we’re teaming with bicycle grocery delivery service Zepto for the “PET Return and Recycle” initiative. Using the Zepto mobile app, consumers can return up to four empty PET bottles (across any brand) to be collected by Zepto riders during home delivery trips. Following a successful pilot in Mumbai, the program will expand to additional cities.",
+      "source_page": 41,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": "PET",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_8467f1203710",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In the past couple of years, we increased our ambition and set virgin plastics reduction and reusable packaging targets.",
+      "source_page": 42,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "cocacola_2022_8b06514d4572",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In September 2022, we also joined the Business Coalition for a Global Plastics Treaty convened by the Ellen MacArthur Foundation and WWF , and we have an active role as a Co-Chair of the Coalition’s Policy Working Group.",
+      "source_page": 42,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_49f918e60230",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We see a significant opportunity to work more proactively with global and regional customers, many of which have announced their own sustainable packaging goals that can only be achieved in collaboration with key suppliers.",
+      "source_page": 42,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_b2b849bc4c6d",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "PACKAGING 30–35%\nA circular economy helps reduce GHG emissions. We are incorporating more recycled material, lightweighting our packaging, investing in recycling infrastructure and using more reusable packaging.",
+      "source_page": 44,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "cocacola_2022_0bfa0da6afed",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "The Coca-Cola Company donated $2 million to support the Smithsonian’s landmark new National Museum of the American Latino and Molina Family Latino Gallery.",
+      "source_page": 67,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2022_b1520892da01",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "The brand’s transition to 100% recycled plastic1 is projected to save more than 20 million pounds of new plastic, compared to 2019, and cut more than 25,000 metric tons of greenhouse gas emissions in 2023 alone.",
+      "source_page": 67,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "pounds and metric tons",
+      "measurement_year": null,
+      "target_year": 2023,
+      "value": null,
+      "claim_id": "cocacola_2022_d58a005c9572",
+      "report_id": "cocacola_2022",
+      "company": "The Coca-Cola Company",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    4,
+    7,
+    9,
+    10,
+    12,
+    15,
+    16,
+    21,
+    22,
+    23,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    44,
+    46,
+    53,
+    54,
+    64,
+    66,
+    67,
+    69
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1503,
+          "completion_tokens": 131,
+          "total_tokens": 1634,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 5.03,
+        "timestamp": "2026-11-11T08:53:20.445001+00:00"
+      },
+      "processed_pages": [
+        4
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "By 2030, we aim to have at least 25% of our beverages worldwide by volume sold in refillable/returnable glass or plastic bottles or in fountain dispensers with reusable packaging",
+            "source_page": 7,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastic, glass",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": 2030,
+            "value": 25
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2023,
+          "completion_tokens": 753,
+          "total_tokens": 2776,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 21.77,
+        "timestamp": "2026-11-11T08:53:42.217755+00:00"
+      },
+      "processed_pages": [
+        7
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Make 100% of our packaging recyclable globally by 2025—and using at least 50% recycled material in our packaging by 2030 (Design)",
+            "source_page": 9,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastic",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Collect and recycle a bottle or can for each one we sell by 2030 (Collect)",
+            "source_page": 9,
+            "claim_type": "target",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2030,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2055,
+          "completion_tokens": 564,
+          "total_tokens": 2619,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 16.77,
+        "timestamp": "2026-11-11T08:53:59.001076+00:00"
+      },
+      "processed_pages": [
+        9
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1958,
+          "completion_tokens": 10,
+          "total_tokens": 1968,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.5,
+        "timestamp": "2026-11-11T08:54:00.509171+00:00"
+      },
+      "processed_pages": [
+        10
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 964,
+          "completion_tokens": 10,
+          "total_tokens": 974,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.64,
+        "timestamp": "2026-11-11T08:54:01.155313+00:00"
+      },
+      "processed_pages": [
+        12
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1350,
+          "completion_tokens": 10,
+          "total_tokens": 1360,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.91,
+        "timestamp": "2026-11-11T08:54:02.067201+00:00"
+      },
+      "processed_pages": [
+        15
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1372,
+          "completion_tokens": 12,
+          "total_tokens": 1384,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.98,
+        "timestamp": "2026-11-11T08:54:03.059205+00:00"
+      },
+      "processed_pages": [
+        16
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1502,
+          "completion_tokens": 10,
+          "total_tokens": 1512,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.02,
+        "timestamp": "2026-11-11T08:54:04.085989+00:00"
+      },
+      "processed_pages": [
+        21
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1910,
+          "completion_tokens": 540,
+          "total_tokens": 2450,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 15.81,
+        "timestamp": "2026-11-11T08:54:19.898050+00:00"
+      },
+      "processed_pages": [
+        22
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1306,
+          "completion_tokens": 10,
+          "total_tokens": 1316,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.94,
+        "timestamp": "2026-11-11T08:54:20.838000+00:00"
+      },
+      "processed_pages": [
+        23
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2137,
+          "completion_tokens": 12,
+          "total_tokens": 2149,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.67,
+        "timestamp": "2026-11-11T08:54:22.513336+00:00"
+      },
+      "processed_pages": [
+        35
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "making 100% of our packaging recyclable globally by 2025—and using at least 50% recycled material in our packaging by 2030 (DESIGN)",
+            "source_page": 36,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": 100
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "collecting and recycling a bottle or can for each one we sell by 2030 (COLLECT)",
+            "source_page": 36,
+            "claim_type": "collection_recycling",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2030,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "by 2030, we aim to have at least\n25% \nof our beverages sold by volume\nworldwide in refillable/\nreturnable glass or plastic bottles or in fountain dispensers with reusable packaging",
+            "source_page": 36,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": 2030,
+            "value": 25
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "one of our packaging design goals is to reduce our use of virgin plastic derived from non-renewable sources by a cumulative\n3M metric tons between 2020 and 2025",
+            "source_page": 36,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": "metric tons",
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": 3
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1221,
+          "completion_tokens": 562,
+          "total_tokens": 1783,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 15.73,
+        "timestamp": "2026-11-11T08:54:38.246911+00:00"
+      },
+      "processed_pages": [
+        36
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "We continue to test and scale returnable glass bottle (RGB) and reusable PET pilot programs, including:\n• In Latin America, the “Let’s Be Different” campaign kicked off on World Environment Day 2022, inviting consumers to trade any recyclable PET bottle for a refillable bottle of Coca-Cola Zero Sugar. In Brazil, returnable, refillable PET bottles of Coca-Cola, Fanta and Sprite can be returned, cleaned and refilled up to 25 times.",
+            "source_page": 37,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "PET",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "In the United States, a 500-ml returnable glass bottle pilot program in approximately 100 retail and foodservice outlets in El Paso, Texas, generated a 75% return rate, and we are exploring expansion capabilities in 2023.",
+            "source_page": 37,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "glass",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2023,
+            "value": 75
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "By 2030, we aim to have at least 25% of our beverages worldwide by volume sold in refillable/returnable glass or plastic bottles or in fountain dispensers with reusable packaging\nApproximately 14% of total beverage volume was served in reusable packaging in 2022",
+            "source_page": 37,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "glass, plastic",
+            "unit": "%",
+            "measurement_year": 2022,
+            "target_year": 2030,
+            "value": 14
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2562,
+          "completion_tokens": 1084,
+          "total_tokens": 3646,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 31.39,
+        "timestamp": "2026-11-11T08:55:09.645367+00:00"
+      },
+      "processed_pages": [
+        37
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2268,
+          "completion_tokens": 727,
+          "total_tokens": 2995,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 21.27,
+        "timestamp": "2026-11-11T08:55:30.917449+00:00"
+      },
+      "processed_pages": [
+        38
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Our technology is being licensed for a 30% plant-based plastic bottle to a company building a commercial facility in Germany, which is scheduled to deliver material in 2024.",
+            "source_page": 39,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "plant-based plastic",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": 2024,
+            "value": 30
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "A 100% plant-based plastic bottle prototype has been developed with plans to explore scalability of a 100% biobased PET resin and bottle (bottle, not cap and label).",
+            "source_page": 39,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "biobased plastic",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": null,
+            "value": 100
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Bottles with tethered caps, which enable bottles and caps to be collected together for recycling, are being piloted for our entire portfolio in Germany, Bulgaria and Italy.",
+            "source_page": 39,
+            "claim_type": "collection_recycling",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "A new lightweighted bottle neck finish in Europe will save an estimated 9,100 tons of plastic per year by 2024.",
+            "source_page": 39,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": "tons",
+            "measurement_year": null,
+            "target_year": 2024,
+            "value": 9100
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "The KeelClip® packaging solution made from recyclable cardboard replaces plastic rings for multi-packs.",
+            "source_page": 39,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "cardboard",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1513,
+          "completion_tokens": 868,
+          "total_tokens": 2381,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 24.47,
+        "timestamp": "2026-11-11T08:55:55.387706+00:00"
+      },
+      "processed_pages": [
+        39
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "The collection rate represents a weighted average of national collection rates, collected for recycling rates or refillable rates by packaging type to TCCS’s sales in units to express the percent of equivalent bottles and cans introduced into the market that were collected and refilled or collected for recycling for the year.",
+            "source_page": 40,
+            "claim_type": "collection_recycling",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "61% of the equivalent bottles and cans we introduced into the market in 2022 were collected and refilled or collected for recycling.",
+            "source_page": 40,
+            "claim_type": "collection_recycling",
+            "scope": null,
+            "material": null,
+            "unit": "%",
+            "measurement_year": 2022,
+            "target_year": null,
+            "value": 61
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "PET PLASTIC\nOur\u0007 Packaging \u0007T ypes\n... PET PLASTIC\n3% 17%",
+            "source_page": 40,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "PET plastic",
+            "unit": "%",
+            "measurement_year": 2022,
+            "target_year": null,
+            "value": 17
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1487,
+          "completion_tokens": 761,
+          "total_tokens": 2248,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 21.33,
+        "timestamp": "2026-11-11T08:56:16.709977+00:00"
+      },
+      "processed_pages": [
+        40
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2039,
+          "completion_tokens": 737,
+          "total_tokens": 2776,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 21.3,
+        "timestamp": "2026-11-11T08:56:38.013117+00:00"
+      },
+      "processed_pages": [
+        41
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2476,
+          "completion_tokens": 327,
+          "total_tokens": 2803,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 10.64,
+        "timestamp": "2026-11-11T08:56:48.653119+00:00"
+      },
+      "processed_pages": [
+        42
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2119,
+          "completion_tokens": 128,
+          "total_tokens": 2247,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.91,
+        "timestamp": "2026-11-11T08:56:53.576423+00:00"
+      },
+      "processed_pages": [
+        44
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1842,
+          "completion_tokens": 12,
+          "total_tokens": 1854,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.44,
+        "timestamp": "2026-11-11T08:56:55.014081+00:00"
+      },
+      "processed_pages": [
+        46
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1746,
+          "completion_tokens": 10,
+          "total_tokens": 1756,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.34,
+        "timestamp": "2026-11-11T08:56:56.351369+00:00"
+      },
+      "processed_pages": [
+        53
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2464,
+          "completion_tokens": 10,
+          "total_tokens": 2474,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.92,
+        "timestamp": "2026-11-11T08:56:58.274910+00:00"
+      },
+      "processed_pages": [
+        54
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1760,
+          "completion_tokens": 10,
+          "total_tokens": 1770,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.38,
+        "timestamp": "2026-11-11T08:56:59.657155+00:00"
+      },
+      "processed_pages": [
+        64
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Coca-Cola Argentina and four bottling partners launched “Ruta Verde” or the “Green Road”, a recycling project that aims to increase the recovery of materials at collection points.",
+            "source_page": 66,
+            "claim_type": "collection_recycling",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2022,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1925,
+          "completion_tokens": 121,
+          "total_tokens": 2046,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.92,
+        "timestamp": "2026-11-11T08:57:04.593392+00:00"
+      },
+      "processed_pages": [
+        66
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "In 2022, Sprite began shifting all of its plastic packaging from green to clear, which helps with the recycling process and increases the material’s likelihood of being remade into new beverage bottles.",
+            "source_page": 67,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "DASANI 100% rPET Launch A majority of DASANI bottles in the United States—from 20-oz. and 1.5-liter singles to 10-oz. and 12-oz. multipacks—are now offered in 100% recycled plastic1.",
+            "source_page": 67,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": 2022,
+            "target_year": null,
+            "value": 100
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1788,
+          "completion_tokens": 499,
+          "total_tokens": 2287,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 14.56,
+        "timestamp": "2026-11-11T08:57:19.169976+00:00"
+      },
+      "processed_pages": [
+        67
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 3439,
+          "completion_tokens": 10,
+          "total_tokens": 3449,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.86,
+        "timestamp": "2026-11-11T08:57:22.029991+00:00"
+      },
+      "processed_pages": [
+        69
+      ]
+    }
+  ],
+  "fingerprint": "c7f6ee3687edd7af900cad3d188172a1c691f5ffd877350d63a25b64189a8e75",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

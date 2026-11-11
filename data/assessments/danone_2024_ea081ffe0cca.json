@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến tỷ lệ nhà cung cấp nhựa tham gia chương trình RESPECT trong năm 2024 là 88%, nhưng không cung cấp dữ liệu về lượng chất thải nhựa thực tế được tái chế. Không có thông tin cụ thể về mục tiêu và kết quả tái chế.",
+  "flags": [
+    "missing_recycling_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p360:c1",
+      "pdf_page": 360,
+      "quote": "In 2024, 88% of Plastic suppliers spend was covered by the RESPECT program (vs 85% in 2023)."
+    }
+  ],
+  "claim_id": "danone_2024_ea081ffe0cca",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4091,
+      "completion_tokens": 165,
+      "total_tokens": 4256,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.91,
+    "timestamp": "2026-11-11T08:52:49.109390+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "9ec46d1b04cb470d6fdbfaac736d627ff64a5edf8b1f7dbc4347ed7c97393f24",
+  "retrieved_chunk_ids": [
+    "danone_2024:p360:c1",
+    "danone_2024:p283:c1",
+    "danone_2024:p285:c1",
+    "danone_2024:p214:c1",
+    "danone_2024:p214:c2"
+  ]
+}

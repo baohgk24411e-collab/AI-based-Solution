@@ -1,0 +1,50 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã tham gia với nhiều đối tác khác nhau để phát triển các cam kết của mình, bao gồm đại diện công đoàn, tổ chức phi chính phủ và chuyên gia quốc tế. Điều này được đề cập trong nhiều phần của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p356:c3",
+      "pdf_page": 356,
+      "quote": "Danone has engaged with diverse stakeholders to develop it, including union representatives, NGOs, and international experts."
+    },
+    {
+      "chunk_id": "danone_2024:p360:c1",
+      "pdf_page": 360,
+      "quote": "Danone has engaged with diverse stakeholders to develop it, including union representatives, NGOs, and international experts."
+    },
+    {
+      "chunk_id": "danone_2024:p175:c1",
+      "pdf_page": 175,
+      "quote": "Danone has engaged with diverse stakeholders to develop it, including union representatives, NGOs, and international experts."
+    }
+  ],
+  "claim_id": "danone_2024_72ee0a2e93e9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3616,
+      "completion_tokens": 246,
+      "total_tokens": 3862,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.66,
+    "timestamp": "2026-11-11T08:52:35.065116+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "61d449a7ea0846a6e86aa7fc656deaa8dc5dfb74c68e2843346ac58ab84d4306",
+  "retrieved_chunk_ids": [
+    "danone_2024:p356:c3",
+    "danone_2024:p360:c1",
+    "danone_2024:p175:c1",
+    "danone_2024:p241:c2",
+    "danone_2024:p286:c2"
+  ]
+}
