@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận mục tiêu làm cho 100% bao bì nhựa của công ty tái chế được toàn cầu vào năm 2025. Trích dẫn từ trang 7: 'Make 100% of our packaging recyclable globally by 2025'.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p7:c1",
+      "pdf_page": 7,
+      "quote": "Make 100% of our packaging recyclable globally by 2025"
+    }
+  ],
+  "claim_id": "cocacola_2022_71ddb1022e41",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3747,
+      "completion_tokens": 150,
+      "total_tokens": 3897,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.11,
+    "timestamp": "2026-11-11T08:58:21.259104+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "8ccbbd13744a4843153543ffd3fd0357de8df472769ad8dcfa556010cbfb10b1",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p7:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p39:c2"
+  ]
+}

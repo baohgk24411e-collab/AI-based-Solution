@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận mục tiêu tái chế một chai hoặc lon cho mỗi sản phẩm bán ra vào năm 2030 thông qua đoạn văn: 'Collect and recycle a bottle or can for each one we sell by 2030'.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p9:c1",
+      "pdf_page": 9,
+      "quote": "Collect and recycle a bottle or can for each one we sell by 2030"
+    }
+  ],
+  "claim_id": "cocacola_2022_841d371aa8eb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3998,
+      "completion_tokens": 125,
+      "total_tokens": 4123,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.69,
+    "timestamp": "2026-11-11T08:58:35.317377+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "ea3d409089c20c5dedb4592672d414e84fc82f3cff360ef2b0a6dc880dadaf22",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p7:c1",
+    "cocacola_2022:p37:c1"
+  ]
+}

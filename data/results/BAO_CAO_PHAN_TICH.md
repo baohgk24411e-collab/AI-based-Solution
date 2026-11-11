@@ -1,8 +1,8 @@
 # Kết quả phân tích 20 báo cáo PTBV
 
-Cập nhật (UTC): 2026-11-11T08:57:18.780424+00:00
+Cập nhật (UTC): 2026-11-11T08:59:22.985613+00:00
 
-Độ phủ hiện tại: 274/389 trang qua bộ lọc; 379 claim được chấp nhận; 284 đối chiếu hợp lệ; 95 claim chưa có đối chiếu hợp lệ.
+Độ phủ hiện tại: 279/389 trang qua bộ lọc; 394 claim được chấp nhận; 294 đối chiếu hợp lệ; 100 claim chưa có đối chiếu hợp lệ.
 
 Model/provider từng báo cáo có trong summary.csv. Metadata từng lần gọi gồm thời gian UTC, token và cache; bản ghi AI chưa được người đọc xác nhận.
 
@@ -20,7 +20,7 @@ Nhãn là nhận định AI cần người đọc kiểm tra. Supported chỉ l�
 | danone_2022 | 30/30 | 34 | 20 | 6 | 0 | 0 | 1 | 7 |
 | danone_2023 | 55/56 | 62 | 42 | 6 | 0 | 0 | 0 | 14 |
 | danone_2024 | 63/63 | 75 | 51 | 12 | 0 | 0 | 0 | 12 |
-| cocacola_2022 | 24/29 | 43 | 0 | 0 | 0 | 0 | 0 | 43 |
+| cocacola_2022 | 29/29 | 58 | 6 | 4 | 0 | 0 | 0 | 48 |
 | cocacola_2023 | 3/3 | 11 | 4 | 1 | 0 | 0 | 0 | 6 |
 | cocacola_2024 | 5/5 | 9 | 5 | 1 | 0 | 0 | 0 | 3 |
 | pg_2021 | 2/2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
@@ -152,16 +152,16 @@ recyclable and compostable.
 
 ### cocacola_2022
 
-- PDF trang 4 — **not_assessed**: In 2022, we collected 61% of the equivalent bottles and cans that we introduced into the market and used 15% rPET in our bottles.
-  
-- PDF trang 7 — **not_assessed**: Make 100% of our packaging recyclable globally by 2025
-  
-- PDF trang 7 — **not_assessed**: Use at least 50% recycled content in our packaging by 2030
-  
-- PDF trang 7 — **not_assessed**: Collect and recycle a bottle or can for each one we sell by 2030
-  
-- PDF trang 7 — **not_assessed**: 15% of PET used is recycled PET (rPET)
-  
+- PDF trang 4 — **supported**: In 2022, we collected 61% of the equivalent bottles and cans that we introduced into the market and used 15% rPET in our bottles.
+  Báo cáo cung cấp thông tin rằng Coca-Cola đã thu gom được 61% của các chai và lọ tương đương mà họ đưa vào thị trường vào năm 2022, phù hợp với tuyên bố trong báo cáo.
+- PDF trang 7 — **supported**: Make 100% of our packaging recyclable globally by 2025
+  Báo cáo xác nhận mục tiêu làm cho 100% bao bì nhựa của công ty tái chế được toàn cầu vào năm 2025. Trích dẫn từ trang 7: 'Make 100% of our packaging recyclable globally by 2025'.
+- PDF trang 7 — **insufficient_evidence**: Use at least 50% recycled content in our packaging by 2030
+  Báo cáo chỉ đề cập đến việc sử dụng 15% rPET trong chai nhựa và 25% tổng lượng vật liệu tái chế được sử dụng vào năm 2022, không có thông tin cụ thể về việc đạt 50% nội dung tái chế vào năm 2030.
+- PDF trang 7 — **supported**: Collect and recycle a bottle or can for each one we sell by 2030
+  Báo cáo xác nhận mục tiêu tái chế một chai hoặc lon cho mỗi sản phẩm bán ra vào năm 2030 thông qua đoạn văn: 'Collect and recycle a bottle or can for each one we sell by 2030'.
+- PDF trang 7 — **insufficient_evidence**: 15% of PET used is recycled PET (rPET)
+  Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ PET tái chế được sử dụng trong năm 2022.
 
 ### cocacola_2023
 

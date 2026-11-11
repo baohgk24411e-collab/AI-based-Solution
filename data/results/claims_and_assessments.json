@@ -7341,9 +7341,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Coca-Cola đã thu gom được 61% của các chai và lọ tương đương mà họ đưa vào thị trường vào năm 2022, phù hợp với tuyên bố trong báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p4:c1",
+        "pdf_page": 4,
+        "quote": "In 2022, we collected 61% of the equivalent bottles and cans that we introduced into the market and used 15% rPET in our bottles."
+      }
+    ]
   },
   {
     "claim_text": "Make 100% of our packaging recyclable globally by 2025",
@@ -7362,9 +7368,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận mục tiêu làm cho 100% bao bì nhựa của công ty tái chế được toàn cầu vào năm 2025. Trích dẫn từ trang 7: 'Make 100% of our packaging recyclable globally by 2025'.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p7:c1",
+        "pdf_page": 7,
+        "quote": "Make 100% of our packaging recyclable globally by 2025"
+      }
+    ]
   },
   {
     "claim_text": "Use at least 50% recycled content in our packaging by 2030",
@@ -7383,9 +7395,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo chỉ đề cập đến việc sử dụng 15% rPET trong chai nhựa và 25% tổng lượng vật liệu tái chế được sử dụng vào năm 2022, không có thông tin cụ thể về việc đạt 50% nội dung tái chế vào năm 2030.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p9:c1",
+        "pdf_page": 9,
+        "quote": "Use at least 50% recycled content in our packaging by 2030"
+      }
+    ]
   },
   {
     "claim_text": "Collect and recycle a bottle or can for each one we sell by 2030",
@@ -7404,9 +7422,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận mục tiêu tái chế một chai hoặc lon cho mỗi sản phẩm bán ra vào năm 2030 thông qua đoạn văn: 'Collect and recycle a bottle or can for each one we sell by 2030'.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p9:c1",
+        "pdf_page": 9,
+        "quote": "Collect and recycle a bottle or can for each one we sell by 2030"
+      }
+    ]
   },
   {
     "claim_text": "15% of PET used is recycled PET (rPET)",
@@ -7425,9 +7449,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ PET tái chế được sử dụng trong năm 2022.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p7:c2",
+        "pdf_page": 7,
+        "quote": "61% of our packaging collected for recycling2"
+      }
+    ]
   },
   {
     "claim_text": "~68% of the products in our beverage portfolio have less than 100 calories per 12-ounce serving",
@@ -7446,9 +7476,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo chỉ đề cập đến tỷ lệ sản phẩm có dưới 100 calo trong danh mục đồ uống của Coca-Cola, nhưng không cung cấp dữ liệu cụ thể về năm 2022.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p32:c2",
+        "pdf_page": 32,
+        "quote": "~68% of the products in our beverage portfolio have less than 100 calories per 12-ounce serving"
+      }
+    ]
   },
   {
     "claim_text": "90% of our packaging is recyclable",
@@ -7467,9 +7503,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cho thấy 90% của bao bì nhựa được Coca-Cola Co. coi là tái chế được toàn cầu vào năm 2022.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p7:c1",
+        "pdf_page": 7,
+        "quote": "90% of our packaging is recyclable"
+      }
+    ]
   },
   {
     "claim_text": "61% of our packaging collected for recycling",
@@ -7488,9 +7530,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng 61% bao bì của Coca-Cola đã được thu gom để tái chế vào năm 2022. Chunk_id: cocacola_2022:p7:c2, pdf_page: 7.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p7:c2",
+        "pdf_page": 7,
+        "quote": "61% of our packaging collected for recycling"
+      }
+    ]
   },
   {
     "claim_text": "Use at least 50% recycled content in our packaging by 2030",
@@ -7509,9 +7557,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo chỉ đề cập đến việc sử dụng 15% PET tái chế vào năm 2022 và dự định đạt 25% vào năm 2030, không có dữ liệu cụ thể về tỷ lệ sử dụng vật liệu tái chế tổng thể.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p9:c1",
+        "pdf_page": 9,
+        "quote": "Use at least 50% recycled content in our packaging by 2030 25%2 recycled material in our packaging globally; 15% of PET used is recycled PET"
+      }
+    ]
   },
   {
     "claim_text": "In 2022, we avoided around half a million metric tons of virgin plastic usage through our efforts on lightweighting and use of recycled content with an incremental avoidance of over 50,000 metric tons compared to 2021. However, growth of plastic packaging has outpaced these efforts, so we did not reduce virgin plastic usage overall in 2022",
@@ -7530,9 +7584,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin chi tiết về việc giảm sử dụng nhựa nguyên sinh bằng cách áp dụng các biện pháp như làm nhẹ bao bì và sử dụng nội dung tái chế. Số liệu cụ thể được đề cập trong báo cáo, cho thấy đã tránh được khoảng 500,000 tấn nhựa nguyên sinh vào năm 2022 so với năm trước, đồng thời tăng thêm hơn 50,000 tấn so với năm 2021.",
+    "evidence_refs": [
+      {
+        "chunk_id": "cocacola_2022:p9:c1",
+        "pdf_page": 9,
+        "quote": "In 2022, we avoided around half a million metric tons of virgin plastic usage through our efforts on lightweighting and use of recycled content with an incremental avoidance of over 50,000 metric tons compared to 2021."
+      }
+    ]
   },
   {
     "claim_text": "Approximately 14% of total beverage volume was served in reusable packaging in 2022",
@@ -8217,6 +8277,321 @@
     "target_year": 2030,
     "value": null,
     "claim_id": "cocacola_2022_0bfa0da6afed",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "The Coca-Cola Company donated $2 million to support the Smithsonian’s landmark new National Museum of the American Latino and Molina Family Latino Gallery.",
+    "source_page": 67,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "cocacola_2022_b1520892da01",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "The brand’s transition to 100% recycled plastic1 is projected to save more than 20 million pounds of new plastic, compared to 2019, and cut more than 25,000 metric tons of greenhouse gas emissions in 2023 alone.",
+    "source_page": 67,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "pounds and metric tons",
+    "measurement_year": null,
+    "target_year": 2023,
+    "value": null,
+    "claim_id": "cocacola_2022_d58a005c9572",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Percentage of recycled material in our packaging 3 30% 20%4 22% 23% 25%",
+    "source_page": 76,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": null,
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 25,
+    "claim_id": "cocacola_2022_b7a2bd60059d",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Percentage of recycled material used in our PET plastic packaging globally 9% 9.4% 11.5% 13.6% 15%",
+    "source_page": 76,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "PET plastic",
+    "unit": "%",
+    "measurement_year": 2021,
+    "target_year": null,
+    "value": 15,
+    "claim_id": "cocacola_2022_d73a72129feb",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Percentage of bottles and cans we collected and refilled or collected for recycling 5 61% 59% 59% 59% 58%",
+    "source_page": 76,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "bottles and cans",
+    "unit": "%",
+    "measurement_year": 2014,
+    "target_year": null,
+    "value": 58,
+    "claim_id": "cocacola_2022_d38dc51eb916",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Percentage of bottles and cans we collected and refilled or collected for recycling 6 56% 60% 60% 61% 61%",
+    "source_page": 76,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "bottles and cans",
+    "unit": "%",
+    "measurement_year": 2018,
+    "target_year": null,
+    "value": 61,
+    "claim_id": "cocacola_2022_410a4463eed5",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Percentage of packaging recyclable globally  7 85% 88% 88% 90% 90% 90%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "packaging",
+    "unit": "%",
+    "measurement_year": 2021,
+    "target_year": null,
+    "value": 90,
+    "claim_id": "cocacola_2022_99cdf3ae4ae2",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Packaging Mix (by units)\nPlastic (primarily PET) bottles 45.5% 45.2% 44.9% 47.3% 47.4%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Plastic (primarily PET) bottles",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 47.4,
+    "claim_id": "cocacola_2022_e857a851f9c7",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Aluminum and steel bottles and cans 23.5% 23.8% 24.7% 25.7% 25.9%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Aluminum and steel bottles and cans",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 25.9,
+    "claim_id": "cocacola_2022_ff804074e06d",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Other 12.1% 11.8% 13.4% 9.7% 11.3%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Other",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 11.3,
+    "claim_id": "cocacola_2022_d4b5b6a51452",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Refillable glass bottles 11.7% 11.1% 9.3% 9.4% 9.0%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Refillable glass bottles",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 9.0,
+    "claim_id": "cocacola_2022_421d097fbc22",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Non-refillable glass bottles 2.3% 2.0% 1.4% 1.6% 1.6%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Non-refillable glass bottles",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 1.6,
+    "claim_id": "cocacola_2022_02349c190387",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Beverage cartons and juice boxes 2.5% 2.8% 2.7% 3.0% 2.9%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Beverage cartons and juice boxes",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 2.9,
+    "claim_id": "cocacola_2022_a509d7c231f3",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Refillable (primarily PET) plastic bottles 1.6% 1.5% 1.6% 1.5% 1.4%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Refillable (primarily PET) plastic bottles",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 1.4,
+    "claim_id": "cocacola_2022_dc79100f9003",
+    "report_id": "cocacola_2022",
+    "company": "The Coca-Cola Company",
+    "report_year": 2022,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Pouches 0.6% 0.5% 0.4% 0.4% 0.5%",
+    "source_page": 76,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "Pouches",
+    "unit": "%",
+    "measurement_year": 2019,
+    "target_year": null,
+    "value": 0.5,
+    "claim_id": "cocacola_2022_b2ec0a46e17b",
     "report_id": "cocacola_2022",
     "company": "The Coca-Cola Company",
     "report_year": 2022,

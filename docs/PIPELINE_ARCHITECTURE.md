@@ -49,3 +49,4 @@
    * `scope_mismatch`: Plastic claims mixed with paper, glass, or non-packaging scopes.
    * `potential_inconsistency`: Conflicting figures across different sections or years.
    * `not_yet_assessable`: Future commitments that have not matured.
+

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Coca-Cola đã thu gom được 61% của các chai và lọ tương đương mà họ đưa vào thị trường vào năm 2022, phù hợp với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p4:c1",
+      "pdf_page": 4,
+      "quote": "In 2022, we collected 61% of the equivalent bottles and cans that we introduced into the market and used 15% rPET in our bottles."
+    }
+  ],
+  "claim_id": "cocacola_2022_5fdf7d500304",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3995,
+      "completion_tokens": 140,
+      "total_tokens": 4135,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.2,
+    "timestamp": "2026-11-11T08:58:14.139337+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "fd4d5033c9bc1cb3295253710902e2a0762da22e8177a170f8b391509fdf83ce",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p4:c1",
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p76:c1"
+  ]
+}

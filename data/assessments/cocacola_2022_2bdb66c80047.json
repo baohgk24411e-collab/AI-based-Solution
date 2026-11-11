@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc sử dụng 15% PET tái chế vào năm 2022 và dự định đạt 25% vào năm 2030, không có dữ liệu cụ thể về tỷ lệ sử dụng vật liệu tái chế tổng thể.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p9:c1",
+      "pdf_page": 9,
+      "quote": "Use at least 50% recycled content in our packaging by 2030 25%2 recycled material in our packaging globally; 15% of PET used is recycled PET"
+    }
+  ],
+  "claim_id": "cocacola_2022_2bdb66c80047",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4135,
+      "completion_tokens": 157,
+      "total_tokens": 4292,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.72,
+    "timestamp": "2026-11-11T08:59:08.442140+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "cafe8ec1e228a2413f5b2b29d119247962a07d49ae80eabc91950d31cdac9bcc",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p7:c1",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p4:c1"
+  ]
+}

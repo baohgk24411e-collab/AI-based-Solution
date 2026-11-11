@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến tỷ lệ sản phẩm có dưới 100 calo trong danh mục đồ uống của Coca-Cola, nhưng không cung cấp dữ liệu cụ thể về năm 2022.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p32:c2",
+      "pdf_page": 32,
+      "quote": "~68% of the products in our beverage portfolio have less than 100 calories per 12-ounce serving"
+    }
+  ],
+  "claim_id": "cocacola_2022_d73204cd128d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3706,
+      "completion_tokens": 130,
+      "total_tokens": 3836,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.55,
+    "timestamp": "2026-11-11T08:58:48.055975+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "fcbbe3e1cb81513ed380ff18f13b7a9ec95fea90b4fe88922d949d9240e500f8",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p32:c2",
+    "cocacola_2022:p7:c1",
+    "cocacola_2022:p8:c2",
+    "cocacola_2022:p32:c1",
+    "cocacola_2022:p71:c2"
+  ]
+}

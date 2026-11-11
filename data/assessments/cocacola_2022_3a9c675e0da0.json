@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng 61% bao bì của Coca-Cola đã được thu gom để tái chế vào năm 2022. Chunk_id: cocacola_2022:p7:c2, pdf_page: 7.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p7:c2",
+      "pdf_page": 7,
+      "quote": "61% of our packaging collected for recycling"
+    }
+  ],
+  "claim_id": "cocacola_2022_3a9c675e0da0",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3845,
+      "completion_tokens": 128,
+      "total_tokens": 3973,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.64,
+    "timestamp": "2026-11-11T08:59:00.701752+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "37b0c50711e6a9dce7cac23a35de88303eea9d239b1c82702d3fc8b102174568",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p7:c2",
+    "cocacola_2022:p4:c1"
+  ]
+}

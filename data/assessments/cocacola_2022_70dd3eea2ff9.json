@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về việc giảm sử dụng nhựa nguyên sinh bằng cách áp dụng các biện pháp như làm nhẹ bao bì và sử dụng nội dung tái chế. Số liệu cụ thể được đề cập trong báo cáo, cho thấy đã tránh được khoảng 500,000 tấn nhựa nguyên sinh vào năm 2022 so với năm trước, đồng thời tăng thêm hơn 50,000 tấn so với năm 2021.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p9:c1",
+      "pdf_page": 9,
+      "quote": "In 2022, we avoided around half a million metric tons of virgin plastic usage through our efforts on lightweighting and use of recycled content with an incremental avoidance of over 50,000 metric tons compared to 2021."
+    }
+  ],
+  "claim_id": "cocacola_2022_70dd3eea2ff9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4442,
+      "completion_tokens": 211,
+      "total_tokens": 4653,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.5,
+    "timestamp": "2026-11-11T08:59:17.950460+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "02ed66d6b03b962395e4d0e48680136a98ae6cde941e18f3f9f9135411eb3667",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p7:c1",
+    "cocacola_2022:p39:c1"
+  ]
+}

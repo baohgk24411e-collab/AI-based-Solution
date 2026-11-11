@@ -23,3 +23,4 @@ In our analysis of FMCG packaging reports, we identify 5 primary risk patterns:
 
 ### 5. Hidden Trade-Offs & Selective Disclosure
 * **Definition:** Highlighting an isolated environmental gain (such as a 10% weight reduction in bottle caps) while total virgin resin tonnage increases due to aggregate production volume expansion.
+

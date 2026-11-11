@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc sử dụng 15% rPET trong chai nhựa và 25% tổng lượng vật liệu tái chế được sử dụng vào năm 2022, không có thông tin cụ thể về việc đạt 50% nội dung tái chế vào năm 2030.",
+  "flags": [
+    "repeated_claims"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p9:c1",
+      "pdf_page": 9,
+      "quote": "Use at least 50% recycled content in our packaging by 2030"
+    }
+  ],
+  "claim_id": "cocacola_2022_feb9a11e53a1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4134,
+      "completion_tokens": 144,
+      "total_tokens": 4278,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.34,
+    "timestamp": "2026-11-11T08:58:28.619067+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "78ea5ed47eaa74b6143a776bab3fc6c3e39417664a3d22633eb092e307c488db",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p7:c1",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p4:c1"
+  ]
+}

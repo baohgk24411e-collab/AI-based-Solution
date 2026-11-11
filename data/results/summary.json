@@ -151,15 +151,15 @@
     "model": "qwen2.5-7b-instruct",
     "total_pages": 88,
     "selected_pages": 29,
-    "processed_pages": 24,
-    "claims": 43,
-    "rejected": 19,
-    "supported": 0,
-    "insufficient_evidence": 0,
+    "processed_pages": 29,
+    "claims": 58,
+    "rejected": 21,
+    "supported": 6,
+    "insufficient_evidence": 4,
     "scope_mismatch": 0,
     "potential_inconsistency": 0,
     "not_yet_assessable": 0,
-    "not_assessed": 43
+    "not_assessed": 48
   },
   {
     "report_id": "cocacola_2023",

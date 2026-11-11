@@ -16,3 +16,4 @@
 
 ## 4. Greenwashing Detection Scope
 * **Report-Internal Consistency:** The system flags internal discrepancies (e.g., future commitments presented as achieved, lack of baseline years, scope mismatch between plastic vs. all packaging). It cannot detect supply-chain fraud, unrecorded waste exports, or off-balance-sheet environmental impacts occurring outside official corporate filings.
+
