@@ -1,0 +1,1233 @@
+{
+  "claims": [
+    {
+      "claim_text": "in response to growing concerns over the environmental impact of packaging and in keeping with the goal of protecting the planet, the Waters Reporting Entity set ambitious commitments. These include (i) halving its use of virgin PET and moving to 100% rPET across Europe by 2025, (ii) reducing the carbon footprint of its activity, and (iii) ensuring the collective of its water brands achieve the B CorpTM certification (currently 79% B CorpTM).",
+      "source_page": 18,
+      "claim_type": "target",
+      "scope": null,
+      "material": "PET",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "danone_2021_bd2b8a1c94b2",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, every country where Danone’s water brands are distributed has product ranges with 100% recycled materials.",
+      "source_page": 18,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 100,
+      "claim_id": "danone_2021_51039ab5b338",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By 2025, Danone targets to design all its packaging so that it is 100% recyclable, reusable or compostable (vs 84% in 2021) and to increase recycled content to more than 50% for all packaging (vs 34% in 2021), specifically for plastics (around 10% in 2021).",
+      "source_page": 25,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": 2021,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "danone_2021_fd22d9c8e579",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "by replacing polystyrene containers with PET (recyclable material), such as for Activia in the United Kingdom, or by launching Two Good brand products containing fruit from sustainable sources in the United States;",
+      "source_page": 46,
+      "claim_type": "target",
+      "scope": null,
+      "material": "PET, polystyrene",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2021_27fb57681e6a",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone updated its bottles in Turkey to use up to 15% less plastic;",
+      "source_page": 46,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 15,
+      "claim_id": "danone_2021_5de532d30f34",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "For instance, Danone updated its bottles in Turkey to use up to 15% less plastic;",
+      "source_page": 46,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 15,
+      "claim_id": "danone_2021_1b3cc3a1da65",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "use of recycled PET (rPET) for the Waters Reporting Entity to be 50% worldwide and 100% in Europe by 2025;",
+      "source_page": 97,
+      "claim_type": "target",
+      "scope": null,
+      "material": "recycled PET (rPET)",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 100,
+      "claim_id": "danone_2021_b1f8773f3238",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "use of polystyrene in its packaging to be eliminated by 2025 worldwide and by 2024 in Europe.",
+      "source_page": 97,
+      "claim_type": "target",
+      "scope": null,
+      "material": "polystyrene",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "danone_2021_573bae13e74d",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, Danone’s environmental strategy is sponsored by the CEO and the COO End-to-End and Design-to-Delivery who is a member of the Executive Committee.",
+      "source_page": 162,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "danone_2021_7471e5e964c3",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone’s ambition is to transform its value chain by developing solutions that are positive for the planet.",
+      "source_page": 162,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "danone_2021_e6d2433b1216",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone has also developed a special Paper and Cardboard Packaging Policy with several leading NGOs (notably Rainforest Alliance), setting out three aims:",
+      "source_page": 165,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "paper and board packaging",
+      "unit": null,
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 99.8,
+      "claim_id": "danone_2021_62c665cd4af0",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, Danone used 99.8% of paper and board packaging made of recycled fibers or virgin certified (FSC, PEFC, SFI) fibers (98% in 2020).",
+      "source_page": 165,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "paper and board packaging",
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 99.8,
+      "claim_id": "danone_2021_2e6476ce7e33",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By 2025:\n• design all its packaging to be 100% recyclable, reusable or compostable;",
+      "source_page": 172,
+      "claim_type": "target",
+      "scope": null,
+      "material": "all packaging",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 100,
+      "claim_id": "danone_2021_5387e535386e",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Consequently, 84%   of the packaging is recyclable, reusable or compostable in 2021 (81% in 2020). Specifically for plastic packaging, it represented 74% (67% in 2020).",
+      "source_page": 172,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic packaging",
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 74,
+      "claim_id": "danone_2021_d07c2e3494bc",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By 2025:\n• achieve or even exceed collection targets defined by the authorities (in particular, support the European Union’s target of a 90% or greater plastic bottle collection rate);",
+      "source_page": 173,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": "plastic bottles",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "danone_2021_ef97dedd6674",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By 2025:\n• use 50% recycled materials in all Danone’s packaging, notably plastic packaging (the initial target was fixed at 25%);",
+      "source_page": 173,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic packaging",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 50,
+      "claim_id": "danone_2021_c584f0b29501",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, Danone achieved the following results:\n• 10.4% recycled materials on average in its plastic packaging (compared with 10.3% in 2020);",
+      "source_page": 173,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic packaging",
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 10.4,
+      "claim_id": "danone_2021_610681651255",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, Danone launched new 100% rPET bottles in France, Spain, Indonesia, Brazil and Uruguay.",
+      "source_page": 173,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "rPET bottles",
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 100,
+      "claim_id": "danone_2021_6e0fb98f3a51",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "The recovery rate for plastic packaging waste at the production sites totaled 96.5% in 2021 (compared with 96.6% in 2020).",
+      "source_page": 174,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 96.5,
+      "claim_id": "danone_2021_a28488d659c6",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "The target is to achieve 0% by 2025.",
+      "source_page": 174,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic packaging waste",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "danone_2021_8682b1517a35",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By 2030:\n• implement a collaborative 4R Strategy (Reduce, Reuse, Recycle, Reclaim) on all production sites;",
+      "source_page": 178,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "danone_2021_fcb008a15e0b",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, the Company has reviewed its internal standards, the Clean Water Standards (CWS) to align with the wastewater treatment plants capacities and with various country regulations.",
+      "source_page": 178,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2021_e6e2a929a000",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, 74% of its facilities comply with the CWS.",
+      "source_page": 178,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 74,
+      "claim_id": "danone_2021_148142af8b68",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2020, the Company boosted its approach by adding the fourth pillar, Reclaim, to its 3R Strategy (Reduce, Reuse, Recycle).",
+      "source_page": 178,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2020,
+      "value": null,
+      "claim_id": "danone_2021_ce20b7d8c4db",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, 55% of its facilities had a 4R action plans, compared to 49% in 2020.",
+      "source_page": 178,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 55,
+      "claim_id": "danone_2021_da4bcb2f84de",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Calculations relating to the recyclability rates of Danone packaging are based on the new definition of recyclability by type of packaging recommended by the Ellen MacArthur Foundation (EMF) for the circular economy. According to this methodology, a packaging is recyclable if post-consumer collection, sorting, and recycling are proven to work in practice and at scale, which means it achieves a 30% post-consumer recycling rate in multiple regions, collectively representing at least 400 million inhabitants.",
+      "source_page": 208,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": 30,
+      "claim_id": "danone_2021_9eca07e2cdb5",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "% of recyclable, reusable or compostable packaging",
+      "source_page": 214,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2021_79ab38493514",
+      "report_id": "danone_2021",
+      "company": "Danone",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    18,
+    25,
+    26,
+    34,
+    46,
+    71,
+    97,
+    111,
+    149,
+    152,
+    162,
+    164,
+    165,
+    172,
+    173,
+    174,
+    175,
+    178,
+    183,
+    192,
+    193,
+    205,
+    207,
+    208,
+    214
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2182,
+          "completion_tokens": 289,
+          "total_tokens": 2471,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 9.59,
+        "timestamp": "2026-11-11T07:49:13.802868+00:00"
+      },
+      "processed_pages": [
+        18
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1373,
+          "completion_tokens": 178,
+          "total_tokens": 1551,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 5.41,
+        "timestamp": "2026-11-11T07:49:19.226995+00:00"
+      },
+      "processed_pages": [
+        25
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1547,
+          "completion_tokens": 12,
+          "total_tokens": 1559,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.16,
+        "timestamp": "2026-11-11T07:49:20.396850+00:00"
+      },
+      "processed_pages": [
+        26
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1668,
+          "completion_tokens": 12,
+          "total_tokens": 1680,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.27,
+        "timestamp": "2026-11-11T07:49:21.659082+00:00"
+      },
+      "processed_pages": [
+        34
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "and the launch of Two Good brand products containing fruit from sustainable sources in the United States;",
+            "source_page": 46,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "fruit packaging",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2065,
+          "completion_tokens": 395,
+          "total_tokens": 2460,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 11.97,
+        "timestamp": "2026-11-11T07:49:33.619243+00:00"
+      },
+      "processed_pages": [
+        46
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2040,
+          "completion_tokens": 12,
+          "total_tokens": 2052,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.59,
+        "timestamp": "2026-11-11T07:49:35.227019+00:00"
+      },
+      "processed_pages": [
+        71
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "use of polystyrene in its packaging to be eliminated by 2024 in Europe.",
+            "source_page": 97,
+            "claim_type": "target",
+            "scope": null,
+            "material": "polystyrene",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2024,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2089,
+          "completion_tokens": 435,
+          "total_tokens": 2524,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 13.0,
+        "timestamp": "2026-11-11T07:49:48.227226+00:00"
+      },
+      "processed_pages": [
+        97
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1728,
+          "completion_tokens": 12,
+          "total_tokens": 1740,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.42,
+        "timestamp": "2026-11-11T07:49:49.652494+00:00"
+      },
+      "processed_pages": [
+        111
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1913,
+          "completion_tokens": 12,
+          "total_tokens": 1925,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.47,
+        "timestamp": "2026-11-11T07:49:51.127072+00:00"
+      },
+      "processed_pages": [
+        149
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1324,
+          "completion_tokens": 10,
+          "total_tokens": 1334,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.99,
+        "timestamp": "2026-11-11T07:49:52.116952+00:00"
+      },
+      "processed_pages": [
+        152
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "The Company has built its environmental strategy around four priority pillars: • fight against climate change; • transition to regenerative agriculture including supporting regenerative organic agriculture; • circular economy; • preservation of water resources.",
+            "source_page": 162,
+            "claim_type": "target",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2030,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Danone’s environmental strategy is monitored through the following global and local departments: • the Cycles and Procurement Department, which ensures the long-term availability and viability of resources (milk, sugar, fruit, packaging, etc.) for the Company’s operations; • the Nature & Water Cycle Department, reporting to the Cycles and Procurement Department, which manages the performance and designs and supports environmental innovation programs through a funding mechanism in partnership with the social innovation funds.",
+            "source_page": 162,
+            "claim_type": "target",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2030,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "In 2021, Danone launched an e-learning course on the transition to carbon neutrality. This course, available on the Company’s training platform, is built around a general-purpose module directed at all employees and includes more technical modules particularly intended for employees responsible for leading the environmental performance of the Company.",
+            "source_page": 162,
+            "claim_type": "target",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2050,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1824,
+          "completion_tokens": 619,
+          "total_tokens": 2443,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 17.7,
+        "timestamp": "2026-11-11T07:50:09.815154+00:00"
+      },
+      "processed_pages": [
+        162
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1815,
+          "completion_tokens": 12,
+          "total_tokens": 1827,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.42,
+        "timestamp": "2026-11-11T07:50:11.239632+00:00"
+      },
+      "processed_pages": [
+        164
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2565,
+          "completion_tokens": 254,
+          "total_tokens": 2819,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 8.58,
+        "timestamp": "2026-11-11T07:50:19.817659+00:00"
+      },
+      "processed_pages": [
+        165
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "By 2025:\n• act to eliminate problematic or unnecessary plastic packaging;",
+            "source_page": 172,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastic packaging",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "By 2025:\n• launch alternatives to plastic and single-use packaging across all major markets of the Waters Reporting Entity.",
+            "source_page": 172,
+            "claim_type": "target",
+            "scope": "all major markets of the Waters Reporting Entity",
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1655,
+          "completion_tokens": 452,
+          "total_tokens": 2107,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 12.97,
+        "timestamp": "2026-11-11T07:50:32.787358+00:00"
+      },
+      "processed_pages": [
+        172
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "By 2025:\n• use 50% recycled PET (rPET) for the Waters Reporting Entity (100% in Europe).",
+            "source_page": 173,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "recycled PET (rPET)",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": 50
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1779,
+          "completion_tokens": 597,
+          "total_tokens": 2376,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 17.02,
+        "timestamp": "2026-11-11T07:50:49.792809+00:00"
+      },
+      "processed_pages": [
+        173
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2045,
+          "completion_tokens": 225,
+          "total_tokens": 2270,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 7.39,
+        "timestamp": "2026-11-11T07:50:57.197489+00:00"
+      },
+      "processed_pages": [
+        174
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1802,
+          "completion_tokens": 12,
+          "total_tokens": 1814,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.39,
+        "timestamp": "2026-11-11T07:50:58.601311+00:00"
+      },
+      "processed_pages": [
+        175
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1744,
+          "completion_tokens": 537,
+          "total_tokens": 2281,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 15.42,
+        "timestamp": "2026-11-11T07:51:14.027609+00:00"
+      },
+      "processed_pages": [
+        178
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2007,
+          "completion_tokens": 12,
+          "total_tokens": 2019,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.55,
+        "timestamp": "2026-11-11T07:51:15.585763+00:00"
+      },
+      "processed_pages": [
+        183
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "to work with its suppliers to (i) activate its circular economy commitment for its plastic packaging, and (ii) meet its commitment to reduce by 50% its full scope GHG emissions intensity by 2030 compared with 2015.",
+            "source_page": 192,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastic packaging",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2030,
+            "value": 50
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2159,
+          "completion_tokens": 143,
+          "total_tokens": 2302,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 5.27,
+        "timestamp": "2026-11-11T07:51:20.854605+00:00"
+      },
+      "processed_pages": [
+        192
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2167,
+          "completion_tokens": 12,
+          "total_tokens": 2179,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.7,
+        "timestamp": "2026-11-11T07:51:22.557788+00:00"
+      },
+      "processed_pages": [
+        193
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1867,
+          "completion_tokens": 12,
+          "total_tokens": 1879,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.45,
+        "timestamp": "2026-11-11T07:51:24.021449+00:00"
+      },
+      "processed_pages": [
+        205
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2350,
+          "completion_tokens": 12,
+          "total_tokens": 2362,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.86,
+        "timestamp": "2026-11-11T07:51:25.889992+00:00"
+      },
+      "processed_pages": [
+        207
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2181,
+          "completion_tokens": 184,
+          "total_tokens": 2365,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 6.39,
+        "timestamp": "2026-11-11T07:51:32.287908+00:00"
+      },
+      "processed_pages": [
+        208
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1410,
+          "completion_tokens": 92,
+          "total_tokens": 1502,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 3.14,
+        "timestamp": "2026-11-11T07:51:35.448029+00:00"
+      },
+      "processed_pages": [
+        214
+      ]
+    }
+  ],
+  "fingerprint": "10281d25f866e7d7d5bd750f5addba00fbcf682eb3d4f120d48a8c9e7982c933",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

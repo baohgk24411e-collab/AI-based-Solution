@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu về tỷ lệ tái chế rác thải nhựa bao gói là 98.2% vào năm 2022, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p167:c1",
+      "pdf_page": 167,
+      "quote": "Proportion of plastic packaging waste recovered 96.5% 98.2%"
+    }
+  ],
+  "claim_id": "danone_2022_81e2c21e875f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3955,
+      "completion_tokens": 110,
+      "total_tokens": 4065,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 12.5,
+    "timestamp": "2026-11-11T08:10:44.601479+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "4a9728bf1c4519521176fc777143c4422dae6e332b89a5bac93162910d91c148",
+  "retrieved_chunk_ids": [
+    "danone_2022:p167:c1",
+    "danone_2022:p229:c1",
+    "danone_2022:p168:c2",
+    "danone_2022:p165:c2",
+    "danone_2022:p222:c2"
+  ]
+}

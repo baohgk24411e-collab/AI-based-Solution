@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc tăng tỷ lệ tái chế hay thực hiện EPR.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p45:c2",
+      "pdf_page": 45,
+      "quote": "We advocate for increasing recycling rates and the implementation of EPR."
+    }
+  ],
+  "claim_id": "nestle_2023_f9d9952d53bf",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3442,
+      "completion_tokens": 87,
+      "total_tokens": 3529,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.14,
+    "timestamp": "2026-11-11T07:46:52.771801+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "4a15c7123e8fcd0030da749cc61f7b03441cca406ae5c6942017e2fe1844c768",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p45:c2",
+    "nestle_2023:p42:c1",
+    "nestle_2023:p44:c1",
+    "nestle_2023:p36:c1",
+    "nestle_2023:p42:c2"
+  ]
+}

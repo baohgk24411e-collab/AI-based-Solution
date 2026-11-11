@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Danone đã xem xét và điều chỉnh các tiêu chuẩn nội bộ Clean Water Standards (CWS) vào năm 2021 như tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p178:c1",
+      "pdf_page": 178,
+      "quote": "In 2021, the Company has reviewed its internal standards, the Clean Water Standards (CWS) to align with the wastewater treatment plants capacities and with various country regulations."
+    }
+  ],
+  "claim_id": "danone_2021_e6e2a929a000",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3632,
+      "completion_tokens": 130,
+      "total_tokens": 3762,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.61,
+    "timestamp": "2026-11-11T07:55:24.358709+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "095a8c3a71de31990c93cd1829c5ca4200bd77433e1f71c6c194e0b3a9b440c1",
+  "retrieved_chunk_ids": [
+    "danone_2021:p178:c1",
+    "danone_2021:p180:c1",
+    "danone_2021:p209:c1",
+    "danone_2021:p209:c2",
+    "danone_2021:p21:c2"
+  ]
+}

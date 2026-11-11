@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về mục tiêu sử dụng 35% đến 40% vật liệu tái chế trong bao bì chính (PET nhựa, thủy tinh và nhôm) vào năm 2035. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p4:c1",
+      "pdf_page": 4,
+      "quote": "• Aim to use 35% to 40% recycled material2 in primary packaging (PET plastic,3 glass and aluminum), including increasing recycled plastic (rPET) use to 30% to 35% globally by 2035."
+    }
+  ],
+  "claim_id": "cocacola_2025_c179ee4949e5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "3a716e9be159ab46c55b6306e5207aced1d6a96f70a9f35347a3d75142474aa9",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4255,
+      "completion_tokens": 172,
+      "total_tokens": 4427,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 17.97,
+    "timestamp": "2026-11-11T08:14:07.845272+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "bdf0b9a7d9354ea40227435279d00053b619165a0b74fef7da438e2e78591281",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p4:c1",
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p10:c2",
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p6:c2"
+  ]
+}

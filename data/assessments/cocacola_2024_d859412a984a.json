@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu về tỷ lệ vật liệu tái chế sử dụng trong bao bì tiêu dùng chính toàn cầu là rPET, phù hợp với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2024:p10:c1",
+      "pdf_page": 10,
+      "quote": "Percent of recycled material2 used in global primary consumer packaging—rPET4 • The Coca-Cola system 15% 17% 18%"
+    }
+  ],
+  "claim_id": "cocacola_2024_d859412a984a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "2386259576ab9735b580c2f86e70666a743efdc9c506427f1775057effe64659",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4010,
+      "completion_tokens": 120,
+      "total_tokens": 4130,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 13.86,
+    "timestamp": "2026-11-11T08:12:33.714817+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2024",
+  "fingerprint": "a8773af9b687cc5c5a5b52bbb0da554d7d34c44f6fc4c8dd2eaa95b8d16b7c48",
+  "retrieved_chunk_ids": [
+    "cocacola_2024:p10:c1",
+    "cocacola_2024:p10:c2",
+    "cocacola_2024:p6:c2",
+    "cocacola_2024:p11:c1",
+    "cocacola_2024:p6:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Dữ liệu cung cấp chỉ đề cập đến việc giảm sử dụng nhựa nguyên sinh từ năm 2018 đến 2023, nhưng không có thông tin cụ thể về lượng nhựa nguyên sinh được sử dụng trong năm 2023. Do đó, không đủ bằng chứng để xác nhận tuyên bố.",
+  "flags": [
+    "缺少具体年份的数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p41:c1",
+      "pdf_page": 41,
+      "quote": "Virgin plastic in our packaging had reduced by 14.9% since 2018."
+    }
+  ],
+  "claim_id": "nestle_2023_75d6f5fe61d6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4684,
+      "completion_tokens": 150,
+      "total_tokens": 4834,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.05,
+    "timestamp": "2026-11-11T07:45:11.015391+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "d6476ff36fd5f95602e60016ab4f74a3b4f963d0ab4e9c2d9ab7e5f8abcb7f37",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p43:c1",
+    "nestle_2023:p78:c1",
+    "nestle_2023:p41:c1",
+    "nestle_2023:p3:c1",
+    "nestle_2023:p12:c1"
+  ]
+}

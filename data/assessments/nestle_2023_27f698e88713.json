@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đã tham gia vào một nỗ lực chung với sáu công ty FMCG khác để đầu tư vào dịch vụ tái chế Circular Services. Tuy nhiên, báo cáo không cung cấp thông tin cụ thể về việc này ở Mỹ trong năm 2023.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p44:c1",
+      "pdf_page": 44,
+      "quote": "In the United States, Nestlé, along with six other leading FMCG, food and technology companies, announced a joint investment in Circular Services. The Company aims to scale recycling infrastructure and services in the United States and owns facilities across the country."
+    }
+  ],
+  "claim_id": "nestle_2023_27f698e88713",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3731,
+      "completion_tokens": 182,
+      "total_tokens": 3913,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.95,
+    "timestamp": "2026-11-11T07:46:03.515601+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "5b0905fc3f42f60bee447148377b7f00b686d26627e88c9b2ea5de5d744e7672",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p44:c1",
+    "nestle_2023:p44:c2",
+    "nestle_2023:p49:c1",
+    "nestle_2023:p49:c2",
+    "nestle_2023:p42:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Danone đã thêm bốn trụ cột (Reduce, Reuse, Recycle, Reclaim) vào chiến lược 3R của mình vào năm 2020. Điều này được đề cập trong đoạn văn bản: 'In 2020, the Company boosted its approach by adding the fourth pillar, Reclaim, to its 3R Strategy (Reduce, Reuse, Recycle).'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p178:c1",
+      "pdf_page": 178,
+      "quote": "In 2020, the Company boosted its approach by adding the fourth pillar, Reclaim, to its 3R Strategy (Reduce, Reuse, Recycle)."
+    }
+  ],
+  "claim_id": "danone_2021_ce20b7d8c4db",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3883,
+      "completion_tokens": 182,
+      "total_tokens": 4065,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 12.38,
+    "timestamp": "2026-11-11T07:55:42.495506+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "479d40ea203cfc90e36bc10eb75a67b04f879ed9cd674e6895ea250978c8f9d0",
+  "retrieved_chunk_ids": [
+    "danone_2021:p178:c1",
+    "danone_2021:p178:c2",
+    "danone_2021:p193:c3",
+    "danone_2021:p174:c1",
+    "danone_2021:p170:c1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Procter & Gamble đã phát triển quy trình để cải thiện chất lượng nhựa tái chế polypropylene (PP), và đây chiếm khoảng 20% nhựa được sử dụng trong bao bì của họ. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p28:c1",
+      "pdf_page": 28,
+      "quote": "Our corporate R&D teams developed a process to drastically improve the quality of recycled polypropylene (PP) plastic. This plastic resin accounts for roughly 20% of the plastic used in our packaging and has the potential to significantly increase our use of recycled content."
+    }
+  ],
+  "claim_id": "pg_2022_e18950123e0a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "aca0246b1e38d915fa83c0d591130e70399a43955c6ccd27f43be5511b9f7a3d",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3245,
+      "completion_tokens": 158,
+      "total_tokens": 3403,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.11,
+    "timestamp": "2026-11-11T08:01:39.813043+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "7267c0573db41dd469ec8d4f27c324451d05772c1d8e02ab2bf6f838eeeded7f",
+  "retrieved_chunk_ids": [
+    "pg_2022:p28:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p28:c2",
+    "pg_2022:p26:c1",
+    "pg_2022:p34:c1"
+  ]
+}

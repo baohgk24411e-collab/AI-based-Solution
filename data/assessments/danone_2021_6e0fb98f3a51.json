@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc Danone đã ra mắt chai PET tái chế 100% ở một số thị trường vào năm 2021, nhưng không cung cấp thông tin về tỷ lệ tái chế PET thực tế tại các thị trường này. Không có dữ liệu cụ thể về việc tái chế PET 100% trong tất cả các thị trường được đề cập.",
+  "flags": [
+    "缺少具体数据支持"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p173:c2",
+      "pdf_page": 173,
+      "quote": "In 2021, Danone launched new 100% rPET bottles in France, Spain, Indonesia, Brazil and Uruguay."
+    }
+  ],
+  "claim_id": "danone_2021_6e0fb98f3a51",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3530,
+      "completion_tokens": 175,
+      "total_tokens": 3705,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.66,
+    "timestamp": "2026-11-11T07:54:20.333394+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "9a77e64f65253071bea8397438ff099cfcfeaab57a53836404122ab6ba109c1f",
+  "retrieved_chunk_ids": [
+    "danone_2021:p173:c2",
+    "danone_2021:p173:c1",
+    "danone_2021:p172:c2",
+    "danone_2021:p46:c2",
+    "danone_2021:p212:c3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo chỉ rõ mục tiêu giúp 10 triệu thanh niên trên thế giới có cơ hội kinh tế vào năm 2030 và đã đạt được 7.7 triệu thanh niên từ năm 2017, phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p3:c1",
+      "pdf_page": 3,
+      "quote": "By 2030, our ambition is to help 10 million young people around the world have access to economic opportunities Millions of young people around the world with access to economic opportunities since 2017 3.8 5.6 7.7"
+    }
+  ],
+  "claim_id": "nestle_2023_014b57aaeaa8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3968,
+      "completion_tokens": 170,
+      "total_tokens": 4138,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.12,
+    "timestamp": "2026-11-11T07:42:58.804928+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "4987a2cf25ee751e778cbdc42bed09b4358a42eba3a71ec1b2fecbe940bb7c7b",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p3:c1",
+    "nestle_2023:p57:c1",
+    "nestle_2023:p58:c3",
+    "nestle_2023:p74:c1",
+    "nestle_2023:p85:c1"
+  ]
+}

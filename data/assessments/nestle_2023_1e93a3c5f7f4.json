@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về lượng nhựa tái chế cụ thể mà Nestlé đã xử lý trong năm 2022.",
+  "flags": [
+    "missing_quantity"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p44:c1",
+      "pdf_page": 44,
+      "quote": "The Colombian Institute of Technical Standards and Certification recognized work conducted in 2022 with Cempre, Veolia and Latitude R, supported by Nestlé, to process 12 139 tonnes, representing 100% of the plastic, paper and metal packaging we place on the market."
+    }
+  ],
+  "claim_id": "nestle_2023_1e93a3c5f7f4",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4278,
+      "completion_tokens": 153,
+      "total_tokens": 4431,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.7,
+    "timestamp": "2026-11-11T07:46:11.223565+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "ec753e2360fbdb63923c9ae7979d38e5c5541d02cd7daa9b7e57ca4f57e904ad",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p44:c1",
+    "nestle_2023:p42:c2",
+    "nestle_2023:p71:c2",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p78:c1"
+  ]
+}

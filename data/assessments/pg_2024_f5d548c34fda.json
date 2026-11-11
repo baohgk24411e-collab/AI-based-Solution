@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về việc giảm sử dụng nhựa nguyên sinh trong bao bì tiêu dùng so với năm 2017. Chỉ có thông tin về tiến trình đạt được từ FY22 đến FY23.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2024:p7:c1",
+      "pdf_page": 7,
+      "quote": "Reduce our use of virgin petroleum plastic in our consumer packaging by 50% per unit of production (2017 baseline). 21% reduction"
+    }
+  ],
+  "claim_id": "pg_2024_f5d548c34fda",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "bf9b434270147352aebff90e8a59115fc4719b06640619e26de53bf7078365da",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4311,
+      "completion_tokens": 142,
+      "total_tokens": 4453,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 15.69,
+    "timestamp": "2026-11-11T08:07:45.753851+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2024",
+  "fingerprint": "687bc7917d04ebd04a9a32332eef0f2c33987f4ed6ef50aea0906fe149216196",
+  "retrieved_chunk_ids": [
+    "pg_2024:p7:c1",
+    "pg_2024:p5:c1",
+    "pg_2024:p8:c1",
+    "pg_2024:p9:c1",
+    "pg_2024:p10:c1"
+  ]
+}

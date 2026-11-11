@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy 'Percentage of packaging made from recycled and/or renewable materials* 41.5%', phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p43:c3",
+      "pdf_page": 43,
+      "quote": "Percentage of packaging made from recycled and/or renewable materials* 41.5%"
+    }
+  ],
+  "claim_id": "nestle_2023_2bb9dfc3b43f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3502,
+      "completion_tokens": 93,
+      "total_tokens": 3595,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.33,
+    "timestamp": "2026-11-11T07:45:43.996764+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "ccdff66e1d5304bf849d20a525b6f9d0b63234ece9af9a1c1de6811b50bd85bb",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p43:c3",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p41:c1",
+    "nestle_2023:p82:c2",
+    "nestle_2023:p82:c1"
+  ]
+}

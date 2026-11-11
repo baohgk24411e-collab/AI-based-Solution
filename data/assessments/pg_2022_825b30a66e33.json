@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp số liệu về lượng nhựa tái chế và tỷ lệ nhựa tái chế trong tổng lượng nhựa sử dụng, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p27:c1",
+      "pdf_page": 27,
+      "quote": "Tons of plastic packaging 776,220 metric tons Tons of recycled plastic resin 96,469 metric tons Percent of total resin used that was recycled 12.4% recycled resin"
+    }
+  ],
+  "claim_id": "pg_2022_825b30a66e33",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "32919ae9b7664b55f2095845b3937de794b320b246c931fd975a5b26de8eb135",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3581,
+      "completion_tokens": 124,
+      "total_tokens": 3705,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.53,
+    "timestamp": "2026-11-11T08:01:02.721709+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "54daefbf34042894dc448732416afd41444c89c16fadc94f17cac6aae9f1cde6",
+  "retrieved_chunk_ids": [
+    "pg_2022:p27:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p23:c1",
+    "pg_2022:p28:c2",
+    "pg_2022:p34:c1"
+  ]
+}

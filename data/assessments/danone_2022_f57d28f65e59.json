@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty Danone đã đạt được kết quả như trong tuyên bố: 'Trong năm 2022, Danone đã đạt được các kết quả sau: • 11.9% vật liệu tái chế trung bình trong bao bì nhựa của mình (so với 10.4% vào năm 2021);' trong báo cáo tài chính của họ.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p166:c2",
+      "pdf_page": 166,
+      "quote": "• 11.9% recycled materials on average in its plastic packaging (compared with 10.4% in 2021);"
+    }
+  ],
+  "claim_id": "danone_2022_f57d28f65e59",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4006,
+      "completion_tokens": 160,
+      "total_tokens": 4166,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.8,
+    "timestamp": "2026-11-11T08:08:03.498496+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "352dbfeed6bdcd9b22a48d1c553cc62e143716d347f912696a3da0127f233249",
+  "retrieved_chunk_ids": [
+    "danone_2022:p166:c2",
+    "danone_2022:p222:c1",
+    "danone_2022:p167:c1",
+    "danone_2022:p165:c2",
+    "danone_2022:p27:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Hợp đồng với tuyên bố vì văn bản cung cấp thông tin xác nhận rằng Nestlé sẽ đạt được mục tiêu 100% bao bì tái sử dụng hoặc tái chế vào năm 2025 và giảm sử dụng nhựa nguyên sinh một phần ba vào cùng thời điểm này.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p4:c1",
+      "pdf_page": 4,
+      "quote": "By 2025, 100% of our packaging will be recyclable or reusable and we will reduce our use of virgin plastics by one third."
+    }
+  ],
+  "claim_id": "nestle_2021_2732c0f8b0c5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3679,
+      "completion_tokens": 137,
+      "total_tokens": 3816,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.89,
+    "timestamp": "2026-11-11T07:27:51.693963+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "4344f8abb956a7a293c76cc2e052fa93cea0493b2f9ce81f99d31741aca5dfc4",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p4:c1",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p8:c2",
+    "nestle_2021:p35:c1",
+    "nestle_2021:p37:c1"
+  ]
+}

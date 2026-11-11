@@ -1,0 +1,43 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận mục tiêu của Coca-Cola là thu gom và tái chế một chai hoặc lon cho mỗi sản phẩm họ bán vào năm 2030. Điều này được đề cập trong phần 'Collect' của chiến lược Without Waste.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2023:p5:c1",
+      "pdf_page": 5,
+      "quote": "GOAL: Collect and recycle a bottle or can for each one we sell by 2030."
+    }
+  ],
+  "claim_id": "cocacola_2023_27dc8e14aeba",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "4ed72afbdecac786892d4e0d8c59607ac93de0f37913863748f21633be4819c8",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4019,
+      "completion_tokens": 139,
+      "total_tokens": 4158,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 14.62,
+    "timestamp": "2026-11-11T08:04:29.977392+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2023",
+  "fingerprint": "73f64c3f80a506bc961aa390ba52ccc7c69261428c6eaf654dcf8ae484147e46",
+  "retrieved_chunk_ids": [
+    "cocacola_2023:p5:c1",
+    "cocacola_2023:p4:c2",
+    "cocacola_2023:p5:c2",
+    "cocacola_2023:p4:c1",
+    "cocacola_2023:p6:c1"
+  ]
+}

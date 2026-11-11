@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về tỷ lệ thu gom và tái chế các chai và lon tương đương là 67% vào năm 2025, phù hợp với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p6:c3",
+      "pdf_page": 6,
+      "quote": "The collection rate represents a weighted average of system-led collection rates, national collection rates or returnable bottle collection rates for select primary consumer packaging to the Coca-Cola system’s sales in units to express the percent of equivalent bottles, cans, cartons and pouches introduced into the market that were collected and refilled or collected for recycling for the year. 8 Includes programs supported by The Coca-Cola Foundation."
+    }
+  ],
+  "claim_id": "cocacola_2025_d2302ce39841",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "174876306b87e56b87d660b980db3b1d4e7ba791e0971d072e2096650ed31158",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3679,
+      "completion_tokens": 180,
+      "total_tokens": 3859,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 12.91,
+    "timestamp": "2026-11-11T08:15:22.674126+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "a4e5a28194bb55b19d16eb69cf091883f0e475eab5be6d1aefaaf901e7a83637",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p6:c3",
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p11:c1",
+    "cocacola_2025:p6:c2"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng 'Used 30% recycled material in our global primary consumer packaging in 2025', phù hợp với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p10:c1",
+      "pdf_page": 10,
+      "quote": "Percent of recycled material3 used in global primary consumer packaging4 • The Coca-Cola system 27% 28% 30%"
+    }
+  ],
+  "claim_id": "cocacola_2025_d618f8d67394",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "30a3d0c3e4430835e3ef6a2bd1b2a03f6a089d25c2ef2e69368610f9441790bd",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4070,
+      "completion_tokens": 116,
+      "total_tokens": 4186,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 121.0,
+    "timestamp": "2026-11-11T08:17:39.345784+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "5759c78a3ae1876fd59b549765826613fb71b80dac1580b535cb7605d4fca610",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p6:c2",
+    "cocacola_2025:p11:c1",
+    "cocacola_2025:p10:c2"
+  ]
+}

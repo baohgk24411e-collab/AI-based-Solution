@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Danone đã sử dụng bao bì nhựa giảm tới 15% trong nước Thổ Nhĩ Kỳ. Chỉ có thông tin chung về các nỗ lực cải tiến bao bì.",
+  "flags": [
+    "missing_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p46:c2",
+      "pdf_page": 46,
+      "quote": "For instance, Danone updated its bottles in Turkey to use up to 15% less plastic;"
+    }
+  ],
+  "claim_id": "danone_2021_5de532d30f34",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3790,
+      "completion_tokens": 136,
+      "total_tokens": 3926,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.08,
+    "timestamp": "2026-11-11T07:52:30.023154+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "e317f4b97fee2961e8ee9bea123dfe399f39928358e5169e8a751298f3dc24ca",
+  "retrieved_chunk_ids": [
+    "danone_2021:p46:c2",
+    "danone_2021:p173:c1",
+    "danone_2021:p173:c2",
+    "danone_2021:p172:c2",
+    "danone_2021:p205:c1"
+  ]
+}

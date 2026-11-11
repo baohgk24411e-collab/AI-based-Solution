@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ rPET trong chai nước Vittel tại Pháp vào năm 2023.",
+  "flags": [
+    "missing_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p43:c1",
+      "pdf_page": 43,
+      "quote": "In France, the brand Vittel implemented 100% rPET in its water bottles across its entire portfolio in 2023, excluding bottle caps and labels."
+    }
+  ],
+  "claim_id": "nestle_2023_95e4eae8b850",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4018,
+      "completion_tokens": 127,
+      "total_tokens": 4145,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.83,
+    "timestamp": "2026-11-11T07:45:17.856398+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "778b7e5c59f6e4a59c6733f653313cf0a649601c9486c98f9e131ac5ca1b4335",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p43:c1",
+    "nestle_2023:p24:c1",
+    "nestle_2023:p44:c1",
+    "nestle_2023:p3:c2",
+    "nestle_2023:p24:c2"
+  ]
+}

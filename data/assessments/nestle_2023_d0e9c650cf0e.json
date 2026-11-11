@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về các hoạt động tương tự tại Argentina, Costa Rica, Ecuador, Mexico và Philippines vào năm 2023. Chỉ có một tuyên bố chung về việc đang thực hiện các hoạt động tương tự ở những quốc gia này.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p44:c1",
+      "pdf_page": 44,
+      "quote": "We are driving similar initiatives in Argentina, Costa Rica, Ecuador, Mexico and the Philippines."
+    }
+  ],
+  "claim_id": "nestle_2023_d0e9c650cf0e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3828,
+      "completion_tokens": 141,
+      "total_tokens": 3969,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.94,
+    "timestamp": "2026-11-11T07:46:25.678997+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "5fb3d21258c3175de5799d23465407b5354dad02f6d5e0ebb145c7b1d9598b4b",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p44:c1",
+    "nestle_2023:p20:c3",
+    "nestle_2023:p39:c1",
+    "nestle_2023:p56:c1",
+    "nestle_2023:p11:c2"
+  ]
+}

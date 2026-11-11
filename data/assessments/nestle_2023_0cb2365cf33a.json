@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc chuyển đổi từ hộp nhựa trong suốt sang hộp giấy ở Colombia. Chỉ có một số hoạt động tái sử dụng và tái chế được đề cập, nhưng không có dữ liệu chính xác về lượng nhựa được tiết kiệm.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p43:c2",
+      "pdf_page": 43,
+      "quote": "In Colombia, we transferred our retail display bins for Maggi Chicken Bouillon cubes from transparent plastic tubs to paperboard boxes. This change saves 84 tonnes of plastic in one year."
+    }
+  ],
+  "claim_id": "nestle_2023_0cb2365cf33a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3498,
+      "completion_tokens": 155,
+      "total_tokens": 3653,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.94,
+    "timestamp": "2026-11-11T07:45:31.095701+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "e01941bbd5bda53c8df31a71e965363682ffda6a998aea434f096c49bfe57e79",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p43:c2",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p43:c3",
+    "nestle_2023:p44:c3",
+    "nestle_2023:p8:c1"
+  ]
+}

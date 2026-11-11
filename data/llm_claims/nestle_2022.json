@@ -1,0 +1,807 @@
+{
+  "claims": [
+    {
+      "claim_text": "By 2025, we aim to design above 95% of our plastic packaging for recycling and continue to work toward 100% being recyclable or reusable Percentage of plastic packaging designed for recycling7 (%) 74.8% 74.9% 81.9%",
+      "source_page": 3,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 81.9,
+      "claim_id": "nestle_2022_1ed8c2434034",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We aim to reduce our use of virgin plastics by one third by 2025 (versus 2018 baseline)",
+      "source_page": 43,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": -33,
+      "claim_id": "nestle_2022_b747f3972d86",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We aim for >95% of our plastic packaging to be designed for recycling by 2025",
+      "source_page": 43,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 95,
+      "claim_id": "nestle_2022_ca5b7e3915a8",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percentage of packaging that is reusable, recyclable or compostable* 85.8% (85.4% in 2021)",
+      "source_page": 43,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 85.8,
+      "claim_id": "nestle_2022_922c49a7d517",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We are part of the Ellen MacArthur Foundation’s New Plastics Economy – an initiative that mobilized the first voluntary industry action in 2017 – and we have pledged to work as an industry to create a circular economy for plastic.",
+      "source_page": 44,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "nestle_2022_46b27f39e871",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We are also aiming to reduce virgin plastics by one third and to design above 95% of our plastic packaging for recycling by 2025.",
+      "source_page": 44,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 95,
+      "claim_id": "nestle_2022_50ffa1fa3ec2",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We have identified several plastic types (including polystyrene) that are unlikely to be included in municipal recycling systems around the world and are phasing out this “negative list” of materials from our packaging portfolio.",
+      "source_page": 44,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2022_904bb2c8dbf4",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Pillar 1: Less packaging – Reduce Reducing our use of virgin plastics packaging material, removing unnecessary plastics and increasing recycled content.",
+      "source_page": 44,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2022_792842ffb9db",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2022, Nescafé Dolce Gusto unveiled new capsules that will save more than 2500 tonnes of polypropylene thanks to a 13% plastic weight reduction in the capsules.",
+      "source_page": 45,
+      "claim_type": "target",
+      "scope": null,
+      "material": "polypropylene",
+      "unit": "tonnes",
+      "measurement_year": null,
+      "target_year": 2022,
+      "value": 2500,
+      "claim_id": "nestle_2022_fd8f5c8f568a",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Vietnam, Nescafé reduced the thickness of the laminate in its Granules Sachets sticks – saving 144 tonnes of plastic annually (the equivalent of 8 million plastic toothbrushes).",
+      "source_page": 45,
+      "claim_type": "target",
+      "scope": null,
+      "material": "laminate",
+      "unit": "tonnes",
+      "measurement_year": null,
+      "target_year": 2022,
+      "value": 144,
+      "claim_id": "nestle_2022_73043ffba73f",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Nestlé Waters, in France, achieved more than 1500 tonnes of plastic reductions following a multi-year weight optimization program for PET bottles that started in 2018.",
+      "source_page": 45,
+      "claim_type": "target",
+      "scope": null,
+      "material": "PET",
+      "unit": "tonnes",
+      "measurement_year": null,
+      "target_year": 2022,
+      "value": 1500,
+      "claim_id": "nestle_2022_8435687acd48",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Similarly, in Mexico, Nestlé Waters reduced the weight of its 500 mL and 4L PET bottles and the gauge of polyethylene shrink film, resulting in a 166-tonne saving of plastic per year.",
+      "source_page": 45,
+      "claim_type": "target",
+      "scope": null,
+      "material": "PET, polyethylene",
+      "unit": "tonnes",
+      "measurement_year": null,
+      "target_year": 2022,
+      "value": 166,
+      "claim_id": "nestle_2022_6dfd106d878d",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Nestlé Waters also continued to increase the recycled content in PET bottles globally. In Egypt, they launched their first rPET-containing bottles, supporting the development of a circular packaging system where bottles are collected and recycled, “bottle-to-bottle”. In the UK, Nestlé Waters also moved the entire Buxton Natural Mineral Water range to 100% rPET.",
+      "source_page": 45,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "rPET",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 100,
+      "claim_id": "nestle_2022_4c4f0fca6cf7",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "36.0% was made from renewable materials.",
+      "source_page": 45,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "renewable materials",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 36.0,
+      "claim_id": "nestle_2022_0e5152a84d95",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By reducing unnecessary packaging, designing better packaging, modeling collection systems and supporting better regulation, we aim to support the packaging system transition to deliver no waste in landfills or nature.",
+      "source_page": 46,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2022_02e64c0e3a6c",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We know there is more work ahead in the shift from voluntary action to mandatory legislation, enabling a fair distribution of responsibility across the value chain.",
+      "source_page": 46,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2022_4cb6bbab2c48",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percentage of packaging that is reusable, recyclable or compostable",
+      "source_page": 63,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2022_97a22d9afa72",
+      "report_id": "nestle_2022",
+      "company": "Nestlé",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12,
+    13,
+    24,
+    43,
+    44,
+    45,
+    46,
+    50,
+    63
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1965,
+          "completion_tokens": 12,
+          "total_tokens": 1977,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.2,
+        "timestamp": "2026-11-11T07:29:34.822891+00:00"
+      },
+      "processed_pages": [
+        2
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1968,
+          "completion_tokens": 152,
+          "total_tokens": 2120,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 5.28,
+        "timestamp": "2026-11-11T07:29:40.121252+00:00"
+      },
+      "processed_pages": [
+        3
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2053,
+          "completion_tokens": 10,
+          "total_tokens": 2063,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.59,
+        "timestamp": "2026-11-11T07:29:41.710163+00:00"
+      },
+      "processed_pages": [
+        5
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1818,
+          "completion_tokens": 10,
+          "total_tokens": 1828,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.39,
+        "timestamp": "2026-11-11T07:29:43.100361+00:00"
+      },
+      "processed_pages": [
+        6
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2266,
+          "completion_tokens": 10,
+          "total_tokens": 2276,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.78,
+        "timestamp": "2026-11-11T07:29:44.887511+00:00"
+      },
+      "processed_pages": [
+        7
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2404,
+          "completion_tokens": 10,
+          "total_tokens": 2414,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.91,
+        "timestamp": "2026-11-11T07:29:46.805017+00:00"
+      },
+      "processed_pages": [
+        8
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2512,
+          "completion_tokens": 10,
+          "total_tokens": 2522,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.0,
+        "timestamp": "2026-11-11T07:29:48.805226+00:00"
+      },
+      "processed_pages": [
+        11
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2900,
+          "completion_tokens": 10,
+          "total_tokens": 2910,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.34,
+        "timestamp": "2026-11-11T07:29:51.145295+00:00"
+      },
+      "processed_pages": [
+        12
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2485,
+          "completion_tokens": 10,
+          "total_tokens": 2495,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.98,
+        "timestamp": "2026-11-11T07:29:53.129943+00:00"
+      },
+      "processed_pages": [
+        13
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2269,
+          "completion_tokens": 12,
+          "total_tokens": 2281,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.95,
+        "timestamp": "2026-11-11T07:29:55.075442+00:00"
+      },
+      "processed_pages": [
+        24
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Percentage of packaging that is reusable, recyclable or compostable* 81.9% (2022)",
+            "source_page": 43,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": 2022,
+            "target_year": null,
+            "value": 81.9
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Percentage of packaging that is reusable, recyclable or compostable* 74.8% (2020)",
+            "source_page": 43,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": 2020,
+            "target_year": null,
+            "value": 74.8
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Percentage of packaging that is reusable, recyclable or compostable* 74.9% (2021)",
+            "source_page": 43,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": 2021,
+            "target_year": null,
+            "value": 74.9
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1506,
+          "completion_tokens": 626,
+          "total_tokens": 2132,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 17.48,
+        "timestamp": "2026-11-11T07:30:12.570261+00:00"
+      },
+      "processed_pages": [
+        43
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "We now aim to design above 95% of our packaging for acceptance in recycling systems by 2025. We remain committed to getting to 100%. The Commitment’s success depends not only on our product design, but also on the development of infrastructure for collection, sorting and reuse and recycling around the world, particularly for flexible plastics.",
+            "source_page": 44,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastics",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": 95
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2114,
+          "completion_tokens": 590,
+          "total_tokens": 2704,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 17.22,
+        "timestamp": "2026-11-11T07:30:29.785449+00:00"
+      },
+      "processed_pages": [
+        44
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "In France, starting in 2021, we began changing the wrappers of organic Maggi bouillon cubes from a multi-layer laminate that included aluminum to recyclable and sustainably sourced paper.",
+            "source_page": 45,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "multi-layer laminate",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": 2021,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Of our total packaging, 85.8% by weight was recyclable or reusable in 2022, based on the Ellen MacArthur Foundation Global Commitment reporting rules.",
+            "source_page": 45,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": null,
+            "unit": "%",
+            "measurement_year": 2022,
+            "target_year": null,
+            "value": 85.8
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2800,
+          "completion_tokens": 963,
+          "total_tokens": 3763,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 28.06,
+        "timestamp": "2026-11-11T07:30:57.852774+00:00"
+      },
+      "processed_pages": [
+        45
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "The Fair Circularity Initiative aims to bring businesses together around these ten principles with the aim of ensuring that the human rights of workers within the informal waste sector are respected and their role in circular value chains is recognized.",
+            "source_page": 46,
+            "claim_type": "target",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1878,
+          "completion_tokens": 314,
+          "total_tokens": 2192,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 9.7,
+        "timestamp": "2026-11-11T07:31:07.558179+00:00"
+      },
+      "processed_pages": [
+        46
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1759,
+          "completion_tokens": 12,
+          "total_tokens": 1771,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.61,
+        "timestamp": "2026-11-11T07:31:09.180160+00:00"
+      },
+      "processed_pages": [
+        50
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2445,
+          "completion_tokens": 94,
+          "total_tokens": 2539,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.33,
+        "timestamp": "2026-11-11T07:31:13.500433+00:00"
+      },
+      "processed_pages": [
+        63
+      ]
+    }
+  ],
+  "fingerprint": "61aad21d31dad386aaeddbf66e414fc8b178bfbd56db9ff56ff49ac6d2d64e58",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

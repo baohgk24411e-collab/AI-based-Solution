@@ -34,7 +34,7 @@ def main():
                  unverified_candidate_passages=len(candidates),unlabelled_review_queue=len(queue),
                  splits=dict(Counter(r['split'] for r in manifest)),
                  duplicate_pdfs=0,candidate_source_checks_passed=len(candidates),
-                 llm_live_run_status='not_run_no_api_key',human_gold_status='not_available')
+                 llm_live_run_status='available' if any((DATA/'llm_claims').glob('*.json')) else 'not_run',human_gold_status='not_available')
     save_json(DATA/'audit.json',summary)
     evaluate_saved()
     print(summary)

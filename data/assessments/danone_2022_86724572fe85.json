@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về tỷ lệ thành phần tái chế cho thủy tinh là 50% và kim loại, nhôm là 40% trên toàn cầu.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p222:c1",
+      "pdf_page": 222,
+      "quote": "• recycled components for glass: 50% worldwide • recycled components for metal and aluminum: 40% worldwide."
+    }
+  ],
+  "claim_id": "danone_2022_86724572fe85",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3983,
+      "completion_tokens": 113,
+      "total_tokens": 4096,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.58,
+    "timestamp": "2026-11-11T08:12:49.224455+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "97afb04a6941202a712192c40cf007c8a4c6d72539674b67e2df2de2d290970f",
+  "retrieved_chunk_ids": [
+    "danone_2022:p222:c1",
+    "danone_2022:p222:c2",
+    "danone_2022:p166:c1",
+    "danone_2022:p313:c2",
+    "danone_2022:p272:c1"
+  ]
+}

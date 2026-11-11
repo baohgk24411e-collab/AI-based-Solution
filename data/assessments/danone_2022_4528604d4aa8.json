@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu 100% bao bì tái sử dụng, tái chế hoặc phân hủy trong năm 2030, phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p200:c2",
+      "pdf_page": 200,
+      "quote": "100% reusable, recyclable, compostable by 2030"
+    }
+  ],
+  "claim_id": "danone_2022_4528604d4aa8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3226,
+      "completion_tokens": 109,
+      "total_tokens": 3335,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.98,
+    "timestamp": "2026-11-11T08:11:10.652264+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "ca83405329a015198298a9576986f3a446772d5c75cbf83ac637023ad01a32ea",
+  "retrieved_chunk_ids": [
+    "danone_2022:p200:c2",
+    "danone_2022:p27:c2",
+    "danone_2022:p166:c1",
+    "danone_2022:p165:c2",
+    "danone_2022:p166:c3"
+  ]
+}

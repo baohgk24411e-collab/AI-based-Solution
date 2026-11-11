@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chính xác về tỷ lệ sử dụng vật liệu tái chế trong bao bì tiêu dùng chủ yếu toàn cầu là 28%, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2024:p10:c1",
+      "pdf_page": 10,
+      "quote": "Percent of recycled material2 used in global primary consumer packaging3 • The Coca-Cola system 25% 27% 28%"
+    }
+  ],
+  "claim_id": "cocacola_2024_0bebf79a8335",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "dfb2eb346bdd837e17b5fa5e22fc06b1a7fac21b0728ee62c0d0a648a1b79949",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4031,
+      "completion_tokens": 118,
+      "total_tokens": 4149,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 13.73,
+    "timestamp": "2026-11-11T08:11:05.137879+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2024",
+  "fingerprint": "c983d7b0ae7dc2c7150c683f81bc4b1856e9bfb181986960727816c22ee28e1a",
+  "retrieved_chunk_ids": [
+    "cocacola_2024:p10:c1",
+    "cocacola_2024:p11:c1",
+    "cocacola_2024:p6:c2",
+    "cocacola_2024:p6:c1",
+    "cocacola_2024:p10:c2"
+  ]
+}

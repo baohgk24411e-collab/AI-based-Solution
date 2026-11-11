@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp số liệu cụ thể về tỷ lệ tái chế do người thu gom rác thải thực hiện trên toàn thế giới. Chỉ có thông tin chung về vai trò của họ trong việc tái chế nhựa và bao bì.",
+  "flags": [
+    "lack_of_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p45:c1",
+      "pdf_page": 45,
+      "quote": "From waste bins, streets and unregulated landfills, roughly 20 million waste pickers are responsible for diverting almost 60% of the plastic that is recycled worldwide."
+    }
+  ],
+  "claim_id": "nestle_2023_d46e32f4239d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3899,
+      "completion_tokens": 161,
+      "total_tokens": 4060,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.56,
+    "timestamp": "2026-11-11T07:46:39.436038+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "7ae6277f3558b61b859d36e7fdbd6740ecb21ef23579eea43bfb871ac79c5b87",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p45:c1",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p42:c1",
+    "nestle_2023:p44:c1"
+  ]
+}

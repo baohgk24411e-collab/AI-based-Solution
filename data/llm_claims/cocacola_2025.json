@@ -1,0 +1,446 @@
+{
+  "claims": [
+    {
+      "claim_text": "• Aim to use 35% to 40% recycled material2 in primary packaging (PET plastic,3 glass and aluminum), including increasing recycled plastic (rPET) use to 30% to 35% globally by 2035.",
+      "source_page": 4,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET plastic, glass and aluminum",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2035,
+      "value": null,
+      "claim_id": "cocacola_2025_c179ee4949e5",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "• Aim to collect 70% to 75% of the equivalent number of bottles and cans introduced into the market annually by 2035.",
+      "source_page": 4,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2035,
+      "value": null,
+      "claim_id": "cocacola_2025_4edb8c102964",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "99% OF OUR PACKAGES WERE RECYCLABLE2 GLOBALLY IN 2025.",
+      "source_page": 6,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 99,
+      "claim_id": "cocacola_2025_9a292f6f02cb",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "30% RECYCLED MATERIAL3 IN OUR GLOBAL PRIMARY PACKAGING IN 2025.",
+      "source_page": 6,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 30,
+      "claim_id": "cocacola_2025_6faf298ef09f",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "20% OF PET USED WAS RECYCLED PET (rPET)4 IN 2025.",
+      "source_page": 6,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET",
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 20,
+      "claim_id": "cocacola_2025_98cdeda088ce",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "14% OF TOTAL BEVERAGE VOLUME WAS SERVED IN REUSABLE5 PACKAGING.",
+      "source_page": 6,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 14,
+      "claim_id": "cocacola_2025_4f07abdc1b71",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "67% OF THE EQUIVALENT BOTTLES AND CANS WE INTRODUCED INTO THE MARKET WERE COLLECTED AND REFILLED OR COLLECTED FOR RECYCLING.7,8",
+      "source_page": 6,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 67,
+      "claim_id": "cocacola_2025_d2302ce39841",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of the equivalent bottles and cans introduced into the market that were collected and refilled or collected for recycling1 • The Coca-Cola system 62% 65% 67%",
+      "source_page": 10,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": 2025,
+      "value": 67,
+      "claim_id": "cocacola_2025_15f0f35d21b2",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of recycled material3 used in global primary consumer packaging4 • The Coca-Cola system 27% 28% 30%",
+      "source_page": 10,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "recycled material",
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 30,
+      "claim_id": "cocacola_2025_d618f8d67394",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of recycled material3 used in global primary consumer packaging—rPET5 • The Coca-Cola system 17% 18% 20%",
+      "source_page": 10,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "rPET",
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 20,
+      "claim_id": "cocacola_2025_45b2b717dc76",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percentage of total beverage volume served in reusable packaging6 • The Coca-Cola system 14% 14% 14%",
+      "source_page": 10,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 14,
+      "claim_id": "cocacola_2025_14292ae7622f",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of packaging recyclable globally7 • The Coca-Cola system 90% 99% 99%",
+      "source_page": 10,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2025,
+      "target_year": null,
+      "value": 99,
+      "claim_id": "cocacola_2025_96e8e14196c5",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of the equivalent bottles and cans introduced into the market that were collected and refilled or collected for recycling",
+      "source_page": 11,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2025_195c8abf4fc6",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of recycled material used in global primary consumer packaging",
+      "source_page": 11,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "recycled",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2025_c2c1bb12302b",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of recycled material used in global primary consumer packaging—rPET",
+      "source_page": 11,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "rPET",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2025_d859412a984a",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percentage of total beverage volume served in reusable packaging",
+      "source_page": 11,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2025_4c7006dc47c1",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Percent of packaging recyclable globally",
+      "source_page": 11,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "cocacola_2025_ce447ba256a5",
+      "report_id": "cocacola_2025",
+      "company": "The Coca-Cola Company",
+      "report_year": 2025,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    3,
+    4,
+    6,
+    10,
+    11
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "ffac458cf0d5d62ce669c4c6bdda27fd40dd5dc55fe5496604afaac734cbf3f4",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2139,
+          "completion_tokens": 10,
+          "total_tokens": 2149,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 3.77,
+        "timestamp": "2026-11-11T08:12:42.751594+00:00"
+      },
+      "processed_pages": [
+        3
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "ecac9b4be5f71cdc39c0f2b0a46cfbf6c2c23d2237dc82173a9607d1e0b1cec8",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1426,
+          "completion_tokens": 248,
+          "total_tokens": 1674,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 13.91,
+        "timestamp": "2026-11-11T08:12:56.652745+00:00"
+      },
+      "processed_pages": [
+        4
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "59a1428d0de7b8a7a3ec884c9bb20fc218e92ef7984cb7be80aba18083166e53",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1854,
+          "completion_tokens": 514,
+          "total_tokens": 2368,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 22.52,
+        "timestamp": "2026-11-11T08:13:19.182960+00:00"
+      },
+      "processed_pages": [
+        6
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "6aad30708021addae08b91d4d179d6fe9affd59a4cf5da146e9dd62c1764be5b",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2009,
+          "completion_tokens": 539,
+          "total_tokens": 2548,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 17.58,
+        "timestamp": "2026-11-11T08:13:36.765380+00:00"
+      },
+      "processed_pages": [
+        10
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "8fd16f57afe29a539bea66a2103be85675fe0320a1ff0f28cc0d84b181f714d0",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1232,
+          "completion_tokens": 417,
+          "total_tokens": 1649,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 13.09,
+        "timestamp": "2026-11-11T08:13:49.868427+00:00"
+      },
+      "processed_pages": [
+        11
+      ]
+    }
+  ],
+  "fingerprint": "d27d6a3a1274afcff0294f86a8f863cf55869deddbe53d596cd7e16bbef4dda5",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

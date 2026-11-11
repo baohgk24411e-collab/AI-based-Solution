@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công trình đã cung cấp thông tin về tỷ lệ bao bì tái chế, tái sử dụng hoặc phân hủy sinh học là 74% cho bao bì nhựa vào năm 2021, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p172:c2",
+      "pdf_page": 172,
+      "quote": "Consequently, 84%  of the packaging is recyclable, reusable or compostable in 2021 (81% in 2020). Specifically for plastic packaging, it represented 74% (67% in 2020)."
+    }
+  ],
+  "claim_id": "danone_2021_d07c2e3494bc",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3592,
+      "completion_tokens": 155,
+      "total_tokens": 3747,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.17,
+    "timestamp": "2026-11-11T07:53:49.690741+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "9390e25fffd351d3897f44a466109d9029615f92a654a7872f951da80b4404e1",
+  "retrieved_chunk_ids": [
+    "danone_2021:p172:c2",
+    "danone_2021:p25:c1",
+    "danone_2021:p172:c1",
+    "danone_2021:p214:c2",
+    "danone_2021:p163:c1"
+  ]
+}

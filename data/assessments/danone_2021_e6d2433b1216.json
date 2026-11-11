@@ -1,0 +1,43 @@
+{
+  "label": "supported",
+  "rationale": "Đoạn văn bản cung cấp thông tin rằng Danone có mục tiêu chuyển đổi chuỗi giá trị của mình bằng cách phát triển các giải pháp tích cực cho hành tinh. Điều này tương đồng với tuyên bố của công ty về việc thực hiện mục tiêu 2030 là 'Preserve and renew the planet’s resources' (giữ gìn và tái tạo tài nguyên hành tinh).",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p162:c1",
+      "pdf_page": 162,
+      "quote": "“Preserve and renew the pla - net’s resources”, Danone’s ambition is to transform its value chain by developing solutions that are positive for the planet."
+    }
+  ],
+  "claim_id": "danone_2021_e6d2433b1216",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "df7b636e990a486bb93c3a0d38c22302ebd640f0a776b5a7a276e5a1e16460e6",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3564,
+      "completion_tokens": 161,
+      "total_tokens": 3725,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 15.42,
+    "timestamp": "2026-11-11T07:56:14.585470+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "758408039a9fcd3b7b1cae42e82b4636bac6e58d5fbc3841d8533ec3dfdc8c85",
+  "retrieved_chunk_ids": [
+    "danone_2021:p162:c1",
+    "danone_2021:p171:c1",
+    "danone_2021:p149:c2",
+    "danone_2021:p33:c2",
+    "danone_2021:p32:c1"
+  ]
+}

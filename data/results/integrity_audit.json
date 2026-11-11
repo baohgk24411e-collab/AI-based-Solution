@@ -1,0 +1,165 @@
+{
+  "reports": [
+    {
+      "report_id": "nestle_2021",
+      "pages_processed": 12,
+      "selected_pages": 12,
+      "claims_source_checked": 17,
+      "assessments_citations_checked": 17,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "nestle_2022",
+      "pages_processed": 16,
+      "selected_pages": 16,
+      "claims_source_checked": 17,
+      "assessments_citations_checked": 16,
+      "not_assessed": 1
+    },
+    {
+      "report_id": "nestle_2023",
+      "pages_processed": 20,
+      "selected_pages": 20,
+      "claims_source_checked": 38,
+      "assessments_citations_checked": 37,
+      "not_assessed": 1
+    },
+    {
+      "report_id": "nestle_2024",
+      "pages_processed": 6,
+      "selected_pages": 6,
+      "claims_source_checked": 7,
+      "assessments_citations_checked": 7,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "danone_2021",
+      "pages_processed": 25,
+      "selected_pages": 25,
+      "claims_source_checked": 27,
+      "assessments_citations_checked": 23,
+      "not_assessed": 4
+    },
+    {
+      "report_id": "danone_2022",
+      "pages_processed": 30,
+      "selected_pages": 30,
+      "claims_source_checked": 34,
+      "assessments_citations_checked": 27,
+      "not_assessed": 7
+    },
+    {
+      "report_id": "danone_2023",
+      "pages_processed": 30,
+      "selected_pages": 56,
+      "claims_source_checked": 21,
+      "assessments_citations_checked": 0,
+      "not_assessed": 21
+    },
+    {
+      "report_id": "danone_2024",
+      "pages_processed": 0,
+      "selected_pages": 63,
+      "claims_source_checked": 0,
+      "assessments_citations_checked": 0,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "cocacola_2022",
+      "pages_processed": 0,
+      "selected_pages": 29,
+      "claims_source_checked": 0,
+      "assessments_citations_checked": 0,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "cocacola_2023",
+      "pages_processed": 3,
+      "selected_pages": 3,
+      "claims_source_checked": 11,
+      "assessments_citations_checked": 5,
+      "not_assessed": 6
+    },
+    {
+      "report_id": "cocacola_2024",
+      "pages_processed": 5,
+      "selected_pages": 5,
+      "claims_source_checked": 9,
+      "assessments_citations_checked": 6,
+      "not_assessed": 3
+    },
+    {
+      "report_id": "pg_2021",
+      "pages_processed": 2,
+      "selected_pages": 2,
+      "claims_source_checked": 1,
+      "assessments_citations_checked": 1,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "pg_2022",
+      "pages_processed": 4,
+      "selected_pages": 4,
+      "claims_source_checked": 16,
+      "assessments_citations_checked": 16,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "pg_2023",
+      "pages_processed": 0,
+      "selected_pages": 10,
+      "claims_source_checked": 0,
+      "assessments_citations_checked": 0,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "pg_2024",
+      "pages_processed": 4,
+      "selected_pages": 4,
+      "claims_source_checked": 5,
+      "assessments_citations_checked": 5,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "reckitt_2021",
+      "pages_processed": 0,
+      "selected_pages": 28,
+      "claims_source_checked": 0,
+      "assessments_citations_checked": 0,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "reckitt_2022",
+      "pages_processed": 0,
+      "selected_pages": 30,
+      "claims_source_checked": 0,
+      "assessments_citations_checked": 0,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "reckitt_2023",
+      "pages_processed": 0,
+      "selected_pages": 24,
+      "claims_source_checked": 0,
+      "assessments_citations_checked": 0,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "reckitt_2024",
+      "pages_processed": 0,
+      "selected_pages": 17,
+      "claims_source_checked": 0,
+      "assessments_citations_checked": 0,
+      "not_assessed": 0
+    },
+    {
+      "report_id": "cocacola_2025",
+      "pages_processed": 5,
+      "selected_pages": 5,
+      "claims_source_checked": 17,
+      "assessments_citations_checked": 13,
+      "not_assessed": 4
+    }
+  ],
+  "note": "Exact-source integrity only, not semantic correctness or independent verification."
+}

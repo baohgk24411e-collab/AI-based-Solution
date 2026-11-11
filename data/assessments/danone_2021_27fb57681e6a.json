@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc thay thế các chai polystyrene bằng PET (một vật liệu tái chế) cho Activia tại Anh, như trong tuyên bố của Danone.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p46:c1",
+      "pdf_page": 46,
+      "quote": "• products with little or no added sugar under the Oikos (Greek yogurt), Activia and Actimel brands in Europe and Russia (new Actimel range naturally sweetened with honey, in particular); • more environmentally friendly products by replacing polystyrene containers with PET (recyclable material), such as for Activia in the United Kingdom, or by launching Two Good brand products containing fruit from sustainable sources in the United States;"
+    }
+  ],
+  "claim_id": "danone_2021_27fb57681e6a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "f0ad188eac14dc2dda390b8fd811970566ec35c39ada50cc9dbcf1404ad0f790",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3896,
+      "completion_tokens": 192,
+      "total_tokens": 4088,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.91,
+    "timestamp": "2026-11-11T07:55:59.078707+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "1b6e6502859d549eb5e7fff3e8465914acbf51be3457e916d0d84dd602b13b7d",
+  "retrieved_chunk_ids": [
+    "danone_2021:p46:c1",
+    "danone_2021:p46:c2",
+    "danone_2021:p17:c2",
+    "danone_2021:p172:c1",
+    "danone_2021:p17:c3"
+  ]
+}

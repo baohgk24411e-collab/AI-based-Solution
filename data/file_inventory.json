@@ -1,0 +1,515 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 144
+  },
+  {
+    "path": ".streamlit\\config.toml",
+    "bytes": 310,
+    "lines": 18
+  },
+  {
+    "path": "app.py",
+    "bytes": 19546,
+    "lines": 265
+  },
+  {
+    "path": "data\\annotation_queue.csv",
+    "bytes": 37053,
+    "lines": 230
+  },
+  {
+    "path": "data\\annotation_queue.json",
+    "bytes": 96312,
+    "lines": 2966,
+    "json_valid": true,
+    "items": 114
+  },
+  {
+    "path": "data\\audit.json",
+    "bytes": 435,
+    "lines": 18,
+    "json_valid": true,
+    "items": 13
+  },
+  {
+    "path": "data\\audit_workspace.py",
+    "bytes": 1252,
+    "lines": 28
+  },
+  {
+    "path": "data\\batch_errors.json",
+    "bytes": 695,
+    "lines": 26,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\candidates.csv",
+    "bytes": 453721,
+    "lines": 2054
+  },
+  {
+    "path": "data\\candidates.json",
+    "bytes": 793821,
+    "lines": 17444,
+    "json_valid": true,
+    "items": 1026
+  },
+  {
+    "path": "data\\collection_attempts.json",
+    "bytes": 15601,
+    "lines": 322,
+    "json_valid": true,
+    "items": 20
+  },
+  {
+    "path": "data\\corpus_stats.csv",
+    "bytes": 1179,
+    "lines": 42
+  },
+  {
+    "path": "data\\corpus_stats.json",
+    "bytes": 4749,
+    "lines": 222,
+    "json_valid": true,
+    "items": 20
+  },
+  {
+    "path": "data\\discovered_1.json",
+    "bytes": 10446,
+    "lines": 75,
+    "json_valid": true,
+    "items": 73
+  },
+  {
+    "path": "data\\discovered_reckitt.json",
+    "bytes": 4938,
+    "lines": 33,
+    "json_valid": true,
+    "items": 31
+  },
+  {
+    "path": "data\\evaluation.json",
+    "bytes": 362,
+    "lines": 9,
+    "json_valid": true,
+    "items": 7
+  },
+  {
+    "path": "data\\lmstudio_run.log",
+    "bytes": 4872
+  },
+  {
+    "path": "data\\manifest.csv",
+    "bytes": 11929,
+    "lines": 42
+  },
+  {
+    "path": "data\\manifest.json",
+    "bytes": 18760,
+    "lines": 373,
+    "json_valid": true,
+    "items": 20
+  },
+  {
+    "path": "data\\pg_manifest.json",
+    "bytes": 3428,
+    "lines": 74,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\cocacola_2022.json",
+    "bytes": 770258,
+    "lines": 3146,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\cocacola_2023.json",
+    "bytes": 85946,
+    "lines": 434,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\cocacola_2024.json",
+    "bytes": 95478,
+    "lines": 470,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\cocacola_2025.json",
+    "bytes": 96218,
+    "lines": 481,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\danone_2021.json",
+    "bytes": 2993351,
+    "lines": 12254,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\danone_2022.json",
+    "bytes": 2968471,
+    "lines": 12266,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\danone_2023.json",
+    "bytes": 3512382,
+    "lines": 14654,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\danone_2024.json",
+    "bytes": 4364741,
+    "lines": 17474,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\nestle_2021.json",
+    "bytes": 704042,
+    "lines": 2606,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\nestle_2022.json",
+    "bytes": 802049,
+    "lines": 2834,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\nestle_2023.json",
+    "bytes": 894107,
+    "lines": 3470,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\nestle_2024.json",
+    "bytes": 315442,
+    "lines": 1550,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\pg_2021.json",
+    "bytes": 59174,
+    "lines": 517,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\pg_2022.json",
+    "bytes": 149455,
+    "lines": 1045,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\pg_2023.json",
+    "bytes": 289697,
+    "lines": 2029,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\pg_2024.json",
+    "bytes": 55627,
+    "lines": 325,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\reckitt_2021.json",
+    "bytes": 1072377,
+    "lines": 4333,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\reckitt_2022.json",
+    "bytes": 1164980,
+    "lines": 4861,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\reckitt_2023.json",
+    "bytes": 750566,
+    "lines": 3313,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\processed\\reckitt_2024.json",
+    "bytes": 581144,
+    "lines": 2389,
+    "json_valid": true,
+    "items": 4
+  },
+  {
+    "path": "data\\raw_pdfs\\cocacola_2022.pdf",
+    "bytes": 24166157,
+    "pdf_pages": 88,
+    "sha256": "0f3f9766014aa554ae3ea391ac2434d43f989ed7b3d9f30fb826938e2b5d8425"
+  },
+  {
+    "path": "data\\raw_pdfs\\cocacola_2023.pdf",
+    "bytes": 435285,
+    "pdf_pages": 12,
+    "sha256": "14310a603a05e8293f779be156020c3303ef1caa47e4b99be6e20db8cf3d43a4"
+  },
+  {
+    "path": "data\\raw_pdfs\\cocacola_2024.pdf",
+    "bytes": 300625,
+    "pdf_pages": 14,
+    "sha256": "c71a25d345a5b3c5342cce74d63ae9d3e436d9c91e5370ce44014970543c7ec9"
+  },
+  {
+    "path": "data\\raw_pdfs\\cocacola_2025.pdf",
+    "bytes": 231464,
+    "pdf_pages": 14,
+    "sha256": "a95c3cee54ce6df8f64b9fdd1cc5f5f4a47396093dd2950e1ff419911cffc3f7"
+  },
+  {
+    "path": "data\\raw_pdfs\\danone_2021.pdf",
+    "bytes": 8768623,
+    "pdf_pages": 345,
+    "sha256": "b5e5e1d96e73a2c591a43caa38f7ddca4b7003ce68168ed0d6fc69fd95fab0b6"
+  },
+  {
+    "path": "data\\raw_pdfs\\danone_2022.pdf",
+    "bytes": 7552731,
+    "pdf_pages": 345,
+    "sha256": "d3c5cbdd83e16f24ea9c7d5c4f9f4e1b0502d8d01f48bed1c38b9154ae1d2270"
+  },
+  {
+    "path": "data\\raw_pdfs\\danone_2023.pdf",
+    "bytes": 3470436,
+    "pdf_pages": 421,
+    "sha256": "0bb6500adfa0b2387c9492d16513cf222e6849c900ef1d4455844a7d78346fe5"
+  },
+  {
+    "path": "data\\raw_pdfs\\danone_2024.pdf",
+    "bytes": 4128302,
+    "pdf_pages": 494,
+    "sha256": "47d24c0a84d3e86e21cdc63cb8b643f0165419c6013b0e6547fb17a2fbeec6c4"
+  },
+  {
+    "path": "data\\raw_pdfs\\nestle_2021.pdf",
+    "bytes": 16843171,
+    "pdf_pages": 59,
+    "sha256": "b330213c344932055d075a7c2835923a59e2ed4a27bc5aaba71b3505ef227c60"
+  },
+  {
+    "path": "data\\raw_pdfs\\nestle_2022.pdf",
+    "bytes": 15680455,
+    "pdf_pages": 63,
+    "sha256": "60211365ad5bdd0a040f51e992ba003d46d9a81e02accd18ef004213c24d0f01"
+  },
+  {
+    "path": "data\\raw_pdfs\\nestle_2023.pdf",
+    "bytes": 19774183,
+    "pdf_pages": 89,
+    "sha256": "d5722aae2fdf6c1af9641ea9623bd1973ad4b9f5ccd131a28f1fd8b15e133c83"
+  },
+  {
+    "path": "data\\raw_pdfs\\nestle_2024.pdf",
+    "bytes": 6752731,
+    "pdf_pages": 50,
+    "sha256": "6665db45d98c707f32f56e898c5ebe5bee5400ace7937099408e4365015a8bad"
+  },
+  {
+    "path": "data\\raw_pdfs\\pg_2021.pdf",
+    "bytes": 8692150,
+    "pdf_pages": 20,
+    "sha256": "405628f307dd676946fb71c0a243c1c293e9228885354abdb14a51e1013c0cc8"
+  },
+  {
+    "path": "data\\raw_pdfs\\pg_2022.pdf",
+    "bytes": 21110141,
+    "pdf_pages": 42,
+    "sha256": "720c0393201521559bae7e050545c08cbe68007bf1e0d5530b1df0926716d485"
+  },
+  {
+    "path": "data\\raw_pdfs\\pg_2023.pdf",
+    "bytes": 33628560,
+    "pdf_pages": 83,
+    "sha256": "4289067874e04030331746cce11b95cb3f75f5a49bcea5309ff93a6aac3d8486"
+  },
+  {
+    "path": "data\\raw_pdfs\\pg_2024.pdf",
+    "bytes": 553199,
+    "pdf_pages": 11,
+    "sha256": "fd0d4d5086d4d26bc9cff15e0c6a99964818c63ad77915ddbc8280379380c31a"
+  },
+  {
+    "path": "data\\raw_pdfs\\reckitt_2021.pdf",
+    "bytes": 7888547,
+    "pdf_pages": 116,
+    "sha256": "c5c3a9b1ed92b4039803842a25addacd622cd213204063605438e1589ca12939"
+  },
+  {
+    "path": "data\\raw_pdfs\\reckitt_2022.pdf",
+    "bytes": 8179510,
+    "pdf_pages": 134,
+    "sha256": "bf7ed882166f1abb00d0d02d6d90d3ee68c808cbfbf809b44596cbd72967a0d9"
+  },
+  {
+    "path": "data\\raw_pdfs\\reckitt_2023.pdf",
+    "bytes": 13915120,
+    "pdf_pages": 97,
+    "sha256": "cdd8d0a11664609ec9a3dc38546745920c2b159d63746198420e895a01fb0f5b"
+  },
+  {
+    "path": "data\\raw_pdfs\\reckitt_2024.pdf",
+    "bytes": 7334577,
+    "pdf_pages": 68,
+    "sha256": "61f1f6f3a2941e65133e58e97192cf88e05b1038aa8cccf0285727850aeb1d48"
+  },
+  {
+    "path": "data\\sources.json",
+    "bytes": 9886,
+    "lines": 213,
+    "json_valid": true,
+    "items": 20
+  },
+  {
+    "path": "docs\\ANNOTATION_GUIDE.md",
+    "bytes": 5176,
+    "lines": 55
+  },
+  {
+    "path": "docs\\demo.png",
+    "bytes": 47910
+  },
+  {
+    "path": "docs\\DEMO_SCRIPT.md",
+    "bytes": 3201,
+    "lines": 38
+  },
+  {
+    "path": "docs\\IMPLEMENTATION_STATUS.md",
+    "bytes": 1818,
+    "lines": 18
+  },
+  {
+    "path": "docs\\original\\261EIM500601_Group10.pdf",
+    "bytes": 3188586,
+    "pdf_pages": 13,
+    "sha256": "2c222ad976de67f92189be04e3b34c2aeb2ee6925905089691a9480cc281bf03"
+  },
+  {
+    "path": "docs\\original\\FinalProject_Proposal.pdf",
+    "bytes": 399952,
+    "pdf_pages": 9,
+    "sha256": "c0b714cb374dcf31caa237c962ad9248ddf87f0de1ad3c946ab050215a99bdcb"
+  },
+  {
+    "path": "docs\\PROPOSAL_UPDATED.md",
+    "bytes": 12224,
+    "lines": 120
+  },
+  {
+    "path": "docs\\SLIDES_UPDATED.md",
+    "bytes": 5645,
+    "lines": 147
+  },
+  {
+    "path": "launch.py",
+    "bytes": 491,
+    "lines": 13
+  },
+  {
+    "path": "prepare_review.py",
+    "bytes": 2620,
+    "lines": 42
+  },
+  {
+    "path": "README.md",
+    "bytes": 4615,
+    "lines": 63
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 76,
+    "lines": 5
+  },
+  {
+    "path": "run_llm.py",
+    "bytes": 10427,
+    "lines": 160
+  },
+  {
+    "path": "src\\__init__.py",
+    "bytes": 2,
+    "lines": 1
+  },
+  {
+    "path": "src\\collect.py",
+    "bytes": 3528,
+    "lines": 87
+  },
+  {
+    "path": "src\\common.py",
+    "bytes": 1409,
+    "lines": 39
+  },
+  {
+    "path": "src\\evaluate.py",
+    "bytes": 3094,
+    "lines": 61
+  },
+  {
+    "path": "src\\llm.py",
+    "bytes": 16014,
+    "lines": 247
+  },
+  {
+    "path": "src\\numeric.py",
+    "bytes": 1907,
+    "lines": 30
+  },
+  {
+    "path": "src\\pipeline.py",
+    "bytes": 7178,
+    "lines": 136
+  },
+  {
+    "path": "START.cmd",
+    "bytes": 92,
+    "lines": 3
+  },
+  {
+    "path": "START.ps1",
+    "bytes": 1122,
+    "lines": 26
+  },
+  {
+    "path": "tests\\test_app.py",
+    "bytes": 1388,
+    "lines": 26
+  },
+  {
+    "path": "tests\\test_core.py",
+    "bytes": 5245,
+    "lines": 85
+  },
+  {
+    "path": "tests\\test_local_llm.py",
+    "bytes": 2586,
+    "lines": 50
+  }
+]

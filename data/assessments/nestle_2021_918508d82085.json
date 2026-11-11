@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đang giảm bớt vật liệu bao bì bằng cách loại bỏ các phần nhựa không cần thiết như nắp chai, phụ kiện, lớp và màng. Ví dụ, tại Ai Cập, công ty đã loại bỏ các băng dính nắp chai PVC từ chai nước Nestlé Pure Life, tiết kiệm 240 tấn PVC mỗi năm.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p35:c1",
+      "pdf_page": 35,
+      "quote": "We are reducing packaging materials by removing unnecessary plastic lids, accessories, layers and films. For example, in Egypt, we have eliminated plastic bottle cap tear-off bands from Nestlé Pure Life water bottles, getting rid of 240 tonnes of PVC annually."
+    }
+  ],
+  "claim_id": "nestle_2021_918508d82085",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3649,
+      "completion_tokens": 187,
+      "total_tokens": 3836,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.97,
+    "timestamp": "2026-11-11T07:28:44.801860+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "5771f96e9bc8617d63738c04d9bdff7d64ea3e1fe6d1144c447d0108b56aa9af",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p35:c1",
+    "nestle_2021:p35:c2",
+    "nestle_2021:p36:c1",
+    "nestle_2021:p36:c2",
+    "nestle_2021:p34:c2"
+  ]
+}

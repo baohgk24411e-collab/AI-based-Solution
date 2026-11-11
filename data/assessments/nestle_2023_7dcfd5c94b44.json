@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Nestlé xác nhận rằng 41.5% bao bì của họ được làm từ vật liệu tái chế và/hoặc tái tạo vào năm 2023, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p41:c1",
+      "pdf_page": 41,
+      "quote": "– 41.5% of our packaging was made from recycled and/or renewable materials."
+    }
+  ],
+  "claim_id": "nestle_2023_7dcfd5c94b44",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3506,
+      "completion_tokens": 123,
+      "total_tokens": 3629,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.2,
+    "timestamp": "2026-11-11T07:44:04.308855+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "ad9e5e47bcd4099368e955939b06589dc79a55673d3d12f4095abac263357018",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p43:c3",
+    "nestle_2023:p41:c1",
+    "nestle_2023:p82:c2",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p82:c1"
+  ]
+}

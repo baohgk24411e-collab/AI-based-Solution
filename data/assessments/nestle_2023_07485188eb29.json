@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc giảm sử dụng nhựa nguyên sinh trong bao bì từ năm 2018 với mức giảm 14.9%, nhưng không cung cấp dữ liệu cụ thể về lượng nhựa nguyên sinh đã giảm bao nhiêu so với năm 2018.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p41:c1",
+      "pdf_page": 41,
+      "quote": "Virgin plastic in our packaging had reduced by 14.9% since 2018."
+    }
+  ],
+  "claim_id": "nestle_2023_07485188eb29",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4031,
+      "completion_tokens": 143,
+      "total_tokens": 4174,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.19,
+    "timestamp": "2026-11-11T07:44:11.504678+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "56ac5e9d4566570563e6f80cdb0bc8e1b38f6331ce660e94b201428b615f375b",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p41:c1",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p3:c1",
+    "nestle_2023:p42:c1",
+    "nestle_2023:p42:c2"
+  ]
+}

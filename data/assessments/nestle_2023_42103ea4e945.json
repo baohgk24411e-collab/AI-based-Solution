@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu thiết kế hơn 95% bao bì nhựa cho tái chế vào năm 2025, nhưng không cung cấp dữ liệu cụ thể về tỷ lệ thực tế. Không có thông tin về việc đạt được mục tiêu này trong năm 2023.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p41:c1",
+      "pdf_page": 41,
+      "quote": "We aim for >95% of our plastic packaging to be designed for recycling by 2025*"
+    }
+  ],
+  "claim_id": "nestle_2023_42103ea4e945",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4079,
+      "completion_tokens": 148,
+      "total_tokens": 4227,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.61,
+    "timestamp": "2026-11-11T07:43:41.284487+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "8e6e1057c99822270fa54de92009baec1365c9b764d14fd5bea5b3e7e4b99600",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p41:c1",
+    "nestle_2023:p3:c1",
+    "nestle_2023:p42:c2",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p44:c1"
+  ]
+}

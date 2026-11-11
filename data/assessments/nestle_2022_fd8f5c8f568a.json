@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Nestlé đã tiết kiệm hơn 2500 tấn polypropylene thông qua việc giảm trọng lượng nhựa trong các viên nén mới lên đến 13% vào năm 2022, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p45:c1",
+      "pdf_page": 45,
+      "quote": "In 2022, Nescafé Dolce Gusto unveiled new capsules that will save more than 2500 tonnes of polypropylene thanks to a 13% plastic weight reduction in the capsules."
+    }
+  ],
+  "claim_id": "nestle_2022_fd8f5c8f568a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3761,
+      "completion_tokens": 149,
+      "total_tokens": 3910,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.16,
+    "timestamp": "2026-11-11T07:32:46.640773+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "18460473652e1aa034e86829d423c4704124e6a913a3ee6d495cd967c9a8e6b6",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p45:c1",
+    "nestle_2022:p45:c3",
+    "nestle_2022:p63:c3",
+    "nestle_2022:p45:c4",
+    "nestle_2022:p32:c2"
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "report_id": "pg_2021",
+    "stage": "extract",
+    "page": 11,
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "pg_2021",
+    "stage": "extract",
+    "page": 13,
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "pg_2021",
+    "stage": "verify",
+    "claim_id": "pg_2021_3e65b77e2018",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "nestle_2022",
+    "stage": "verify",
+    "claim_id": "nestle_2022_b747f3972d86",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "nestle_2022",
+    "stage": "verify",
+    "claim_id": "nestle_2022_792842ffb9db",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "nestle_2022",
+    "stage": "verify",
+    "claim_id": "nestle_2022_0e5152a84d95",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "nestle_2022",
+    "stage": "verify",
+    "claim_id": "nestle_2022_97a22d9afa72",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "nestle_2021",
+    "stage": "verify",
+    "claim_id": "nestle_2021_b49e7359cc31",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "nestle_2021",
+    "stage": "verify",
+    "claim_id": "nestle_2021_b49e7359cc31",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "nestle_2022",
+    "stage": "verify",
+    "claim_id": "nestle_2022_ca5b7e3915a8",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "nestle_2022",
+    "stage": "verify",
+    "claim_id": "nestle_2022_97a22d9afa72",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "nestle_2023",
+    "stage": "verify",
+    "claim_id": "nestle_2023_f24b297383fb",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2021",
+    "stage": "verify",
+    "claim_id": "danone_2021_51039ab5b338",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2021",
+    "stage": "verify",
+    "claim_id": "danone_2021_27fb57681e6a",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2021",
+    "stage": "verify",
+    "claim_id": "danone_2021_e6d2433b1216",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2021",
+    "stage": "verify",
+    "claim_id": "danone_2021_5387e535386e",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2021",
+    "stage": "verify",
+    "claim_id": "danone_2021_a28488d659c6",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "danone_2021",
+    "stage": "verify",
+    "claim_id": "danone_2021_fcb008a15e0b",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2022",
+    "stage": "verify",
+    "claim_id": "danone_2022_99501fbf9d9d",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2022",
+    "stage": "verify",
+    "claim_id": "danone_2022_8f40248bde8b",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "danone_2022",
+    "stage": "verify",
+    "claim_id": "danone_2022_d7a725cc0b0c",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2022",
+    "stage": "verify",
+    "claim_id": "danone_2022_7c9ed6dea9d8",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "cocacola_2024",
+    "stage": "verify",
+    "claim_id": "cocacola_2024_74d5dce3451b",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "cocacola_2024",
+    "stage": "verify",
+    "claim_id": "cocacola_2024_74d5dce3451b",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "cocacola_2024",
+    "stage": "verify",
+    "claim_id": "cocacola_2024_fa85c814364a",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "cocacola_2024",
+    "stage": "verify",
+    "claim_id": "cocacola_2024_c2c1bb12302b",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "cocacola_2025",
+    "stage": "verify",
+    "claim_id": "cocacola_2025_c2c1bb12302b",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "cocacola_2025",
+    "stage": "verify",
+    "claim_id": "cocacola_2025_d859412a984a",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "cocacola_2025",
+    "stage": "verify",
+    "claim_id": "cocacola_2025_4c7006dc47c1",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "cocacola_2025",
+    "stage": "verify",
+    "claim_id": "cocacola_2025_ce447ba256a5",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  }
+]

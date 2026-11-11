@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về lượng khí thải CO2e cụ thể từ bao bì so với tổng lượng khí thải. Chỉ có phần trăm của khí thải bao bì trong cam kết net zero được đề cập, nhưng không có số liệu cụ thể về lượng khí thải CO2e.",
+  "flags": [
+    "缺少具体数值支持",
+    "未提供总量对比"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p14:c1",
+      "pdf_page": 14,
+      "quote": "All packaging accounts for 11.70% (or 9.31 million tonnes of CO2e) of the GHG emissions in our net zero commitment."
+    }
+  ],
+  "claim_id": "nestle_2023_d4775d4a60b7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4801,
+      "completion_tokens": 192,
+      "total_tokens": 4993,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.61,
+    "timestamp": "2026-11-11T07:43:15.665446+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "88c92abff4e00acbc7ef6893213f9391559b76518d28725df1905918913ad31c",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p14:c1",
+    "nestle_2023:p78:c1",
+    "nestle_2023:p8:c1",
+    "nestle_2023:p79:c1",
+    "nestle_2023:p7:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp số liệu cụ thể về tỷ lệ bao bì tái chế, tái sử dụng hoặc phân hủy hữu cơ. Chỉ đề cập đến mục tiêu tương lai là 84% vào năm 2021 và 100% vào năm 2025.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p214:c2",
+      "pdf_page": 214,
+      "quote": "• % of recyclable, reusable or compostable packaging"
+    }
+  ],
+  "claim_id": "danone_2021_79ab38493514",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3588,
+      "completion_tokens": 123,
+      "total_tokens": 3711,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.74,
+    "timestamp": "2026-11-11T07:56:20.748371+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "cd6c489097ed2aa4f59a4ab11498616614dd57f82599405857eb5dc41a363e2e",
+  "retrieved_chunk_ids": [
+    "danone_2021:p214:c2",
+    "danone_2021:p172:c1",
+    "danone_2021:p172:c2",
+    "danone_2021:p25:c1",
+    "danone_2021:p168:c1"
+  ]
+}

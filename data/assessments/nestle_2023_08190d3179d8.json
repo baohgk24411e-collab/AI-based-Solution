@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Nestlé hỗ trợ các lao động thu gom rác dựa trên Tuyên ngôn Nguyên tắc Công bằngCircularity của Liên Hợp Quốc. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p45:c1",
+      "pdf_page": 45,
+      "quote": "Waste pickers play an important role in the circularity of packaging waste and we support them based on the UN Guiding Principles on Business and Human Rights."
+    }
+  ],
+  "claim_id": "nestle_2023_08190d3179d8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3453,
+      "completion_tokens": 127,
+      "total_tokens": 3580,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.19,
+    "timestamp": "2026-11-11T07:46:31.876139+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "9d9ae68b4f8200316e50f20b5833e5ec62338b5d15f215c2a454956c6d01b859",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p45:c1",
+    "nestle_2023:p45:c2",
+    "nestle_2023:p6:c2",
+    "nestle_2023:p44:c1",
+    "nestle_2023:p44:c2"
+  ]
+}

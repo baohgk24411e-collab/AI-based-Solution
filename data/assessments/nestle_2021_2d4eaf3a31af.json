@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu về việc làm cho tất cả bao bì của Nestlé trở nên tái sử dụng hoặc tái chế được vào năm 2025, nhưng không cung cấp bằng chứng cụ thể về việc đạt được mục tiêu này. Không có thông tin về tỷ lệ thực tế tái chế hay tình trạng tái sử dụng bao bì nhựa.",
+  "flags": [
+    "无具体实现数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p35:c1",
+      "pdf_page": 35,
+      "quote": "Our vision is ambitious: a world in which none of Nestlé’s packaging, including plastics, ends up in landfill or as litter on land or in seas, oceans and waterways."
+    }
+  ],
+  "claim_id": "nestle_2021_2d4eaf3a31af",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3901,
+      "completion_tokens": 177,
+      "total_tokens": 4078,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.92,
+    "timestamp": "2026-11-11T07:38:40.750119+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "a7601c6ba7308e62eda99f7f65ba7028f94859cbf7426727e07fdec62d1e67ce",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p35:c1",
+    "nestle_2021:p37:c2",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p37:c1",
+    "nestle_2021:p27:c1"
+  ]
+}

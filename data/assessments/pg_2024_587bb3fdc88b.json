@@ -1,0 +1,39 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc giảm sử dụng nhựa nguyên sinh nhưng không cung cấp dữ liệu về tỷ lệ tái chế.",
+  "flags": [
+    "missing_recycling_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2024:p7:c1",
+      "pdf_page": 7,
+      "quote": "21% reduction10"
+    }
+  ],
+  "claim_id": "pg_2024_587bb3fdc88b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "fbf221ecd42ebf657c8b68034921fbb03c2710f566cdf280a0fe1352ddd924c8",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 1331,
+      "completion_tokens": 91,
+      "total_tokens": 1422,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.22,
+    "timestamp": "2026-11-11T08:07:55.972140+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2024",
+  "fingerprint": "3b95d97797bf7bcbfc8853515881b2813a20f0bf978f807da9dea5b04abf7a84",
+  "retrieved_chunk_ids": [
+    "pg_2024:p7:c1"
+  ]
+}

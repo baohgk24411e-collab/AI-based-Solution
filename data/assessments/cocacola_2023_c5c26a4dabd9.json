@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc sử dụng 27% chất tái chế trong bao bì chính vào năm 2023, không có thông tin về mục tiêu sử dụng 50% chất tái chế vào năm 2030.",
+  "flags": [
+    "目标年份数据不足"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2023:p5:c1",
+      "pdf_page": 5,
+      "quote": "GOAL: Use at least 50% recycled content in our packaging by 2030. PROGRESS: Used 27% recycled materials in our primary packaging globally."
+    }
+  ],
+  "claim_id": "cocacola_2023_c5c26a4dabd9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "13f04b28857011b4b650eaf549637e68c58a21a670487b22a06b9487a84a2222",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3484,
+      "completion_tokens": 168,
+      "total_tokens": 3652,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 14.39,
+    "timestamp": "2026-11-11T08:04:15.349492+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2023",
+  "fingerprint": "8f667d2b4bf959f9eb056c11392c795f7cfa724b70d5a0330788810519f290e6",
+  "retrieved_chunk_ids": [
+    "cocacola_2023:p5:c1",
+    "cocacola_2023:p5:c2",
+    "cocacola_2023:p9:c2",
+    "cocacola_2023:p5:c3",
+    "cocacola_2023:p4:c1"
+  ]
+}

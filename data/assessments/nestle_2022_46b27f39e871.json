@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đã tham gia vào Ellen MacArthur Foundation’s New Plastics Economy từ năm 2017 và cam kết làm việc với ngành để tạo ra một kinh tế tái chế cho nhựa. Điều này tương thích với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p44:c1",
+      "pdf_page": 44,
+      "quote": "We are part of the Ellen MacArthur Foundation’s New Plastics Economy – an initiative that mobilized the first voluntary industry action in 2017 – and we have pledged to work as an industry to create a circular economy for plastic."
+    }
+  ],
+  "claim_id": "nestle_2022_46b27f39e871",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3739,
+      "completion_tokens": 155,
+      "total_tokens": 3894,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.22,
+    "timestamp": "2026-11-11T07:39:47.713056+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "63fbac58c8720f9a32cb657315ecfa1928aa17381f581688081c7acc0b44f774",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p44:c1",
+    "nestle_2022:p44:c2",
+    "nestle_2022:p9:c1",
+    "nestle_2022:p46:c1",
+    "nestle_2022:p43:c1"
+  ]
+}

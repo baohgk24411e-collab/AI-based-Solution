@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận mục tiêu giảm sử dụng nhựa nguyên sinh một phần ba vào năm 2025.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p34:c1",
+      "pdf_page": 34,
+      "quote": "We will reduce our use of virgin plastics by one third by 2025"
+    }
+  ],
+  "claim_id": "nestle_2021_6987a1a85d3b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3732,
+      "completion_tokens": 88,
+      "total_tokens": 3820,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.36,
+    "timestamp": "2026-11-11T07:28:03.164869+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "54a7135e497c76e82eae7314f5f12f1c5d432f7865d38cc0674affc788f8601f",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p4:c1",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p35:c1",
+    "nestle_2021:p21:c1",
+    "nestle_2021:p8:c2"
+  ]
+}

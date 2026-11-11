@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ bao bì tái sử dụng hoặc tái chế vào năm 2025 như tuyên bố. Chỉ có mục tiêu là 100% bao bì sẽ tái sử dụng hoặc tái chế được, nhưng không có thông tin về tiến trình đạt được.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p34:c1",
+      "pdf_page": 34,
+      "quote": "We will make 100% of our packaging recyclable or reusable* by 2025"
+    }
+  ],
+  "claim_id": "nestle_2021_485addedbfda",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3682,
+      "completion_tokens": 139,
+      "total_tokens": 3821,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.72,
+    "timestamp": "2026-11-11T07:38:19.702076+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "bd7b65f69735bf4a461968e6be10db78e03ec390a74fbc56f1ac449c42ab3f4d",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p4:c1",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p8:c2",
+    "nestle_2021:p37:c1",
+    "nestle_2021:p35:c1"
+  ]
+}

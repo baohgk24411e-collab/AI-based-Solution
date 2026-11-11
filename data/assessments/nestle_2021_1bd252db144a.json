@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về tỷ lệ tái chế của bao bì so với tổng lượng bao bì sử dụng trong năm 2021. Chỉ có thông tin về việc tiến độ đạt được mục tiêu tái chế bao bì đến năm 2025.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p34:c2",
+      "pdf_page": 34,
+      "quote": "We are making good progress toward our target to have all packaging designed for recycling by 2025."
+    }
+  ],
+  "claim_id": "nestle_2021_1bd252db144a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3473,
+      "completion_tokens": 146,
+      "total_tokens": 3619,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.66,
+    "timestamp": "2026-11-11T07:38:32.807600+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "bae29b88d87e9033cfded7d1fa583135eb9667a795034f028b159d78486f0b4e",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p34:c2",
+    "nestle_2021:p3:c1",
+    "nestle_2021:p21:c2",
+    "nestle_2021:p26:c3",
+    "nestle_2021:p22:c1"
+  ]
+}

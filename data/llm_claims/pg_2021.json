@@ -1,0 +1,81 @@
+{
+  "claims": [
+    {
+      "claim_text": "In 2021, 73% of our consumer packaging is recyclable or reusable, and we continue to work towards 100% recyclable or reusable consumer packaging.",
+      "source_page": 13,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": 2022,
+      "value": 73,
+      "claim_id": "pg_2021_3e65b77e2018",
+      "report_id": "pg_2021",
+      "company": "Procter & Gamble",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    11,
+    13
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 999,
+          "completion_tokens": 10,
+          "total_tokens": 1009,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.17,
+        "timestamp": "2026-11-11T07:25:45.774172+00:00"
+      },
+      "processed_pages": [
+        11
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1327,
+          "completion_tokens": 130,
+          "total_tokens": 1457,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.03,
+        "timestamp": "2026-11-11T07:25:49.799157+00:00"
+      },
+      "processed_pages": [
+        13
+      ]
+    }
+  ],
+  "fingerprint": "1a5918e68650e9028c97ecc0804dfc715ec5ada3d9f1d3ab4e059fe9fc5eb829",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Danone đang hỗ trợ nguyên tắc trách nhiệm sản xuất kéo dài (EPR) bao gồm các chương trình trả lại chai (Deposit Return Schemes) cho chai nước giải khát. Điều này được đề cập trong phần 'N ATURE' của báo cáo, trang 164.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p166:c1",
+      "pdf_page": 166,
+      "quote": "Danone is supporting Extended Producer Responsibility (EPR) principle including Deposit Return Schemes for beverage bottles."
+    }
+  ],
+  "claim_id": "danone_2022_116c7b1ecf04",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4184,
+      "completion_tokens": 143,
+      "total_tokens": 4327,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 14.94,
+    "timestamp": "2026-11-11T08:08:43.197268+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "705f0f789e75e6d5828a3cf85cc796d872fb09e31d3bc95cf91ab6b80cefe84b",
+  "retrieved_chunk_ids": [
+    "danone_2022:p166:c1",
+    "danone_2022:p292:c1",
+    "danone_2022:p166:c2",
+    "danone_2022:p298:c1",
+    "danone_2022:p175:c1"
+  ]
+}

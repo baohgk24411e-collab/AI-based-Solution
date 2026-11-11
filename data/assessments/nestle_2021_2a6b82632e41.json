@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ tái chế hoặc sử dụng chất liệu tái sinh và sinh học trong bao bì của Nestlé. Các thông tin chỉ đề cập đến các sáng kiến và mục tiêu chung mà không có số liệu hỗ trợ.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p36:c1",
+      "pdf_page": 36,
+      "quote": "Other areas of innovation include more simplified packaging, refillable designs, alternative delivery solutions and high-performance technology for paper barriers as well as increasing recycled and bio-based content and compostable and biodegradable materials."
+    }
+  ],
+  "claim_id": "nestle_2021_2a6b82632e41",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3760,
+      "completion_tokens": 158,
+      "total_tokens": 3918,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.3,
+    "timestamp": "2026-11-11T07:38:55.775234+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "8b4a674c4d49cc3f35afc0372fcfe2d68ecf699ba1bd81d28f26c5848308b8aa",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p36:c1",
+    "nestle_2021:p8:c2",
+    "nestle_2021:p35:c2",
+    "nestle_2021:p37:c2",
+    "nestle_2021:p37:c1"
+  ]
+}

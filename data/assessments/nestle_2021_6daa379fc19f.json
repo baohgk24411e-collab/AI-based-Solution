@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về khối lượng tổng thể của bao bì là 3.8 triệu tấn (tăng từ 4.5 triệu tấn vào năm 2020), phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p34:c1",
+      "pdf_page": 34,
+      "quote": "3.8 million Total weight of packaging in tonnes (4.5 million in 2020)"
+    }
+  ],
+  "claim_id": "nestle_2021_6daa379fc19f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3489,
+      "completion_tokens": 118,
+      "total_tokens": 3607,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.97,
+    "timestamp": "2026-11-11T07:28:15.289842+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "e9741c28b5b86919ee82e6a143aee137f4c0ec970d4d7bfcb9b97f0865089160",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p37:c2",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p3:c1",
+    "nestle_2021:p26:c3",
+    "nestle_2021:p21:c2"
+  ]
+}

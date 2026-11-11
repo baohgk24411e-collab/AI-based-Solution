@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến tỷ lệ bao bì có thể tái chế toàn cầu là 99% vào năm 2024, nhưng không cung cấp bằng chứng về việc thực tế đã tái chế được bao nhiêu bao bì. Không có thông tin cụ thể về lượng bao bì thực tế đã được tái chế.",
+  "flags": [
+    "missing_relevant_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2024:p6:c1",
+      "pdf_page": 6,
+      "quote": "99% OF OUR PACKAGES WERE RECYCLABLE2 GLOBALLY IN 2024."
+    }
+  ],
+  "claim_id": "cocacola_2024_7bc08c524122",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "39380943221455a14f6ba622d38f92967fcbdd3dbd080c030dc9e8507ef04885",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4183,
+      "completion_tokens": 158,
+      "total_tokens": 4341,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 14.91,
+    "timestamp": "2026-11-11T08:09:54.715420+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2024",
+  "fingerprint": "27e516f99764481a9db44aa498d79b4655e6ec34320838cdf7d58ebdf7e76bea",
+  "retrieved_chunk_ids": [
+    "cocacola_2024:p6:c1",
+    "cocacola_2024:p5:c1",
+    "cocacola_2024:p10:c1",
+    "cocacola_2024:p10:c2",
+    "cocacola_2024:p6:c2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Danone sẽ loại bỏ sử dụng polystyrene trong bao bì toàn cầu vào năm 2025 và tại châu Âu vào năm 2024, phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p97:c3",
+      "pdf_page": 97,
+      "quote": "use of polystyrene in its packaging to be eliminated by 2025 worldwide and by 2024 in Europe."
+    }
+  ],
+  "claim_id": "danone_2021_573bae13e74d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3621,
+      "completion_tokens": 143,
+      "total_tokens": 3764,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.78,
+    "timestamp": "2026-11-11T07:52:51.100560+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "060aa1d56026b4635d89a7d6c70b38ab3d0024ac256cf896e00b1288cca87047",
+  "retrieved_chunk_ids": [
+    "danone_2021:p97:c3",
+    "danone_2021:p172:c1",
+    "danone_2021:p172:c2",
+    "danone_2021:p173:c1",
+    "danone_2021:p173:c2"
+  ]
+}

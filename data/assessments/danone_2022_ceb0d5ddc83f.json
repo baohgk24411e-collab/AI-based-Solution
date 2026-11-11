@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Đoạn văn bản cung cấp thông tin về chiến lược của Danone nhằm tái tạo và bảo vệ tự nhiên, đồng thời xác nhận mục tiêu này trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p151:c1",
+      "pdf_page": 151,
+      "quote": "Danone’s ambition is to transform its value chain by developing solutions that preserve and regenerate nature."
+    }
+  ],
+  "claim_id": "danone_2022_ceb0d5ddc83f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3472,
+      "completion_tokens": 100,
+      "total_tokens": 3572,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.67,
+    "timestamp": "2026-11-11T08:03:53.639393+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "8db359e1d1aece433602089e90b50d91315bbd5ee8520b387ff420f500d44a8d",
+  "retrieved_chunk_ids": [
+    "danone_2022:p151:c1",
+    "danone_2022:p144:c1",
+    "danone_2022:p146:c2",
+    "danone_2022:p159:c1",
+    "danone_2022:p150:c1"
+  ]
+}

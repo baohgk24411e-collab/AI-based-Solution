@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "文字段落明确支持了该声明，指出Nestlé的目标是在2025年前使超过95%的塑料包装设计为可回收。具体见原文：“By 2025, we aim to design above 95% of our plastic packaging for recycling and continue to work toward 100% being recyclable or reusable Percentage of plastic packaging designed for recycling7 (%)”，以及“我们旨在到2025年使超过95%的塑料包装设计为可回收”。",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p43:c1",
+      "pdf_page": 43,
+      "quote": "We aim for >95% of our plastic packaging to be designed for recycling by 2025"
+    }
+  ],
+  "claim_id": "nestle_2022_ca5b7e3915a8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4131,
+      "completion_tokens": 183,
+      "total_tokens": 4314,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.08,
+    "timestamp": "2026-11-11T07:31:46.835725+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "01d55dc1e9d197c06545d23d645d4d4acbfc961abdb9ad89a3b75ecbe09908b7",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p43:c1",
+    "nestle_2022:p44:c1",
+    "nestle_2022:p3:c1",
+    "nestle_2022:p44:c2",
+    "nestle_2022:p45:c3"
+  ]
+}

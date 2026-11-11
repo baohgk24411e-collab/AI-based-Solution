@@ -1,0 +1,43 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Coca-Cola đang hướng tới mục tiêu làm cho 100% bao bì của họ tái chế được toàn cầu vào năm 2025. Trong báo cáo, có ghi rõ: 'GOAL: Make 100% of our packaging recyclable globally1 by 2025.'",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2023:p5:c1",
+      "pdf_page": 5,
+      "quote": "GOAL: Make 100% of our packaging recyclable globally1 by 2025."
+    }
+  ],
+  "claim_id": "cocacola_2023_20ed06d1c274",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "a8fff18af24fb48360769dc2f1ee5f3891af422b0acb5bda33338528eab1c0a2",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4042,
+      "completion_tokens": 149,
+      "total_tokens": 4191,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 12.78,
+    "timestamp": "2026-11-11T08:04:00.969328+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2023",
+  "fingerprint": "559d0ae19bd2f54f8bed796c83cda659be2d189aae2a1713ddc769b263148bcf",
+  "retrieved_chunk_ids": [
+    "cocacola_2023:p5:c1",
+    "cocacola_2023:p5:c2",
+    "cocacola_2023:p9:c2",
+    "cocacola_2023:p4:c2",
+    "cocacola_2023:p9:c1"
+  ]
+}

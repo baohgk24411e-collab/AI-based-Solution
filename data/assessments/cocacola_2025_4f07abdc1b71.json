@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Bài báo cáo cung cấp thông tin rằng '14% OF TOTAL BEVERAGE VOLUME WAS SERVED IN REUSABLE5 PACKAGING' trong năm 2025.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p6:c1",
+      "pdf_page": 6,
+      "quote": "IN 2025, 14% OF TOTAL BEVERAGE VOLUME WAS SERVED IN REUSABLE5 PACKAGING."
+    }
+  ],
+  "claim_id": "cocacola_2025_4f07abdc1b71",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "c277bec123a0010971925502a3b341974f1da5080b94b44c86670b76e06c0585",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4120,
+      "completion_tokens": 113,
+      "total_tokens": 4233,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 13.51,
+    "timestamp": "2026-11-11T08:15:09.768092+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "78f1dd3e65d72ad603a8abb2ec853a98849b95b50da53e555471fe3c553aeb28",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p11:c1",
+    "cocacola_2025:p9:c1",
+    "cocacola_2025:p10:c2"
+  ]
+}

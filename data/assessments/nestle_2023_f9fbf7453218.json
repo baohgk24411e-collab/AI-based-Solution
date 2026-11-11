@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đã tham gia vào Khởi nghiệp Mới về Nhựa của Quỹ Ellen MacArthur vào năm 2017, như tuyên bố. Chunk_id: nestle_2023:p42:c1, pdf_page: 42.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p42:c1",
+      "pdf_page": 42,
+      "quote": "We are part of the Ellen MacArthur Foundation’s New Plastics Economy initiative, which, in 2017, mobilized the first voluntary industry action on plastic packaging use."
+    }
+  ],
+  "claim_id": "nestle_2023_f9fbf7453218",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3947,
+      "completion_tokens": 152,
+      "total_tokens": 4099,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.36,
+    "timestamp": "2026-11-11T07:44:33.236211+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "c2a38419bacdb4de03720c36cb75c9ac28c2769f14742fea7115136bb27eebc6",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p42:c1",
+    "nestle_2023:p42:c2",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p83:c1",
+    "nestle_2023:p45:c1"
+  ]
+}

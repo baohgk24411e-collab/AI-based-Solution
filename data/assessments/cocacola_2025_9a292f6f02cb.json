@@ -1,0 +1,44 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": " CLAIM: '99% OF OUR PACKAGES WERE RECYCLABLE GLOBALLY IN 2025.' EVIDENCE: 2025 году все наши упаковочные материалы были перерабатываемыми на 99%. However, the evidence provided does not specify a global scope or explicitly state that all packages were recyclable in 2025. It only mentions that 99% of our primary consumer packaging was recyclable globally by 2025.",
+  "flags": [
+    "全球范围内的包装材料回收率未明确",
+    "具体年份的数据缺失"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p6:c1",
+      "pdf_page": 6,
+      "quote": "99% OF OUR PACKAGES WERE RECYCLABLE2 GLOBALLY IN 2025."
+    }
+  ],
+  "claim_id": "cocacola_2025_9a292f6f02cb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "67e9c770f6a2105e4abd9668f0f8c207f0f3b355d59129861aabf26996481181",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4243,
+      "completion_tokens": 203,
+      "total_tokens": 4446,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.31,
+    "timestamp": "2026-11-11T08:14:26.429736+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "602e71a620c5d527742c8bcfbadef5d4595bb74c35e935bc17cfa99adf1d0a9f",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p4:c1",
+    "cocacola_2025:p5:c1",
+    "cocacola_2025:p11:c1"
+  ]
+}

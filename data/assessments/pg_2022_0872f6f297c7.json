@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng 68% của bao bì giấy virgin đã được chứng nhận FSC™ vào năm 2022, phù hợp với tuyên bố '50% của bao bì giấy virgin là FSC™ chứng nhận đến năm 2025 - đã đạt được'.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p34:c1",
+      "pdf_page": 34,
+      "quote": "50% of our virgin paper packaging is FSCTM certified by 2025 Achieved — 68% FSCTM certified"
+    }
+  ],
+  "claim_id": "pg_2022_0872f6f297c7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "d9a4894f8ffb6779d34a7442d2dead0acd6010cec719491ddd12b8da47b3c023",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3481,
+      "completion_tokens": 167,
+      "total_tokens": 3648,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.42,
+    "timestamp": "2026-11-11T08:02:26.915418+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "3b816b452e73d76460391e319cb0242f83eb6cbaacc17c54c88eeefbc0266663",
+  "retrieved_chunk_ids": [
+    "pg_2022:p34:c1",
+    "pg_2022:p37:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p33:c1"
+  ]
+}

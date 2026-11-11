@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng đến cuối năm 2023, 83.5% bao bì nhựa của Nestlé được thiết kế để tái chế, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p41:c1",
+      "pdf_page": 41,
+      "quote": "– 83.5% of our plastic packaging was designed for recycling*."
+    }
+  ],
+  "claim_id": "nestle_2023_7add387040da",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4127,
+      "completion_tokens": 123,
+      "total_tokens": 4250,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.0,
+    "timestamp": "2026-11-11T07:43:58.099967+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "7795e4bef2e576522b9438305107197f5c17815d8be4d11fe83130385ed9bada",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p41:c1",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p3:c1",
+    "nestle_2023:p42:c2",
+    "nestle_2023:p43:c2"
+  ]
+}

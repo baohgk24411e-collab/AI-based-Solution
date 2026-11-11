@@ -5,7 +5,7 @@ from pathlib import Path
 import streamlit as st
 from src.common import DATA, ROOT, load_json, save_json, digest, csv_text
 from src.pipeline import BM25, parse_pdf, baseline_candidates, norm
-from src.llm import Gemini, extract, verify, LABELS, TYPES
+from src.llm import make_client, extract, verify, LABELS, TYPES
 from src.numeric import check_rate, DIMENSIONS
 from src.evaluate import evaluate_saved
 
@@ -26,10 +26,16 @@ with st.sidebar:
     st.header('Evidence Workbench')
     st.caption('Phạm vi: bao bì nhựa · báo cáo FMCG')
     source_mode = st.radio('Nguồn tài liệu',['Bộ 20 báo cáo','Tải PDF của bạn'])
-    key = st.text_input('Gemini API key',type='password',help='Chỉ dùng trong phiên; không ghi vào file.')
-    model = st.text_input('Gemini model ID',value=os.getenv('GEMINI_MODEL',''),placeholder='Nhập ID model từ Google AI Studio')
-    st.link_button('Mở Google AI Studio','https://aistudio.google.com/')
-    st.caption('Chưa có key: vẫn đọc báo cáo, tìm bằng chứng, gán nhãn và kiểm tra số liệu được.')
+    provider = st.selectbox('Dịch vụ LLM', ['lmstudio', 'gemini'])
+    key, base_url = None, None
+    if provider == 'lmstudio':
+        base_url = st.text_input('LM Studio URL', value=os.getenv('LM_STUDIO_BASE_URL','http://127.0.0.1:1234/v1'))
+        model = st.text_input('LM Studio model ID', value=os.getenv('LM_STUDIO_MODEL','qwen2.5-7b-instruct'))
+        st.caption('Bật server trong LM Studio và nạp model. Không cần API key.')
+    else:
+        key = st.text_input('Gemini API key',type='password')
+        model = st.text_input('Gemini model ID',value=os.getenv('GEMINI_MODEL',''))
+        st.link_button('Mở Google AI Studio','https://aistudio.google.com/')
     st.divider()
     st.caption('Supported = được tài liệu hỗ trợ. Không đồng nghĩa xác minh độc lập hoặc kết luận không greenwashing.')
 
@@ -82,6 +88,10 @@ with overview:
         st.dataframe(stats,hide_index=True,width='stretch')
     st.download_button('Tải danh mục nguồn CSV',csv_text(manifest).encode('utf-8-sig'),'manifest.csv','text/csv')
     st.download_button('Tải các đoạn ứng viên CSV',csv_text(all_candidates).encode('utf-8-sig'),'candidates.csv','text/csv')
+    results = DATA/'results'/'BAO_CAO_PHAN_TICH.md'
+    if results.exists():
+        st.download_button('Tải báo cáo phân tích LLM', results.read_bytes(), results.name, 'text/markdown')
+        st.dataframe(load_json(DATA/'results'/'summary.json', []), hide_index=True)
     st.caption('Coca-Cola: 2022–2025. Nestlé, Danone, P&G, Reckitt: 2021–2024. PDF page bắt đầu từ 1; có thể khác số trang in trong tài liệu.')
 
 if parsed:
@@ -170,7 +180,7 @@ if parsed:
 
     with llm_tab:
         st.subheader('LLM: trích claim và đối chiếu bằng chứng')
-        st.info('Chỉ khi bấm nút, ứng dụng mới gửi đoạn báo cáo đang chọn đến Gemini API. Có thể phát sinh phí theo tài khoản. Key không được lưu xuống đĩa.')
+        st.info('LM Studio xử lý tại server đã cấu hình. Nếu chọn Gemini, văn bản gửi tới Google và có thể phát sinh phí. Chỉ gọi LLM khi bấm nút.')
         st.caption('Kết quả được lưu cache theo model, prompt và nội dung đầu vào. Đổi prompt/model sẽ tạo lần chạy mới.')
         relevant_pages=[p['pdf_page'] for p in parsed['pages'] if p['packaging_relevant']]
         selected_pages=st.multiselect('Chọn tối đa 3 trang để trích xuất mỗi lần',range(1,len(parsed['pages'])+1),default=relevant_pages[:2])
@@ -178,15 +188,21 @@ if parsed:
             try:
                 if not selected_pages or len(selected_pages)>3:
                     raise ValueError('Chọn 1–3 trang để kiểm soát lượng dữ liệu gửi.')
-                client=Gemini(key,model)
+                client=make_client(provider, model, key, base_url)
                 pages=[p for p in parsed['pages'] if p['pdf_page'] in selected_pages]
                 with st.spinner('LLM đang trích claim...'):
                     result=extract(client,pages,report)
                 previous=load_json(DATA/'llm_claims'/f"{report['report_id']}.json",{})
                 old=[c for c in previous.get('claims',[]) if c['source_page'] not in selected_pages]
+                run = {k:v for k,v in result.items() if k != 'claims'}
                 result['claims']=old+result['claims']
                 result['processed_pages']=sorted(set(previous.get('processed_pages',[])+selected_pages))
-                save_json(DATA/'llm_claims'/f"{report['report_id']}.json",result)
+                previous.update(result)
+                previous.setdefault('runs', []).append(run)
+                # Interactive runs can use a different model/subset than the batch.
+                # Invalidate batch coverage rather than silently mix configurations.
+                previous.pop('fingerprint', None)
+                save_json(DATA/'llm_claims'/f"{report['report_id']}.json",previous)
                 st.success(f"Lưu {len(result['claims'])} claim; {len(result['rejected'])} mục bị loại vì không khớp nguồn/schema.")
                 st.json(result)
             except Exception as exc:
@@ -198,7 +214,7 @@ if parsed:
             st.text(current['claim_text'])
             if st.button('Đối chiếu claim này bằng LLM'):
                 try:
-                    client=Gemini(key,model)
+                    client=make_client(provider, model, key, base_url)
                     ev=index.search(current['claim_text'],5,exclude_text=current['claim_text'])
                     with st.spinner('Đang đối chiếu và kiểm tra trích dẫn...'):
                         result=verify(client,current,ev)
@@ -211,7 +227,7 @@ if parsed:
             if stored:
                 st.json(stored)
                 st.download_button('Xuất kết quả JSON',__import__('json').dumps(stored,ensure_ascii=False,indent=2),'assessment.json','application/json')
-        if not (key or os.getenv('GEMINI_API_KEY') or os.getenv('GOOGLE_API_KEY')):
+        if provider == 'gemini' and not (key or os.getenv('GEMINI_API_KEY') or os.getenv('GOOGLE_API_KEY')):
             st.warning('Chưa cấu hình API key. Chưa có lần chạy LLM thật được thực hiện trong phần này.')
 
 with numeric:

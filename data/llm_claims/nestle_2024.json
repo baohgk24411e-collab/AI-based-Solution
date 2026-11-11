@@ -1,0 +1,385 @@
+{
+  "claims": [
+    {
+      "claim_text": "Launched in May 2024, the Nescafé Gold refill paper pack is fully recyclable and uses 97% less packaging weight compared to our Nescafé Gold Blend 200g jars.",
+      "source_page": 5,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "paper",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 97,
+      "claim_id": "nestle_2024_93e87b7f9a64",
+      "report_id": "nestle_2024",
+      "company": "Nestlé",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We recognize that the packaging we use to protect our food and beverage products ensures their quality and prevents food waste. It can also have an impact on the environment.",
+      "source_page": 32,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2024_75252bb38595",
+      "report_id": "nestle_2024",
+      "company": "Nestlé",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We have identified five pillars of activity to make our packaging more sustainable (see illustration below).",
+      "source_page": 32,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2024_8ac94683fb4c",
+      "report_id": "nestle_2024",
+      "company": "Nestlé",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Nestlé is reducing our use of virgin plastic for packaging, ensuring that as much packaging as possible is designed for recycling or reuse and promoting responsible waste management practices.",
+      "source_page": 32,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2024_d53e724de2ec",
+      "report_id": "nestle_2024",
+      "company": "Nestlé",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We are pioneering the use of alternatives to plastic, novel technologies and innovative solutions to redesign our packaging.",
+      "source_page": 32,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2024_3d7521c83562",
+      "report_id": "nestle_2024",
+      "company": "Nestlé",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We strive to make packaging more lightweight, which not only reduces material use but also its environmental impact.",
+      "source_page": 33,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2024_c1deb7674674",
+      "report_id": "nestle_2024",
+      "company": "Nestlé",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our facility can handle up to 272 tonnes of waste per month, and we aim to scale further as awareness around composting grows.",
+      "source_page": 33,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2024_3b64ab7287ca",
+      "report_id": "nestle_2024",
+      "company": "Nestlé",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    2,
+    5,
+    7,
+    32,
+    33,
+    34
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1247,
+          "completion_tokens": 10,
+          "total_tokens": 1257,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.39,
+        "timestamp": "2026-11-11T07:47:37.677266+00:00"
+      },
+      "processed_pages": [
+        2
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1380,
+          "completion_tokens": 129,
+          "total_tokens": 1509,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.17,
+        "timestamp": "2026-11-11T07:47:41.836344+00:00"
+      },
+      "processed_pages": [
+        5
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1313,
+          "completion_tokens": 10,
+          "total_tokens": 1323,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.92,
+        "timestamp": "2026-11-11T07:47:42.761412+00:00"
+      },
+      "processed_pages": [
+        7
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Our vision is clear: none of Nestlé’s packaging, whether it is plastic or otherwise, should end up in landfill or as litter.",
+            "source_page": 32,
+            "claim_type": "target",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1602,
+          "completion_tokens": 475,
+          "total_tokens": 2077,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 13.58,
+        "timestamp": "2026-11-11T07:47:56.346308+00:00"
+      },
+      "processed_pages": [
+        32
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Innovations being explored include high-performing paper barriers that could replace flexible plastics for some food types, as well as solutions to integrate more recycled content and to move from multi-material, to mono-material, which is easier to recycle.",
+            "source_page": 33,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "We continue to phase out packaging items that are difficult to recycle.",
+            "source_page": 33,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "We are testing and scaling reusable packaging where it makes economic and environmental sense but acknowledge that there is yet to be widespread consumer acceptance of such options.",
+            "source_page": 33,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "DEVELOPING LOCAL INFRASTRUCTURE TO ENABLE COMPOSTING\nby Marina Sierra de Camargo, Founder and CEO, Planta Feliz, São Paulo, Brazil\nThe launch of Nestlé Dolce Gusto NEO compostable coffee pods in Brazil marked a step forward in encouraging composting – an innovation to support changing consumer habits and provide alternative disposal options for consumers.",
+            "source_page": 33,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Once collected, the NEO pods are mixed with other organic materials and enter our thermophilic composting process at our plant in São Paulo, where they break down within 45 days.",
+            "source_page": 33,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "The process also produces high-quality fertilizer that is used to improve soil health which in turn aids carbon sequestration.",
+            "source_page": 33,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1572,
+          "completion_tokens": 838,
+          "total_tokens": 2410,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 23.39,
+        "timestamp": "2026-11-11T07:48:19.736632+00:00"
+      },
+      "processed_pages": [
+        33
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1081,
+          "completion_tokens": 10,
+          "total_tokens": 1091,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.73,
+        "timestamp": "2026-11-11T07:48:20.466532+00:00"
+      },
+      "processed_pages": [
+        34
+      ]
+    }
+  ],
+  "fingerprint": "d41fdf23ef93a86b77810dbb5680719153882f879028229f5857669244d8cf6d",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

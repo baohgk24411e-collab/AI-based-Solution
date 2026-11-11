@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu trực tiếp về tỷ lệ tái sử dụng của bao bì nhựa, chỉ đề cập đến tỷ lệ tái chế là 49%.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p37:c1",
+      "pdf_page": 37,
+      "quote": "Of our plastic packaging, 49% was recyclable or reusable."
+    }
+  ],
+  "claim_id": "nestle_2021_e1b295bf73fa",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3649,
+      "completion_tokens": 98,
+      "total_tokens": 3747,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.58,
+    "timestamp": "2026-11-11T07:39:15.994491+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "21fa97e4d5b6090881325210885c80b35a782ee32d77cd7e06b9c5e104c2f934",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p37:c1",
+    "nestle_2021:p35:c1",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p35:c2",
+    "nestle_2021:p8:c2"
+  ]
+}

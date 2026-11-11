@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng P&G đang nỗ lực tăng cường sử dụng nhựa tái chế trong bao bì để giảm sự phụ thuộc vào nhựa nguyên sinh và đảm bảo việc tái sử dụng các vật liệu hiện có. Điều này được thể hiện qua quá trình phát triển quy trình VersoVitaTM nhằm cải thiện chất lượng nhựa tái chế.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p28:c1",
+      "pdf_page": 28,
+      "quote": "P&G aims to incorporate more recycled plastic in our packaging to reduce our reliance on virgin plastic and ensure that existing materials are better utilized."
+    }
+  ],
+  "claim_id": "pg_2022_d1a6e9783dc7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "5ef5314ad704c390451896a02124dcb4772657f1ea25b9c250b95c90a7748a16",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3214,
+      "completion_tokens": 156,
+      "total_tokens": 3370,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.41,
+    "timestamp": "2026-11-11T08:01:31.686033+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "61d1e5c7224d3bf69acc3ecbc1ca29fbbfdf04f5602cc86ce1555eff8c73bc66",
+  "retrieved_chunk_ids": [
+    "pg_2022:p28:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p34:c1",
+    "pg_2022:p26:c1",
+    "pg_2022:p28:c2"
+  ]
+}

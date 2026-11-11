@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về mục tiêu của Danone trong việc thiết kế bao bì cho sự tái sử dụng, tái chế hoặc phân hủy sinh học 100% vào năm 2030. Điều này được đề cập rõ ràng trong đoạn văn bản từ trang 165 và 28 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p165:c2",
+      "pdf_page": 165,
+      "quote": "Danone’s packaging policy has been defined based on the vision & principles of EMF and follows three guiding principles/policies: Packaging designed for circularity: • design 100% of its packaging to be reusable, recyclable or compostable;"
+    }
+  ],
+  "claim_id": "danone_2022_881dde5f7ffc",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3597,
+      "completion_tokens": 169,
+      "total_tokens": 3766,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 14.98,
+    "timestamp": "2026-11-11T08:13:04.221804+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "e08a5dffc4379f56cc7df7c64980f3354f92c39b1d14b70741995de2762fe3e4",
+  "retrieved_chunk_ids": [
+    "danone_2022:p166:c3",
+    "danone_2022:p165:c2",
+    "danone_2022:p165:c1",
+    "danone_2022:p27:c1",
+    "danone_2022:p28:c1"
+  ]
+}

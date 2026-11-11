@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu về tỷ lệ nhựa tái chế trong bao bì nhựa là 9.3% cho năm 2023, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p83:c1",
+      "pdf_page": 83,
+      "quote": "Recycled plastic in plastic packaging % 1.7 4.3 7.7 9.3 301-2/a FB-PF-410A.1"
+    }
+  ],
+  "claim_id": "nestle_2023_d6f0db11cef6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4236,
+      "completion_tokens": 127,
+      "total_tokens": 4363,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.92,
+    "timestamp": "2026-11-11T07:47:35.941395+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "83962050896879d4da375394d484520091072f9ae12267639e391b3fe795dfe2",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p83:c1",
+    "nestle_2023:p82:c2",
+    "nestle_2023:p82:c1",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p85:c1"
+  ]
+}

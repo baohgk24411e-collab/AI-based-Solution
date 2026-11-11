@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã sử dụng 99.8% bao bì giấy và carton tái chế hoặc chất liệu virgin được chứng nhận (FSC, PEFC, SFI) vào năm 2021, tương ứng với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p165:c3",
+      "pdf_page": 165,
+      "quote": "In 2021, Danone used 99.8% of paper and board packaging made of recycled fibers or virgin certified (FSC, PEFC, SFI) fibers (98% in 2020)."
+    }
+  ],
+  "claim_id": "danone_2021_62c665cd4af0",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4056,
+      "completion_tokens": 166,
+      "total_tokens": 4222,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.95,
+    "timestamp": "2026-11-11T07:53:20.788843+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "81c16160e156f7e55372cb5a8a0d3fa06c9fa9dbb5d375e8fdc7b5e6b44f0a6a",
+  "retrieved_chunk_ids": [
+    "danone_2021:p165:c3",
+    "danone_2021:p165:c1",
+    "danone_2021:p171:c1",
+    "danone_2021:p195:c2",
+    "danone_2021:p193:c2"
+  ]
+}

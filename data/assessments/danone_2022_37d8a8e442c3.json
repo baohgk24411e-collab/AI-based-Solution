@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc chuyển đổi sang bao bì nhẹ hơn trên toàn bộ phạm vi sản phẩm.",
+  "flags": [
+    "缺少具体证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p163:c2",
+      "pdf_page": 163,
+      "quote": "switch to lighter-weight packaging across its product range;"
+    }
+  ],
+  "claim_id": "danone_2022_37d8a8e442c3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3734,
+      "completion_tokens": 110,
+      "total_tokens": 3844,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 26.88,
+    "timestamp": "2026-11-11T08:06:13.820215+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "2a962849989b69bebaf3e90ec1587fce68b10446c78e592b178102092b3e4813",
+  "retrieved_chunk_ids": [
+    "danone_2022:p163:c2",
+    "danone_2022:p22:c2",
+    "danone_2022:p88:c1",
+    "danone_2022:p46:c2",
+    "danone_2022:p222:c2"
+  ]
+}

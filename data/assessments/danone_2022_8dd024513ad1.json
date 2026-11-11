@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng tỷ lệ thành phần tái chế cho thủy tinh và kim loại dựa trên dữ liệu tốt nhất hiện có cũng như thông tin từ nhà cung cấp. Điều này được đề cập ở trang 222 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p222:c1",
+      "pdf_page": 222,
+      "quote": "Assumptions for the calculation of recycled components for glass and metal materials are based on the best available data as well as supplier data:"
+    }
+  ],
+  "claim_id": "danone_2022_8dd024513ad1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3662,
+      "completion_tokens": 144,
+      "total_tokens": 3806,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 13.38,
+    "timestamp": "2026-11-11T08:12:40.634335+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "52b305e71c0eccd9b1645143978f95452aee6594bafcb13dc8df94b7a09f807b",
+  "retrieved_chunk_ids": [
+    "danone_2022:p222:c1",
+    "danone_2022:p222:c2",
+    "danone_2022:p223:c2",
+    "danone_2022:p140:c3",
+    "danone_2022:p100:c1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về lượng nhựa tái chế sử dụng trong hai năm qua để xác nhận tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p27:c1",
+      "pdf_page": 27,
+      "quote": "In 2021/2022, we diverted nearly 675,000 metric tons of manufacturing waste from the landfill which is heavier than 66 EIFFEL TOWERS Data and Metrics: Plastics Packaging Tons of plastic packaging 776,220 metric tons Tons of recycled plastic resin 96,469 metric tons Percent of total resin used that was recycled 12.4%"
+    }
+  ],
+  "claim_id": "pg_2022_b117a17e4386",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "bf96adc56d40ad146726b1b9caf90b89f1422de8182682d360eb8d363127034b",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3416,
+      "completion_tokens": 170,
+      "total_tokens": 3586,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.12,
+    "timestamp": "2026-11-11T08:00:39.073390+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "b5bd79bc58403f80248de6debfb5aa6e4700425e5fcb263fe63c04d0824790d6",
+  "retrieved_chunk_ids": [
+    "pg_2022:p27:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p16:c1",
+    "pg_2022:p26:c1",
+    "pg_2022:p37:c1"
+  ]
+}

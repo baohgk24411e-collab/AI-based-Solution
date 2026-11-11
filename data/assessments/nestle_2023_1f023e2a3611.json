@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Nestlé đang thử nghiệm các hệ thống giao hàng thay thế cho tái sử dụng và nạp lại, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p42:c2",
+      "pdf_page": 42,
+      "quote": "We are also testing alternative delivery systems for reuse and refill."
+    }
+  ],
+  "claim_id": "nestle_2023_1f023e2a3611",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3811,
+      "completion_tokens": 118,
+      "total_tokens": 3929,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.34,
+    "timestamp": "2026-11-11T07:44:47.620849+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "8c23ead215a5109722a7c54bdd6c49b7d05fa36a8bafac96f4266578935173e6",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p42:c2",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p44:c2",
+    "nestle_2023:p6:c2"
+  ]
+}

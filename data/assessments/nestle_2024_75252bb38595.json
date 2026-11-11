@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé nhận thức được tác động của bao bì đối với môi trường và cam kết giảm rác thải, tái chế và tìm kiếm các thay thế cho nhựa. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2024:p32:c2",
+      "pdf_page": 32,
+      "quote": "We recognize that the packaging we use to protect our food and beverage products ensures their quality and prevents food waste. It can also have an impact on the environment."
+    }
+  ],
+  "claim_id": "nestle_2024_75252bb38595",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3218,
+      "completion_tokens": 138,
+      "total_tokens": 3356,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.25,
+    "timestamp": "2026-11-11T07:48:33.489803+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2024",
+  "fingerprint": "4cb6f4588355eb59a6d9c7d3ac2cd1d99072bf66158d4ad0ea106395a9e6bad0",
+  "retrieved_chunk_ids": [
+    "nestle_2024:p32:c2",
+    "nestle_2024:p33:c1",
+    "nestle_2024:p3:c2",
+    "nestle_2024:p34:c1",
+    "nestle_2024:p18:c1"
+  ]
+}

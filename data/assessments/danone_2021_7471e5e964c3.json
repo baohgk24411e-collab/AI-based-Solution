@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Công trình đã xác nhận rằng chiến lược môi trường của Danone trong năm 2021 được CEO và COO End-to-End and Design-to-Delivery (là thành viên Ban quản trị) bảo trợ. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p162:c1",
+      "pdf_page": 162,
+      "quote": "In 2021, Danone’s environmental strategy is sponsored by the CEO and the COO End-to-End and Design-to-Delivery who is a member of the Executive Committee."
+    }
+  ],
+  "claim_id": "danone_2021_7471e5e964c3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3562,
+      "completion_tokens": 140,
+      "total_tokens": 3702,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.7,
+    "timestamp": "2026-11-11T07:52:57.846494+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "0a4043484bbd23a0bbbc9149cb74a70d9a8528253abdba15c506356ae6be2c5e",
+  "retrieved_chunk_ids": [
+    "danone_2021:p162:c1",
+    "danone_2021:p158:c3",
+    "danone_2021:p156:c2",
+    "danone_2021:p156:c1",
+    "danone_2021:p158:c2"
+  ]
+}

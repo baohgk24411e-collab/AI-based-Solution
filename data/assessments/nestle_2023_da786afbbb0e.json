@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu về tỷ lệ bao bì làm từ vật liệu tái chế và/hoặc tái tạo trong các năm 2020-2023, với giá trị 41.5% được ghi nhận vào năm 2023.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p82:c2",
+      "pdf_page": 82,
+      "quote": "Packaging made from recycled and/or renewable materials % 37.0 39.5 36.0 41.5"
+    }
+  ],
+  "claim_id": "nestle_2023_da786afbbb0e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3791,
+      "completion_tokens": 160,
+      "total_tokens": 3951,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.45,
+    "timestamp": "2026-11-11T07:47:07.230306+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "1f96356e7a640296820afc6699e384b08aa2e871466a6b633cbb341a25f28059",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p82:c2",
+    "nestle_2023:p82:c1",
+    "nestle_2023:p43:c3",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p79:c1"
+  ]
+}

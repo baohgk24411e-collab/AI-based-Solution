@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Đoạn văn bản cung cấp thông tin về mục tiêu giảm sử dụng nhựa nguyên sinh và tăng nội dung tái chế, phù hợp với tuyên bố của Nestlé.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p46:c1",
+      "pdf_page": 46,
+      "quote": "By reducing unnecessary packaging, designing better packaging, modeling collection systems and supporting better regulation, we aim to support the packaging system transition to deliver no waste in landfills or nature."
+    }
+  ],
+  "claim_id": "nestle_2022_792842ffb9db",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3688,
+      "completion_tokens": 113,
+      "total_tokens": 3801,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.0,
+    "timestamp": "2026-11-11T07:40:00.682987+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "b684ae91e7a44d93fcbe869cbfc1a10683857a38e311ba980d76543eb0255316",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p44:c3",
+    "nestle_2022:p45:c1",
+    "nestle_2022:p44:c1",
+    "nestle_2022:p46:c1",
+    "nestle_2022:p43:c1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Procter & Gamble đang hợp tác với các thương hiệu, nhà cung cấp và đối tác để phát triển các giải pháp bền vững và thúc đẩy sự tái sử dụng nhựa. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p27:c1",
+      "pdf_page": 27,
+      "quote": "Our brands, suppliers and partners continue to collaborate on a range of sustainable solutions and on driving circularity so that plastic is collected, recycled and reused."
+    }
+  ],
+  "claim_id": "pg_2022_0536cdd71ab3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "1a5bbcff0e9afea5318e58fa1f91501be47d8a011ab7838c53428daa4cb5e870",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3181,
+      "completion_tokens": 129,
+      "total_tokens": 3310,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.11,
+    "timestamp": "2026-11-11T07:59:19.960580+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "fa90783310636b8615d5f2d4727de4fc42186ab274098f09c60229d689ea63eb",
+  "retrieved_chunk_ids": [
+    "pg_2022:p27:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p26:c1",
+    "pg_2022:p34:c1",
+    "pg_2022:p12:c1"
+  ]
+}

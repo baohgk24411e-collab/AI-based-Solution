@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về lượng nhựa được tiết kiệm trong năm 2022 tại Việt Nam.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p45:c1",
+      "pdf_page": 45,
+      "quote": "In Vietnam, Nescafé reduced the thickness of the laminate in its Granules Sachets sticks – saving 144 tonnes of plastic annually (the equivalent of 8 million plastic toothbrushes)."
+    }
+  ],
+  "claim_id": "nestle_2022_73043ffba73f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3849,
+      "completion_tokens": 119,
+      "total_tokens": 3968,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.36,
+    "timestamp": "2026-11-11T07:32:53.003645+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "fab68d7b3ab625029ff836b4e7881178fd2f1317cc73e91af80d7bf8573a4806",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p45:c1",
+    "nestle_2022:p45:c3",
+    "nestle_2022:p21:c2",
+    "nestle_2022:p45:c4",
+    "nestle_2022:p45:c2"
+  ]
+}

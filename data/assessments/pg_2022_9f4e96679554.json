@@ -1,0 +1,43 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của P&G xác nhận họ đang làm việc để thiết kế tất cả bao bì tiêu dùng cho sản phẩm của mình là tái sử dụng hoặc tái chế vào năm 2030, tương tự với tuyên bố trong báo cáo.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p26:c1",
+      "pdf_page": 26,
+      "quote": "At P&G, we are working to design all our consumer packaging to be recyclable or reusable by 2030."
+    }
+  ],
+  "claim_id": "pg_2022_9f4e96679554",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "0fb3fc91b8fdcea3083e2b4d3ff897b40ec6c1ca698e280f3fc59e9ae1574d4e",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3237,
+      "completion_tokens": 126,
+      "total_tokens": 3363,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 17.2,
+    "timestamp": "2026-11-11T07:59:08.850012+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "b3fc9b80e84b4422b9366b8da02df35b90319ad3f74fb00f1cf6a026e0e101f9",
+  "retrieved_chunk_ids": [
+    "pg_2022:p26:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p22:c1",
+    "pg_2022:p34:c1"
+  ]
+}

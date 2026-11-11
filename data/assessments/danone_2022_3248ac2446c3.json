@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Danone đã và đang nỗ lực đạt các mục tiêu cũng như thúc đẩy chuyển đổi toàn cầu tập thể. Điều này được thể hiện trong đoạn văn trang 166, từ 'Since then, Danone has been working to advance on its targets as well as to advocate for a collective global transition.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p166:c3",
+      "pdf_page": 166,
+      "quote": "Since then, Danone has been working to advance on its targets as well as to advocate for a collective global transition."
+    }
+  ],
+  "claim_id": "danone_2022_3248ac2446c3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3637,
+      "completion_tokens": 143,
+      "total_tokens": 3780,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 14.45,
+    "timestamp": "2026-11-11T08:10:01.509345+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "e4847ec1398096cdd5144453e4af2569757e50b01020fdb3f68e73e82850b72e",
+  "retrieved_chunk_ids": [
+    "danone_2022:p166:c3",
+    "danone_2022:p165:c2",
+    "danone_2022:p32:c1",
+    "danone_2022:p148:c1",
+    "danone_2022:p178:c1"
+  ]
+}

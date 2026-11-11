@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến các mục tiêu và cam kết chung về việc giảm rác thải nhựa, nhưng không cung cấp thông tin cụ thể về tỷ lệ tái chế hoặc số lượng rác thải được ngăn chặn. Các hoạt động cụ thể như mô hình hệ thống thu gom và hỗ trợ quy định pháp luật cũng chưa được đề cập đầy đủ.",
+  "flags": [
+    "目标年份和具体指标缺失"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p46:c1",
+      "pdf_page": 46,
+      "quote": "Outlook We are continuing to transform our packaging systems. By reducing unnecessary packaging, designing better packaging, modeling collection systems and supporting better regulation, we aim to support the packaging system transition to deliver no waste in landfills or nature."
+    }
+  ],
+  "claim_id": "nestle_2022_02e64c0e3a6c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3552,
+      "completion_tokens": 187,
+      "total_tokens": 3739,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.23,
+    "timestamp": "2026-11-11T07:40:23.913233+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "8f3b00b30c8da7cdba5ac4e6016b6cf238affe71b8575fa02c2337b89e4a0aed",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p46:c1",
+    "nestle_2022:p44:c3",
+    "nestle_2022:p44:c1",
+    "nestle_2022:p44:c2",
+    "nestle_2022:p45:c2"
+  ]
+}

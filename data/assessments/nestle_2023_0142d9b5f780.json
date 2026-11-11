@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu chính xác về tỷ lệ bao bì tái chế, tái sử dụng và/hoặc phân hủy sinh học là 86.6% vào năm 2023, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p82:c2",
+      "pdf_page": 82,
+      "quote": "Packaging that is recyclable, reusable, and/or compostable % 84.0 85.4 85.8 86.6"
+    }
+  ],
+  "claim_id": "nestle_2023_0142d9b5f780",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4059,
+      "completion_tokens": 133,
+      "total_tokens": 4192,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.92,
+    "timestamp": "2026-11-11T07:47:14.151074+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "90f403a31dd3d5925ec036d27ac89741852ce16a9bcf48d0a8aa8e3cf6f59f8d",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p82:c2",
+    "nestle_2023:p82:c1",
+    "nestle_2023:p41:c1",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p83:c1"
+  ]
+}

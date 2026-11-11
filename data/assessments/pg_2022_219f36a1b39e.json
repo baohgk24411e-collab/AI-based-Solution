@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng P&G đang cho phép VersoVita™ Circular Polymer Purification được cấp phép cho các nhà sản xuất nhựa trên toàn cầu để họ có thể sản xuất nhựa tái chế chất lượng cao hơn, đáp ứng nhu cầu ngành công nghiệp và giảm rác thải nhựa.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p28:c1",
+      "pdf_page": 28,
+      "quote": "P&G is making VersoVita™ Circular Polymer Purification available for license to plastic manufacturers globally so they can produce high quality recycled resin to better meet industry demand and reduce plastic waste."
+    }
+  ],
+  "claim_id": "pg_2022_219f36a1b39e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "c968523fd92204cfb52a6307b83470ccbbf235f1ffaa432e48a7c223bf5b4a10",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2999,
+      "completion_tokens": 157,
+      "total_tokens": 3156,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.06,
+    "timestamp": "2026-11-11T08:01:47.887693+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "fb8515a864d14af238815ec6d712f67aa8cd0c525b187be0dffc759e147c124d",
+  "retrieved_chunk_ids": [
+    "pg_2022:p28:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p26:c1",
+    "pg_2022:p28:c2",
+    "pg_2022:p13:c1"
+  ]
+}

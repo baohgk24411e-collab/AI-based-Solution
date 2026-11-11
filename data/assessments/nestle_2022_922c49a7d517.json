@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Dữ liệu trong báo cáo hỗ trợ tuyên bố về tỷ lệ bao bì tái sử dụng, tái chế hoặc phân hủy sinh học là 85.8% (trong năm 2021 là 85.4%).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p43:c2",
+      "pdf_page": 43,
+      "quote": "Percentage of packaging that is reusable, recyclable or compostable* 85.8% (85.4% in 2021)"
+    }
+  ],
+  "claim_id": "nestle_2022_922c49a7d517",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3650,
+      "completion_tokens": 126,
+      "total_tokens": 3776,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.55,
+    "timestamp": "2026-11-11T07:31:53.401742+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "15f8071daa5bdd9dac16ee323739714c63e56677fda60750f9bf223bc433ee94",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p43:c2",
+    "nestle_2022:p45:c3",
+    "nestle_2022:p63:c3",
+    "nestle_2022:p3:c1",
+    "nestle_2022:p44:c3"
+  ]
+}

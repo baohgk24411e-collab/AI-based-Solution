@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về khoản đầu tư 15 triệu đô la vào Quỹ Circulate Capital Ocean Fund (CCOF) như tuyên bố. Các nội dung trong báo cáo đề cập đến các hoạt động liên quan đến tái chế nhưng không xác nhận khoản đầu tư cụ thể này.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p166:c2",
+      "pdf_page": 166,
+      "quote": "Danone committed 15 million dollars in the Circulate Capital Ocean Fund (CCOF) for the development of recycling infrastructure in South and South East Asia."
+    }
+  ],
+  "claim_id": "danone_2022_19f2bc4f7aa5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3680,
+      "completion_tokens": 145,
+      "total_tokens": 3825,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 14.3,
+    "timestamp": "2026-11-11T08:07:52.656566+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "3991a8e93dca89b9d04a89e618ee0b6915a542236d3d03ca7fa4d5639029312c",
+  "retrieved_chunk_ids": [
+    "danone_2022:p166:c2",
+    "danone_2022:p19:c2",
+    "danone_2022:p172:c1",
+    "danone_2022:p186:c2",
+    "danone_2022:p19:c1"
+  ]
+}

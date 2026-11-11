@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc sử dụng PET tái chế trong các chai nước và chưa cung cấp thông tin cụ thể về việc sử dụng 50% vật liệu tái chế trong tất cả bao bì nhựa của Danone. Ngoài ra, báo cáo không xác định rõ phạm vi áp dụng của mục tiêu này.",
+  "flags": [
+    "目标范围不明确"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p173:c2",
+      "pdf_page": 173,
+      "quote": "By 2025: • use 50% recycled materials in all Danone’s packaging, notably plastic packaging (the initial target was fixed at 25%);"
+    }
+  ],
+  "claim_id": "danone_2021_c584f0b29501",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3589,
+      "completion_tokens": 156,
+      "total_tokens": 3745,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.17,
+    "timestamp": "2026-11-11T07:54:04.825542+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "df0ee3efb15e0d156699395e68e3037766678d3c30487fd56894a4b51caf8efc",
+  "retrieved_chunk_ids": [
+    "danone_2021:p173:c2",
+    "danone_2021:p173:c1",
+    "danone_2021:p25:c1",
+    "danone_2021:p25:c2",
+    "danone_2021:p172:c1"
+  ]
+}

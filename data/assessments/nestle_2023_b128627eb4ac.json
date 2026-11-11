@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Nestlé đã ra mắt các nắp và viên cà phê compostable cho các thương hiệu Nespresso và Nescafé Dolce Gusto tại Brazil, Pháp và Thụy Sĩ vào năm 2023.",
+  "flags": [
+    "缺少具体证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p44:c1",
+      "pdf_page": 44,
+      "quote": "In 2023, we launched compostable coffee capsules and pods for our Nespresso and Nescafé Dolce Gusto brands in Brazil, France and Switzerland."
+    }
+  ],
+  "claim_id": "nestle_2023_b128627eb4ac",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4000,
+      "completion_tokens": 154,
+      "total_tokens": 4154,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.5,
+    "timestamp": "2026-11-11T07:46:18.735688+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "029543318278fc58fc5af0607e26b732f41f71aa714f2119cebb6f416c4bf9e6",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p44:c1",
+    "nestle_2023:p56:c1",
+    "nestle_2023:p24:c2",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p33:c2"
+  ]
+}

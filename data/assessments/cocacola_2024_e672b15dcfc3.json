@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng 18% của PET sử dụng là PET tái chế (rPET) vào năm 2024, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2024:p6:c1",
+      "pdf_page": 6,
+      "quote": "18% OF PET USED WAS RECYCLED PET (rPET) 4 IN 2024."
+    }
+  ],
+  "claim_id": "cocacola_2024_e672b15dcfc3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "12697fe15da4a46f6d31a9dd9efc13f1f9b618c390b49b9561a6b01ee9e0dce2",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4021,
+      "completion_tokens": 124,
+      "total_tokens": 4145,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 15.28,
+    "timestamp": "2026-11-11T08:10:23.159271+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2024",
+  "fingerprint": "588f321413527553d432bf21311b5a0b952fcce2a9f30836b87e70022b76005b",
+  "retrieved_chunk_ids": [
+    "cocacola_2024:p6:c1",
+    "cocacola_2024:p10:c1",
+    "cocacola_2024:p6:c2",
+    "cocacola_2024:p10:c2",
+    "cocacola_2024:p11:c1"
+  ]
+}

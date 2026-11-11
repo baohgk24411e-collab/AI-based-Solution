@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về lượng PET tái chế vào năm 2021. Chỉ có thông tin về việc Nestlé Egypt đã hợp tác với Dorna để tái chế 18,000 tấn PET, nhưng không đề cập đến PET cụ thể.",
+  "flags": [
+    "缺少具体PET回收量的信息"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p35:c3",
+      "pdf_page": 35,
+      "quote": "In 2021, this amounted to 18 000 tonnes of PET through the Dorna initiative, a collaboration with the Egyptian Ministry of Environment, together with partners CID Consulting and PayMob."
+    }
+  ],
+  "claim_id": "nestle_2021_2223f8d44c6f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3918,
+      "completion_tokens": 168,
+      "total_tokens": 4086,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.7,
+    "timestamp": "2026-11-11T07:38:48.462708+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "54c5ba227b3acc88f6002dbba32d1293c726c78712ac12e4f79f3470291c35d2",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p35:c3",
+    "nestle_2021:p46:c2",
+    "nestle_2021:p41:c2",
+    "nestle_2021:p37:c2",
+    "nestle_2021:p46:c3"
+  ]
+}

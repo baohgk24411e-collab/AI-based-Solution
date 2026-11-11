@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã phát triển hệ thống quản lý môi trường dựa trên tiêu chuẩn quốc tế ISO 14001. Điều này được đề cập ở nhiều phần khác nhau của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p151:c2",
+      "pdf_page": 151,
+      "quote": "Danone developed its environmental management system based on the international standard ISO 14001."
+    }
+  ],
+  "claim_id": "danone_2022_fbc758aeb64c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3287,
+      "completion_tokens": 119,
+      "total_tokens": 3406,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 12.86,
+    "timestamp": "2026-11-11T08:04:35.806802+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "fd5bbb0f3cb589dc288687febe6ffed456009468943846c8370fc2dc39f8190c",
+  "retrieved_chunk_ids": [
+    "danone_2022:p151:c2",
+    "danone_2022:p343:c1",
+    "danone_2022:p210:c3",
+    "danone_2022:p151:c1",
+    "danone_2022:p210:c2"
+  ]
+}

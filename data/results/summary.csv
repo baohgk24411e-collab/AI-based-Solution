@@ -1,0 +1,21 @@
+﻿report_id,company,year,provider,model,total_pages,selected_pages,processed_pages,claims,rejected,supported,insufficient_evidence,scope_mismatch,potential_inconsistency,not_yet_assessable,not_assessed
+nestle_2021,Nestlé,2021,lmstudio,qwen2.5-7b-instruct,59,12,12,17,5,8,9,0,0,0,0
+nestle_2022,Nestlé,2022,lmstudio,qwen2.5-7b-instruct,63,16,16,17,7,11,5,0,0,0,1
+nestle_2023,Nestlé,2023,lmstudio,qwen2.5-7b-instruct,89,20,20,38,3,20,17,0,0,0,1
+nestle_2024,Nestlé,2024,lmstudio,qwen2.5-7b-instruct,50,6,6,7,7,5,2,0,0,0,0
+danone_2021,Danone,2021,lmstudio,qwen2.5-7b-instruct,345,25,25,27,9,15,8,0,0,0,4
+danone_2022,Danone,2022,lmstudio,qwen2.5-7b-instruct,345,30,30,34,7,20,6,0,0,1,7
+danone_2023,Danone,2023,lmstudio,qwen2.5-7b-instruct,421,56,31,21,2,0,0,0,0,0,21
+danone_2024,Danone,2024,,,494,63,0,0,0,0,0,0,0,0,0
+cocacola_2022,The Coca-Cola Company,2022,,,88,29,0,0,0,0,0,0,0,0,0
+cocacola_2023,The Coca-Cola Company,2023,lmstudio,qwen2.5-7b-instruct,12,3,3,11,1,4,1,0,0,0,6
+cocacola_2024,The Coca-Cola Company,2024,lmstudio,qwen2.5-7b-instruct,14,5,5,9,7,5,1,0,0,0,3
+pg_2021,Procter & Gamble,2021,lmstudio,qwen2.5-7b-instruct,20,2,2,1,0,0,1,0,0,0,0
+pg_2022,Procter & Gamble,2022,lmstudio,qwen2.5-7b-instruct,42,4,4,16,2,11,5,0,0,0,0
+pg_2023,Procter & Gamble,2023,,,83,10,0,0,0,0,0,0,0,0,0
+pg_2024,Procter & Gamble,2024,lmstudio,qwen2.5-7b-instruct,11,4,4,5,1,2,3,0,0,0,0
+reckitt_2021,Reckitt,2021,,,116,28,0,0,0,0,0,0,0,0,0
+reckitt_2022,Reckitt,2022,,,134,30,0,0,0,0,0,0,0,0,0
+reckitt_2023,Reckitt,2023,,,97,24,0,0,0,0,0,0,0,0,0
+reckitt_2024,Reckitt,2024,,,68,17,0,0,0,0,0,0,0,0,0
+cocacola_2025,The Coca-Cola Company,2025,lmstudio,qwen2.5-7b-instruct,14,5,5,17,0,6,7,0,0,0,4

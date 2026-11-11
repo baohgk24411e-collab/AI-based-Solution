@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Đoạn văn bản cung cấp thông tin xác thực về việc 55% các cơ sở của Danone có kế hoạch 4R vào năm 2021, so sánh với 49% vào năm 2020.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p178:c1",
+      "pdf_page": 178,
+      "quote": "In 2021, 55% of its facilities had a 4R action plans, compared to 49% in 2020."
+    }
+  ],
+  "claim_id": "danone_2021_da4bcb2f84de",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3549,
+      "completion_tokens": 133,
+      "total_tokens": 3682,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.08,
+    "timestamp": "2026-11-11T07:55:53.612317+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "1a070999939e77f8957b1c239eb08f33d15ba3aa9c1a1cdf2777fef0c5a4453c",
+  "retrieved_chunk_ids": [
+    "danone_2021:p178:c1",
+    "danone_2021:p178:c2",
+    "danone_2021:p214:c2",
+    "danone_2021:p179:c2",
+    "danone_2021:p157:c2"
+  ]
+}

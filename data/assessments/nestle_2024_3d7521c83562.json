@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Nestlé đang tiên phong trong việc sử dụng các thay thế cho nhựa, công nghệ mới và giải pháp sáng tạo để tái thiết kế bao bì. Điều này được thể hiện ở đoạn văn trên trang 32.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2024:p32:c2",
+      "pdf_page": 32,
+      "quote": "We are pioneering the use of alternatives to plastic, novel technologies and innovative solutions to redesign our packaging."
+    }
+  ],
+  "claim_id": "nestle_2024_3d7521c83562",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3087,
+      "completion_tokens": 129,
+      "total_tokens": 3216,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.97,
+    "timestamp": "2026-11-11T07:48:51.629943+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2024",
+  "fingerprint": "273485a220326221b2817b9a7df6ecc04d7b28c1072bd1c1bb578d5bb42dbd6e",
+  "retrieved_chunk_ids": [
+    "nestle_2024:p32:c2",
+    "nestle_2024:p36:c1",
+    "nestle_2024:p33:c1",
+    "nestle_2024:p14:c2",
+    "nestle_2024:p34:c1"
+  ]
+}

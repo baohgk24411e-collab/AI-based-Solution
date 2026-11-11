@@ -1,0 +1,220 @@
+{
+  "claims": [
+    {
+      "claim_text": "100% of our consumer packaging will be designed to be recyclable or reusable.",
+      "source_page": 7,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "pg_2024_4b966e92f961",
+      "report_id": "pg_2024",
+      "company": "Procter & Gamble",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "80% of consumer packaging is designed to be recyclable or reusable10",
+      "source_page": 7,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2024,
+      "target_year": null,
+      "value": 80,
+      "claim_id": "pg_2024_f1c2a6992d19",
+      "report_id": "pg_2024",
+      "company": "Procter & Gamble",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Virgin Plastic Reduction\nReduce our use of virgin petroleum plastic in our consumer packaging by 50% per unit of production (2017 baseline).",
+      "source_page": 7,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": 50,
+      "claim_id": "pg_2024_f5d548c34fda",
+      "report_id": "pg_2024",
+      "company": "Procter & Gamble",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "21% reduction10",
+      "source_page": 7,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2024,
+      "target_year": null,
+      "value": 21,
+      "claim_id": "pg_2024_587bb3fdc88b",
+      "report_id": "pg_2024",
+      "company": "Procter & Gamble",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Recycled plastic resin 116,000 metric tons\nPercent total resin from recycled sources 17% recycled resin",
+      "source_page": 7,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 17,
+      "claim_id": "pg_2024_1f8f7c04c6f7",
+      "report_id": "pg_2024",
+      "company": "Procter & Gamble",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    6,
+    7,
+    9,
+    10
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "d5c9688a7f1266ed46d405639b8957e690a0eaa25f007edbcd6458434fad3f31",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1127,
+          "completion_tokens": 10,
+          "total_tokens": 1137,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.94,
+        "timestamp": "2026-11-11T08:06:21.255554+00:00"
+      },
+      "processed_pages": [
+        6
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Resin used in consumer packaging in FY 23/24\nPolyethylene (PE) 50%\nPolyethylene Terephthalate (PET) 22%\nPolypropylene (PP) 21%\nOther 7%",
+            "source_page": 7,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": 2023,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "4ddac4144c6ef7d5cf50040bb3cb87ab8eb75aa8e78e45c1a435174a22e223e5",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1421,
+          "completion_tokens": 607,
+          "total_tokens": 2028,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 25.61,
+        "timestamp": "2026-11-11T08:06:46.872573+00:00"
+      },
+      "processed_pages": [
+        7
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "ceed4fd1db97e9c9234f332d66158f561c4718aaa31a078b6678b69930a84f00",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1233,
+          "completion_tokens": 10,
+          "total_tokens": 1243,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 8.51,
+        "timestamp": "2026-11-11T08:06:55.389018+00:00"
+      },
+      "processed_pages": [
+        9
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "fe3f8ce07f0816ecf3bf484807ee0cb2b1612c38c4ff00cbe339f950953d63e9",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1419,
+          "completion_tokens": 10,
+          "total_tokens": 1429,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 8.81,
+        "timestamp": "2026-11-11T08:07:04.204287+00:00"
+      },
+      "processed_pages": [
+        10
+      ]
+    }
+  ],
+  "fingerprint": "b1de03bff10b6a47ac7983feb6abff38304ad59ab9c61f1d08e6e23b0413e7fd",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

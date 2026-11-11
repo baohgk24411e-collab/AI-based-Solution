@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến 80% bao bì tiêu dùng được thiết kế để tái sử dụng hoặc tái chế vào năm 2024.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2024:p7:c1",
+      "pdf_page": 7,
+      "quote": "80% of consumer packaging is designed to be recyclable or reusable"
+    }
+  ],
+  "claim_id": "pg_2024_f1c2a6992d19",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "3571f60a9ceca23ebc469d56aeb99026a078dbde684d4f5cd0eb6f05a1f3daea",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3604,
+      "completion_tokens": 92,
+      "total_tokens": 3696,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 13.34,
+    "timestamp": "2026-11-11T08:07:30.045216+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2024",
+  "fingerprint": "a608be77612fcef2693e0b53f3915d4f2aa0172728b9e135329c61bc93e8eca8",
+  "retrieved_chunk_ids": [
+    "pg_2024:p7:c1",
+    "pg_2024:p9:c1",
+    "pg_2024:p5:c2",
+    "pg_2024:p6:c1",
+    "pg_2024:p10:c1"
+  ]
+}

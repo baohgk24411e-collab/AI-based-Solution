@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Danone sẽ đạt hoặc vượt qua các mục tiêu thu gom do chính quyền xác định vào năm 2025, cụ thể là hỗ trợ mục tiêu của Liên minh châu Âu về tỷ lệ thu gom chai nhựa lên tới 90% hoặc cao hơn. Điều này tương ứng với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p173:c1",
+      "pdf_page": 173,
+      "quote": "• achieve or even exceed collection targets defined by the authorities (in particular, support the European Union’s target of a 90% or greater plastic bottle collection rate);"
+    }
+  ],
+  "claim_id": "danone_2021_ef97dedd6674",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3794,
+      "completion_tokens": 174,
+      "total_tokens": 3968,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.89,
+    "timestamp": "2026-11-11T07:53:57.611030+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "2fea43eb43b7b870d45ed569896f859ef7e0cba498a66f7db4197f651155cd98",
+  "retrieved_chunk_ids": [
+    "danone_2021:p173:c1",
+    "danone_2021:p157:c1",
+    "danone_2021:p156:c2",
+    "danone_2021:p184:c3",
+    "danone_2021:p173:c2"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "claims": [],
+  "processed_pages": [
+    11,
+    13
+  ],
+  "runs": [
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "We are focused on developing innovations and products that deliver irresistible superiority in a sustainable way.",
+            "source_page": 11,
+            "claim_type": null,
+            "scope": null,
+            "material": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null,
+            "unit": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v1",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 941,
+          "completion_tokens": 62,
+          "total_tokens": 1003,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.8,
+        "timestamp": "2026-11-11T07:25:13.080326+00:00"
+      },
+      "processed_pages": [
+        11
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "\"In 2021, 73% of our consumer packaging is recyclable or reusable, and we continue to work towards 100% recyclable or reusable consumer packaging.\"",
+            "source_page": 13,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "measurement_year": 2021,
+            "target_year": 2022,
+            "value": 73,
+            "unit": "%"
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v1",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1269,
+          "completion_tokens": 133,
+          "total_tokens": 1402,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.05,
+        "timestamp": "2026-11-11T07:25:17.130540+00:00"
+      },
+      "processed_pages": [
+        13
+      ]
+    }
+  ],
+  "fingerprint": "9ecd997f1f15af60f0a33bed4472fe6ff149e7f8e29a981cac335292b583ef99",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v1",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

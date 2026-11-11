@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đạt được tỷ lệ trung bình 10.4% vật liệu tái chế trong bao bì nhựa vào năm 2021, tương đương với 10.3% vào năm 2020.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p173:c2",
+      "pdf_page": 173,
+      "quote": "In 2021, Danone achieved the following results: • 10.4% recycled materials on average in its plastic packaging (compared with 10.3% in 2020);"
+    }
+  ],
+  "claim_id": "danone_2021_610681651255",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3830,
+      "completion_tokens": 170,
+      "total_tokens": 4000,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.78,
+    "timestamp": "2026-11-11T07:54:12.643172+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "88307936e5115a0fa608e059e6612a8561bd07ce4f8676b00e12ff05ebb4f609",
+  "retrieved_chunk_ids": [
+    "danone_2021:p173:c2",
+    "danone_2021:p173:c1",
+    "danone_2021:p25:c1",
+    "danone_2021:p208:c3",
+    "danone_2021:p205:c1"
+  ]
+}

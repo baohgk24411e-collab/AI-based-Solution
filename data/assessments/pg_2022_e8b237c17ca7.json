@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ tái chế hoặc nội dung virgin third-party certified của bao bì giấy. Chỉ có thông tin chung về mục tiêu và tiến trình.",
+  "flags": [
+    "missing_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p34:c1",
+      "pdf_page": 34,
+      "quote": "Progress 100% of our paper packaging to be either recycled or third-party certified virgin content >99% recycled or third-party certified"
+    }
+  ],
+  "claim_id": "pg_2022_e8b237c17ca7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "532eb97a90ca465b428f708ed6495afb6d98a13557b8b2a4414f2b1413254ca3",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3474,
+      "completion_tokens": 131,
+      "total_tokens": 3605,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 19.44,
+    "timestamp": "2026-11-11T08:02:16.487930+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "7608d1938282378e82ef04b3fd4fa1411542358d44906ac87168bbf03ec0f790",
+  "retrieved_chunk_ids": [
+    "pg_2022:p34:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p37:c1",
+    "pg_2022:p33:c1"
+  ]
+}

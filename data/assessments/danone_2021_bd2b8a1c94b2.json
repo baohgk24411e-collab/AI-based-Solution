@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Waters Reporting Entity của Danone đã đặt mục tiêu giảm sử dụng PET nguyên sinh và chuyển sang 100% rPET ở châu Âu vào năm 2025, tương tự như tuyên bố trong claim.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p18:c3",
+      "pdf_page": 18,
+      "quote": "in response to growing concerns over the environmental impact of packaging and in keeping with the goal of protecting the planet, the Waters Reporting Entity set ambitious commitments. These include (i) halving its use of virgin PET and moving to 100% rPET across Europe by 2025"
+    }
+  ],
+  "claim_id": "danone_2021_bd2b8a1c94b2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3956,
+      "completion_tokens": 158,
+      "total_tokens": 4114,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.66,
+    "timestamp": "2026-11-11T07:51:43.224946+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "dae6af2854c44f941f76c8e54606f54b8b273dd62aff8013f138cf4375916296",
+  "retrieved_chunk_ids": [
+    "danone_2021:p18:c3",
+    "danone_2021:p173:c1",
+    "danone_2021:p172:c1",
+    "danone_2021:p149:c2",
+    "danone_2021:p173:c2"
+  ]
+}

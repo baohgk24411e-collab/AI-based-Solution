@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Dữ liệu chứng minh rằng Nestlé đã giảm nhựa nguyên sinh sử dụng từ 14.9% vào năm 2023 so với mức cơ sở năm 2018, phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p10:c2",
+      "pdf_page": 10,
+      "quote": "Virgin plastic reduction by one-third by 2025; 14.9% reduction achieved in 2023."
+    }
+  ],
+  "claim_id": "nestle_2023_85a5a5cf030b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4337,
+      "completion_tokens": 126,
+      "total_tokens": 4463,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.23,
+    "timestamp": "2026-11-11T07:43:06.044395+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "c70a0e61fab3adbed080ec3fecb2b9c60256ccff6806a33c3a4c5bc5475e3a46",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p41:c1",
+    "nestle_2023:p10:c2",
+    "nestle_2023:p3:c1",
+    "nestle_2023:p78:c1",
+    "nestle_2023:p43:c1"
+  ]
+}

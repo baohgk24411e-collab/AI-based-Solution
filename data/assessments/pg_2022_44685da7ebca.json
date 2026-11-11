@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng ~79% bao bì tiêu dùng của Procter & Gamble được thiết kế để tái sử dụng hoặc tái chế, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p27:c1",
+      "pdf_page": 27,
+      "quote": "~79% of our consumer packaging is designed to be recyclable or reusable"
+    }
+  ],
+  "claim_id": "pg_2022_44685da7ebca",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "5a578c220d6b4831e458ebfc9ba17670fda414a2b2b3d82179d19c8f5d3cf074",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3229,
+      "completion_tokens": 99,
+      "total_tokens": 3328,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 12.03,
+    "timestamp": "2026-11-11T08:00:29.939785+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "7ec6eb72fb383931eeb0364c168a9695381ecef28cfff9ff5971cd2ae542efdc",
+  "retrieved_chunk_ids": [
+    "pg_2022:p27:c1",
+    "pg_2022:p26:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p22:c1",
+    "pg_2022:p34:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng theo phương pháp luận mới, một bao bì được coi là tái chế nếu nó đạt được tỷ lệ tái chế sau tiêu dùng là 30% tại nhiều khu vực, đại diện cho ít nhất 400 triệu dân. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p222:c1",
+      "pdf_page": 222,
+      "quote": "According to this methodology, a packaging is recyclable if post-consumer collection, sorting, and recycling are proven to work in practice and at scale, which means it achieves a 30% post-consumer recycling rate in multiple regions, collectively representing at least 400 million inhabitants."
+    }
+  ],
+  "claim_id": "danone_2022_ee80b162e969",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3618,
+      "completion_tokens": 182,
+      "total_tokens": 3800,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 15.75,
+    "timestamp": "2026-11-11T08:12:11.334380+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "f7b49c38aa36936b1273b7b0667a39e4e6df9816eca6a31eae38a620ecc1456b",
+  "retrieved_chunk_ids": [
+    "danone_2022:p222:c1",
+    "danone_2022:p27:c2",
+    "danone_2022:p165:c2",
+    "danone_2022:p166:c2",
+    "danone_2022:p27:c1"
+  ]
+}

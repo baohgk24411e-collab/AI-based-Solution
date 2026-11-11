@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc 73% bao bì tiêu dùng của P&G trong năm 2021 là tái chế hoặc tái sử dụng được, nhưng không cung cấp chi tiết về các loại bao bì plastic. Không có thông tin xác thực về tỷ lệ tái chế thực tế hay mục tiêu cụ thể.",
+  "flags": [
+    "missing_recycling_data",
+    "lack_of_material_specificity"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2021:p13:c1",
+      "pdf_page": 13,
+      "quote": "In 2021, 73% of our consumer packaging is recyclable or reusable, and we continue to work towards 100% recyclable or reusable consumer packaging."
+    }
+  ],
+  "claim_id": "pg_2021_3e65b77e2018",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2949,
+      "completion_tokens": 180,
+      "total_tokens": 3129,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.48,
+    "timestamp": "2026-11-11T07:34:49.665189+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2021",
+  "fingerprint": "16ceca7798a047a295b115675e8d282310b45a0ece3a14bef645ea1142e90802",
+  "retrieved_chunk_ids": [
+    "pg_2021:p13:c1",
+    "pg_2021:p11:c1",
+    "pg_2021:p12:c1",
+    "pg_2021:p20:c1",
+    "pg_2021:p18:c1"
+  ]
+}

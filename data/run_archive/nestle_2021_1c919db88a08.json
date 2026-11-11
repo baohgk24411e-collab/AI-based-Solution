@@ -1,0 +1,27 @@
+{
+  "claims": [],
+  "rejected": [],
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "prompt_version": "greenclaim-v1",
+    "cache_hit": false,
+    "usage": {
+      "promptTokenCount": 1835,
+      "candidatesTokenCount": 9,
+      "totalTokenCount": 2515,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1835
+        }
+      ],
+      "thoughtsTokenCount": 671,
+      "serviceTier": "standard"
+    },
+    "seconds": 22.89,
+    "timestamp": "2026-11-11T06:53:06.685144+00:00"
+  },
+  "processed_pages": [
+    59
+  ]
+}

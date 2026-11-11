@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về lượng nhựa được tiết kiệm cụ thể theo đơn vị tấn như trong tuyên bố.",
+  "flags": [
+    "缺少具体年份的数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p43:c2",
+      "pdf_page": 43,
+      "quote": "In China, we deployed reusable bands to replace plastic shrink wrap on pallets. Logistics innovator Cainiao provided new reusable shipping boxes for logistics, resulting in 100 tonnes of plastics saved per year."
+    }
+  ],
+  "claim_id": "nestle_2023_9acf489c391d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3573,
+      "completion_tokens": 120,
+      "total_tokens": 3693,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.3,
+    "timestamp": "2026-11-11T07:45:24.155311+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "e85cfb662ff26cdf16446964ae7a7111b185e849cbb2f3cf9bab182a5e5af0af",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p43:c2",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p41:c1",
+    "nestle_2023:p43:c3",
+    "nestle_2023:p42:c2"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ sử dụng chất liệu tái chế hoặc FSC trong bao bì giấy và carton. Chỉ đề cập đến mục tiêu sử dụng chất liệu tái chế hoặc FSC khi cần thiết, nhưng không có dữ liệu thực tế.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p163:c3",
+      "pdf_page": 163,
+      "quote": "if not, use FSC certified virgin fibers or equivalent."
+    },
+    {
+      "chunk_id": "danone_2022:p164:c1",
+      "pdf_page": 164,
+      "quote": "Danone expects to have maintained 99% of paper and board packaging made of recycled fibers or virgin certified (FSC, PEFC, SFI) fibers."
+    }
+  ],
+  "claim_id": "danone_2022_17d93d86dcda",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3706,
+      "completion_tokens": 203,
+      "total_tokens": 3909,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.91,
+    "timestamp": "2026-11-11T08:06:29.913425+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "0e116faa120f561cdb54539828c58c465ee3eaf9b39a1f940e5c5caa053dd4fa",
+  "retrieved_chunk_ids": [
+    "danone_2022:p163:c3",
+    "danone_2022:p163:c2",
+    "danone_2022:p164:c1",
+    "danone_2022:p343:c1",
+    "danone_2022:p287:c3"
+  ]
+}

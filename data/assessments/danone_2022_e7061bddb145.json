@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Danone xác nhận đã đánh giá các rủi ro liên quan đến biến đổi khí hậu và liệt kê các rủi ro trung hạn tương tự như trong tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p152:c2",
+      "pdf_page": 152,
+      "quote": "Danone has assessed the consequences of climate change and identified the following medium-term risks: • availability of ingredients (milk, fruit, etc.) in regions exposed to drought and bad weather; • exceptional climate events that could affect production sites located near coastlines; • availability of water resources and degradation of watersheds and groundwater, with a potential impact on Danone’s activities and relations between the subsidiaries and local stakeholders; • price volatility for its product packaging materials and impacts on its activities; • financing the transition toward more sustainable agricultural practices."
+    }
+  ],
+  "claim_id": "danone_2022_e7061bddb145",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3934,
+      "completion_tokens": 199,
+      "total_tokens": 4133,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 15.97,
+    "timestamp": "2026-11-11T08:05:46.931069+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "17debd704e4e8fa884a3f24d4c13837ac3e404b2573997c351c91d43c85557be",
+  "retrieved_chunk_ids": [
+    "danone_2022:p152:c2",
+    "danone_2022:p32:c1",
+    "danone_2022:p30:c1",
+    "danone_2022:p153:c1",
+    "danone_2022:p22:c1"
+  ]
+}

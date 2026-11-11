@@ -1,0 +1,41 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về tỷ lệ tái chế của hộp giấy cardboard được sử dụng trong sản phẩm Gillette và Venus. Chỉ có thông tin về việc sử dụng nguyên liệu tái chế trong tổng số nhựa, nhưng không đề cập đến cardboard.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p28:c1",
+      "pdf_page": 28,
+      "quote": "Gillette and Venus undertook a sustainable packaging upgrade to transition premium refillable razor packs to a plastic-free, recyclable cardboard box made with at least 50% recycled materials and Forest Stewardship Council™ (FSC) certified paper."
+    }
+  ],
+  "claim_id": "pg_2022_7eb0e7b5d6c2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "891bd17c2ecb96771e41b5f9aef97d6d5a118d0216bef0689d5dbc10d7273605",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3525,
+      "completion_tokens": 148,
+      "total_tokens": 3673,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.7,
+    "timestamp": "2026-11-11T08:01:11.433215+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "b43aeffa810ab1f1e743516a72f8be32e123a1b44dae690ee831163cb50b384d",
+  "retrieved_chunk_ids": [
+    "pg_2022:p28:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p34:c1",
+    "pg_2022:p37:c1",
+    "pg_2022:p26:c1"
+  ]
+}

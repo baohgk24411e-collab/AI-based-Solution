@@ -1,27 +1,682 @@
 {
-  "claims": [],
-  "rejected": [],
-  "metadata": {
-    "model": "gemini-3.8-flash",
-    "prompt_version": "greenclaim-v1",
-    "cache_hit": false,
-    "usage": {
-      "promptTokenCount": 1835,
-      "candidatesTokenCount": 9,
-      "totalTokenCount": 2515,
-      "promptTokensDetails": [
+  "claims": [
+    {
+      "claim_text": "Plastic packaging designed for recycling\n8.1%",
+      "source_page": 3,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 8.1,
+      "claim_id": "nestle_2021_b49e7359cc31",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By 2025, 100% of our packaging will be recyclable or reusable and we will reduce our use of virgin plastics by one third.",
+      "source_page": 4,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 100,
+      "claim_id": "nestle_2021_2732c0f8b0c5",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We will make 100% of our packaging recyclable or reusable* by 2025",
+      "source_page": 34,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "nestle_2021_485addedbfda",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We will reduce our use of virgin plastics by one third by 2025",
+      "source_page": 34,
+      "claim_type": "target",
+      "scope": null,
+      "material": "virgin plastics",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 33.0,
+      "claim_id": "nestle_2021_6987a1a85d3b",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "85.4% Packaging recyclable or reuseable***",
+      "source_page": 34,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 85.4,
+      "claim_id": "nestle_2021_15556dfd64e7",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "3.8 million Total weight of packaging in tonnes (4.5 million in 2020)",
+      "source_page": 34,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "tonnes",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 3.8,
+      "claim_id": "nestle_2021_6daa379fc19f",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Packaging accounts for around 10% (or 9.5 million tonnes of CO2e) of our in-scope carbon footprint",
+      "source_page": 34,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 10.0,
+      "claim_id": "nestle_2021_1bd252db144a",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our vision is ambitious: a world in which none of Nestlé’s packaging, including plastics, ends up in landfill or as litter on land or in seas, oceans and waterways.",
+      "source_page": 35,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2021_2d4eaf3a31af",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2019, Nestlé joined the Ellen MacArthur Foundation’s New Plastics Economy initiative. We pledged to work across the industry to create a circular economy for plastic, starting with packaging – eliminating unnecessary plastic in our packaging and innovating to make the plastic that we do need recyclable and reusable.",
+      "source_page": 35,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2021_43632738e7c7",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We are reducing packaging materials by removing unnecessary plastic lids, accessories, layers and films.",
+      "source_page": 35,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2021_918508d82085",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Worldwide, we transitioned our Smarties range of products to recyclable paper packaging, a first for any global confectionery brand. This transition helped eliminate plastic from approximately 250 million packs sold globally each year.",
+      "source_page": 35,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastics",
+      "unit": "packs",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 250000000,
+      "claim_id": "nestle_2021_72a151993d07",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021, this amounted to 18 000 tonnes of PET through the Dorna initiative, a collaboration with the Egyptian Ministry of Environment, together with partners CID Consulting and PayMob.",
+      "source_page": 35,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET (plastics)",
+      "unit": "tonnes",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 18000,
+      "claim_id": "nestle_2021_2223f8d44c6f",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Other areas of innovation include more simplified packaging, refillable designs, alternative delivery solutions and high-performance technology for paper barriers as well as increasing recycled  and bio-based content and compostable  and biodegradable materials.",
+      "source_page": 36,
+      "claim_type": "target",
+      "scope": null,
+      "material": "paper, polymers",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2021_2a6b82632e41",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "*The above measures shall be subject to more stringent local legislation mandating earlier phase-outs or changes by either material type, product or date.",
+      "source_page": 36,
+      "claim_type": "target",
+      "scope": null,
+      "material": "paper, plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "nestle_2021_00edef90c159",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "By 2025, we are allocating more than CHF 1.5 billion to pay a premium to suppliers to help create a market for these materials.",
+      "source_page": 36,
+      "claim_type": "target",
+      "scope": null,
+      "material": "recycled plastics",
+      "unit": "CHF",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 1.5,
+      "claim_id": "nestle_2021_3b9c75444646",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Of our plastic packaging, 49% was recyclable or reusable.",
+      "source_page": 37,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 49,
+      "claim_id": "nestle_2021_e1b295bf73fa",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Of our total packaging, 85.4% by weight was recyclable in 2021 and 39.5% was made from renewable materials.",
+      "source_page": 37,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 85.4,
+      "claim_id": "nestle_2021_cecd2100e19d",
+      "report_id": "nestle_2021",
+      "company": "Nestlé",
+      "report_year": 2021,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    2,
+    3,
+    4,
+    8,
+    10,
+    20,
+    22,
+    23,
+    34,
+    35,
+    36,
+    37
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2150,
+          "completion_tokens": 12,
+          "total_tokens": 2162,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.39,
+        "timestamp": "2026-11-11T07:26:02.779573+00:00"
+      },
+      "processed_pages": [
+        2
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1158,
+          "completion_tokens": 94,
+          "total_tokens": 1252,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 3.25,
+        "timestamp": "2026-11-11T07:26:06.029237+00:00"
+      },
+      "processed_pages": [
+        3
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1721,
+          "completion_tokens": 121,
+          "total_tokens": 1842,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.33,
+        "timestamp": "2026-11-11T07:26:10.362927+00:00"
+      },
+      "processed_pages": [
+        4
+      ]
+    },
+    {
+      "rejected": [
         {
-          "modality": "TEXT",
-          "tokenCount": 1835
+          "item": {
+            "claim_text": "moving toward more recyclable and reusable packaging",
+            "source_page": 8,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": 2025,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
         }
       ],
-      "thoughtsTokenCount": 671,
-      "serviceTier": "standard"
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1588,
+          "completion_tokens": 75,
+          "total_tokens": 1663,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 3.05,
+        "timestamp": "2026-11-11T07:26:13.412497+00:00"
+      },
+      "processed_pages": [
+        8
+      ]
     },
-    "seconds": 22.89,
-    "timestamp": "2026-11-11T06:53:06.685144+00:00"
-  },
-  "processed_pages": [
-    59
-  ]
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1732,
+          "completion_tokens": 12,
+          "total_tokens": 1744,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.42,
+        "timestamp": "2026-11-11T07:26:14.829472+00:00"
+      },
+      "processed_pages": [
+        10
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 959,
+          "completion_tokens": 10,
+          "total_tokens": 969,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.62,
+        "timestamp": "2026-11-11T07:26:15.449110+00:00"
+      },
+      "processed_pages": [
+        20
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2990,
+          "completion_tokens": 12,
+          "total_tokens": 3002,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.48,
+        "timestamp": "2026-11-11T07:26:17.939010+00:00"
+      },
+      "processed_pages": [
+        22
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2624,
+          "completion_tokens": 12,
+          "total_tokens": 2636,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 2.23,
+        "timestamp": "2026-11-11T07:26:20.169352+00:00"
+      },
+      "processed_pages": [
+        23
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1896,
+          "completion_tokens": 483,
+          "total_tokens": 2379,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 14.84,
+        "timestamp": "2026-11-11T07:26:35.020397+00:00"
+      },
+      "processed_pages": [
+        34
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "We are eliminating close to 2 300 metric tonnes annually by removing Gerber baby food over-cap lids.",
+            "source_page": 35,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "plastics",
+            "unit": "metric tonnes",
+            "measurement_year": null,
+            "target_year": null,
+            "value": 2300
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "We are well on our way to eliminating all plastic straws from our products, using paper as an alternative material.",
+            "source_page": 35,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastics",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2406,
+          "completion_tokens": 777,
+          "total_tokens": 3183,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 21.56,
+        "timestamp": "2026-11-11T07:27:14.249568+00:00"
+      },
+      "processed_pages": [
+        35
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1697,
+          "completion_tokens": 332,
+          "total_tokens": 2029,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 10.41,
+        "timestamp": "2026-11-11T07:27:24.652698+00:00"
+      },
+      "processed_pages": [
+        36
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "At year-end 2021, 93.5% of our total packaging and 74.9% of our plastic packaging was designed for recycling.",
+            "source_page": 37,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": 2021,
+            "target_year": 2025,
+            "value": 74.9
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "In the coming year, we will continue to help develop well-functioning collection, sorting and recycling programs to promote the circular economy of packaging and to help reduce the impact on the environment.",
+            "source_page": 37,
+            "claim_type": "collection_recycling",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2093,
+          "completion_tokens": 434,
+          "total_tokens": 2527,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 13.48,
+        "timestamp": "2026-11-11T07:27:38.139515+00:00"
+      },
+      "processed_pages": [
+        37
+      ]
+    }
+  ],
+  "fingerprint": "a15ea6fd7da24ed29b5b58d115d9c9b021b0a4320edea42bc6498d10fb084975",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
 }

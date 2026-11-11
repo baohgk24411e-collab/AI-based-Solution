@@ -1,0 +1,432 @@
+{
+  "claims": [
+    {
+      "claim_text": "At P&G, we are working to design all our consumer packaging to be recyclable or reusable by 2030.",
+      "source_page": 26,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "pg_2022_9f4e96679554",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our brands, suppliers and partners continue to collaborate on a range of sustainable solutions and on driving circularity so that plastic is collected, recycled and reused.",
+      "source_page": 27,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2022_0536cdd71ab3",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "To track progress toward our goals, P&G considers packaging to be recyclable if there is at-scale collection, sorting, processing, and end markets for the material and format in at least one geography. We do not consider waste to energy and conversion to fuels as suitable end markets.",
+      "source_page": 27,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "packaging",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2022_bc042eba8e86",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "100% of our consumer packaging will be designed to be recyclable or reusable by 2030",
+      "source_page": 27,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "consumer packaging",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "pg_2022_fc72ee5f39bc",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "~79% of our consumer packaging is designed to be recyclable or reusable",
+      "source_page": 27,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "consumer packaging",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 79,
+      "claim_id": "pg_2022_44685da7ebca",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We nearly doubled our use of recycled plastic over the past two years",
+      "source_page": 27,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2022_b117a17e4386",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2021/2022, we diverted nearly 675,000 metric tons of manufacturing waste from the landfill which is heavier than 66 EIFFEL TOWERS",
+      "source_page": 27,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": "manufacturing waste",
+      "unit": "metric tons",
+      "measurement_year": 2021,
+      "target_year": null,
+      "value": 675000,
+      "claim_id": "pg_2022_588d52ec0d58",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Tons of plastic packaging 776,220 metric tons\nTons of recycled plastic resin 96,469 metric tons\nPercent of total resin used that was recycled 12.4% recycled resin",
+      "source_page": 27,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic packaging",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 12.4,
+      "claim_id": "pg_2022_825b30a66e33",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Gillette and Venus undertook a sustainable packaging upgrade to transition premium refillable razor packs to a plastic-free, recyclable cardboard box made with at least 50% recycled materials and Forest Stewardship Council™ (FSC) certified paper.",
+      "source_page": 28,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "cardboard",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2022_7eb0e7b5d6c2",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We estimate this exterior packaging change saves the plastic equivalent of more than 85 million water bottles per year (based on 2020 sales volumes for North America and select Europe markets).",
+      "source_page": 28,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "water bottles",
+      "measurement_year": 2020,
+      "target_year": null,
+      "value": 85000000,
+      "claim_id": "pg_2022_d68a40b7e6a6",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "P&G aims to incorporate more recycled plastic in our packaging to reduce our reliance on virgin plastic and ensure that existing materials are better utilized.",
+      "source_page": 28,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2022_d1a6e9783dc7",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our corporate R&D teams developed a process to drastically improve the quality of recycled polypropylene (PP) plastic. This plastic resin accounts for roughly 20% of the plastic used in our packaging and has the potential to significantly increase our use of recycled content.",
+      "source_page": 28,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "polypropylene (PP) plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 20,
+      "claim_id": "pg_2022_e18950123e0a",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "P&G is making VersoVita™ Circular Polymer Purification available for license to plastic manufacturers globally so they can produce high quality recycled resin to better meet industry demand and reduce plastic waste.",
+      "source_page": 28,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2022_219f36a1b39e",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "P&G is also a proud supporter of The Recycling Partnership’s Polypropylene Recycling Coalition. This industry collaboration recently led to the upgrading of polypropylene rigid containers as “Widely Recyclable” by the How2Recycle program (effective July 2022).",
+      "source_page": 28,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "polypropylene rigid containers",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2022,
+      "value": null,
+      "claim_id": "pg_2022_87fe5f822efa",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "100% of our paper packaging to be either recycled or third-party certified virgin content\n>99% recycled or third-party certified",
+      "source_page": 34,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "paper",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": 99,
+      "claim_id": "pg_2022_e8b237c17ca7",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "50% of our virgin paper packaging is FSC™ certified by 2025 Achieved — 68%",
+      "source_page": 34,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "paper",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 68,
+      "claim_id": "pg_2022_0872f6f297c7",
+      "report_id": "pg_2022",
+      "company": "Procter & Gamble",
+      "report_year": 2022,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    26,
+    27,
+    28,
+    34
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "bec2685a4719f27134f6f9885c682239cfe3b1e8a2a4fc95ad0baf16ac9cd5ab",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1049,
+          "completion_tokens": 110,
+          "total_tokens": 1159,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 15.34,
+        "timestamp": "2026-11-11T07:54:55.649370+00:00"
+      },
+      "processed_pages": [
+        26
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "~8% reduction of virgin petroleum plastic in packaging by 2030 vs. 2017 baseline",
+            "source_page": 27,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "virgin petroleum plastic",
+            "unit": "%",
+            "measurement_year": 2017,
+            "target_year": 2030,
+            "value": 8
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "~8% reduction of virgin petroleum plastic in packaging by 2030 vs. 2017 baseline",
+            "source_page": 27,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "virgin petroleum plastic",
+            "unit": "%",
+            "measurement_year": 2017,
+            "target_year": 2030,
+            "value": 8
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "e499bdbf05df573827197432b24bf5820ad75f93d355ab3548e90d4660d97dc6",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1301,
+          "completion_tokens": 972,
+          "total_tokens": 2273,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 41.94,
+        "timestamp": "2026-11-11T07:58:14.915474+00:00"
+      },
+      "processed_pages": [
+        27
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "083e061fc7f434eb828053cc166953e96cc28db59d6fe753753f658fb0a30dba",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1432,
+          "completion_tokens": 725,
+          "total_tokens": 2157,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 28.66,
+        "timestamp": "2026-11-11T07:58:43.569168+00:00"
+      },
+      "processed_pages": [
+        28
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "request_hash": "71ba9704745e0c5ccbb5129963721f08124a6f014f8856b2f05e388be25ebe19",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1291,
+          "completion_tokens": 216,
+          "total_tokens": 1507,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 8.06,
+        "timestamp": "2026-11-11T07:58:51.627845+00:00"
+      },
+      "processed_pages": [
+        34
+      ]
+    }
+  ],
+  "fingerprint": "c845132b2584b61d308998d101bd9641982cf2b93ef4bb8014dcf7ff02a4ec5f",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

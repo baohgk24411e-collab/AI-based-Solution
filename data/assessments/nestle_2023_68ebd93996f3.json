@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về số lượng dự án thu gom nhựa được triển khai ở các khu vực châu Á, Phi và Nam Mỹ. Chỉ có thông tin chung về việc hỗ trợ các dự án thu gom nhựa nhưng thiếu dữ liệu về hiệu quả của chúng.",
+  "flags": [
+    "missing_quantitative_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p45:c2",
+      "pdf_page": 45,
+      "quote": "We have set up dozens of plastic collection projects across Asia, Africa and South America where waste is often mismanaged. We work with partners and associations to increase collection, sorting and recovery of equivalent amounts of the plastic waste we sell in those markets."
+    }
+  ],
+  "claim_id": "nestle_2023_68ebd93996f3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3786,
+      "completion_tokens": 187,
+      "total_tokens": 3973,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.16,
+    "timestamp": "2026-11-11T07:46:47.610938+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "141dabea5b0543212bc8bd93668a77e1b7ba81f1b675ae61fd0afc36693efb90",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p45:c2",
+    "nestle_2023:p70:c1",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p55:c2",
+    "nestle_2023:p3:c2"
+  ]
+}

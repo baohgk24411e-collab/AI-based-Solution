@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Nestlé xác nhận họ đang giảm sử dụng nhựa nguyên sinh trong bao bì và đảm bảo rằng càng nhiều bao bì càng được thiết kế để tái chế hoặc tái sử dụng. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2024:p32:c2",
+      "pdf_page": 32,
+      "quote": "Nestlé is reducing our use of virgin plastic for packaging, ensuring that as much packaging as possible is designed for recycling or reuse and promoting responsible waste management practices."
+    }
+  ],
+  "claim_id": "nestle_2024_d53e724de2ec",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3495,
+      "completion_tokens": 140,
+      "total_tokens": 3635,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.55,
+    "timestamp": "2026-11-11T07:48:45.646668+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2024",
+  "fingerprint": "5b70f1116bad4af40c1880aaf2316627b9bfe0d67bec46a514ea54d0d2768a0f",
+  "retrieved_chunk_ids": [
+    "nestle_2024:p32:c2",
+    "nestle_2024:p33:c1",
+    "nestle_2024:p23:c1",
+    "nestle_2024:p12:c1",
+    "nestle_2024:p32:c1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc thay đổi bao bì nhựa thành bao bì tái chế và giấy không chứa nhựa. Không có thông tin cụ thể về lượng nước chai nhựa được tiết kiệm mỗi năm.",
+  "flags": [
+    "missing_quantity"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p28:c1",
+      "pdf_page": 28,
+      "quote": "We estimate this exterior packaging change saves the plastic equivalent of more than 85 million water bottles per year (based on 2020 sales volumes for North America and select Europe markets)."
+    }
+  ],
+  "claim_id": "pg_2022_d68a40b7e6a6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "2ba43f5efe7318b1d1e92c2010ec18826c522ba5c1e2f19a6a08b68b1b42176a",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3799,
+      "completion_tokens": 158,
+      "total_tokens": 3957,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.83,
+    "timestamp": "2026-11-11T08:01:20.267187+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "d1259f6f18dd5d23104f6c4415317b58cbcae8f8079a98600fce40dcbdcf2b28",
+  "retrieved_chunk_ids": [
+    "pg_2022:p28:c1",
+    "pg_2022:p27:c1",
+    "pg_2022:p24:c1",
+    "pg_2022:p32:c1",
+    "pg_2022:p30:c1"
+  ]
+}

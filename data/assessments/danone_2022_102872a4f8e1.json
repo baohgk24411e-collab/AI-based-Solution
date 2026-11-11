@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Evian ra mắt chai nước khoáng có gas đầu tiên. Các nội dung trong báo cáo đề cập đến các sáng tạo và cải tiến khác, nhưng không xác nhận sự kiện này.",
+  "flags": [
+    "缺少具体证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p46:c2",
+      "pdf_page": 46,
+      "quote": "For instance, Evian launched first sparkling natural mineral water in cans."
+    }
+  ],
+  "claim_id": "danone_2022_102872a4f8e1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3904,
+      "completion_tokens": 133,
+      "total_tokens": 4037,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 19.36,
+    "timestamp": "2026-11-11T08:03:41.924870+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "77da20ecf22dd74ae78e103c8e8acab207621c41bf4740d1cd17e301fbbcf873",
+  "retrieved_chunk_ids": [
+    "danone_2022:p46:c2",
+    "danone_2022:p46:c1",
+    "danone_2022:p166:c2",
+    "danone_2022:p166:c3",
+    "danone_2022:p160:c2"
+  ]
+}

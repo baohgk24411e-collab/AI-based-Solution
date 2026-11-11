@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ nguyên liệu tái tạo trong bao bì năm 2022.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p45:c4",
+      "pdf_page": 45,
+      "quote": "36.0% (39.5% in 2021)"
+    }
+  ],
+  "claim_id": "nestle_2022_0e5152a84d95",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3868,
+      "completion_tokens": 95,
+      "total_tokens": 3963,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.84,
+    "timestamp": "2026-11-11T07:40:15.672944+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "0dd7cc446f57e3cff7b4b46aa74a5d2de1d80898899f0227c748caa4f7113369",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p45:c4",
+    "nestle_2022:p45:c3",
+    "nestle_2022:p29:c1",
+    "nestle_2022:p63:c3",
+    "nestle_2022:p12:c2"
+  ]
+}

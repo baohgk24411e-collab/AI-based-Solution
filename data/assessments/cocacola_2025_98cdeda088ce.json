@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc sử dụng 30% vật liệu tái chế trong bao bì toàn cầu vào năm 2025, nhưng không cung cấp thông tin cụ thể về tỷ lệ PET tái chế (rPET) được sử dụng. Không có bằng chứng trực tiếp hỗ trợ cho tuyên bố rằng 20% PET sử dụng là rPET.",
+  "flags": [
+    "missing_evidence"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p6:c1",
+      "pdf_page": 6,
+      "quote": "USED 30% RECYCLED MATERIAL3 IN OUR GLOBAL PRIMARY PACKAGING IN 2025."
+    }
+  ],
+  "claim_id": "cocacola_2025_98cdeda088ce",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "8fdd6835215ed369f5d200882968ea7eb991204c87d3b7cd20b28b3ad90585f4",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4217,
+      "completion_tokens": 162,
+      "total_tokens": 4379,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.56,
+    "timestamp": "2026-11-11T08:14:48.388428+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "7c38b08cd589d5f94b53cfe8b3f9897f5db7d1d39a00a642f8ae57bbb52430b1",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p10:c2",
+    "cocacola_2025:p6:c2",
+    "cocacola_2025:p4:c1"
+  ]
+}

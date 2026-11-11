@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đã chuyển đổi Smarties sang bao bì giấy tái chế trên toàn cầu, đây là lần đầu tiên một thương hiệu confectionery quốc tế làm điều này. Số lượng gói bị loại bỏ nhựa tương đương với khoảng 250 triệu gói được bán mỗi năm.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p35:c3",
+      "pdf_page": 35,
+      "quote": "Worldwide, we transitioned our Smarties range of products to recyclable paper packaging, a first for any global confectionery brand. This transition helped eliminate plastic from approximately 250 million packs sold globally each year."
+    }
+  ],
+  "claim_id": "nestle_2021_72a151993d07",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3963,
+      "completion_tokens": 177,
+      "total_tokens": 4140,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.03,
+    "timestamp": "2026-11-11T07:28:52.829699+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "8cd06710b567c1f5501aee5133a3b5a0287b8943124e3a580c716113591dc907",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p35:c3",
+    "nestle_2021:p37:c2",
+    "nestle_2021:p37:c1",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p34:c2"
+  ]
+}

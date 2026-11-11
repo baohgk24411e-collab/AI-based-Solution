@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đang tiếp tục nỗ lực chuyển đổi hệ thống bao bì và hướng tới việc thực thi luật lệ bắt buộc để phân chia trách nhiệm công bằng trong chuỗi giá trị. Điều này được thể hiện ở đoạn: 'We know there is more work ahead in the shift from voluntary action to mandatory legislation, enabling a fair distribution of responsibility across the value chain.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p46:c1",
+      "pdf_page": 46,
+      "quote": "We know there is more work ahead in the shift from voluntary action to mandatory legislation, enabling a fair distribution of responsibility across the value chain."
+    }
+  ],
+  "claim_id": "nestle_2022_4cb6bbab2c48",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3463,
+      "completion_tokens": 165,
+      "total_tokens": 3628,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.27,
+    "timestamp": "2026-11-11T07:33:41.179018+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "4688ede0299558dd78cfe8200a20038c103d547cbac435adf064a05a5c5e9d72",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p46:c1",
+    "nestle_2022:p33:c1",
+    "nestle_2022:p59:c1",
+    "nestle_2022:p32:c1",
+    "nestle_2022:p62:c2"
+  ]
+}

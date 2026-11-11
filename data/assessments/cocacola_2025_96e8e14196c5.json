@@ -1,0 +1,44 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến tỷ lệ bao bì tái chế toàn cầu vào năm 2025 là 99%, nhưng không cung cấp dữ liệu về năm 2024 và 2023. Không có thông tin về phạm vi địa lý hay vật liệu cụ thể.",
+  "flags": [
+    "missing_comparable_data",
+    "scope_mismatch"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p10:c1",
+      "pdf_page": 10,
+      "quote": "Percent of packaging recyclable globally7 • The Coca-Cola system 90% 99% 99%"
+    }
+  ],
+  "claim_id": "cocacola_2025_96e8e14196c5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "974bed2d483b5332a0567eca70b5535facd7d2664ba3e909ac600d52fc5125b8",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3657,
+      "completion_tokens": 159,
+      "total_tokens": 3816,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 22.67,
+    "timestamp": "2026-11-11T08:18:45.971336+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "0a9068c3130d9069f0dbaa10b2962a317f6246eef401e72bc3ccf4ff71386b74",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p11:c1",
+    "cocacola_2025:p6:c2",
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p6:c3"
+  ]
+}

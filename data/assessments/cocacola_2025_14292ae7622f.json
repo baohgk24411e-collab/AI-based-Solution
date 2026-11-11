@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến tỷ lệ sử dụng bao bì tái chế trong sản phẩm tiêu dùng chính toàn cầu là 30% vào năm 2025, nhưng không cung cấp thông tin cụ thể về tỷ lệ bao bì tái sử dụng. Tuy nhiên, báo cáo xác nhận rằng 14% tổng lượng đồ uống được phục vụ qua bao bì tái sử dụng vào năm 2025.",
+  "flags": [
+    "缺少具体证据支持"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p10:c1",
+      "pdf_page": 10,
+      "quote": "Percentage of total beverage volume served in reusable packaging6 • The Coca-Cola system 14% 14% 14%"
+    }
+  ],
+  "claim_id": "cocacola_2025_14292ae7622f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "a47ecfcf8e30410d4eee87e526aca1da24cb5d7c4ec208b93fea2dd7f93d8659",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4112,
+      "completion_tokens": 186,
+      "total_tokens": 4298,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 20.0,
+    "timestamp": "2026-11-11T08:18:23.298008+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "a159300aa14dbb65fd6aa77a0be9ce20d4d2dd5ed29f92ad963a3acbd2bb1fdd",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p11:c1",
+    "cocacola_2025:p9:c1",
+    "cocacola_2025:p6:c2"
+  ]
+}

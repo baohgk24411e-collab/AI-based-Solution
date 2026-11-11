@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đã xác định năm trụ cột hoạt động để làm cho bao bì của mình trở nên bền vững (xem minh họa dưới đây), như trong tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2024:p32:c2",
+      "pdf_page": 32,
+      "quote": "We have identified five pillars of activity to make our packaging more sustainable (see illustration below)."
+    }
+  ],
+  "claim_id": "nestle_2024_8ac94683fb4c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3289,
+      "completion_tokens": 110,
+      "total_tokens": 3399,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.59,
+    "timestamp": "2026-11-11T07:48:39.091938+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2024",
+  "fingerprint": "4e6ff3301d79c6e0bdbdc1c62ef4cdd1f030cbb37cca2b7b6c7be97adea52c44",
+  "retrieved_chunk_ids": [
+    "nestle_2024:p32:c2",
+    "nestle_2024:p33:c1",
+    "nestle_2024:p35:c1",
+    "nestle_2024:p26:c2",
+    "nestle_2024:p48:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng từ năm 2018, Danone đã đạt được tiến bộ đáng kể trong các lĩnh vực như giảm nhựa nguyên sinh, tái sử dụng, khả năng tái chế và nội dung tái chế. Báo cáo cũng xác nhận rằng vào năm 2022, 84% bao bì của Danone là tái sử dụng, tái chế hoặc phân hủy.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p27:c2",
+      "pdf_page": 27,
+      "quote": "Since 2018, Danone has demonstrated tangible progress in key areas such as in virgin plastic reduction, reuse, recycla-bility rate and recycled content. In 2022, 84% of its packaging are already reusable, recyclable and compostable."
+    }
+  ],
+  "claim_id": "danone_2022_8c4b8c529725",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3482,
+      "completion_tokens": 197,
+      "total_tokens": 3679,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.17,
+    "timestamp": "2026-11-11T08:02:46.905827+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "29ac76eacec7e4e93c1980cb383e26439eccf87dd4b56b40ec988b7e485edba9",
+  "retrieved_chunk_ids": [
+    "danone_2022:p27:c2",
+    "danone_2022:p166:c3",
+    "danone_2022:p27:c1",
+    "danone_2022:p200:c2",
+    "danone_2022:p166:c1"
+  ]
+}

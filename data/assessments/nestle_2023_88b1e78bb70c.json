@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng nội dung tái chế trong bao bì nhựa là 9.3% (7.7% năm 2022), phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p43:c3",
+      "pdf_page": 43,
+      "quote": "Recycled content in plastic packaging 9.3% (7.7% in 2022)"
+    }
+  ],
+  "claim_id": "nestle_2023_88b1e78bb70c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3790,
+      "completion_tokens": 130,
+      "total_tokens": 3920,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.58,
+    "timestamp": "2026-11-11T07:45:50.595368+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "3d6e4f621bb55bbd7f53c6255486b60f56d86f840b6c2f6f35df1b5cd3190f3e",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p43:c3",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p83:c1",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p42:c2"
+  ]
+}

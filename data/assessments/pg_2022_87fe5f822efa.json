@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng P&G là một thành viên của Polypropylene Recycling Coalition và đã góp phần vào việc nâng cấp polypropylene rigid containers lên “Widely Recyclable” theo chương trình How2Recycle từ tháng 7 năm 2022.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p28:c1",
+      "pdf_page": 28,
+      "quote": "P&G is also a proud supporter of The Recycling Partnership’s Polypropylene Recycling Coalition. This industry collaboration recently led to the upgrading of polypropylene rigid containers as “Widely Recyclable” by the How2Recycle program (effective July 2022)."
+    }
+  ],
+  "claim_id": "pg_2022_87fe5f822efa",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "082104be201c153ffbdc6d8bb2b4c41efa339fecca6f43d831785dd5271d39ad",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2982,
+      "completion_tokens": 173,
+      "total_tokens": 3155,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.17,
+    "timestamp": "2026-11-11T08:01:57.062861+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "91824d1c497a1f06f728db181b3dbfc6448a0fd798a83b1bc401ce45a15088fa",
+  "retrieved_chunk_ids": [
+    "pg_2022:p28:c1",
+    "pg_2022:p28:c2",
+    "pg_2022:p26:c1",
+    "pg_2022:p16:c1",
+    "pg_2022:p18:c1"
+  ]
+}

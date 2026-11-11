@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã đề cập đến chiến lược World Without Waste với ba trụ cột chính: DESIGN, COLLECT và PARTNER. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2023:p5:c1",
+      "pdf_page": 5,
+      "quote": "Our global World Without Waste strategy focuses on measurable and interconnected actions under three pillars: DESIGN, COLLECT and PARTNER."
+    }
+  ],
+  "claim_id": "cocacola_2023_744af4005d67",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "b5cbf1fb56486a2123d6a3036fbc8b0f5aed5e1d5ec987afdeea3f5179385150",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3928,
+      "completion_tokens": 114,
+      "total_tokens": 4042,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 13.16,
+    "timestamp": "2026-11-11T08:03:48.180356+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2023",
+  "fingerprint": "20de57ff3e4c67725b5ce4661ad318f468647a03d5dced0a6fee86c51d5542e9",
+  "retrieved_chunk_ids": [
+    "cocacola_2023:p5:c1",
+    "cocacola_2023:p9:c1",
+    "cocacola_2023:p4:c2",
+    "cocacola_2023:p8:c2",
+    "cocacola_2023:p6:c1"
+  ]
+}

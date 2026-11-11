@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Procter & Gamble đã loại bỏ gần 675,000 tấn rác thải sản xuất khỏi bãi chôn lấp vào năm 2021/2022, tương đương với hơn 66 tháp Eiffel. Chunk_id: pg_2022:p27:c1, pdf_page: 27.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p27:c1",
+      "pdf_page": 27,
+      "quote": "In 2021/2022, we diverted nearly 675,000 metric tons of manufacturing waste from the landfill which is heavier than 66 EIFFEL TOWERS"
+    }
+  ],
+  "claim_id": "pg_2022_588d52ec0d58",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "d5f67edb33584f282b689bbd281c15b03307baf2b0343889120ceec54aa587cf",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3642,
+      "completion_tokens": 198,
+      "total_tokens": 3840,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.33,
+    "timestamp": "2026-11-11T08:00:49.397437+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "825fe188e2a745e50c674daff7d29d96f4c72f25f668487a05a91584450a40d5",
+  "retrieved_chunk_ids": [
+    "pg_2022:p27:c1",
+    "pg_2022:p23:c1",
+    "pg_2022:p16:c1",
+    "pg_2022:p21:c1",
+    "pg_2022:p30:c1"
+  ]
+}

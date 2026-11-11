@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé đang loại bỏ các loại nhựa không thể bao gồm trong hệ thống tái chế công cộng và thiết kế lại bao bì để tăng cường khả năng tái chế. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p44:c1",
+      "pdf_page": 44,
+      "quote": "We are also aiming to reduce virgin plastics by one third and to design above 95% of our plastic packaging for recycling by 2025."
+    }
+  ],
+  "claim_id": "nestle_2022_904bb2c8dbf4",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3741,
+      "completion_tokens": 145,
+      "total_tokens": 3886,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.95,
+    "timestamp": "2026-11-11T07:39:54.683039+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "03349bc61787d19c6fc3fcc92db186d06273b7fb756224b22d1d6d32f6afcbef",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p44:c1",
+    "nestle_2022:p45:c3",
+    "nestle_2022:p45:c1",
+    "nestle_2022:p44:c3",
+    "nestle_2022:p46:c1"
+  ]
+}

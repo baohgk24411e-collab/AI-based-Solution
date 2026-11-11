@@ -1,0 +1,41 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến tiến trình đạt được mục tiêu và không cung cấp dữ liệu cụ thể về việc thiết kế bao bì tiêu dùng để tái sử dụng hoặc tái chế 100% vào năm 2030.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2022:p27:c1",
+      "pdf_page": 27,
+      "quote": "GOALS PROGRESS through June 30, 2022 100% of our consumer packaging will be designed to be recyclable or reusable by 2030 ~79% of our consumer packaging is designed to be recyclable or reusable"
+    }
+  ],
+  "claim_id": "pg_2022_fc72ee5f39bc",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "3cc94a0017fe38d5019149f365e601af15c47b48699674fff59062196f8727dc",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3235,
+      "completion_tokens": 152,
+      "total_tokens": 3387,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 40.56,
+    "timestamp": "2026-11-11T08:00:17.919772+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2022",
+  "fingerprint": "fe25c04c83e2a3b3ce8de2d82839119467c605c19f33985e5bc504709d4e6875",
+  "retrieved_chunk_ids": [
+    "pg_2022:p27:c1",
+    "pg_2022:p26:c1",
+    "pg_2022:p34:c1",
+    "pg_2022:p28:c1",
+    "pg_2022:p22:c1"
+  ]
+}

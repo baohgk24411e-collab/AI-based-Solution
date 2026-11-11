@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến 85.4% bao bì tái sử dụng hoặc tái chế, nhưng không phân biệt rõ giữa tái sử dụng và tái chế. Không có thông tin về tỷ lệ riêng lẻ của từng loại.",
+  "flags": [
+    "未区分回收和再利用的百分比"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p34:c1",
+      "pdf_page": 34,
+      "quote": "85.4% Packaging recyclable or reuseable***"
+    }
+  ],
+  "claim_id": "nestle_2021_15556dfd64e7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3727,
+      "completion_tokens": 129,
+      "total_tokens": 3856,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.44,
+    "timestamp": "2026-11-11T07:38:26.142363+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "25e5cac7a34624931f3f363772d4c2fd9cb57f3e5e1dee54d4d55e18a6da0707",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p34:c1",
+    "nestle_2021:p37:c1",
+    "nestle_2021:p37:c2",
+    "nestle_2021:p8:c2",
+    "nestle_2021:p35:c1"
+  ]
+}

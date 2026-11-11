@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến tỷ lệ bao bì tái sử dụng là 1.00% và 0.84%, nhưng không cung cấp thông tin về số liệu cụ thể hoặc phân tích để xác nhận sự chính xác của các con số này.",
+  "flags": [
+    "missing_details"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p82:c2",
+      "pdf_page": 82,
+      "quote": "Packaging that is reusable % 1.00 0.84"
+    }
+  ],
+  "claim_id": "nestle_2023_97d6a7edc689",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4462,
+      "completion_tokens": 132,
+      "total_tokens": 4594,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.31,
+    "timestamp": "2026-11-11T07:47:21.466063+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "ddf7cf8f8c7357c3cf94e8fcad5adf97b8c8aabf642ccd8aec51bd10dea2c357",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p82:c2",
+    "nestle_2023:p82:c1",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p78:c1",
+    "nestle_2023:p83:c1"
+  ]
+}

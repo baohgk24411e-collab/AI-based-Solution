@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về lượng nhựa giảm trong PET bottles của Nestlé Waters tại Pháp sau chương trình tối ưu hóa trọng lượng kéo dài nhiều năm bắt đầu từ 2018.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p45:c1",
+      "pdf_page": 45,
+      "quote": "Nestlé Waters, in France, achieved more than 1500 tonnes of plastic reductions following a multi-year weight optimization program for PET bottles that started in 2018."
+    }
+  ],
+  "claim_id": "nestle_2022_8435687acd48",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3882,
+      "completion_tokens": 134,
+      "total_tokens": 4016,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.83,
+    "timestamp": "2026-11-11T07:32:59.828744+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "171ca23a5b3e1e462207e1c0219bf954b39f4e9fa431d8afcbeaf901d0e1771d",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p45:c1",
+    "nestle_2022:p45:c3",
+    "nestle_2022:p45:c2",
+    "nestle_2022:p12:c3",
+    "nestle_2022:p45:c4"
+  ]
+}

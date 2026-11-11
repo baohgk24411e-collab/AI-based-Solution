@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Danone xác nhận mục tiêu thiết kế tất cả bao bì để tái sử dụng, tái chế hoặc phân hủy (100%) vào năm 2025 và tăng nội dung tái chế lên hơn 50% cho tất cả các loại bao bì (trừ nhựa), cụ thể là nhựa (khoảng 10% năm 2021).",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p25:c1",
+      "pdf_page": 25,
+      "quote": "By 2025, Danone targets to design all its packaging so that it is 100% recyclable, reusable or compostable (vs 84% in 2021) and to increase recycled content to more than 50% for all packaging (vs 34% in 2021), specifically for plastics (around 10% in 2021)."
+    }
+  ],
+  "claim_id": "danone_2021_fd22d9c8e579",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3534,
+      "completion_tokens": 242,
+      "total_tokens": 3776,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.42,
+    "timestamp": "2026-11-11T07:52:08.649547+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "39c822679e061b28b532f630458bd5b57e7e62886c47823977d2a5bc77bd969a",
+  "retrieved_chunk_ids": [
+    "danone_2021:p25:c1",
+    "danone_2021:p172:c1",
+    "danone_2021:p172:c2",
+    "danone_2021:p173:c1",
+    "danone_2021:p25:c2"
+  ]
+}

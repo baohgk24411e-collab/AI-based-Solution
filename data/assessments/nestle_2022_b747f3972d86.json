@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Nestlé xác nhận mục tiêu giảm sử dụng nhựa nguyên sinh một phần ba so với năm 2018 vào năm 2025. Trích dẫn từ trang 43: 'We aim to reduce our use of virgin plastics by one third by 2025 (versus 2018 baseline)'.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p43:c1",
+      "pdf_page": 43,
+      "quote": "We aim to reduce our use of virgin plastics by one third by 2025 (versus 2018 baseline)"
+    }
+  ],
+  "claim_id": "nestle_2022_b747f3972d86",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4084,
+      "completion_tokens": 157,
+      "total_tokens": 4241,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.56,
+    "timestamp": "2026-11-11T07:39:23.843020+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "42b824df4750ccadedb6a23b5b54eb811b449d20423d6dfe1dd18694cec1a6f9",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p3:c1",
+    "nestle_2022:p43:c1",
+    "nestle_2022:p44:c1",
+    "nestle_2022:p11:c1",
+    "nestle_2022:p46:c1"
+  ]
+}

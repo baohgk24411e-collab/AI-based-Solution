@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về khả năng tái chế mà chỉ đề cập đến việc xử lý rác thải bằng cách composting. Không có dữ liệu về lượng chất thải nhựa mà nhà máy của Nestlé có thể xử lý.",
+  "flags": [
+    "缺少具体可回收能力的信息"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2024:p33:c2",
+      "pdf_page": 33,
+      "quote": "Our facility can handle up to 272 tonnes of waste per month, and we aim to scale further as awareness around composting grows."
+    }
+  ],
+  "claim_id": "nestle_2024_3b64ab7287ca",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3375,
+      "completion_tokens": 146,
+      "total_tokens": 3521,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.73,
+    "timestamp": "2026-11-11T07:49:03.846726+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2024",
+  "fingerprint": "9bc76ee935e967e04a5e3a07a19f3434ceb11e1b04b7f49c26b6478b63554d25",
+  "retrieved_chunk_ids": [
+    "nestle_2024:p33:c2",
+    "nestle_2024:p33:c1",
+    "nestle_2024:p34:c1",
+    "nestle_2024:p43:c1",
+    "nestle_2024:p27:c1"
+  ]
+}

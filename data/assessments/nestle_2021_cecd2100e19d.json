@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng 85.4% trọng lượng bao bì tổng thể của Nestlé có khả năng tái chế vào năm 2021.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2021:p37:c1",
+      "pdf_page": 37,
+      "quote": "Of our total packaging, 85.4% by weight was recyclable in 2021 and 39.5% was made from renewable materials."
+    }
+  ],
+  "claim_id": "nestle_2021_cecd2100e19d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4035,
+      "completion_tokens": 121,
+      "total_tokens": 4156,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.56,
+    "timestamp": "2026-11-11T07:29:32.262662+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2021",
+  "fingerprint": "1030b30801586382a85f51bd5a4c60bc35de9865634c9a7aa4a52e6fb997cc34",
+  "retrieved_chunk_ids": [
+    "nestle_2021:p37:c1",
+    "nestle_2021:p37:c2",
+    "nestle_2021:p34:c1",
+    "nestle_2021:p22:c3",
+    "nestle_2021:p35:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc sử dụng PET tái chế (rPET) đạt 20.6% vào năm 2021 và mục tiêu là 50% rPET cho Reporting Entity Waters toàn cầu và 100% ở châu Âu vào năm 2025, nhưng không cung cấp dữ liệu cụ thể về việc đạt được mục tiêu này.",
+  "flags": [
+    "缺失具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2021:p97:c3",
+      "pdf_page": 97,
+      "quote": "use of recycled PET (rPET) for the Waters Reporting Entity to be 50% worldwide and 100% in Europe by 2025"
+    }
+  ],
+  "claim_id": "danone_2021_b1f8773f3238",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3720,
+      "completion_tokens": 176,
+      "total_tokens": 3896,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.88,
+    "timestamp": "2026-11-11T07:52:44.294437+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2021",
+  "fingerprint": "cd7f1a8a3d89b34b86e5a9cfac652509c584577daa5687adb51f5c07cc7a840e",
+  "retrieved_chunk_ids": [
+    "danone_2021:p173:c2",
+    "danone_2021:p97:c3",
+    "danone_2021:p173:c1",
+    "danone_2021:p172:c1",
+    "danone_2021:p18:c3"
+  ]
+}

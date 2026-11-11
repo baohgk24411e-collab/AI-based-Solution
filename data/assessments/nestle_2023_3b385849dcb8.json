@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Nestlé có mục tiêu thiết kế hơn 95% bao bì nhựa cho tái chế vào năm 2025, tương ứng với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p3:c1",
+      "pdf_page": 3,
+      "quote": "By 2025, we aim to design above 95% of our plastic packaging for recycling and continue to work toward 100% being recyclable or reusable"
+    }
+  ],
+  "claim_id": "nestle_2023_3b385849dcb8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4155,
+      "completion_tokens": 140,
+      "total_tokens": 4295,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.5,
+    "timestamp": "2026-11-11T07:42:50.679128+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "3910cafb050263358d64611053110c887c4bffe003f06351aa8adde4c6ee46b1",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p41:c1",
+    "nestle_2023:p3:c1",
+    "nestle_2023:p43:c2",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p42:c2"
+  ]
+}

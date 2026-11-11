@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc relaunch sản phẩm Salus Brand jug 6,25 Lt với 7.6% nhựa ít hơn tại Uruguay, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2022:p46:c2",
+      "pdf_page": 46,
+      "quote": "In Uruguay the Salus Brand relaunch it ́s iconic jug 6,25 Lt with 7.6% less plastic with same consumer experience."
+    }
+  ],
+  "claim_id": "danone_2022_350124cd8ea1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4615,
+      "completion_tokens": 122,
+      "total_tokens": 4737,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 35.59,
+    "timestamp": "2026-11-11T08:03:22.538509+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2022",
+  "fingerprint": "2e9d11bab68fbb2fab716f024965b581756f4e23a615a51c76d2f970c66659ed",
+  "retrieved_chunk_ids": [
+    "danone_2022:p46:c2",
+    "danone_2022:p46:c1",
+    "danone_2022:p240:c1",
+    "danone_2022:p331:c1",
+    "danone_2022:p166:c2"
+  ]
+}

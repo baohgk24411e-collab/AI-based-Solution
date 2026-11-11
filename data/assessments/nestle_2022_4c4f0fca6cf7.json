@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ rPET trong bottles toàn cầu của Nestlé Waters. Chỉ có thông tin về việc họ đã chuyển đổi 100% dòng Buxton Natural Mineral Water ở Anh sang rPET, và triển khai rPET tại Ai Cập.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2022:p45:c1",
+      "pdf_page": 45,
+      "quote": "Nestlé Waters also continued to increase the recycled content in PET bottles globally. In Egypt, they launched their first rPET-containing bottles, supporting the development of a circular packaging system where bottles are collected and recycled, “bottle-to-bottle”. In the UK, Nestlé Waters also moved the entire Buxton Natural Mineral Water range to 100% rPET."
+    }
+  ],
+  "claim_id": "nestle_2022_4c4f0fca6cf7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3999,
+      "completion_tokens": 204,
+      "total_tokens": 4203,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.09,
+    "timestamp": "2026-11-11T07:40:09.812782+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2022",
+  "fingerprint": "5ef43fb188fc15a4f41767308b02ebd91cb24830cb97a9782c10b9a362e1e9d3",
+  "retrieved_chunk_ids": [
+    "nestle_2022:p45:c1",
+    "nestle_2022:p45:c3",
+    "nestle_2022:p2:c2",
+    "nestle_2022:p9:c1",
+    "nestle_2022:p44:c1"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận mục tiêu thu gom 70% đến 75% số lượng chai và lọ tương đương được đưa vào thị trường hàng năm vào năm 2035.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2025:p4:c1",
+      "pdf_page": 4,
+      "quote": "• Aim to collect 70% to 75% of the equivalent number of bottles and cans introduced into the market annually by 2035."
+    }
+  ],
+  "claim_id": "cocacola_2025_4edb8c102964",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "request_hash": "d2c1305820ba7cd07a819bf8624b7aceae0da3dda918d1b4357a62922dccba85",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3822,
+      "completion_tokens": 135,
+      "total_tokens": 3957,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.25,
+    "timestamp": "2026-11-11T08:14:16.105931+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2025",
+  "fingerprint": "bd3aab596df0e1f63727d36816ee7be554cc22817702d02523e7334ff0641d6d",
+  "retrieved_chunk_ids": [
+    "cocacola_2025:p4:c1",
+    "cocacola_2025:p6:c3",
+    "cocacola_2025:p10:c1",
+    "cocacola_2025:p6:c1",
+    "cocacola_2025:p6:c2"
+  ]
+}

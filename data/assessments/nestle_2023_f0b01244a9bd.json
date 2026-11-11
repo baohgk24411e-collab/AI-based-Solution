@@ -1,0 +1,58 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng đến cuối năm 2023, 83.5% bao bì nhựa của Nestlé được thiết kế để tái chế, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p43:c1",
+      "pdf_page": 43,
+      "quote": "By the end of 2023, 83.5% of our plastic packaging was designed for recycling."
+    }
+  ],
+  "claim_id": "nestle_2023_f0b01244a9bd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4339,
+      "completion_tokens": 123,
+      "total_tokens": 4462,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.98,
+    "timestamp": "2026-11-11T07:45:02.955079+00:00",
+    "repair_attempt": true,
+    "first_attempt": {
+      "provider": "lmstudio",
+      "model": "qwen2.5-7b-instruct",
+      "endpoint": "http://127.0.0.1:1234/v1",
+      "prompt_version": "greenclaim-v2-local",
+      "cache_hit": false,
+      "usage": {
+        "prompt_tokens": 4122,
+        "completion_tokens": 185,
+        "total_tokens": 4307,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "seconds": 8.33,
+      "timestamp": "2026-11-11T07:44:55.961260+00:00"
+    }
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "95f2f152e629ed9ee496e9d0368d1acaa8432b1d6a2591da4c3c8d1638257cda",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p41:c1",
+    "nestle_2023:p43:c1",
+    "nestle_2023:p3:c1",
+    "nestle_2023:p42:c2",
+    "nestle_2023:p43:c2"
+  ]
+}

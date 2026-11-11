@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo chỉ rõ rằng Nestlé đã thiết lập một chỉ số hiệu suất mới là 70.6% về lượng cacao được nguồn từ tất cả các quốc gia bao phủ bởi CLMRS hoặc hệ thống doanh nghiệp có trách nhiệm khác, với cân bằng khối lượng được bao gồm. Đây chính xác là con số mà tuyên bố đề cập đến.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "nestle_2023:p39:c3",
+      "pdf_page": 39,
+      "quote": "Based on our due diligence approach, we have established a new performance indicator expressed in % volume of cocoa sourced from all countries covered by the CLMRS or other dedicated due diligence systems, with mass balance included."
+    }
+  ],
+  "claim_id": "nestle_2023_ac942611e3da",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3999,
+      "completion_tokens": 172,
+      "total_tokens": 4171,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.28,
+    "timestamp": "2026-11-11T07:43:23.956406+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "nestle_2023",
+  "fingerprint": "e60e93f7e569fb3f6ec0ccff1fc26cd6db10b17bb959be8a39ab7d406ce217f4",
+  "retrieved_chunk_ids": [
+    "nestle_2023:p39:c3",
+    "nestle_2023:p35:c1",
+    "nestle_2023:p82:c1",
+    "nestle_2023:p39:c2",
+    "nestle_2023:p75:c1"
+  ]
+}
