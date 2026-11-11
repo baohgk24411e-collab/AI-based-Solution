@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu sử dụng 75% nhựa tái chế trong chai xịt Cillit Bang vào năm 2022 và chưa có dữ liệu về tỷ lệ tái chế hoặc tái sử dụng tổng thể của bao bì nhựa. Mục tiêu 100% bao bì nhựa tái chế hoặc tái sử dụng đến năm 2025 không được hỗ trợ bằng số liệu cụ thể.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p43:c1",
+      "pdf_page": 43,
+      "quote": "Our headline targets are to: • Use 50% less virgin plastic in our packaging by 2030 • Make 100% of our plastic packaging recyclable or reusable by 2025 • Use 25% recycled content in our plastic packaging by 2025"
+    }
+  ],
+  "claim_id": "reckitt_2021_64341fe662cb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3991,
+      "completion_tokens": 215,
+      "total_tokens": 4206,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.05,
+    "timestamp": "2026-11-11T09:18:35.396644+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "bdab9142143c51ccf37b6989f66066e071cab1cdfff700679fb4c371a0640940",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p43:c2",
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p45:c2"
+  ]
+}

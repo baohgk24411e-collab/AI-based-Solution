@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về tiến trình của dự án Every Bottle Back tại Hoa Kỳ, dự kiến thu gom và tái chế gần 700 triệu pound PET trong mười năm. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p41:c1",
+      "pdf_page": 41,
+      "quote": "As of November 2022, the initiative has launched over 25 projects which are projected to collect and capture nearly 700 million pounds of PET over ten years."
+    }
+  ],
+  "claim_id": "cocacola_2022_17c6fd81a7b9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4093,
+      "completion_tokens": 139,
+      "total_tokens": 4232,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.09,
+    "timestamp": "2026-11-11T09:02:42.943412+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "1e1989fa5d79bfb11c9ee784277a0851988aac370ee76f9d205f09b57e3d6333",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p41:c1",
+    "cocacola_2022:p67:c2",
+    "cocacola_2022:p41:c2",
+    "cocacola_2022:p4:c1",
+    "cocacola_2022:p9:c1"
+  ]
+}

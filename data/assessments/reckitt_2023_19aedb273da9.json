@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty xác nhận rằng họ làm việc với RecyClass và các chuyên gia ngành khác để đảm bảo có truy cập vào hướng dẫn tái chế mới nhất. Điều này được thể hiện trong đoạn văn trên trang 29 của báo cáo, nơi nêu rõ công ty đang theo dõi sự phát triển về tái chế và nhận thức về cách xử lý rác thải.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p29:c2",
+      "pdf_page": 29,
+      "quote": "We work with RecyClass and other industry experts and associations, to ensure we have access to the latest recycling guidelines, in-country collection and recycling information. They also provide expertise to draw on as we develop new packaging solutions."
+    }
+  ],
+  "claim_id": "reckitt_2023_19aedb273da9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3676,
+      "completion_tokens": 192,
+      "total_tokens": 3868,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.95,
+    "timestamp": "2026-11-11T09:43:44.227718+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "71a4e80e81e6793357dce3f80232fdad688c53aa82efed2bf778b51992803aa9",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p29:c2",
+    "reckitt_2023:p25:c1",
+    "reckitt_2023:p25:c2",
+    "reckitt_2023:p26:c2",
+    "reckitt_2023:p28:c1"
+  ]
+}

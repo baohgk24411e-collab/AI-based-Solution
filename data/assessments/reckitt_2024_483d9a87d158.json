@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc nhóm môi trường toàn cầu của Reckitt phân tích tiến trình và điều tra các biến động đáng kể. Nội dung chỉ đề cập đến việc theo dõi và cải thiện quản lý rác thải trong hoạt động sản xuất.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c1",
+      "pdf_page": 42,
+      "quote": "Our Global Environmental team analyses progress and investigates any significant variations, developing action and improvement plans if required."
+    }
+  ],
+  "claim_id": "reckitt_2024_483d9a87d158",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3302,
+      "completion_tokens": 130,
+      "total_tokens": 3432,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.97,
+    "timestamp": "2026-11-11T09:54:03.691743+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "2689a56266f786102e3cb63478f83ef86a8c0978cafb88debc547533dc638e86",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p62:c2",
+    "reckitt_2024:p35:c1",
+    "reckitt_2024:p14:c2",
+    "reckitt_2024:p36:c2"
+  ]
+}

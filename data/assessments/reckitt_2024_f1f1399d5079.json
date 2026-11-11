@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về các chương trình thu gom và tái chế mà Reckitt đã thực hiện. Chỉ có một đoạn văn đề cập đến việc hỗ trợ nỗ lực tái chế quốc gia, nhưng không chi tiết hóa hoạt động cụ thể.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p21:c1",
+      "pdf_page": 21,
+      "quote": "We support national recycling and reuse efforts through collection and takeback schemes to help reduce non-recycled waste."
+    }
+  ],
+  "claim_id": "reckitt_2024_f1f1399d5079",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3541,
+      "completion_tokens": 123,
+      "total_tokens": 3664,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.95,
+    "timestamp": "2026-11-11T09:50:23.376762+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "6950ff3f194274927bb92dc6159a1a7affca921fa7236bd4c27892a3cea9ad53",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p21:c1",
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p23:c2",
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p19:c1"
+  ]
+}

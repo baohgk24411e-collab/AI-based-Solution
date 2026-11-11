@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt đề cập đến mục tiêu sử dụng nhiều hơn các vật liệu tái chế, tái sử dụng và tái chế trong sản phẩm và bao bì. Điều này được thể hiện ở trang 69: 'We’re also striving to use more recycled, recyclable and reusable materials in our products and packaging.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p69:c1",
+      "pdf_page": 69,
+      "quote": "We’re also striving to use more recycled, recyclable and reusable materials in our products and packaging."
+    }
+  ],
+  "claim_id": "reckitt_2022_ffa548d395db",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2972,
+      "completion_tokens": 152,
+      "total_tokens": 3124,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.16,
+    "timestamp": "2026-11-11T09:33:53.660526+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "76940e2d2bf92464de5670944285ff1418670526920a8a5ede75624793c44bc2",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p69:c1",
+    "reckitt_2022:p38:c1",
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p72:c2",
+    "reckitt_2022:p41:c2"
+  ]
+}

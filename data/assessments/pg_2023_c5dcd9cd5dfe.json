@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc 97% sợi giấy tái chế hoặc được chứng nhận thứ ba trong bao bì giấy của Procter & Gamble, không cung cấp thông tin đầy đủ về 100% bao bì giấy là tái chế hoặc nội dung từ nguyên liệu virgin đã được chứng nhận thứ ba.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p72:c1",
+      "pdf_page": 72,
+      "quote": "Sourced 97% recycled or third-party certified wood fiber"
+    }
+  ],
+  "claim_id": "pg_2023_c5dcd9cd5dfe",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3267,
+      "completion_tokens": 144,
+      "total_tokens": 3411,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.44,
+    "timestamp": "2026-11-11T09:10:32.261249+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "f2fdae879d9918c45798561eee60c609c1e0a824ad062d0c86393d5bd916c606",
+  "retrieved_chunk_ids": [
+    "pg_2023:p72:c1",
+    "pg_2023:p59:c1",
+    "pg_2023:p60:c1",
+    "pg_2023:p49:c1",
+    "pg_2023:p62:c1"
+  ]
+}

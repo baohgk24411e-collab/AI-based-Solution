@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng các nước có hệ thống thu gom hiệu quả như Đức có thể đạt được tỷ lệ thu gom cao (khoảng 97% cho bao bì không tái sử dụng tại Đức).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p40:c2",
+      "pdf_page": 40,
+      "quote": "Countries with a well-designed DRS scheme, like Germany, can achieve high levels of collection (approximately 97% collection for non-refillable packages in Germany)."
+    }
+  ],
+  "claim_id": "cocacola_2022_a3b3e0e2966e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3927,
+      "completion_tokens": 147,
+      "total_tokens": 4074,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.17,
+    "timestamp": "2026-11-11T09:02:35.830417+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "46a097499fc9583d3ebb63cc4e67b7e557d3e2e4ce0b4bb350a7f63792c9a1a2",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p37:c1",
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p37:c2"
+  ]
+}

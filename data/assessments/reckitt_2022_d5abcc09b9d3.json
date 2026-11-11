@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế của bao bì Queen V pHun wipes sau khi thay đổi kích thước gói. Chỉ đề cập đến việc tăng số lượng miếng lau từ 20 lên 30 và giảm nhựa sử dụng cho mỗi liều, nhưng không có dữ liệu về khả năng tái chế.",
+  "flags": [
+    "缺少具体的数据支持"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p36:c2",
+      "pdf_page": 36,
+      "quote": "In the US, we launched a larger pack size of Queen V pHun wipes, increasing the number of wipes in a pack from 20 to 30 and reducing the plastic per dose"
+    }
+  ],
+  "claim_id": "reckitt_2022_d5abcc09b9d3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4110,
+      "completion_tokens": 177,
+      "total_tokens": 4287,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.89,
+    "timestamp": "2026-11-11T09:31:09.038229+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "709600936c5d5af5a57a1602b994db248de8c22660e6cb6e1f3564dfdb04bad7",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p36:c1",
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p40:c2"
+  ]
+}

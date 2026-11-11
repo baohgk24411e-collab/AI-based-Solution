@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ nội dung tái chế trong bao bì nhựa vào năm 2020 và 2021, chỉ đề cập đến các nỗ lực giảm sử dụng nhựa nguyên sinh và tăng nội dung tái chế.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p28:c2",
+      "pdf_page": 28,
+      "quote": "In 2022, we achieved a 7.3% reduction compared with 2020 (versus 1.2% in 2021)."
+    }
+  ],
+  "claim_id": "reckitt_2023_4367109aac4d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4186,
+      "completion_tokens": 158,
+      "total_tokens": 4344,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.5,
+    "timestamp": "2026-11-11T09:42:45.230156+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "828bb21d3dedf8657628173168b160969020addcd970e85ce03a4ee611fa7cb8",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p14:c2",
+    "reckitt_2023:p83:c1",
+    "reckitt_2023:p57:c2",
+    "reckitt_2023:p56:c1"
+  ]
+}

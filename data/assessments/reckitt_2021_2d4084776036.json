@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ cung cấp số lượng nhựa tổng thể sử dụng trong năm 2020 là 225,310 tấn. Không có thông tin về việc liệu số liệu này đã được xác minh hay không, cũng như không có bằng chứng về sự tái chế thực tế của các loại nhựa này.",
+  "flags": [
+    "missing_recycling_data",
+    "no_verification"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p43:c2",
+      "pdf_page": 43,
+      "quote": "Total weight (tonnes) of all plastic packaging** 225,310 metric tonnes"
+    }
+  ],
+  "claim_id": "reckitt_2021_2d4084776036",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3826,
+      "completion_tokens": 157,
+      "total_tokens": 3983,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.26,
+    "timestamp": "2026-11-11T09:18:50.204849+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "11d5eeb512edd0bb8400fa663e59d690b6b678904b2646b6985d2b514e16a374",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p43:c2",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p75:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã đề cập đến việc thay thế laminate đa lớp bằng vật liệu đơn nguyên để tăng khả năng tái chế và loại bỏ màu đen từ chai nhựa, điều này phù hợp với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p76:c2",
+      "pdf_page": 76,
+      "quote": "For example, we’re swapping multi-layer laminates for mono-materials which are easier to recycle and removing black colourant from our bottles."
+    }
+  ],
+  "claim_id": "reckitt_2021_38269b3d6733",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3569,
+      "completion_tokens": 115,
+      "total_tokens": 3684,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.78,
+    "timestamp": "2026-11-11T09:23:23.113206+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "997101548c3838d0d18d2859c47ca1603164030107bcc4bf2d4379e730f29029",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p41:c2"
+  ]
+}

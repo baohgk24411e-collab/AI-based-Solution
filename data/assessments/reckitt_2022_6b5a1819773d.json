@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty Reckitt đã xác nhận rằng họ liên tục xem xét cách làm việc của mình và tìm kiếm cơ hội tái sử dụng vật liệu để tránh lãng phí, đồng thời duy trì an toàn và chất lượng sản phẩm. Điều này được thể hiện trong đoạn văn trên trang 72 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p72:c1",
+      "pdf_page": 72,
+      "quote": "We continually review the way we work, identifying opportunities to reuse materials to avoid waste altogether where we can, while maintaining the safety and quality of our products."
+    }
+  ],
+  "claim_id": "reckitt_2022_6b5a1819773d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3760,
+      "completion_tokens": 151,
+      "total_tokens": 3911,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.88,
+    "timestamp": "2026-11-11T09:34:00.546177+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "4f80afbd3479dc5989c2270d1e793497bf6b383861cfa6a324986e6dac0d6a85",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p72:c1",
+    "reckitt_2022:p71:c2",
+    "reckitt_2022:p23:c1",
+    "reckitt_2022:p72:c2",
+    "reckitt_2022:p23:c2"
+  ]
+}

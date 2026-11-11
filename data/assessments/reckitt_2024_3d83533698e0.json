@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo chỉ rõ mục tiêu tăng nguồn điện tái tạo từ 5% năm 2015 lên 100% vào năm 2030.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p27:c1",
+      "pdf_page": 27,
+      "quote": "Increase annual sourcing of renewable electricity from 5% in 2015 to 100% by 2030"
+    }
+  ],
+  "claim_id": "reckitt_2024_3d83533698e0",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3665,
+      "completion_tokens": 111,
+      "total_tokens": 3776,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.75,
+    "timestamp": "2026-11-11T09:52:36.210552+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "3eb9f858c24d2bb434b97c3cf4f1e7e4dbccf61a0af574a5af58646aac63eabf",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p27:c1",
+    "reckitt_2024:p25:c1",
+    "reckitt_2024:p28:c1",
+    "reckitt_2024:p28:c2",
+    "reckitt_2024:p25:c2"
+  ]
+}

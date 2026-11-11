@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt sử dụng độ tái chế kỹ thuật như một chỉ số để duy trì sự nhất quán toàn cầu.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p44:c1",
+      "pdf_page": 44,
+      "quote": "We use technical recyclability as a measure, for a consistent global approach."
+    }
+  ],
+  "claim_id": "reckitt_2021_6347658c4b79",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4018,
+      "completion_tokens": 97,
+      "total_tokens": 4115,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.89,
+    "timestamp": "2026-11-11T09:18:56.121764+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "2bf091b44db45a039485f2682df36b0521eb39404ed757f755c203963f446a74",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p42:c1",
+    "reckitt_2021:p66:c2",
+    "reckitt_2021:p27:c1",
+    "reckitt_2021:p37:c1"
+  ]
+}

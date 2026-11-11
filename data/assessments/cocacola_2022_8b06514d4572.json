@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Đoạn văn bản cung cấp thông tin rằng Coca-Cola đã tăng cường mục tiêu giảm nhựa nguyên sinh và sử dụng bao bì tái sử dụng trong những năm gần đây. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p42:c1",
+      "pdf_page": 42,
+      "quote": "In the past couple of years, we increased our ambition and set virgin plastics reduction and reusable packaging targets."
+    }
+  ],
+  "claim_id": "cocacola_2022_8b06514d4572",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4169,
+      "completion_tokens": 113,
+      "total_tokens": 4282,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.47,
+    "timestamp": "2026-11-11T09:03:22.702656+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "91710a1303ba0bc73c0c9bbce866674006f11c2b7fe7cf36bb3297e21b774e99",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p42:c1",
+    "cocacola_2022:p9:c2",
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p44:c1",
+    "cocacola_2022:p7:c1"
+  ]
+}

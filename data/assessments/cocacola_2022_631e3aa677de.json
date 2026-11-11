@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Sprite chuyển đổi từ chai PET xanh sang PET trong suốt để tăng hiệu quả tái chế hệ thống. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p39:c1",
+      "pdf_page": 39,
+      "quote": "We continued to transition Sprite plastic bottles from green to clear PET to help increase the efficiency of recycling systems."
+    }
+  ],
+  "claim_id": "cocacola_2022_631e3aa677de",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4194,
+      "completion_tokens": 106,
+      "total_tokens": 4300,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.31,
+    "timestamp": "2026-11-11T09:02:06.021895+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "babfb223a1d3de954631bb27c9f2aa4642bcebf912d0b7e2f894a7ec72311c17",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p67:c1",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p37:c2",
+    "cocacola_2022:p66:c2"
+  ]
+}

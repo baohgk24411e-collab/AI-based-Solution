@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc cải thiện mạng lưới thu gom và tăng cường giáo dục người tiêu dùng để thúc đẩy tái chế. Công ty cũng đang phát triển các giải pháp mới và hợp tác với nhà cung cấp để giải quyết thách thức liên quan đến tái chế. Điều này hỗ trợ tuyên bố của công ty về mục tiêu đảm bảo bao bì có thể mở khóa thu gom tại cửa ngõ cho người tiêu dùng và tăng lượng vật liệu được tái chế.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p23:c2",
+      "pdf_page": 23,
+      "quote": "Our aim is to ensure that the packaging solution can unlock kerbside recycling for consumers, and increase the amount of recovered materials for recyclers."
+    }
+  ],
+  "claim_id": "reckitt_2024_60898128a1b1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3768,
+      "completion_tokens": 183,
+      "total_tokens": 3951,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.75,
+    "timestamp": "2026-11-11T09:52:16.265314+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "a6489f5cd8c535a2eb81f8211503eb2714e38d285c789c4ee5aa2541e608efe8",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p23:c2",
+    "reckitt_2024:p20:c1",
+    "reckitt_2024:p20:c2",
+    "reckitt_2024:p22:c2",
+    "reckitt_2024:p22:c1"
+  ]
+}

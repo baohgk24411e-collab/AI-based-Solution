@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Bản cáo bạch không cung cấp thông tin cụ thể về tỷ lệ tái chế của chai nhựa được sử dụng trong sản phẩm Aerogard Naturals. Chỉ có thông tin về việc sử dụng 50% nhựa tái sinh trong một số sản phẩm khác.",
+  "flags": [
+    "缺乏具体证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p36:c2",
+      "pdf_page": 36,
+      "quote": "To reduce the product’s carbon footprint, it was launched in a recyclable bottle that uses 50% recycled plastic"
+    }
+  ],
+  "claim_id": "reckitt_2022_ceb1c66eabdc",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4113,
+      "completion_tokens": 139,
+      "total_tokens": 4252,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.95,
+    "timestamp": "2026-11-11T09:30:44.733376+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "ed21edfabe2efa9322ec901e68853dcb1e9e22502cace95630985113bf1c30ff",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p31:c1",
+    "reckitt_2022:p6:c1",
+    "reckitt_2022:p42:c1"
+  ]
+}

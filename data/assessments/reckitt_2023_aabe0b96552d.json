@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu làm cho tất cả bao bì nhựa của họ tái sử dụng hoặc tái chế được vào năm 2025 nhưng không cung cấp dữ liệu cụ thể về tiến trình thực hiện. Các thông tin về việc đảm bảo rằng tất cả bao bì nhựa đều có thể tái chế, tái sử dụng hay phân hủy sinh học chỉ được đề cập chung chung.",
+  "flags": [
+    "missing_progress_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p27:c1",
+      "pdf_page": 27,
+      "quote": "In this way, we can help address key parts of EMF's vision, such as the elimination of problematic or unnecessary plastic packaging, and ensure all plastic packaging is reusable, recyclable or compostable."
+    }
+  ],
+  "claim_id": "reckitt_2023_aabe0b96552d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4002,
+      "completion_tokens": 191,
+      "total_tokens": 4193,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.19,
+    "timestamp": "2026-11-11T09:42:22.858697+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "128f603a7d342b9b088bacc0191f366df32d30a83e8d64ad96aa58cfc91a8f80",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p27:c1",
+    "reckitt_2023:p28:c1",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p62:c1",
+    "reckitt_2023:p29:c2"
+  ]
+}

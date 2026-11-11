@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về mục tiêu giảm 65% khí thải nhà kính từ hoạt động vào năm 2030, và đã đạt được mức giảm 66% so với năm 2015. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p48:c2",
+      "pdf_page": 48,
+      "quote": "65% reduction in greenhouse gas emissions from operations by 2030"
+    }
+  ],
+  "claim_id": "reckitt_2021_854f4d535902",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3591,
+      "completion_tokens": 119,
+      "total_tokens": 3710,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.97,
+    "timestamp": "2026-11-11T09:22:26.912093+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "01e4af754ff7ded008feb1179293c8846d4d5909c7a1bede016b909c5e3da7a3",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p48:c2",
+    "reckitt_2021:p50:c1",
+    "reckitt_2021:p3:c2",
+    "reckitt_2021:p67:c1",
+    "reckitt_2021:p49:c1"
+  ]
+}

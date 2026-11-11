@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về mục tiêu giảm phát thải khí nhà kính Scope 3 cụ thể như năm báo cáo đề cập. Chỉ có thông tin chung về kế hoạch đạt net zero và các mục tiêu ngắn hạn khác.",
+  "flags": [
+    "目标不具体"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p27:c1",
+      "pdf_page": 27,
+      "quote": "• Our value chain (Scope 3) Reduce absolute Scope 3 GHG emissions from purchased goods and services (associated with ingredients and packaging materials), direct emissions from use of sold products and end-of-life treatment of sold products by 50% by 2030, from a 2015 base year (SBTi validated)"
+    }
+  ],
+  "claim_id": "reckitt_2024_c370794ba6cb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3714,
+      "completion_tokens": 183,
+      "total_tokens": 3897,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.69,
+    "timestamp": "2026-11-11T09:52:43.921969+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "b391eab6652ccdc1a89218e214d087c6d5325fbf70cf594e6e96392a88641abd",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p27:c1",
+    "reckitt_2024:p26:c1",
+    "reckitt_2024:p27:c3",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p27:c2"
+  ]
+}

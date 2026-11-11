@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng nhu cầu PET tái chế cho các ứng dụng thực phẩm hiện đang vượt quá cung, do đó công ty cần giúp xây dựng một kênh cung cấp chất liệu tái chế bền vững. Điều này tương đồng với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p38:c1",
+      "pdf_page": 38,
+      "quote": "Demand for recycled PET plastic for food-grade applications currently exceeds supply, so we need to help build a sustainable pipeline of high-quality material."
+    }
+  ],
+  "claim_id": "cocacola_2022_7b59da7f5a53",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4214,
+      "completion_tokens": 153,
+      "total_tokens": 4367,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.64,
+    "timestamp": "2026-11-11T09:01:21.589794+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "37e375d7c90cfca7c08dd45fc00d7e135f8447b0ec0bc8b4fb21ef4d09c784a1",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p42:c3",
+    "cocacola_2022:p9:c1"
+  ]
+}

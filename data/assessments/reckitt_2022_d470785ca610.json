@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đang tăng cường nhãn mác để giúp người tiêu dùng hiểu rõ hơn về cách xử lý bao bì nhựa sau khi sử dụng. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c2",
+      "pdf_page": 42,
+      "quote": "We’re adding more labelling to our products to help our consumers understand what to do with plastic packaging after use."
+    }
+  ],
+  "claim_id": "reckitt_2022_d470785ca610",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3961,
+      "completion_tokens": 118,
+      "total_tokens": 4079,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.19,
+    "timestamp": "2026-11-11T09:33:33.485779+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "0e259b34453f54461e7108e069379aba0f78959ff1519693580da98b4e612874",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p32:c1",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p41:c1"
+  ]
+}

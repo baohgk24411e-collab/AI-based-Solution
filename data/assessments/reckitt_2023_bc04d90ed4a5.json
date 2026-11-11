@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo nêu rõ mục tiêu giảm sử dụng nước 30% vào năm 2025, trùng khớp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p56:c2",
+      "pdf_page": 56,
+      "quote": "Target: 30% reduction in water use by 2025"
+    }
+  ],
+  "claim_id": "reckitt_2023_bc04d90ed4a5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3841,
+      "completion_tokens": 111,
+      "total_tokens": 3952,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.92,
+    "timestamp": "2026-11-11T09:44:16.394270+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "7792fbf633dbf7e33d2ea48454b59e30e522dcf608f2b5c07416a13e7f53bd92",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p56:c2",
+    "reckitt_2023:p5:c1",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p36:c1",
+    "reckitt_2023:p54:c1"
+  ]
+}

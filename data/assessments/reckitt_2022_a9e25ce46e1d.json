@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đã đạt được 76.4% độ tái chế hoặc tái sử dụng bao bì nhựa vào năm 2022, như tuyên bố trong bản cáo bạch.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p41:c2",
+      "pdf_page": 41,
+      "quote": "Our ambition is to make all of our plastic packaging recyclable or reusable by 2025. We reached 76.4% in 2022."
+    }
+  ],
+  "claim_id": "reckitt_2022_a9e25ce46e1d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4073,
+      "completion_tokens": 130,
+      "total_tokens": 4203,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.62,
+    "timestamp": "2026-11-11T09:32:44.405318+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "d5e99700d9b46060872d3b49ec1f47fc03cdf45c5e59a9f0f8b902db324b1ca3",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p41:c2",
+    "reckitt_2022:p39:c1",
+    "reckitt_2022:p7:c1",
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p42:c1"
+  ]
+}

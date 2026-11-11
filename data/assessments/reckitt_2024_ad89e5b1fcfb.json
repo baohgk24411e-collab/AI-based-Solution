@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Reckitt đang hợp tác với các đối tác trong ngành để phát triển và triển khai giải pháp tái chế cho bao bì thuốc blister, như đã đề cập trong đoạn văn: 'For our medicine blister packs, we’re partnering with industry peers as part of the Circularity in Primary Pharmaceutical Packaging Accelerator (CiPPPA), aiming to collectively develop and deploy recycling solutions.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p21:c1",
+      "pdf_page": 21,
+      "quote": "For our medicine blister packs, we’re partnering with industry peers as part of the Circularity in Primary Pharmaceutical Packaging Accelerator (CiPPPA), aiming to collectively develop and deploy recycling solutions."
+    }
+  ],
+  "claim_id": "reckitt_2024_ad89e5b1fcfb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3641,
+      "completion_tokens": 179,
+      "total_tokens": 3820,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.52,
+    "timestamp": "2026-11-11T09:50:43.666779+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "9f81b596a9dbca84ff18b6ddbd434330b84064122bffb230827904f4eb832e45",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p21:c1",
+    "reckitt_2024:p23:c2",
+    "reckitt_2024:p20:c2",
+    "reckitt_2024:p21:c2",
+    "reckitt_2024:p19:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về việc giảm hóa chất trong năm 2030 so với năm 2020.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p14:c2",
+      "pdf_page": 14,
+      "quote": "65% reduction in our chemical footprint by 2030 versus 2020"
+    }
+  ],
+  "claim_id": "reckitt_2023_43116c396d4e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4023,
+      "completion_tokens": 97,
+      "total_tokens": 4120,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.7,
+    "timestamp": "2026-11-11T09:40:10.220640+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "bb2779407af3e20e49ff28805f6612804f4d34da225e995892f48d7a33071d8f",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p14:c2",
+    "reckitt_2023:p5:c1",
+    "reckitt_2023:p22:c2",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p38:c1"
+  ]
+}

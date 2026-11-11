@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã xác nhận rằng họ sẽ hợp tác với các khách hàng toàn cầu và khu vực để đạt được mục tiêu bền vững về bao bì, điều này tương đồng với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p42:c3",
+      "pdf_page": 42,
+      "quote": "We see a significant opportunity to work more proactively with global and regional customers, many of which have announced their own sustainable packaging goals that can only be achieved in collaboration with key suppliers."
+    }
+  ],
+  "claim_id": "cocacola_2022_b2b849bc4c6d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3827,
+      "completion_tokens": 129,
+      "total_tokens": 3956,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.62,
+    "timestamp": "2026-11-11T09:03:36.150544+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "7a6991d1021cb8ec441241330216a5af3a5976efe6785731936626f5a8dcd8e8",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p42:c3",
+    "cocacola_2022:p42:c1",
+    "cocacola_2022:p44:c1",
+    "cocacola_2022:p22:c1",
+    "cocacola_2022:p36:c1"
+  ]
+}

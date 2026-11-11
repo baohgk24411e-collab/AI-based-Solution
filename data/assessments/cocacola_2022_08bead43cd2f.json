@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc cung cấp các chai DASANI trong nước tái chế ở Mỹ và Canada, nhưng không cung cấp số liệu cụ thể về tỷ lệ. Không có thông tin về thời điểm thực hiện hoặc phạm vi áp dụng.",
+  "flags": [
+    "missing_data",
+    "scope_mismatch"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p38:c2",
+      "pdf_page": 38,
+      "quote": "In the United\u0007States\u0007and\u0007Canada, we recently began offering the majority of DASANI bottles— from 20-oz. and 1.5-liter singles to 10-oz. and 12-oz. multipacks—in 100% rPET plastic."
+    }
+  ],
+  "claim_id": "cocacola_2022_08bead43cd2f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3977,
+      "completion_tokens": 192,
+      "total_tokens": 4169,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.48,
+    "timestamp": "2026-11-11T09:01:30.097178+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "a233dde87115043e751663e852af227750074407dbe0ab79addef579c180986d",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p67:c2",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p67:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p38:c3"
+  ]
+}

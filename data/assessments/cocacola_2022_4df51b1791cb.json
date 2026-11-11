@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2022, công ty đã tránh sử dụng khoảng 500,000 tấn nhựa nguyên sinh thông qua các nỗ lực của mình, với sự tăng thêm là hơn 50,000 tấn so với năm trước. Điều này tương ứng với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p38:c1",
+      "pdf_page": 38,
+      "quote": "In 2022, we avoided around half a million metric tons of virgin plastic usage through these efforts with an incremental avoidance of over 50,000 metric tons since last year."
+    }
+  ],
+  "claim_id": "cocacola_2022_4df51b1791cb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4252,
+      "completion_tokens": 184,
+      "total_tokens": 4436,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.45,
+    "timestamp": "2026-11-11T09:01:13.942427+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "c148fb199dd353585ad3166d6850a3abbaa45a8fddb24dca999ede2bb3649148",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p7:c2"
+  ]
+}

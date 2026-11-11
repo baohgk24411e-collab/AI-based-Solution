@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu sử dụng 76.4% bao bì nhựa tái chế vào năm 2022 và kế hoạch đạt 25% nội dung tái chế vào năm 2025, nhưng không cung cấp thông tin cụ thể về việc sử dụng chất liệu tái chế và tái sử dụng trong sản phẩm và bao bì.",
+  "flags": [
+    "缺少具体证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p62:c1",
+      "pdf_page": 62,
+      "quote": "Our ambition is for all our plastic packaging to be recyclable or reusable by 2025. We’re swapping multi-layer laminates for mono-materials which are easier to recycle, removing black dyes from our bottles that can impede the recycling process, and exploring the use of ingredients from circular feedstocks, which biodegrade better and which have a lower chemical footprint."
+    }
+  ],
+  "claim_id": "reckitt_2023_b5647c7c31ba",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3909,
+      "completion_tokens": 221,
+      "total_tokens": 4130,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.86,
+    "timestamp": "2026-11-11T09:44:52.674664+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "a3dcb3f5f80641d4cb2cc23315ea45871b631705d3f3212e66fa13caa9425695",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p62:c1",
+    "reckitt_2023:p26:c2",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p28:c1",
+    "reckitt_2023:p26:c1"
+  ]
+}

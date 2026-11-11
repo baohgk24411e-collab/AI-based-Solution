@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đã giảm sử dụng bao bì nhựa trong sản phẩm vệ sinh bằng hơn 300 tấn vào năm 2021 thông qua việc làm nhẹ và thiết kế lại. Chunk_id: reckitt_2021:p45:c1, pdf_page: 45",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "Meanwhile, within our hygiene products we reduced our use of plastic packaging by over 300 tonnes in 2021 through lightweighting and re-design."
+    }
+  ],
+  "claim_id": "reckitt_2021_efa1d8d74a8f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3775,
+      "completion_tokens": 164,
+      "total_tokens": 3939,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.31,
+    "timestamp": "2026-11-11T09:19:47.235220+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "d2efbac532f99b736280a736cd222543e2331c6d02cf3de41dcd09c924c6dbb5",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p69:c2"
+  ]
+}

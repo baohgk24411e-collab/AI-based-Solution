@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng công ty đã và sẽ tiếp tục loại bỏ các định dạng không thể tái chế để đạt được mục tiêu 100% bao bì nhựa có thể tái chế hoặc tái sử dụng vào năm 2025. Các đoạn văn bản cung cấp thông tin về tiến trình thực hiện mục tiêu này.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p40:c2",
+      "pdf_page": 40,
+      "quote": "We’ve made great strides in removing problematic and non-recyclable formats from our brands, and we’ll continue to do so to meet our target of 100% plastic packaging to be recyclable or reusable by 2025."
+    }
+  ],
+  "claim_id": "reckitt_2022_40697aebd0ea",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3564,
+      "completion_tokens": 177,
+      "total_tokens": 3741,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.36,
+    "timestamp": "2026-11-11T09:32:15.244901+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "9e99dc99037e13bc953a8e52da394a5d8fd0ede658b521ae96c2ef6352f16cd2",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p40:c2",
+    "reckitt_2022:p41:c2",
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p41:c3",
+    "reckitt_2022:p40:c1"
+  ]
+}

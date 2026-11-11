@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu dài hạn của Reckitt là giảm thiểu hoặc loại bỏ bao bì trong quá trình sản xuất sản phẩm mới, đồng thời vẫn đảm bảo hiệu suất như cũ. Điều này được thể hiện rõ ràng trong đoạn văn: 'Our long-term ambition is to deliver our products in new ways that minimise or eliminate packaging, while still working as well as ever.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p47:c2",
+      "pdf_page": 47,
+      "quote": "Our long-term ambition is to deliver our products in new ways that minimise or eliminate packaging, while still working as well as ever."
+    }
+  ],
+  "claim_id": "reckitt_2021_1142546785a7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3895,
+      "completion_tokens": 175,
+      "total_tokens": 4070,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.67,
+    "timestamp": "2026-11-11T09:22:03.666989+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "4b3d7984c20d870d1b61fbd0124dab32662e7a5211881809d244ea568951d128",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p47:c2",
+    "reckitt_2021:p5:c2",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p49:c1",
+    "reckitt_2021:p83:c1"
+  ]
+}

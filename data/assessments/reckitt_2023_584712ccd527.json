@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu 25% nội dung tái chế trong bao bì nhựa của Reckitt vào năm 2025.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p29:c2",
+      "pdf_page": 29,
+      "quote": "Target: 25% recycled content in our plastic packaging by 2025"
+    }
+  ],
+  "claim_id": "reckitt_2023_584712ccd527",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3984,
+      "completion_tokens": 105,
+      "total_tokens": 4089,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.88,
+    "timestamp": "2026-11-11T09:43:50.131190+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "a510c9e40e5576c26fa2591123e529607015e21232c20d55c5b5e8c1914c5aaf",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p29:c2",
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p29:c1"
+  ]
+}

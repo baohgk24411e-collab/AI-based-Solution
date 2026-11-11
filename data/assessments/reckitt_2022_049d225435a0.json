@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc tái chế hoặc tối ưu hóa sử dụng kim loại và thủy tinh của công ty Reckitt. Chỉ có đề cập chung đến mục tiêu và nguyên tắc tương tự với nhựa.",
+  "flags": [
+    "missing_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c1",
+      "pdf_page": 42,
+      "quote": "We’re also finding ways to address the environmental impact associated with our use of other materials, like metal and glass. The same principles apply here as with plastics, and we aim to reduce the amount of material we use, incorporate recycled content where possible, and design our packs to maximise recyclability."
+    }
+  ],
+  "claim_id": "reckitt_2022_049d225435a0",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3938,
+      "completion_tokens": 171,
+      "total_tokens": 4109,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.61,
+    "timestamp": "2026-11-11T09:33:13.987517+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "fd799147640fc3d73c79302a7558bb9e6a4e189b8a29a8ea71e1a90c6736c7fb",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p72:c2",
+    "reckitt_2022:p39:c1",
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p40:c1"
+  ]
+}

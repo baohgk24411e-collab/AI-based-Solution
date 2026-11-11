@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin xác thực về việc Coca-Cola, Sprite, Fanta và Arwa được bán trong chai rPET 100% tại các sân vận động và khu vực cổ động FIFA World Cup 2022 ở Qatar.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p38:c3",
+      "pdf_page": 38,
+      "quote": "In Qatar, Coca-Cola, Sprite, Fanta and Arwa water were sold in 100% rPET bottles in FIFA World Cup 2022 stadiums and fan zones."
+    }
+  ],
+  "claim_id": "cocacola_2022_14ed36176f79",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3915,
+      "completion_tokens": 155,
+      "total_tokens": 4070,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.38,
+    "timestamp": "2026-11-11T09:01:44.329732+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "3ed10b8b4fcc31c8e4f409c507686afa2f9a5ed69cb2226e5a5bae8e5ddb0302",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p38:c3",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p54:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p39:c1"
+  ]
+}

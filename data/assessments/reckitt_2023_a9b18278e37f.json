@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Reckitt đang sử dụng PCR để thay thế nhựa nguyên sinh trong bao bì và đặt mục tiêu tăng cường việc này. Điều này được thể hiện trong đoạn văn: 'We use PCR to replace virgin plastic in packaging. By incorporating PCR within our packaging and setting targets to increase it further, we also strengthen demand. This stimulates investment in recycling infrastructure to support the production of more PCR.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p26:c1",
+      "pdf_page": 26,
+      "quote": "We use PCR to replace virgin plastic in packaging. By incorporating PCR within our packaging and setting targets to increase it further, we also strengthen demand. This stimulates investment in recycling infrastructure to support the production of more PCR."
+    }
+  ],
+  "claim_id": "reckitt_2023_a9b18278e37f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3741,
+      "completion_tokens": 197,
+      "total_tokens": 3938,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.05,
+    "timestamp": "2026-11-11T09:42:00.717204+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "11957832dac3ab18f8089f6411a872f425bf71cd03dfa975cdbfe3e23a97fc13",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p26:c1",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p25:c1",
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p24:c2"
+  ]
+}

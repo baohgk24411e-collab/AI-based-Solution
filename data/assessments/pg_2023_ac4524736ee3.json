@@ -1,0 +1,40 @@
+{
+  "label": "not_yet_assessable",
+  "rationale": " CLAIM về mục tiêu hệ thống hóa sự chuyển đổi trong cách thế giới sản xuất, sử dụng và tái tạo các vật phẩm không có thông tin cụ thể về thời gian hoặc chỉ số đo lường. Do đó, chưa thể đánh giá.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p63:c1",
+      "pdf_page": 63,
+      "quote": "We’ll continue to drive collective progress for systemic transformation in how the world makes, uses and renews items."
+    }
+  ],
+  "claim_id": "pg_2023_ac4524736ee3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3425,
+      "completion_tokens": 118,
+      "total_tokens": 3543,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.94,
+    "timestamp": "2026-11-11T09:10:18.559289+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "df341606560021ab98b1d64c69314d7ddb059e3faf30fddf42e6656f91065ca3",
+  "retrieved_chunk_ids": [
+    "pg_2023:p63:c1",
+    "pg_2023:p70:c1",
+    "pg_2023:p35:c1",
+    "pg_2023:p2:c1",
+    "pg_2023:p59:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy mục tiêu giảm 50% sử dụng nhựa nguyên sinh vào năm 2030 so với năm 2020 là phù hợp với tuyên bố của công ty. Trích dẫn từ trang 62: 'By 2030, we plan to halve our use of virgin plastic.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p62:c1",
+      "pdf_page": 62,
+      "quote": "By 2030, we plan to halve our use of virgin plastic."
+    }
+  ],
+  "claim_id": "reckitt_2023_6dd78106919d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3942,
+      "completion_tokens": 151,
+      "total_tokens": 4093,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.02,
+    "timestamp": "2026-11-11T09:45:12.792015+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "43071a0ef1793eb1067c8737f1fed1b256e2c0e8f7c692865e1c30c480cdd609",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p62:c1",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p36:c1",
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p36:c2"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về việc Coca-Cola trở thành đối tác chiến lược của Business Coalition for a Global Plastics Treaty và đảm nhận vai trò Chủ tịch nhóm làm việc chính sách, như đã nêu trong đoạn văn bản.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p42:c1",
+      "pdf_page": 42,
+      "quote": "In September 2022, we also joined the Business Coalition for a Global Plastics Treaty convened by the Ellen MacArthur Foundation and WWF , and we have an active role as a Co-Chair of the Coalition’s Policy Working Group."
+    }
+  ],
+  "claim_id": "cocacola_2022_49f918e60230",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3434,
+      "completion_tokens": 149,
+      "total_tokens": 3583,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.78,
+    "timestamp": "2026-11-11T09:03:29.502837+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "0f81d9cf9bc9f84161b504d38cd3b68e7a168188cb1c881254964b3acec7273e",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p42:c1",
+    "cocacola_2022:p22:c2",
+    "cocacola_2022:p19:c2",
+    "cocacola_2022:p42:c4",
+    "cocacola_2022:p53:c1"
+  ]
+}

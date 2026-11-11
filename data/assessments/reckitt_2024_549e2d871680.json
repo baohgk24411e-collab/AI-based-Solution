@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về việc giảm sử dụng nước theo tỷ lệ 6% so với năm 2015. Chỉ có thông tin chung về cải thiện hiệu quả sử dụng nước và đạt được tiến bộ, nhưng không xác định rõ mức độ giảm cụ thể.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p40:c3",
+      "pdf_page": 40,
+      "quote": "During the year, we reduced water use in our operations by 6% per tonne of production versus our 2015 baseline."
+    }
+  ],
+  "claim_id": "reckitt_2024_549e2d871680",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3909,
+      "completion_tokens": 152,
+      "total_tokens": 4061,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.06,
+    "timestamp": "2026-11-11T09:53:51.441531+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "eae38170f87492dc385ff1c25b5b1eb1932caf68dc9748f6d6de88b42487ef8b",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p40:c3",
+    "reckitt_2024:p40:c2",
+    "reckitt_2024:p25:c1",
+    "reckitt_2024:p12:c1",
+    "reckitt_2024:p28:c1"
+  ]
+}

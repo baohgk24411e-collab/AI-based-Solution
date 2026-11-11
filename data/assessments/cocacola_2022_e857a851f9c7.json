@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Dữ liệu trong báo cáo hỗ trợ tuyên bố về tỷ lệ nhựa PET tái chế (47.4%) cho năm 2019.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Packaging Mix (by units) Plastic (primarily PET) bottles 45.5% 45.2% 44.9% 47.3% 47.4%"
+    }
+  ],
+  "claim_id": "cocacola_2022_e857a851f9c7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4683,
+      "completion_tokens": 143,
+      "total_tokens": 4826,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.84,
+    "timestamp": "2026-11-11T09:04:55.909180+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "b5f23bbcbf854b0a72d4595b1f42ddc5f793097c930be330fdbb69e4eb5ccd0b",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p81:c1",
+    "cocacola_2022:p11:c1",
+    "cocacola_2022:p57:c1"
+  ]
+}

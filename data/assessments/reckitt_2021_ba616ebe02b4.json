@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về Dettol TruClean có chứa tới 35% PCR, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p42:c2",
+      "pdf_page": 42,
+      "quote": "It combines a 100% plant-based active ingredient with a fully recyclable bottle containing up to 35% PCR."
+    }
+  ],
+  "claim_id": "reckitt_2021_ba616ebe02b4",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3592,
+      "completion_tokens": 102,
+      "total_tokens": 3694,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.61,
+    "timestamp": "2026-11-11T09:18:20.563773+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "d8b45bdd9786dc27b82152c00e085a861e97c86e3f71e748dd7eb5ff317bb7bb",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p42:c2",
+    "reckitt_2021:p41:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p33:c3",
+    "reckitt_2021:p33:c1"
+  ]
+}

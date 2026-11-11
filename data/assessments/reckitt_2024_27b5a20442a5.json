@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Reckitt đang làm việc với các nhà cung cấp để cải thiện khả năng tái chế của bao bì không phải nhựa, như trong thương hiệu Strepsils. Điều này tương thích với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p20:c1",
+      "pdf_page": 20,
+      "quote": "We are working with our suppliers to make progress on our non-plastic packaging, such as in our Strepsils brand where we’ve taken action to improve the recyclability of the cartons for our Extra and Triple Action ranges."
+    }
+  ],
+  "claim_id": "reckitt_2024_27b5a20442a5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4036,
+      "completion_tokens": 155,
+      "total_tokens": 4191,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.23,
+    "timestamp": "2026-11-11T09:50:10.962506+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "5e6ba0558006a6accc7090e16c813a5d0613b87319797926978dabe0a2c796bd",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p20:c1",
+    "reckitt_2024:p19:c2",
+    "reckitt_2024:p22:c2",
+    "reckitt_2024:p22:c1",
+    "reckitt_2024:p21:c1"
+  ]
+}

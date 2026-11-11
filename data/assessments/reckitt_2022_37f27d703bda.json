@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế nhựa đạt được trong năm báo cáo.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p34:c1",
+      "pdf_page": 34,
+      "quote": "SIC scores referenced in this document are correct as of 2022. SIC scores are subject to change, based on system improvements and updates."
+    }
+  ],
+  "claim_id": "reckitt_2022_37f27d703bda",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3929,
+      "completion_tokens": 115,
+      "total_tokens": 4044,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.17,
+    "timestamp": "2026-11-11T09:30:31.263326+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "26d2e1ac2ea7c55eee0df4933b26c678017bd6a131e1efbbe832da534ca47244",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p34:c2",
+    "reckitt_2022:p119:c1",
+    "reckitt_2022:p118:c4",
+    "reckitt_2022:p4:c2",
+    "reckitt_2022:p34:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Reckitt Germany hợp tác với Plastic Bank để hỗ trợ mục tiêu ngăn chặn nhựa vào đại dương, đồng thời đề cập đến các nỗ lực khác như tái sử dụng bao bì và tăng cường khả năng tái chế.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c1",
+      "pdf_page": 42,
+      "quote": "In 2022, Reckitt Germany joined forces with Plastic Bank, which turns plastic waste into useful material, to support its mission to stop plastic reaching the ocean."
+    }
+  ],
+  "claim_id": "reckitt_2022_3af12443002a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3667,
+      "completion_tokens": 135,
+      "total_tokens": 3802,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.38,
+    "timestamp": "2026-11-11T09:32:50.808565+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "88f09b1a1ef10e6638b60aeef9302baf9a859c31bd791d2c79587885232259e1",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p41:c2",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p41:c3",
+    "reckitt_2022:p71:c2"
+  ]
+}

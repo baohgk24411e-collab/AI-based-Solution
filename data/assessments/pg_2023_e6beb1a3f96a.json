@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc chuyển đổi từ bao bì nhựa sang bao bì giấy tái chế và ước tính đã giảm lượng nhựa toàn cầu. Tuy nhiên, không có dữ liệu cụ thể về khối lượng nhựa đã được loại bỏ.",
+  "flags": [
+    "缺失具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p61:c1",
+      "pdf_page": 61,
+      "quote": "With the launch of these cardboard boxes on premium refillable razors and cartridges, we estimate to have eliminated a total of 4,680 metric tons of plastic globally over the past three years. This is equivalent to over 170 million water bottles."
+    }
+  ],
+  "claim_id": "pg_2023_e6beb1a3f96a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3354,
+      "completion_tokens": 167,
+      "total_tokens": 3521,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.09,
+    "timestamp": "2026-11-11T09:09:48.914649+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "44fc61a6f13dd118eda491543707f19f95d3b28c494dcf45890600e09dcd1a78",
+  "retrieved_chunk_ids": [
+    "pg_2023:p61:c1",
+    "pg_2023:p54:c1",
+    "pg_2023:p56:c1",
+    "pg_2023:p49:c1",
+    "pg_2023:p59:c1"
+  ]
+}

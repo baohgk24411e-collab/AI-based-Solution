@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc Reckitt hợp tác với các đối tác thông qua các nhóm làm việc, chương trình giáo dục và các sáng kiến như Plastic Pact, hỗ trợ mục tiêu của EMF về việc loại bỏ bao bì nhựa không cần thiết và đảm bảo tất cả bao bì nhựa đều có thể tái sử dụng, tái chế hoặc phân hủy sinh học.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p21:c2",
+      "pdf_page": 21,
+      "quote": "Our collaboration, both on a global level and through the Plastic Pact initiatives, includes working closely with our peers through workshops, action groups and educational programmes. In this way, we can help address key parts of EMF's vision, such as the elimination of problematic or unnecessary plastic packaging, and ensure all plastic packaging is reusable, recyclable or compostable."
+    }
+  ],
+  "claim_id": "reckitt_2024_09ad11c3b84d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3997,
+      "completion_tokens": 206,
+      "total_tokens": 4203,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.52,
+    "timestamp": "2026-11-11T09:51:12.729343+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "4bcc0d9aea00ba1fb817dad9d7eb85db0f90296e515804768f99d53af97222ef",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p21:c2",
+    "reckitt_2024:p19:c2",
+    "reckitt_2024:p19:c1",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p36:c1"
+  ]
+}

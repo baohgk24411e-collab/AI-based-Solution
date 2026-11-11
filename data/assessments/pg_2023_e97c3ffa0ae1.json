@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu rằng 100% bao bì tiêu dùng sẽ được thiết kế để tái sử dụng hoặc tái chế. Mặc dù không cung cấp số liệu cụ thể về năm 2030, báo cáo xác nhận rằng công ty đã đạt được tiến bộ đáng kể trong việc thực hiện mục tiêu này.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p59:c1",
+      "pdf_page": 59,
+      "quote": "While our reported results of 78% this year are similar to last year, we are currently scaling new packaging innovations across several platforms that we anticipate will accelerate progress in the coming years. 2030 Goal Progress 100% of our consumer packaging will be designed to be recyclable or reusable"
+    }
+  ],
+  "claim_id": "pg_2023_e97c3ffa0ae1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3140,
+      "completion_tokens": 202,
+      "total_tokens": 3342,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.86,
+    "timestamp": "2026-11-11T09:08:55.229246+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "bfd56ed1ffeeeb4097dd5d6952a5763e687984ab5382ddaee78394de2fa11e76",
+  "retrieved_chunk_ids": [
+    "pg_2023:p59:c1",
+    "pg_2023:p72:c1",
+    "pg_2023:p53:c1",
+    "pg_2023:p60:c1",
+    "pg_2023:p61:c1"
+  ]
+}

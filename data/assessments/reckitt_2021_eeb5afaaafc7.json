@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đã ra mắt dòng Strepsils Herbal mới với bao bì chứa nội dung tái chế trong một số quốc gia châu Âu.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p41:c2",
+      "pdf_page": 41,
+      "quote": "• In several European countries, we launched our new Strepsils Herbal range with cartons containing recycled content"
+    }
+  ],
+  "claim_id": "reckitt_2021_eeb5afaaafc7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3653,
+      "completion_tokens": 104,
+      "total_tokens": 3757,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.75,
+    "timestamp": "2026-11-11T09:17:46.779338+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "d04d49eb85d523db46b2b0b60a26ee969d714bb469661df44c979527f3cb5525",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p41:c2",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p47:c1",
+    "reckitt_2021:p47:c2",
+    "reckitt_2021:p46:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế của bottle Gaviscon hay các bằng chứng về khả năng tái sử dụng và tái chế.",
+  "flags": [
+    "missing_recyclability_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p14:c2",
+      "pdf_page": 14,
+      "quote": "For example, in 2021, our team won the Glass Packaging of the Year prize at the UK Packaging Awards for the newly developed Gaviscon bottle. The pink shrink sleeve has been replaced with a spray coating that significantly improves sustainability by saving plastic – while also not losing that essential ‘stand-out’ factor on the shelf, which helps maintain brand equity."
+    }
+  ],
+  "claim_id": "reckitt_2021_3ef7a9d46793",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3961,
+      "completion_tokens": 172,
+      "total_tokens": 4133,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.84,
+    "timestamp": "2026-11-11T09:15:05.616898+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "98de8bda10c284620e53ee8c4c2a0a781ad6462cccfefec518575975387fdb9c",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p14:c2",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p14:c1"
+  ]
+}

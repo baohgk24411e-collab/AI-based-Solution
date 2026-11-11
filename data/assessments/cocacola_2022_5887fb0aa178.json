@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng tại Nhật Bản, Coca-Cola đã đạt được mục tiêu World Without Waste với việc sử dụng 50% vật liệu tái chế vào quý 1 năm 2022. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p39:c1",
+      "pdf_page": 39,
+      "quote": "In Japan, we achieved our World Without Waste goal of 50% recycled material use in Q1 2022. Four brands are now offered in 100% recycled PET and supported by an educational marketing campaign."
+    }
+  ],
+  "claim_id": "cocacola_2022_5887fb0aa178",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4148,
+      "completion_tokens": 159,
+      "total_tokens": 4307,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.8,
+    "timestamp": "2026-11-11T09:01:59.697172+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "b4ff87dd67c287287ed4677b2516550a8bd8d99492d8e53d702836256d41dc83",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p38:c1"
+  ]
+}

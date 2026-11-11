@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đã đạt được 99% giấy và bìa từ nguồn tái chế hoặc chứng nhận vào năm 2021 và vẫn kỳ vọng đạt 100% vào năm 2025.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p85:c1",
+      "pdf_page": 85,
+      "quote": "Our paper traceability is now up to 99% and we still expect to reach our goal for 100% of our paper and board to be from certified or recycled sources by 2025 or before."
+    }
+  ],
+  "claim_id": "reckitt_2021_d848796abaca",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3962,
+      "completion_tokens": 147,
+      "total_tokens": 4109,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.95,
+    "timestamp": "2026-11-11T09:23:56.513529+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "1706f7d4603e252bd478caa7bdfb311ff0d1fe66537b8d6442615c012a3ce98d",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p85:c1",
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p79:c1",
+    "reckitt_2021:p43:c1"
+  ]
+}

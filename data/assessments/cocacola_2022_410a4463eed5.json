@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ cung cấp dữ liệu về tỷ lệ thu gom và tái chế tổng thể cho các loại bao bì, không riêng biệt cho chai lọ và lon. Dữ liệu cụ thể cho năm 2018 là 61%, nhưng không có thông tin về nguồn gốc hoặc cách tính toán.",
+  "flags": [
+    "数据不具体"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c1",
+      "pdf_page": 76,
+      "quote": "6 C ollection rate represents a weighted average of national collection rates, collected for recycling rates or refillable rates by packaging type to TCCS’s sales in units to express the percent of equivalent bottles and cans introduced into the market that were collected and refilled or collected for recycling for the year."
+    }
+  ],
+  "claim_id": "cocacola_2022_410a4463eed5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4012,
+      "completion_tokens": 189,
+      "total_tokens": 4201,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.33,
+    "timestamp": "2026-11-11T09:04:32.625258+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "e505cdc41ae056441056d39f9d76ee249c9265940416c464af7a05f33473009a",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p76:c1",
+    "cocacola_2022:p9:c2"
+  ]
+}

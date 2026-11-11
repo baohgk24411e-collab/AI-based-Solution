@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về việc đạt được mục tiêu 25% PCR content vào năm 2024. Chỉ có thông tin chung về kế hoạch và mục tiêu.",
+  "flags": [
+    "missing_achievement_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p29:c1",
+      "pdf_page": 29,
+      "quote": "Our targeted switch to 25% PCR content, using less virgin plastic and progressive plastic replacement will deliver CO2e savings across our value chain."
+    }
+  ],
+  "claim_id": "reckitt_2024_35dea2b9dcea",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3509,
+      "completion_tokens": 135,
+      "total_tokens": 3644,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.24,
+    "timestamp": "2026-11-11T09:53:03.601058+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "2edaab1316b3ce4642a2034b2589164aca33b2af543bbc39962c749a9217aeea",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p29:c1",
+    "reckitt_2024:p20:c1",
+    "reckitt_2024:p18:c2",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p12:c2"
+  ]
+}

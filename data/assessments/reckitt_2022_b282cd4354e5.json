@@ -1,0 +1,45 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc sử dụng bao bì giấy trong túi Finish và tái sử dụng chai Dettol, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p41:c1",
+      "pdf_page": 41,
+      "quote": "FINISH DETERGENT PACKAGING GOES PAPER-BASED We launched a fully recyclable paper-based stand-up pouch for Finish dishwasher tablets in France. Once fully rolled out to other markets, this will save over 2,000 tonnes of plastic per year — the equivalent of 50 million one-litre bottles."
+    },
+    {
+      "chunk_id": "reckitt_2022:p36:c2",
+      "pdf_page": 36,
+      "quote": "Our new Dettol powder to liquid solution for hand wash in India allows consumers to reuse both the bottle and pump components up to 20 times."
+    }
+  ],
+  "claim_id": "reckitt_2022_b282cd4354e5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3783,
+      "completion_tokens": 236,
+      "total_tokens": 4019,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.16,
+    "timestamp": "2026-11-11T09:31:01.123857+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "31f7f3e1b2ae08940f57d0465851f2ee45185a71020c514d66d6b3c4b8ccd5d3",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p72:c3",
+    "reckitt_2022:p6:c1"
+  ]
+}

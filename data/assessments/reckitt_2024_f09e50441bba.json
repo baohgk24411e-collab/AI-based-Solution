@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc thực hiện đánh giá tự thân hàng năm theo chuẩn Quản lý Rác Toàn cầu của Reckitt. Chỉ có đề cập chung đến chương trình kiểm tra tại các trang điểm, nhưng không xác nhận rằng đã bao gồm đánh giá tự thân hàng năm như tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c1",
+      "pdf_page": 42,
+      "quote": "Our site audit programme includes an annual self-assessment against our Global Waste Management Standard, supported by internal and external audits."
+    }
+  ],
+  "claim_id": "reckitt_2024_f09e50441bba",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3460,
+      "completion_tokens": 141,
+      "total_tokens": 3601,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.34,
+    "timestamp": "2026-11-11T09:54:16.071896+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "c38bf314dfecb7ec8c00085ce6c877f0f96d1d79351788953287069fce829e9e",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p62:c1",
+    "reckitt_2024:p7:c3",
+    "reckitt_2024:p14:c2",
+    "reckitt_2024:p7:c2"
+  ]
+}

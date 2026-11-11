@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về dự án Rare Bloom Project của Botanica, WWF Australia và Australian Seed Bank Partnership nhằm bảo vệ 120 loài hoa bản địa đang bị đe dọa. Nội dung này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p82:c1",
+      "pdf_page": 82,
+      "quote": "Botanica’s campaign, alongside WWF Australia and the Australian Seed Bank Partnership, is working to save 120 threatened native wildflowers by: 1. Collecting seeds from endangered species 2. Conducting germination trials and collecting data 3. Reintroducing species through replanting"
+    }
+  ],
+  "claim_id": "reckitt_2022_302c79af041a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3601,
+      "completion_tokens": 164,
+      "total_tokens": 3765,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.11,
+    "timestamp": "2026-11-11T09:35:22.447271+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "6540b9310e7c6c12d264a57f4c5dd8d5a390b5758ff56dcc19d2154d8ed7e6c6",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p82:c1",
+    "reckitt_2022:p77:c1",
+    "reckitt_2022:p77:c2",
+    "reckitt_2022:p121:c3",
+    "reckitt_2022:p121:c2"
+  ]
+}

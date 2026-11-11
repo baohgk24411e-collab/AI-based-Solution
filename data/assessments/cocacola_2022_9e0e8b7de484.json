@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc Coca-Cola tham gia vào Supplier Leadership on Climate Transition initiative cùng với 18 công ty khác để thúc đẩy hành động khí hậu tập thể. Điều này được xác nhận trong đoạn văn bản nguồn.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p22:c2",
+      "pdf_page": 22,
+      "quote": "• W e joined the Supplier Leadership on Climate Transition initiative along with 18 other companies to mobilize collective climate action by providing suppliers with resources, tools and knowledge to accelerate their decarbonization."
+    }
+  ],
+  "claim_id": "cocacola_2022_9e0e8b7de484",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4057,
+      "completion_tokens": 139,
+      "total_tokens": 4196,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.12,
+    "timestamp": "2026-11-11T08:59:56.343647+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "adea52b54c59583cdff03dd78bd92dbac7ab36c64cc4eccf452f1255da41fb35",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p22:c2",
+    "cocacola_2022:p45:c3",
+    "cocacola_2022:p45:c2",
+    "cocacola_2022:p22:c1",
+    "cocacola_2022:p9:c2"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Reckitt tái sử dụng và tái chế càng nhiều càng tốt trong hoạt động của mình. Điều này được thể hiện qua tuyên bố: 'Within our operations, we reuse and recycle as much as we can.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c1",
+      "pdf_page": 42,
+      "quote": "Within our operations, we reuse and recycle as much as we can."
+    }
+  ],
+  "claim_id": "reckitt_2024_5980328f2795",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3500,
+      "completion_tokens": 110,
+      "total_tokens": 3610,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.56,
+    "timestamp": "2026-11-11T09:54:27.802021+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "077184c6626271e8652edc37a8bb7a02ab1f8fc03fc1abb141204f157b1090cd",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p40:c3",
+    "reckitt_2024:p6:c2",
+    "reckitt_2024:p6:c1"
+  ]
+}

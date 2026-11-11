@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng KY JELLY và KY LIQUID đã được cải tạo để thay thế các thành phần như methyl parabens bằng các lựa chọn an toàn hơn. Đồng thời, công ty cũng thực hiện thay đổi về bao bì để giảm lượng nhựa sử dụng và cải thiện khả năng tái chế tổng thể.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p41:c1",
+      "pdf_page": 41,
+      "quote": "In the US, KY Jelly and KY Liquid were reformulated to replace ingredients such as methyl parabens with safer alternatives. At the same time, we made packaging changes to reduce the amount of plastic packaging and improve overall recyclability."
+    }
+  ],
+  "claim_id": "reckitt_2021_c1b98a12df2e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3958,
+      "completion_tokens": 171,
+      "total_tokens": 4129,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.86,
+    "timestamp": "2026-11-11T09:17:10.562905+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "81e32fd4ed764e02db94c81e31f857e5e86009385d51c553c180cf8cf96607c9",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p35:c1",
+    "reckitt_2021:p43:c2",
+    "reckitt_2021:p42:c1",
+    "reckitt_2021:p46:c1"
+  ]
+}

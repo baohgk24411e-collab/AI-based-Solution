@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu chính xác về tỷ lệ thu gom chai và lon được tái sử dụng hoặc thu gom để tái chế là 58% vào năm 2014, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Percentage of bottles and cans we collected and refilled or collected for recycling 5 61% 59% 59% 59% 58%"
+    }
+  ],
+  "claim_id": "cocacola_2022_d38dc51eb916",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4010,
+      "completion_tokens": 142,
+      "total_tokens": 4152,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.08,
+    "timestamp": "2026-11-11T09:04:24.283556+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "9f9cd1482ca591b5d935d451aa57a513774559a7d59e3d7b75c350149b09fc32",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p76:c1",
+    "cocacola_2022:p9:c2"
+  ]
+}

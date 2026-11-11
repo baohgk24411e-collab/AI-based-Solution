@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu sử dụng điện tái tạo 100% vào năm 2030, phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p48:c2",
+      "pdf_page": 48,
+      "quote": "100% renewable energy by 2030"
+    }
+  ],
+  "claim_id": "reckitt_2021_750eedf725a2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3609,
+      "completion_tokens": 94,
+      "total_tokens": 3703,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.23,
+    "timestamp": "2026-11-11T09:22:32.159114+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "90c98768347590287529a9f7bc1992638a78784f030d017919d3f60b82e4b8e4",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p48:c2",
+    "reckitt_2021:p49:c1",
+    "reckitt_2021:p51:c2",
+    "reckitt_2021:p67:c1",
+    "reckitt_2021:p51:c1"
+  ]
+}

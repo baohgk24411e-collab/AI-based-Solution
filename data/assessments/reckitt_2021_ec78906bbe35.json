@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng mục tiêu là loại bỏ lilial khỏi các sản phẩm trong các thị trường khác vào cuối năm 2023.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p33:c1",
+      "pdf_page": 33,
+      "quote": "Our target is to remove it from products in other markets by end of 2023."
+    }
+  ],
+  "claim_id": "reckitt_2021_ec78906bbe35",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4020,
+      "completion_tokens": 104,
+      "total_tokens": 4124,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.09,
+    "timestamp": "2026-11-11T09:16:02.109388+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "e9c6e688d20418ef6db8ac782a2fe63311861fed1ae0e9af517a4df054b65c04",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p33:c1",
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p83:c1",
+    "reckitt_2021:p34:c1",
+    "reckitt_2021:p50:c3"
+  ]
+}

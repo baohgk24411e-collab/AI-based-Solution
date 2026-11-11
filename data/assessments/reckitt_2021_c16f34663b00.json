@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Dettol Tru Clean sử dụng lên đến 35% PCR trong chai nhựa, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "Using up to 35% PCR in bottles for the newly launched Dettol Tru Clean"
+    }
+  ],
+  "claim_id": "reckitt_2021_c16f34663b00",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3789,
+      "completion_tokens": 116,
+      "total_tokens": 3905,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.98,
+    "timestamp": "2026-11-11T09:21:02.788959+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "0dcac6102bd039fba85336bdb9ab1189a2e83990ed208d71a84b621d6d3c7b4a",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p47:c1",
+    "reckitt_2021:p42:c2",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p41:c2"
+  ]
+}

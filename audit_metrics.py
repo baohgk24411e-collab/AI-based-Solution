@@ -15,9 +15,9 @@ for cf in claims_files:
         val = c.get('value')
         txt = c.get('claim_text', '')
         if val is not None:
-            # find all numbers in txt
-            nums_in_txt = re.findall(r'\d+(?:\.\d+)?', txt)
-            floats_in_txt = [float(n) for n in nums_in_txt]
+            # find all numbers in txt (including comma-formatted)
+            nums_in_txt = re.findall(r'\d[\d,]*(?:\.\d+)?', txt)
+            floats_in_txt = [float(n.replace(',', '')) for n in nums_in_txt]
             try:
                 val_float = float(val)
                 if any(abs(val_float - f) < 1e-4 for f in floats_in_txt):

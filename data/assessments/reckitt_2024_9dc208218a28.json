@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu 100% bao bì nhựa tái sử dụng hoặc tái chế vào năm 2025 nhưng không cung cấp thông tin cụ thể về tiến trình thực hiện. Không có dữ liệu về tỷ lệ tái chế hay tái sử dụng bao bì nhựa trong các năm trước.",
+  "flags": [
+    "missing_trend_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p18:c1",
+      "pdf_page": 18,
+      "quote": "Our targets 100% of plastic packaging recyclable or reusable by 2025 Behind schedule"
+    }
+  ],
+  "claim_id": "reckitt_2024_9dc208218a28",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3661,
+      "completion_tokens": 153,
+      "total_tokens": 3814,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.86,
+    "timestamp": "2026-11-11T09:48:35.417336+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "b3f90e3decdc1f2449c3b5cfa5438a1add030cd303fde8d7aa49eebbcce67042",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p22:c2",
+    "reckitt_2024:p21:c2",
+    "reckitt_2024:p18:c2",
+    "reckitt_2024:p23:c2"
+  ]
+}

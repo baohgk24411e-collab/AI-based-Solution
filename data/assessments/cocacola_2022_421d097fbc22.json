@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ chai thủy tinh tái sử dụng trong năm 2019.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Refillable glass bottles 11.7% 11.1% 9.3% 9.4% 9.0%"
+    }
+  ],
+  "claim_id": "cocacola_2022_421d097fbc22",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 5516,
+      "completion_tokens": 121,
+      "total_tokens": 5637,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.05,
+    "timestamp": "2026-11-11T09:05:20.550747+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "338de859008d819894dabceaf705ee55ac679182cc0858f263d6ddaf97dd0bac",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p81:c1",
+    "cocacola_2022:p57:c1",
+    "cocacola_2022:p11:c1",
+    "cocacola_2022:p80:c1"
+  ]
+}

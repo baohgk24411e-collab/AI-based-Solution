@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Reckitt đang hướng tới mục tiêu sử dụng 100% bao bì giấy và gỗ được chứng nhận hoặc tái chế vào năm 2025, tương tự với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p45:c1",
+      "pdf_page": 45,
+      "quote": "We are committed to achieving 100% certified, or recycled paper and board packaging by 2025."
+    }
+  ],
+  "claim_id": "reckitt_2023_a176592726fd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3788,
+      "completion_tokens": 136,
+      "total_tokens": 3924,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.55,
+    "timestamp": "2026-11-11T09:44:04.114012+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "f62c21faf44cb1bfa8e51a6bd6062fb8429ee76dde9c28432a63907d7db00e17",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p45:c1",
+    "reckitt_2023:p46:c3",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p43:c1"
+  ]
+}

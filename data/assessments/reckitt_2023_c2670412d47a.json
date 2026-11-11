@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Reckitt đã đạt được 98.8% mục tiêu sử dụng giấy và bìa từ nguồn chứng nhận hoặc tái chế vào năm 2022, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p29:c1",
+      "pdf_page": 29,
+      "quote": "For paper and board, we are close to achieving our goal of sourcing all of our paper and board from certified or recycled sources (excluding third-party manufacturing sites) by 2025. We reached 98.8% in 2022."
+    }
+  ],
+  "claim_id": "reckitt_2023_c2670412d47a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4081,
+      "completion_tokens": 151,
+      "total_tokens": 4232,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.19,
+    "timestamp": "2026-11-11T09:42:58.474881+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "f1d8ac97774b94df93a365748427fb242061f25185096167db37956ac0324588",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p45:c1",
+    "reckitt_2023:p43:c1",
+    "reckitt_2023:p3:c1",
+    "reckitt_2023:p57:c2"
+  ]
+}

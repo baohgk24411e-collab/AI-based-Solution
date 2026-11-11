@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về lượng nhựa được tránh trong năm 2022. Chỉ có thông tin chung về cam kết hợp tác với Plastic Bank để thu gom 100 tấn nhựa, nhưng không có số liệu chính xác về lượng nhựa đã tránh.",
+  "flags": [
+    "lack_of_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c1",
+      "pdf_page": 42,
+      "quote": "The campaign aims to help avoid 100 tonnes of plastic, which is equal to five million plastic bottles, from entering the oceans."
+    }
+  ],
+  "claim_id": "reckitt_2022_7d2cb05fe3ac",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4210,
+      "completion_tokens": 152,
+      "total_tokens": 4362,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.33,
+    "timestamp": "2026-11-11T09:32:58.152781+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "35ae1c564d610e11673f851989ccfa4205c775f25bce7057f2389faa34213433",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p6:c1",
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p11:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về mục tiêu giảm phát thải khí nhà kính Scope 1 và 2 là 65% từ năm 2015 đến năm 2030, đã được SBTi xác nhận là phù hợp với mức độ 1.5°C.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p27:c1",
+      "pdf_page": 27,
+      "quote": "• Our operations (Scope 1 and 2) Reduce our absolute Scope 1 and 2 GHG emissions 65% by 2030, from a 2015 base year* (SBTi validated as 1.5 °C-aligned)."
+    }
+  ],
+  "claim_id": "reckitt_2024_9164c7a1dc11",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3623,
+      "completion_tokens": 175,
+      "total_tokens": 3798,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.36,
+    "timestamp": "2026-11-11T09:52:30.432880+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "59c890f76854f705714f1e4d8094a07e5b8cb8e04a0ec84eaede722f59d38b7a",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p27:c1",
+    "reckitt_2024:p27:c3",
+    "reckitt_2024:p25:c1",
+    "reckitt_2024:p27:c2",
+    "reckitt_2024:p24:c1"
+  ]
+}

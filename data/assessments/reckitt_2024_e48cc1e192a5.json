@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ nhựa nguyên sinh được làm từ nhiên liệu hóa thạch là 98%. Các thông tin chỉ đề cập đến mục tiêu sử dụng nội dung tái chế và giảm sử dụng nhựa nguyên sinh, nhưng không có số liệu hỗ trợ cho tuyên bố.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p29:c1",
+      "pdf_page": 29,
+      "quote": "About 98% of virgin single-use plastic is made from fossil fuels1, which account for more than 75%2 of global GHG emissions and nearly 90%2 of carbon dioxide emissions."
+    }
+  ],
+  "claim_id": "reckitt_2024_e48cc1e192a5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3490,
+      "completion_tokens": 167,
+      "total_tokens": 3657,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.0,
+    "timestamp": "2026-11-11T09:52:57.350808+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "26c37af85aa5f1fd1f5d240379a022fe627f34d216a414a483a7a2f58427ffab",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p29:c1",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p29:c2",
+    "reckitt_2024:p12:c2",
+    "reckitt_2024:p28:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về lượng giấy và carton tái chế được sử dụng trong năm 2021.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p14:c2",
+      "pdf_page": 14,
+      "quote": "Even so, we’ve been able to use more recycled paper and cardboard."
+    }
+  ],
+  "claim_id": "reckitt_2021_4bed62e213e5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3913,
+      "completion_tokens": 105,
+      "total_tokens": 4018,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.02,
+    "timestamp": "2026-11-11T09:15:11.636980+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "29dd134776dc8f543a82b107f9311bbbde48c8090d65d5b78d3e2eacf222c978",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p14:c2",
+    "reckitt_2021:p85:c1",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p44:c1"
+  ]
+}

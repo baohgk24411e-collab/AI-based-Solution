@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy đã đạt được 97% nguyên liệu gỗ tái chế hoặc chứng nhận thứ ba, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p72:c1",
+      "pdf_page": 72,
+      "quote": "Sourced 97% recycled or third-party certified wood fiber"
+    }
+  ],
+  "claim_id": "pg_2023_7b618733df45",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3269,
+      "completion_tokens": 88,
+      "total_tokens": 3357,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 4.92,
+    "timestamp": "2026-11-11T09:10:37.188244+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "0d13e088186b39c98f101b14766bb0f69f1aa1abc3308389bb8f8ca5c48b0eb8",
+  "retrieved_chunk_ids": [
+    "pg_2023:p72:c1",
+    "pg_2023:p49:c1",
+    "pg_2023:p73:c1",
+    "pg_2023:p2:c1",
+    "pg_2023:p60:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã xác nhận rằng họ đang thực hiện các bước tiến trong việc loại bỏ các định dạng không thể tái chế và sẽ tiếp tục làm điều này để đạt được mục tiêu năm 2025. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p44:c1",
+      "pdf_page": 44,
+      "quote": "We’ve taken great strides in recent years to remove problematic and non-recyclable formats, and we’ll continue with this as we move towards our 2025 target."
+    }
+  ],
+  "claim_id": "reckitt_2021_ad47eb220b8b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4246,
+      "completion_tokens": 152,
+      "total_tokens": 4398,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.67,
+    "timestamp": "2026-11-11T09:19:03.799797+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "a0c885b347b5adb065eb7321b4de464d540c6bec52fdd8852d2914bc6ba5f91b",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p47:c1",
+    "reckitt_2021:p77:c1"
+  ]
+}

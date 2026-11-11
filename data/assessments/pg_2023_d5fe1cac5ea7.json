@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Procter & Gamble đang hợp tác để tăng cường khả năng tiếp cận hệ thống thu gom tái chế cho nhiều người hơn, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p62:c1",
+      "pdf_page": 62,
+      "quote": "• Ongoing funding to The Recycling Partnership and Closed Loop Partners, who are helping improve recycling access and engagement to recycle more types of materials in the U.S."
+    }
+  ],
+  "claim_id": "pg_2023_d5fe1cac5ea7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2927,
+      "completion_tokens": 121,
+      "total_tokens": 3048,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.48,
+    "timestamp": "2026-11-11T09:10:00.001945+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "f807a19c1b3e69f2c1fbceefb8d961a56656f28cf7be3b763646812fe38df8bb",
+  "retrieved_chunk_ids": [
+    "pg_2023:p62:c1",
+    "pg_2023:p22:c1",
+    "pg_2023:p73:c1",
+    "pg_2023:p42:c1",
+    "pg_2023:p70:c1"
+  ]
+}

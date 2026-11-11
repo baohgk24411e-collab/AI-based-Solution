@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Dựa trên thông tin trong báo cáo, mục tiêu 25% nội dung tái chế trong bao bì nhựa của Reckitt đến năm 2025 được đề cập là 'Behind schedule'. Điều này cho thấy mục tiêu chưa đạt được. Không có dữ liệu cụ thể về mức độ thực hiện mục tiêu này.",
+  "flags": [
+    "目标未达成"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p18:c2",
+      "pdf_page": 18,
+      "quote": "Behind schedule 25% recycled content in our plastic packaging by 2025"
+    }
+  ],
+  "claim_id": "reckitt_2024_c1ab3a35f1cd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3725,
+      "completion_tokens": 147,
+      "total_tokens": 3872,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.78,
+    "timestamp": "2026-11-11T09:52:23.055363+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "8f67b97fbe94c24e8676bef183eb53d84d74d6e5cacea72a70d2b591a081829d",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p18:c2",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p23:c2",
+    "reckitt_2024:p23:c1",
+    "reckitt_2024:p29:c1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc đạt được 76.4% plastic packaging có thể tái sử dụng hoặc tái chế vào năm 2022, không cung cấp bằng chứng về mục tiêu 100% vào năm 2025.",
+  "flags": [
+    "missing_achievement_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p39:c1",
+      "pdf_page": 39,
+      "quote": "76.4% 75.3% 74.3%"
+    },
+    {
+      "chunk_id": "reckitt_2022:p41:c3",
+      "pdf_page": 41,
+      "quote": "Our collaboration, both on a global level and through the Foundation’s national Plastic Pact intiatives, includes working closely with our peers through workshops, action groups and educational offerings, to address key parts of this vision, such as the elimination of problematic or unnecessary plastic packaging, and ensuring all plastic packaging is reusable, recyclable or compostable."
+    }
+  ],
+  "claim_id": "reckitt_2022_a4adcc809398",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3791,
+      "completion_tokens": 237,
+      "total_tokens": 4028,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.17,
+    "timestamp": "2026-11-11T09:31:53.584677+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "f835ed330d2daa1eb3d02e4cfb68818bf4db9c359c0f3c37dc00d347505f1c31",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p39:c1",
+    "reckitt_2022:p40:c2",
+    "reckitt_2022:p41:c2",
+    "reckitt_2022:p7:c1",
+    "reckitt_2022:p41:c3"
+  ]
+}

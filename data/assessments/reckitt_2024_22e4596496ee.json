@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt đề cập đến việc họ đang nỗ lực cải thiện khả năng tái chế địa phương và đảm bảo rằng các nhựa mềm được xử lý và tái chế hiệu quả, đóng góp vào nền kinh tế tuần hoàn. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p21:c1",
+      "pdf_page": 21,
+      "quote": "Together, we aim to enhance local recycling capabilities and ensure that soft plastics are effectively processed and recycled, contributing to a circular economy."
+    }
+  ],
+  "claim_id": "reckitt_2024_22e4596496ee",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3546,
+      "completion_tokens": 140,
+      "total_tokens": 3686,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.39,
+    "timestamp": "2026-11-11T09:50:36.139026+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "4abbcfeca83efce2dfc290569341d5886c6273ca9ae648bd9e3d972f6b3b4853",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p21:c1",
+    "reckitt_2024:p20:c1",
+    "reckitt_2024:p23:c2",
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p21:c2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về cách đạt được mục tiêu 50% doanh thu từ các sản phẩm bền vững vào năm 2030. Chỉ có một tuyên bố chung mà không có kế hoạch hoặc tiến trình cụ thể.",
+  "flags": [
+    "无具体实现计划"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p14:c2",
+      "pdf_page": 14,
+      "quote": "50% of our net revenue to come from more sustainable products by 2030"
+    }
+  ],
+  "claim_id": "reckitt_2023_171318785755",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3931,
+      "completion_tokens": 136,
+      "total_tokens": 4067,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.64,
+    "timestamp": "2026-11-11T09:40:16.874753+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "1e691c9f42213b5dca9e4ef313c2fd6fdcc552442a91a85995dbb4f4e984c727",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p14:c2",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p5:c1",
+    "reckitt_2023:p20:c2",
+    "reckitt_2023:p20:c1"
+  ]
+}

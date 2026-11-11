@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc đang khám phá các sản phẩm và mô hình khác nhau để thu thập kinh nghiệm như các định dạng nén và gói tái sử dụng. Thông tin trong báo cáo tập trung nhiều hơn vào việc giảm nhựa nguyên sinh, tăng nội dung tái chế và cải tiến bao bì.",
+  "flags": [
+    "缺乏具体证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p22:c2",
+      "pdf_page": 22,
+      "quote": "We are exploring different products and models to capture learnings, such as concentrated formats and pouch refills."
+    }
+  ],
+  "claim_id": "reckitt_2024_4254df2fbb0d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4066,
+      "completion_tokens": 154,
+      "total_tokens": 4220,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.25,
+    "timestamp": "2026-11-11T09:51:26.569796+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "1540d9d7631134288efd5abae19e8c20ba56b7f3a8ecc6e8a660103bdfe2161f",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p22:c2",
+    "reckitt_2024:p29:c1",
+    "reckitt_2024:p40:c1",
+    "reckitt_2024:p15:c1",
+    "reckitt_2024:p30:c1"
+  ]
+}

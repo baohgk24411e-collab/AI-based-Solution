@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về lượng nhựa tái chế được sản xuất thành sản phẩm an toàn cho thực phẩm tại Egypt. Chỉ có thông tin về việc hợp tác với BariQ để tái chế nhựa.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p41:c2",
+      "pdf_page": 41,
+      "quote": "In Egypt, we partner with BariQ, the largest bottle-to-bottle recycling plant in the Middle East, to recycle 14,000 metric tons of plastic waste annually to food-grade product compatible with the European Food Safety Authority (EFSA), Food and Drug Administration (FDA) and Egyptian Organization for Standardization (EOS)."
+    }
+  ],
+  "claim_id": "cocacola_2022_d98723ff3dca",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4168,
+      "completion_tokens": 192,
+      "total_tokens": 4360,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.67,
+    "timestamp": "2026-11-11T09:03:08.455897+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "fce32759154fc32656d327cc08571434fce1eda31e1c444019a5778ef83e9832",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p41:c2",
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p33:c1",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p38:c2"
+  ]
+}

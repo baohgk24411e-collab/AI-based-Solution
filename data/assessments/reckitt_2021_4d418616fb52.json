@@ -1,0 +1,60 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc Air Wick đã thay đổi hương liệu để tăng nội dung tự nhiên lên hơn 50%, nhưng không cung cấp số liệu cụ thể về tỷ lệ nội dung tái chế.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p41:c1",
+      "pdf_page": 41,
+      "quote": "In the US, Air Wick replaced its Scented Oil range for electrical plug-ins with fragrances that significantly increased the naturally derived content to over 50%"
+    }
+  ],
+  "claim_id": "reckitt_2021_4d418616fb52",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4333,
+      "completion_tokens": 138,
+      "total_tokens": 4471,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.36,
+    "timestamp": "2026-11-11T09:17:33.613488+00:00",
+    "repair_attempt": true,
+    "first_attempt": {
+      "provider": "lmstudio",
+      "model": "qwen2.5-7b-instruct",
+      "endpoint": "http://127.0.0.1:1234/v1",
+      "prompt_version": "greenclaim-v2-local",
+      "cache_hit": false,
+      "usage": {
+        "prompt_tokens": 4154,
+        "completion_tokens": 138,
+        "total_tokens": 4292,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "seconds": 7.14,
+      "timestamp": "2026-11-11T09:17:26.253081+00:00"
+    }
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "3b210f74b56cc7e9b4ea933756d583c5b0848cca0757a331ca99fda8c2349306",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p46:c1",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p26:c1",
+    "reckitt_2021:p33:c1"
+  ]
+}

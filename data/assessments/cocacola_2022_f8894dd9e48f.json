@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về chương trình SustentaPET tại Brazil đã thu gom hơn 700,000 chai PET mỗi ngày và tái chế hơn 83,000 tấn PET trong ba năm đầu tiên. Điều này hỗ trợ tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p41:c2",
+      "pdf_page": 41,
+      "quote": "In Brazil, SustentaPET collection centers take in more than 700,000 PET bottles a day to produce recycled resin that ultimately becomes new packaging. In its first three years, the program has recycled more than 83,000 metric tons of PET—and will expand to additional states in 2023."
+    }
+  ],
+  "claim_id": "cocacola_2022_f8894dd9e48f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4359,
+      "completion_tokens": 178,
+      "total_tokens": 4537,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.56,
+    "timestamp": "2026-11-11T09:02:59.772578+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "64a28a90b24c02fb28ee12530471b41423ca89477d6da6f6e57e0e7444a7be81",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p41:c2",
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p41:c1",
+    "cocacola_2022:p38:c2"
+  ]
+}

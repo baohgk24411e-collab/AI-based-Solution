@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về cách Mysore đạt được trạng thái water positive vào năm 2024.",
+  "flags": [
+    "缺少具体细节说明Mysore如何在2024年实现水正性"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p40:c1",
+      "pdf_page": 40,
+      "quote": "For 2024, Mysore was independently verified as water positive by ERM CVS."
+    }
+  ],
+  "claim_id": "reckitt_2024_a7ec00f0b0cd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3952,
+      "completion_tokens": 134,
+      "total_tokens": 4086,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.69,
+    "timestamp": "2026-11-11T09:53:29.511538+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "0c62b14eaeeff835bb2819624bd05153b99705a7d82e43f33e010c6c24b2687d",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p40:c1",
+    "reckitt_2024:p3:c1",
+    "reckitt_2024:p37:c1",
+    "reckitt_2024:p40:c2",
+    "reckitt_2024:p35:c1"
+  ]
+}

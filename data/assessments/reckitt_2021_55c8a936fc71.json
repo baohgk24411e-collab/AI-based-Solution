@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Finish tabs được bán trong chai thép không gỉ và có thể tái sử dụng tại các điểm trả lại sản phẩm trong cửa hàng, điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p46:c2",
+      "pdf_page": 46,
+      "quote": "For the first time, Finish tabs are available in stainless steel jars, which consumers bring to return points in the store when they’ve finished using them."
+    }
+  ],
+  "claim_id": "reckitt_2021_55c8a936fc71",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3524,
+      "completion_tokens": 120,
+      "total_tokens": 3644,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.83,
+    "timestamp": "2026-11-11T09:21:49.481205+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "75ff5fa573d52b9f2626be7eaf23e186af8aa5f07dbfc55d7cdb87bbade15c85",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p46:c2",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p28:c1",
+    "reckitt_2021:p5:c1",
+    "reckitt_2021:p88:c2"
+  ]
+}

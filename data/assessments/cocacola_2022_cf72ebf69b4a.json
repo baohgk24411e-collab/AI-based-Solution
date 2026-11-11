@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Coca-Cola đã đặt mục tiêu giảm sử dụng nhựa nguyên sinh từ nguồn không tái tạo bằng cách tránh sử dụng 3 triệu tấn nhựa nguyên sinh tính từ năm 2020 đến năm 2025. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p38:c1",
+      "pdf_page": 38,
+      "quote": "In 2021, we set a goal to reduce our use of virgin plastic derived from nonrenewable sources by avoiding a cumulative 3 million metric tons by 2025 compared to 2020."
+    }
+  ],
+  "claim_id": "cocacola_2022_cf72ebf69b4a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4215,
+      "completion_tokens": 167,
+      "total_tokens": 4382,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.98,
+    "timestamp": "2026-11-11T09:01:05.461278+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "f9c3936866cb3355d6e0b3449fc10fca5f8f93abbc074c1a666de24a393a3307",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p7:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Air Wick hợp tác với WWF để khôi phục các khu rừng hoa dại ở 10 quốc gia như tuyên bố. Chỉ có thông tin về dự án bảo vệ loài hoa dại Australia và một số hoạt động khác.",
+  "flags": [
+    "地理范围不匹配"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p82:c1",
+      "pdf_page": 82,
+      "quote": "Air Wick’s partnership with WWF aims to help restore wildflower habitats in 10 countries, including the US, UK, Mexico, Australia and Poland."
+    }
+  ],
+  "claim_id": "reckitt_2022_780db614b41f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3965,
+      "completion_tokens": 157,
+      "total_tokens": 4122,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.25,
+    "timestamp": "2026-11-11T09:35:09.470341+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "08db06d8d5bb094d3d03f1c49f06d12ce8133dc5ea43c11a25196f0a04d78a01",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p82:c1",
+    "reckitt_2022:p122:c1",
+    "reckitt_2022:p77:c1",
+    "reckitt_2022:p6:c2",
+    "reckitt_2022:p42:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về việc giảm carbon footprint và water footprint của Finish Quantum Ultimate tại châu Âu như đã tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p42:c2",
+      "pdf_page": 42,
+      "quote": "• In Europe, we reformulated Finish Quantum Ultimate, which has reduced its carbon footprint by over 10% and water footprint by more than 5%"
+    }
+  ],
+  "claim_id": "reckitt_2021_5337f3a610eb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4019,
+      "completion_tokens": 108,
+      "total_tokens": 4127,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.16,
+    "timestamp": "2026-11-11T09:18:00.287400+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "d15a26aaea5f17701d36883fd489c5b5c00e290a2e51f8fc19f562dbcc45e3b8",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p42:c2",
+    "reckitt_2021:p42:c1",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p39:c2",
+    "reckitt_2021:p71:c1"
+  ]
+}

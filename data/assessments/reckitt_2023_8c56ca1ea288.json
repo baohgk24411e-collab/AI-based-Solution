@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Reckitt đang hỗ trợ việc cải thiện cơ sở thu gom thông qua một chương trình đồng tài trợ với Superdrug để thu gom các gói bao bì thuốc dạng blister tại cửa hàng của họ. Điều này phù hợp với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p29:c1",
+      "pdf_page": 29,
+      "quote": "One example is for medicine blister packs, where we’re co-sponsoring a scheme by UK retailer Superdrug to enable collection of these packs in their stores."
+    }
+  ],
+  "claim_id": "reckitt_2023_8c56ca1ea288",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4165,
+      "completion_tokens": 139,
+      "total_tokens": 4304,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.0,
+    "timestamp": "2026-11-11T09:43:36.261274+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "e12ecf75d9f9b84ffdd6931e7aa89af39df96ba66d75b4d80744bc70f2dd9e20",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p29:c2",
+    "reckitt_2023:p56:c1",
+    "reckitt_2023:p80:c1"
+  ]
+}

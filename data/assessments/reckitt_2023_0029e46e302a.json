@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc đạt được Zero waste to landfill tại tất cả các nhà máy nhưng không cung cấp bằng chứng cụ thể về năm báo cáo. Không có thông tin về tiêu chuẩn pháp lý được trừ.",
+  "flags": [
+    "missing_year"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p61:c1",
+      "pdf_page": 61,
+      "quote": "Zero waste to landfill at all of our factories2 Achieved"
+    }
+  ],
+  "claim_id": "reckitt_2023_0029e46e302a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3809,
+      "completion_tokens": 132,
+      "total_tokens": 3941,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.44,
+    "timestamp": "2026-11-11T09:44:43.798931+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "c2f1a8aef19c3373c9cb507b72deea745ca36385531d3546963abedda2568529",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p61:c1",
+    "reckitt_2023:p61:c2",
+    "reckitt_2023:p3:c1",
+    "reckitt_2023:p5:c1",
+    "reckitt_2023:p35:c1"
+  ]
+}

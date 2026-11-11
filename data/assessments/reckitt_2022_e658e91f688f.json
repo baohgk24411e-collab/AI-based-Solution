@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về tỷ lệ nguồn giấy và bìa tái chế hoặc chứng nhận trong năm 2022. Chỉ có thông tin về tổng thể các loại bao bì, nhưng không đề cập cụ thể đến giấy và bìa.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p41:c1",
+      "pdf_page": 41,
+      "quote": "FINISH DETERGENT PACKAGING GOES PAPER-BASED We launched a fully recyclable paper-based stand-up pouch for Finish dishwasher tablets in France. Once fully rolled out to other markets, this will save over 2,000 tonnes of plastic per year — the equivalent of 50 million one-litre bottles."
+    }
+  ],
+  "claim_id": "reckitt_2022_e658e91f688f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4313,
+      "completion_tokens": 178,
+      "total_tokens": 4491,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.17,
+    "timestamp": "2026-11-11T09:33:06.342192+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "d4a898a3724c1a9261dd6493580d7ae9f26538eee55bff7950f1be4f96e74e5a",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p83:c1",
+    "reckitt_2022:p39:c1",
+    "reckitt_2022:p74:c1",
+    "reckitt_2022:p41:c1"
+  ]
+}

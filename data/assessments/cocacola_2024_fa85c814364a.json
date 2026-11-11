@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng 99% của bao bì Coca-Cola có thể tái chế toàn cầu vào năm 2024.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2024:p10:c1",
+      "pdf_page": 10,
+      "quote": "Percent of packaging recyclable globally6 • The Coca-Cola system 90% 90% 99%"
+    }
+  ],
+  "claim_id": "cocacola_2024_fa85c814364a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4022,
+      "completion_tokens": 112,
+      "total_tokens": 4134,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.28,
+    "timestamp": "2026-11-11T09:07:23.775931+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2024",
+  "fingerprint": "7f362a52e82a22ebdd87ad504e623373c9934109c0ad3a82edc3148e48f89c4e",
+  "retrieved_chunk_ids": [
+    "cocacola_2024:p10:c1",
+    "cocacola_2024:p11:c1",
+    "cocacola_2024:p6:c2",
+    "cocacola_2024:p6:c1",
+    "cocacola_2024:p10:c2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tiêu chí 10 điểm để đánh giá sự bền vững của sản phẩm. Các đoạn trích chỉ đề cập đến các tiêu chí khác và cách tính điểm tổng hợp.",
+  "flags": [
+    "missing_details"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p34:c1",
+      "pdf_page": 34,
+      "quote": "To be classed as more sustainable, the overall score of a product must be at least 10 points higher than the benchmark. This threshold helps ensure a material improvement is achieved that exceeds the margins of error in each product calculation."
+    }
+  ],
+  "claim_id": "reckitt_2022_ef992bea0388",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3870,
+      "completion_tokens": 153,
+      "total_tokens": 4023,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.05,
+    "timestamp": "2026-11-11T09:29:18.174301+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "cea06c7086dbd8cdb7c95bea73dd4867a211eb5c68f653755f3835b3bf649b0c",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p34:c1",
+    "reckitt_2022:p119:c1",
+    "reckitt_2022:p34:c2",
+    "reckitt_2022:p118:c4",
+    "reckitt_2022:p30:c2"
+  ]
+}

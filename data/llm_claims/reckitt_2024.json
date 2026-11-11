@@ -1,0 +1,1400 @@
+{
+  "claims": [
+    {
+      "claim_text": "Plastics and packaging KPIs based on circular economy principles focusing on three KPIs for weight, % PCR content and recyclability",
+      "source_page": 11,
+      "claim_type": "recyclability",
+      "scope": "Packaging that the consumer takes home",
+      "material": "Plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_aca65dbbf3a8",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In Europe, we’ve increased PCR content in our pre-treatment trigger bottles to 75% and in our powder jars to 70%",
+      "source_page": 12,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 75,
+      "claim_id": "reckitt_2024_ad879a052240",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We increased PCR content in our toilet bowl cleaners to 75% in Europe, 50% in India, and 30% in South Africa*",
+      "source_page": 12,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 75,
+      "claim_id": "reckitt_2024_d4a9cf5176fd",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "100% of plastic packaging recyclable or reusable by 2025",
+      "source_page": 18,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "reckitt_2024_9dc208218a28",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "25% recycled content in our plastic packaging by 2025 On track",
+      "source_page": 18,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 25,
+      "claim_id": "reckitt_2024_1dd70b8b76f7",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "50% reduction in virgin plastic packaging by 2030 vs 2020 On track",
+      "source_page": 18,
+      "claim_type": "target",
+      "scope": null,
+      "material": "virgin plastic",
+      "unit": "%",
+      "measurement_year": 2020,
+      "target_year": 2030,
+      "value": 50,
+      "claim_id": "reckitt_2024_58bf6715f0b1",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Flexible plastic makes up around 15% of our plastic footprint, for products such as dishwasher tablet pouches and wipes packaging. A further, smaller proportion is used for components such as trigger sprays and pumps.",
+      "source_page": 19,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 15,
+      "claim_id": "reckitt_2024_ab4870bd0571",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Plastic comprises around 34% of our packaging footprint. Paper and board, metal and glass, together represent 66%.",
+      "source_page": 19,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 34,
+      "claim_id": "reckitt_2024_afe4efeb364f",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We continually monitor the plastics landscape which is complex and evolving, and industry progress has been slower than hoped when our targets were first set.",
+      "source_page": 19,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_480c3f664396",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our commitments to increase PCR inclusion, improve recyclability, and reduce virgin plastics are aligned with our EMF peers, and our progress on recyclability is also closely aligned.",
+      "source_page": 19,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_cbc750d8ade9",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We aim to design our packaging to improve recyclability.",
+      "source_page": 20,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_27631b2d3314",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We use post-consumer recycled (PCR) content to replace virgin plastic in packaging.",
+      "source_page": 20,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_b78b95c06455",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We are working with our suppliers to make progress on our non-plastic packaging, such as in our Strepsils brand where we’ve taken action to improve the recyclability of the cartons for our Extra and Triple Action ranges.",
+      "source_page": 20,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "paper and board",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_27b5a20442a5",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We’re using less plastic by making components smaller, thinner and lighter, and reducing the spare space in our packs.",
+      "source_page": 20,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_fd2ef671e74a",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We support national recycling and reuse efforts through collection and takeback schemes to help reduce non-recycled waste.",
+      "source_page": 21,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_f1f1399d5079",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "This situation has underscored the urgent need for more robust and sustainable recycling systems generally.",
+      "source_page": 21,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_1cbba598b198",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Together, we aim to enhance local recycling capabilities and ensure that soft plastics are effectively processed and recycled, contributing to a circular economy.",
+      "source_page": 21,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "soft plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_22e4596496ee",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "For our medicine blister packs, we’re partnering with industry peers as part of the Circularity in Primary Pharmaceutical Packaging Accelerator (CiPPPA), aiming to collectively develop and deploy recycling solutions.",
+      "source_page": 21,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "medicine blister packs",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_ad89e5b1fcfb",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We are also members of the Business Coalition for a Global Plastics Treaty, convened by EMF and WWF. Working with more than 80 organisations, we’re aiming to create a circular economy for plastics, ensuring products and materials stay in the economy and out of the environment.",
+      "source_page": 21,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_dcb4ff0a60f9",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2024, we continued to assess reusable packaging progress and have worked collaboratively to design how a model may look and scale in the future.",
+      "source_page": 21,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": 2024,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_b342b0768d00",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our collaboration, both on a global level and through the Plastic Pact initiatives, includes working closely with our peers through workshops, action groups and educational programmes. In this way, we can help address key parts of EMF's vision, such as the elimination of problematic or unnecessary plastic packaging, and ensure all plastic packaging is reusable, recyclable or compostable.",
+      "source_page": 21,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic packaging",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_09ad11c3b84d",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We reached 78.2% in 2023 (versus 76.4% in 2022).",
+      "source_page": 22,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 78.2,
+      "claim_id": "reckitt_2024_5915568844e9",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We are exploring different products and models to capture learnings, such as concentrated formats and pouch refills.",
+      "source_page": 22,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_4254df2fbb0d",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "100% of plastic packaging to be recyclable or reusable by 2025",
+      "source_page": 22,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 100,
+      "claim_id": "reckitt_2024_e5dc6a1b7dab",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We made promising progress towards our aim to reduce virgin plastic in packaging by 50% by 2030 versus 2020. In 2023, we achieved a 15.1% reduction compared with 2020.",
+      "source_page": 22,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": 2030,
+      "value": 15.1,
+      "claim_id": "reckitt_2024_68c9f34ba32a",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "For paper and board, we are close to achieving our goal of sourcing all of our paper and board from certified or recycled sources, which includes both direct and third-party manufacturing sites by 2025. We reached 99% in 2023.",
+      "source_page": 23,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "paper and board",
+      "unit": null,
+      "measurement_year": 2023,
+      "target_year": 2025,
+      "value": 99,
+      "claim_id": "reckitt_2024_882edde014f9",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2023, we included 8% PCR content (up from 5% in 2022) as a result of this additional investment.",
+      "source_page": 23,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 8,
+      "claim_id": "reckitt_2024_12915a47a646",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We work with RecyClass and other industry experts and associations, to ensure we have access to the latest recycling guidelines, in-country collection and recycling information. They also provide expertise to draw on as we develop new packaging solutions.",
+      "source_page": 23,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_fcdc1fe0d038",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our aim is to ensure that the packaging solution can unlock kerbside recycling for consumers, and increase the amount of recovered materials for recyclers.",
+      "source_page": 23,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_60898128a1b1",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "25% recycled content in our plastic packaging by 2025",
+      "source_page": 23,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 25,
+      "claim_id": "reckitt_2024_c1ab3a35f1cd",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Reduce our absolute Scope 1 and 2 GHG emissions 65% by 2030, from a 2015 base year* (SBTi validated as 1.5 °C-aligned).",
+      "source_page": 27,
+      "claim_type": "target",
+      "scope": "Scope 1 and 2",
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2015,
+      "target_year": 2030,
+      "value": 65,
+      "claim_id": "reckitt_2024_9164c7a1dc11",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Increase annual sourcing of renewable electricity from 5% in 2015 to 100% by 2030",
+      "source_page": 27,
+      "claim_type": "target",
+      "scope": null,
+      "material": "electricity",
+      "unit": "%",
+      "measurement_year": 2015,
+      "target_year": 2030,
+      "value": 100,
+      "claim_id": "reckitt_2024_3d83533698e0",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Reduce absolute Scope 3 GHG emissions from purchased goods and services (associated with ingredients and packaging materials), direct emissions from use of sold products and end-of-life treatment of sold products by 50% by 2030, from a 2015 base year (SBTi validated)",
+      "source_page": 27,
+      "claim_type": "target",
+      "scope": "Scope 3",
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2015,
+      "target_year": 2030,
+      "value": 50,
+      "claim_id": "reckitt_2024_c370794ba6cb",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Increasing post-consumer recycled content in packaging",
+      "source_page": 27,
+      "claim_type": "target",
+      "scope": null,
+      "material": "packaging",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_a8efd032b21f",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "About 98% of virgin single-use plastic is made from fossil fuels1, which account for more than 75%2 of global GHG emissions and nearly 90%2 of carbon dioxide emissions.",
+      "source_page": 29,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_e48cc1e192a5",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our targeted switch to 25% PCR content, using less virgin plastic and progressive plastic replacement will deliver CO2e savings across our value chain.",
+      "source_page": 29,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 25,
+      "claim_id": "reckitt_2024_35dea2b9dcea",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Packaging materials\n4%\n1%\nRetail & logistics\n0%\nDirect consumer use\n95%\nEnd of life\n0%Manufacturing\n<1%",
+      "source_page": 39,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastics",
+      "unit": "%",
+      "measurement_year": 2024,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_0666a4788394",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We’ve now achieved water positivity at two of our sites in India – Hosur and Mysore. For 2024, Mysore was independently verified as water positive by ERM CVS.",
+      "source_page": 40,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2024,
+      "value": null,
+      "claim_id": "reckitt_2024_a7ec00f0b0cd",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We remain committed to driving down this footprint, in line with our goal for 2040, through the formulation of our products and the development of concentrates, and with consumers.",
+      "source_page": 40,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2040,
+      "value": null,
+      "claim_id": "reckitt_2024_5ebbbbe1437a",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We’ve improved water efficiency in our operations since 2012 through site specific projects and initiatives. Within water-stressed locations, water-saving projects remain a key part of our strategy for long-term resilience, alongside our catchment area work.",
+      "source_page": 40,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_405fc7d9e8bd",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "During the year, we reduced water use in our operations by 6% per tonne of production versus our 2015 baseline.",
+      "source_page": 40,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2015,
+      "target_year": null,
+      "value": 6,
+      "claim_id": "reckitt_2024_549e2d871680",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We continue to make progress on reducing waste from manufacturing. In addition, all of our manufacturing sites have achieved and maintained zero waste to landfill1.",
+      "source_page": 42,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_e66778d1c30f",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our Global Environmental team analyses progress and investigates any significant variations, developing action and improvement plans if required.",
+      "source_page": 42,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_483d9a87d158",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our manufacturing sites are subject to ISO 14001 environmental certification.",
+      "source_page": 42,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_7483bc097ce8",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our site audit programme includes an annual self-assessment against our Global Waste Management Standard, supported by internal and external audits.",
+      "source_page": 42,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_f09e50441bba",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We try to avoid waste wherever possible in line with our Global Waste Management Standard and Zero Waste to Landfill policy.",
+      "source_page": 42,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_ba31f7c038b1",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Within our operations, we reuse and recycle as much as we can. We dispose of the rest responsibly in line with legal requirements and our own environmental standards and policies.",
+      "source_page": 42,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_5980328f2795",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "To support our zero waste to landfill and waste reduction commitments whilst also helping to address social challenges relating to health, hygiene and sanitation in South Africa, we initiated a social procurement initiative with Eco-Soap Bank.",
+      "source_page": 42,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_c5fd1dd2db16",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "The partnership aims to deliver environmental and social benefits by:\n• Recycling residual Dettol soap waste from our Elandsfontein factory\n• Repurposing the residual soap into usable soap and creating jobs for disadvantaged women in the local community\n• Providing recycled soap to children via our Dettol Hygiene Quest programme",
+      "source_page": 42,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "soap",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_7ab8e90380b7",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We also have initiatives with Eco-Soap Bank in Indonesia and aim to expand the programme to more Reckitt sites, driving circularity further within our operations.",
+      "source_page": 42,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_4afc659e83ac",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our Global Waste Management Standard prioritises avoiding waste. Where this isn’t possible, we focus on reducing, reusing, recycling or reprocessing and minimising the impacts associated with waste treatment.",
+      "source_page": 42,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "reckitt_2024_a1ad907a9846",
+      "report_id": "reckitt_2024",
+      "company": "Reckitt",
+      "report_year": 2024,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    4,
+    11,
+    12,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    27,
+    29,
+    30,
+    33,
+    39,
+    40,
+    42,
+    67
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1455,
+          "completion_tokens": 10,
+          "total_tokens": 1465,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.47,
+        "timestamp": "2026-11-11T09:45:14.971199+00:00"
+      },
+      "processed_pages": [
+        4
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1814,
+          "completion_tokens": 118,
+          "total_tokens": 1932,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.0,
+        "timestamp": "2026-11-11T09:45:18.974957+00:00"
+      },
+      "processed_pages": [
+        11
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1573,
+          "completion_tokens": 220,
+          "total_tokens": 1793,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 6.53,
+        "timestamp": "2026-11-11T09:45:25.500758+00:00"
+      },
+      "processed_pages": [
+        12
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1629,
+          "completion_tokens": 295,
+          "total_tokens": 1924,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 8.47,
+        "timestamp": "2026-11-11T09:45:33.963314+00:00"
+      },
+      "processed_pages": [
+        18
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1894,
+          "completion_tokens": 414,
+          "total_tokens": 2308,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 11.78,
+        "timestamp": "2026-11-11T09:45:45.750544+00:00"
+      },
+      "processed_pages": [
+        19
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "We assess opportunities for replacing plastic with other materials, such as paper and board, by looking at a multitude of factors including recyclability and recycling rates to understand potential circularity achievable, carbon emissions, impact on product performance, and consumer perception.",
+            "source_page": 20,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic, paper and board",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Our Sustainable Innovation Calculator measures the impact of plastic and packaging for every new project, including redesigns, by considering recyclability, weight and PCR use.",
+            "source_page": 20,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "plastic",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1757,
+          "completion_tokens": 604,
+          "total_tokens": 2361,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 16.64,
+        "timestamp": "2026-11-11T09:46:02.385725+00:00"
+      },
+      "processed_pages": [
+        20
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1839,
+          "completion_tokens": 757,
+          "total_tokens": 2596,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 20.7,
+        "timestamp": "2026-11-11T09:46:23.099121+00:00"
+      },
+      "processed_pages": [
+        21
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1954,
+          "completion_tokens": 441,
+          "total_tokens": 2395,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 12.5,
+        "timestamp": "2026-11-11T09:46:35.615980+00:00"
+      },
+      "processed_pages": [
+        22
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "By the end of 2024, key projects included:\n• Lysol w ipe canisters and other types of packaging contained 100% PCR. In laundry sanitisers and toilet bowl cleaner bottles, Lysol increased PCR content to 50%\n• In Brazil, Vej a contained 100% PCR in PET dilutable bottles. 25 million bottles are sold each year, which equates to a 600 metric tonne reduction in virgin plastic use\n• In Europe, Vanish introduced 25% PCR to gel product bottles in 2023, and in 2024, increased to 45% PCR in Vanish powder tubs, totalling more than 1,000 metric tonnes of PCR per year. Vanish also increased PCR content in its upholstery and carpet cleaner bottles from 0% to 75% and has committed to going even further in the coming years",
+            "source_page": 23,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1809,
+          "completion_tokens": 830,
+          "total_tokens": 2639,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 22.41,
+        "timestamp": "2026-11-11T09:46:58.022413+00:00"
+      },
+      "processed_pages": [
+        23
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2056,
+          "completion_tokens": 465,
+          "total_tokens": 2521,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 13.25,
+        "timestamp": "2026-11-11T09:47:11.286444+00:00"
+      },
+      "processed_pages": [
+        27
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1530,
+          "completion_tokens": 228,
+          "total_tokens": 1758,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 6.66,
+        "timestamp": "2026-11-11T09:47:17.961799+00:00"
+      },
+      "processed_pages": [
+        29
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2017,
+          "completion_tokens": 10,
+          "total_tokens": 2027,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.45,
+        "timestamp": "2026-11-11T09:47:19.431159+00:00"
+      },
+      "processed_pages": [
+        30
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1863,
+          "completion_tokens": 12,
+          "total_tokens": 1875,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.34,
+        "timestamp": "2026-11-11T09:47:20.777606+00:00"
+      },
+      "processed_pages": [
+        33
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1815,
+          "completion_tokens": 124,
+          "total_tokens": 1939,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.22,
+        "timestamp": "2026-11-11T09:47:25.006374+00:00"
+      },
+      "processed_pages": [
+        39
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2146,
+          "completion_tokens": 446,
+          "total_tokens": 2592,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 12.94,
+        "timestamp": "2026-11-11T09:47:37.953260+00:00"
+      },
+      "processed_pages": [
+        40
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Reducing waste from our operations and supply chain helps us reduce our environmental impact and cut costs, which is why waste reduction remains an important part of our commitment to a cleaner, healthier world.",
+            "source_page": 42,
+            "claim_type": "target",
+            "scope": null,
+            "material": null,
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1655,
+          "completion_tokens": 1101,
+          "total_tokens": 2756,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 29.44,
+        "timestamp": "2026-11-11T09:48:07.395233+00:00"
+      },
+      "processed_pages": [
+        42
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1175,
+          "completion_tokens": 10,
+          "total_tokens": 1185,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.72,
+        "timestamp": "2026-11-11T09:48:08.131229+00:00"
+      },
+      "processed_pages": [
+        67
+      ]
+    }
+  ],
+  "fingerprint": "eca452b652afa51e4be4f5041493c8181d5444ca9d4c2522c888d081ae8e5dd8",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

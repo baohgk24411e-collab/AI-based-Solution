@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc cải thiện hiệu quả sử dụng nước trong hoạt động từ năm 2012 thông qua các dự án và sáng kiến cụ thể tại từng địa điểm. Đồng thời, báo cáo cũng đề cập đến việc giảm sử dụng nước trong hoạt động sản xuất là 6% so với mốc tham chiếu năm 2015.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p40:c3",
+      "pdf_page": 40,
+      "quote": "We’ve improved water efficiency in our operations since 2012 through site specific projects and initiatives. Within water-stressed locations, water-saving projects remain a key part of our strategy for long-term resilience, alongside our catchment area work."
+    }
+  ],
+  "claim_id": "reckitt_2024_405fc7d9e8bd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3630,
+      "completion_tokens": 181,
+      "total_tokens": 3811,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.53,
+    "timestamp": "2026-11-11T09:53:44.376284+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "c7cc9a39223f21d338b61d7986704963e7ba4b985af09476f9438ef6534b79f0",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p40:c3",
+    "reckitt_2024:p40:c2",
+    "reckitt_2024:p24:c1",
+    "reckitt_2024:p3:c1",
+    "reckitt_2024:p28:c1"
+  ]
+}

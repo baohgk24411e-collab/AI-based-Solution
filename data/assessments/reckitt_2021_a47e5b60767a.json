@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2021, túi nhựa Finish linh hoạt trở thành gói đầu tiên trong loại có thể tái chế với tỷ lệ tái sinh (PCR) được sản xuất ở quy mô lớn. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "In 2021, the recyclable Finish flexible pouch, initially launched in 2019, became the first recyclable pack in its category with PCR to be produced at scale."
+    }
+  ],
+  "claim_id": "reckitt_2021_a47e5b60767a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3664,
+      "completion_tokens": 143,
+      "total_tokens": 3807,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.58,
+    "timestamp": "2026-11-11T09:20:42.095971+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "42b07e4dfe56fc565d124e1439968354403be39195414467dd6d7b612c4e2ca1",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p41:c2",
+    "reckitt_2021:p47:c2",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p43:c1"
+  ]
+}

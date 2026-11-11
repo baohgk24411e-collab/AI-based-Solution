@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về việc sử dụng rPET trong chai Coca-Cola tại Việt Nam. Chỉ có thông tin về mục tiêu và dự đoán về lượng nhựa tái chế được tránh, nhưng không có dữ liệu cụ thể về tỷ lệ sử dụng rPET.",
+  "flags": [
+    "missing_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p39:c1",
+      "pdf_page": 39,
+      "quote": "In Vietnam, we launched 100% rPET Coca-Cola bottles, which is projected to avoid 2,000 metric tons of virgin plastic usage annually."
+    }
+  ],
+  "claim_id": "cocacola_2022_b5a01a787d95",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4118,
+      "completion_tokens": 153,
+      "total_tokens": 4271,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.53,
+    "timestamp": "2026-11-11T09:01:51.874815+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "5dc48392fa68273cdcffd7c45781b1999514d4fa0976c94a8fa1e395523eb82e",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p67:c2",
+    "cocacola_2022:p9:c1"
+  ]
+}

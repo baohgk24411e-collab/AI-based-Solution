@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc Reckitt đã ra mắt một bao bì dạng túi đứng giấy hoàn toàn tái chế cho Finish dishwasher tablets tại Pháp. Khi triển khai rộng rãi, điều này sẽ giúp tiết kiệm hơn 2.000 tấn nhựa mỗi năm - tương đương với 50 triệu chai nhựa 1 lít.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p41:c1",
+      "pdf_page": 41,
+      "quote": "FINISH DETERGENT PACKAGING GOES PAPER-BASED We launched a fully recyclable paper-based stand-up pouch for Finish dishwasher tablets in France. Once fully rolled out to other markets, this will save over 2,000 tonnes of plastic per year — the equivalent of 50 million one-litre bottles."
+    }
+  ],
+  "claim_id": "reckitt_2022_c1aaa5893c97",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4150,
+      "completion_tokens": 198,
+      "total_tokens": 4348,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.5,
+    "timestamp": "2026-11-11T09:32:30.627822+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "b99ab7b0b233aadd2d5cbe3a199b6dc7fc8b6255caaa05fc45c16c81944fe67a",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p6:c1",
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p36:c1"
+  ]
+}

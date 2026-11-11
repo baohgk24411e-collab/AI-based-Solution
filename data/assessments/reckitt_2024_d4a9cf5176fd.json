@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về việc tăng nội dung PCR trong các sản phẩm vệ sinh bồn cầu tại các khu vực Europe, India và South Africa như tuyên bố. Các đoạn trích chỉ đề cập đến một số sản phẩm khác của công ty.",
+  "flags": [
+    "地理区域不匹配",
+    "材料具体信息不足"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p12:c2",
+      "pdf_page": 12,
+      "quote": "We increased PCR content in our toilet bowl cleaners to 75% in Europe, 50% in India, and 30% in South Africa*"
+    }
+  ],
+  "claim_id": "reckitt_2024_d4a9cf5176fd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3861,
+      "completion_tokens": 156,
+      "total_tokens": 4017,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.09,
+    "timestamp": "2026-11-11T09:48:28.542463+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "1109050f917959cd2ecb9c7701b0dcbdb7e6237813433c185e8db638d37a39ae",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p12:c2",
+    "reckitt_2024:p23:c1",
+    "reckitt_2024:p12:c1",
+    "reckitt_2024:p22:c2",
+    "reckitt_2024:p40:c1"
+  ]
+}

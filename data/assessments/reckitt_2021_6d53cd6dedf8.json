@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ tái chế (recyclability) đạt được ít nhất 10 điểm theo chỉ số Calculator bền vững. Chỉ có thông tin chung về việc sử dụng công cụ Calculator bền vững và mục tiêu tổng thể.",
+  "flags": [
+    "missing_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p39:c2",
+      "pdf_page": 39,
+      "quote": "≥ 10 points (≥ 10 reduction) ≥ 10 points MORE SUSTAINABLE ≥ 10 points"
+    }
+  ],
+  "claim_id": "reckitt_2021_6d53cd6dedf8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3514,
+      "completion_tokens": 148,
+      "total_tokens": 3662,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.77,
+    "timestamp": "2026-11-11T09:16:23.942344+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "ac424600a0aab77332a83faab4de056c76b5f2e7f0938bf179ffc30647e21a0c",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p39:c2",
+    "reckitt_2021:p42:c1",
+    "reckitt_2021:p46:c2",
+    "reckitt_2021:p66:c3",
+    "reckitt_2021:p9:c1"
+  ]
+}

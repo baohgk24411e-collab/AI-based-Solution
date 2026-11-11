@@ -17,8 +17,8 @@ def build_dashboard():
         val = cl.get('value')
         txt = cl.get('claim_text', '')
         if val is not None:
-            nums = re.findall(r'\d+(?:\.\d+)?', txt)
-            floats = [float(n) for n in nums]
+            nums = re.findall(r'\d[\d,]*(?:\.\d+)?', txt)
+            floats = [float(n.replace(',', '')) for n in nums]
             try:
                 v = float(val)
                 if any(abs(v - f) < 1e-4 for f in floats):
@@ -50,6 +50,17 @@ def build_dashboard():
                     "text": txt,
                     "reason": "Parse Error"
                 })
+
+    # Count flags per report
+    flag_counts = {}
+    for cl in claims_data:
+        rid = cl.get('report_id')
+        # load assessment if exists
+        ass = load_json(DATA / 'assessments' / f"{cl.get('claim_id')}.json", {})
+        if ass.get('flags'):
+            flag_counts[rid] = flag_counts.get(rid, 0) + 1
+            # attach flags to cl for JS rendering
+            cl['flags'] = ass.get('flags', [])
 
     architecture_md = (ROOT / 'docs' / 'PIPELINE_ARCHITECTURE.md').read_text(encoding='utf-8')
     limitations_md = (ROOT / 'docs' / 'PIPELINE_LIMITATIONS.md').read_text(encoding='utf-8')
@@ -381,7 +392,7 @@ def build_dashboard():
     <!-- Navigation Tabs -->
     <div class="nav-tabs">
         <button class="nav-tab active" onclick="switchTab('dashboard')">01 // Executive Dashboard</button>
-        <button class="nav-tab" onclick="switchTab('workbench')">02 // Claim Explorer (379 Claims)</button>
+        <button class="nav-tab" onclick="switchTab('workbench')">02 // Claim Explorer ({len(claims_data)} Claims)</button>
         <button class="nav-tab" onclick="switchTab('hallucination')">03 // Hallucination Audit</button>
         <button class="nav-tab" onclick="switchTab('architecture')">04 // Pipeline Architecture</button>
         <button class="nav-tab" onclick="switchTab('limitations')">05 // Methodology & Limits</button>
@@ -412,7 +423,8 @@ def build_dashboard():
             </div>
         </div>
 
-        <h3 style="margin-bottom:12px; font-size:18px;">Enterprise Disclosure Audit Table</h3>
+        <h3 style="margin-bottom:8px; font-size:18px;">Enterprise Disclosure Audit Table (20/20 Reports Completed)</h3>
+        <p style="font-size:13px; color:var(--text-muted); margin-bottom:14px;">Note: Scope mismatches and missing baseline years inside single reports are recorded under <b>Insufficient Evidence</b> and <b>Risk Flags</b> (e.g., future target caveats).</p>
         <div class="table-container">
             <table>
                 <thead>
@@ -424,8 +436,8 @@ def build_dashboard():
                         <th>Claims</th>
                         <th>Supported</th>
                         <th>Insufficient Evidence</th>
-                        <th>Scope Mismatch</th>
-                        <th>Inconsistency</th>
+                        <th>Future / Not Assessable</th>
+                        <th>Risk Flags</th>
                         <th>Not Assessed</th>
                     </tr>
                 </thead>
@@ -433,6 +445,7 @@ def build_dashboard():
 """
 
     for r in summary_data:
+        f_count = flag_counts.get(r['report_id'], 0)
         html_content += f"""
                     <tr>
                         <td><code>{r['report_id']}</code></td>
@@ -442,13 +455,13 @@ def build_dashboard():
                         <td><b>{r['claims']}</b></td>
                         <td><span class="badge badge-supported">{r['supported']}</span></td>
                         <td><span class="badge badge-insufficient_evidence">{r['insufficient_evidence']}</span></td>
-                        <td>{r['scope_mismatch']}</td>
-                        <td>{r['potential_inconsistency']}</td>
+                        <td><span class="badge badge-not_yet_assessable">{r['not_yet_assessable']}</span></td>
+                        <td><span class="badge badge-scope_mismatch">{f_count} Flags</span></td>
                         <td>{r['not_assessed']}</td>
                     </tr>
 """
 
-    html_content += """
+    html_content += f"""
                 </tbody>
             </table>
         </div>
@@ -470,9 +483,10 @@ def build_dashboard():
                 <option value="ALL">All Verdicts</option>
                 <option value="supported">Supported Only</option>
                 <option value="insufficient_evidence">Insufficient Evidence</option>
+                <option value="not_yet_assessable">Not Yet Assessable</option>
                 <option value="scope_mismatch">Scope Mismatch</option>
                 <option value="potential_inconsistency">Potential Inconsistency</option>
-                <option value="not_yet_assessable">Not Yet Assessable</option>
+                <option value="not_assessed">Not Assessed</option>
             </select>
         </div>
 
@@ -506,7 +520,7 @@ def build_dashboard():
             </div>
         </div>
 
-        <h3 style="margin-bottom:12px; font-size:18px;">⚠️ 24 Hallucinated & Shifted Numeric Metrics (Root Cause Audit)</h3>
+        <h3 style="margin-bottom:12px; font-size:18px;">⚠️ {len(val_mismatch)} Hallucinated & Shifted Numeric Metrics (Root Cause Audit)</h3>
         <div class="table-container">
             <table>
                 <thead>
@@ -530,12 +544,12 @@ def build_dashboard():
                         <td><span class="badge badge-insufficient_evidence">{m['reason']}</span></td>
                     </tr>
 """
-    html_content += """
+    html_content += f"""
                 </tbody>
             </table>
         </div>
 
-        <h3 style="margin-top:24px; margin-bottom:12px; font-size:18px;">✅ 165 Verified Grounded Metrics (100% Fidelity)</h3>
+        <h3 style="margin-top:24px; margin-bottom:12px; font-size:18px;">✅ {len(val_match)} Verified Grounded Metrics (100% Fidelity)</h3>
         <div class="table-container">
             <table>
                 <thead>
@@ -658,3 +672,4 @@ def build_dashboard():
 
 if __name__ == '__main__':
     build_dashboard()
+

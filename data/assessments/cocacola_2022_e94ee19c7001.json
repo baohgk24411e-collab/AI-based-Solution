@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc công ty hợp tác với các đối tác để tạo ra hoặc hỗ trợ hệ thống đóng vòng khép kín nhằm đảm bảo bao bì của họ được thu gom và tái chế hoặc tái sử dụng. Điều này phù hợp với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p40:c1",
+      "pdf_page": 40,
+      "quote": "We work with partners across business, government and civil society to create or support closed-loop systems that ensure our packages are collected and recycled or reused."
+    }
+  ],
+  "claim_id": "cocacola_2022_e94ee19c7001",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3830,
+      "completion_tokens": 162,
+      "total_tokens": 3992,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.56,
+    "timestamp": "2026-11-11T09:02:13.589453+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "4870a04e4443f6629e0f255125d6b4b4e68e409477f0fed98a51a7bebc6fe56f",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p54:c2",
+    "cocacola_2022:p39:c2",
+    "cocacola_2022:p29:c2",
+    "cocacola_2022:p61:c1"
+  ]
+}

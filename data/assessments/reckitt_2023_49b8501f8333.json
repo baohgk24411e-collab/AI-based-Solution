@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy mục tiêu giảm 50% carbon footprint của sản phẩm vào năm 2030 và giảm 50% nước sử dụng vào năm 2040 so với năm 2015, phù hợp với tuyên bố.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p14:c2",
+      "pdf_page": 14,
+      "quote": "50% reduction in our product carbon footprint by 2030 and in our water footprint by 2040 versus 2015"
+    }
+  ],
+  "claim_id": "reckitt_2023_49b8501f8333",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4152,
+      "completion_tokens": 155,
+      "total_tokens": 4307,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.34,
+    "timestamp": "2026-11-11T09:40:24.226688+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "8afb271a374ffd38e8d935ce8b62218b8a6d58611c82aadfc4f23cb971d925f4",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p14:c2",
+    "reckitt_2023:p5:c1",
+    "reckitt_2023:p56:c1",
+    "reckitt_2023:p36:c1",
+    "reckitt_2023:p54:c1"
+  ]
+}

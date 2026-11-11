@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về chương trình “PET Return and Recycle” tại Ấn Độ, đồng thời xác nhận rằng Zepto là đối tác trong chương trình này. Điều này hỗ trợ tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p41:c2",
+      "pdf_page": 41,
+      "quote": "In India, we’re teaming with bicycle grocery delivery service Zepto for the “PET Return and Recycle” initiative. Using the Zepto mobile app, consumers can return up to four empty PET bottles (across any brand) to be collected by Zepto riders during home delivery trips."
+    }
+  ],
+  "claim_id": "cocacola_2022_8467f1203710",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4081,
+      "completion_tokens": 160,
+      "total_tokens": 4241,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.75,
+    "timestamp": "2026-11-11T09:03:16.222841+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "b92d756c7c68e507eaf62e656ce4391d5ede20213dbb4dc722440dc430019bb6",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p41:c2",
+    "cocacola_2022:p37:c2",
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p37:c1",
+    "cocacola_2022:p42:c2"
+  ]
+}

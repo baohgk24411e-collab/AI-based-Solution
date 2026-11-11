@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng tất cả các cơ sở sản xuất của Reckitt đã đạt được và duy trì việc không rác thải vào lò đốt. Điều này tương thích với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c1",
+      "pdf_page": 42,
+      "quote": "We continue to make progress on reducing waste from manufacturing. In addition, all of our manufacturing sites have achieved and maintained zero waste to landfill1."
+    }
+  ],
+  "claim_id": "reckitt_2024_e66778d1c30f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3733,
+      "completion_tokens": 128,
+      "total_tokens": 3861,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.27,
+    "timestamp": "2026-11-11T09:53:57.721680+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "08624ec71c449fe63d523033edb45d23712be406b5e171c306de00661414edb1",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p3:c1",
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p40:c2",
+    "reckitt_2024:p22:c2"
+  ]
+}

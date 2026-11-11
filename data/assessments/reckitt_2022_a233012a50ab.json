@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Reckitt đang nỗ lực sử dụng ít bao bì hơn và tăng cường tái chế vật liệu tái chế, đồng thời khuyến khích người tiêu dùng tái chế sản phẩm và bao bì của họ. Các đoạn trích từ trang 35 và 42 của báo cáo đều xác nhận các mục tiêu này.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p35:c1",
+      "pdf_page": 35,
+      "quote": "Our work to use less packaging and more recycled material, and encourage consumers to recycle our products and packs"
+    }
+  ],
+  "claim_id": "reckitt_2022_a233012a50ab",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3589,
+      "completion_tokens": 142,
+      "total_tokens": 3731,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.5,
+    "timestamp": "2026-11-11T09:30:37.764463+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "2e8fc9db8d5671ee7da8e672fb72b9307cb0da2b84281629882e90e11a6fb7d9",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p72:c2",
+    "reckitt_2022:p35:c1",
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p72:c3",
+    "reckitt_2022:p42:c2"
+  ]
+}

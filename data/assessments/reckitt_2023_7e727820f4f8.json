@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc cải thiện khả năng tái chế của bao bì Enfa A+ bằng cách loại bỏ lớp màng mạ kim loại (MPET) khỏi hộp giấy cứng, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p15:c1",
+      "pdf_page": 15,
+      "quote": "In Vietnam and Indonesia, we’ve improved the recyclability* of our Enfa A+ portfolio by removing the metalised film (MPET) layer from the solid board carton."
+    }
+  ],
+  "claim_id": "reckitt_2023_7e727820f4f8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4155,
+      "completion_tokens": 130,
+      "total_tokens": 4285,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.7,
+    "timestamp": "2026-11-11T09:40:30.940980+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "c3defbcbde186f7ab2737fae9db5c25f65e7f987b30d23fb0b7afb99ea790e43",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p15:c1",
+    "reckitt_2023:p26:c1",
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p28:c1",
+    "reckitt_2023:p45:c1"
+  ]
+}

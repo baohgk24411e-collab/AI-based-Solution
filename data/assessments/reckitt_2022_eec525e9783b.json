@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc sử dụng công cụ Sustainable Innovation Calculator để hỗ trợ phát triển sản phẩm có tác động môi trường tốt hơn, nhưng không cung cấp bằng chứng trực tiếp cho thấy tất cả các sáng tạo mới đều cải thiện tác động môi trường của sản phẩm thay thế.",
+  "flags": [
+    "缺少直接证据证明所有新产品创新都确实改善了替代产品的环境影响"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p34:c1",
+      "pdf_page": 34,
+      "quote": "Our ambition is that all new innovation and product development improves the environmental impact of the product it replaces."
+    }
+  ],
+  "claim_id": "reckitt_2022_eec525e9783b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3740,
+      "completion_tokens": 156,
+      "total_tokens": 3896,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.0,
+    "timestamp": "2026-11-11T09:29:32.480219+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "f80d3f7f41a16fb9a70d76f86f71e783275eda69eec9258a6442a0579cacc650",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p34:c1",
+    "reckitt_2022:p55:c2",
+    "reckitt_2022:p58:c1",
+    "reckitt_2022:p40:c2",
+    "reckitt_2022:p75:c2"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc chuyển đổi sang nhựa tái chế 100% cho DASANI tại Mỹ và Canada, dự kiến sẽ tiết kiệm hơn 20 triệu pound nhựa mới so với năm 2019. Đồng thời, báo cáo cũng đề cập đến mục tiêu giảm sử dụng nhựa nguyên sinh non tái tạo bằng cách tránh sử dụng khoảng 3 triệu tấn nhựa nguyên sinh từ năm 2020-2025.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p67:c2",
+      "pdf_page": 67,
+      "quote": "The brand’s transition to 100% recycled plastic1 is projected to save more than 20 million pounds of new plastic, compared to 2019, and cut more than 25,000 metric tons of greenhouse gas emissions in 2023 alone."
+    }
+  ],
+  "claim_id": "cocacola_2022_d58a005c9572",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4132,
+      "completion_tokens": 227,
+      "total_tokens": 4359,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.66,
+    "timestamp": "2026-11-11T09:04:01.823382+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "13ab268ef2681811fa7f001f1e0c536cb0a9040095511d84af4a929a43475377",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p67:c2",
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p38:c1"
+  ]
+}

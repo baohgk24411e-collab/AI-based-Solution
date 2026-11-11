@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã xác nhận rằng họ đã triển khai công cụ tính toán bền vững cho các sản phẩm dinh dưỡng dành cho trẻ em và trẻ sơ sinh, hoàn thành nền móng cho hiệu suất tốt hơn vào năm 2022. Điều này được đề cập trong trang báo cáo số 40.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p40:c2",
+      "pdf_page": 40,
+      "quote": "We rolled the calculator out to our Infant Formula and Child Nutrition business, completing the groundwork for better performance in 2022 and beyond."
+    }
+  ],
+  "claim_id": "reckitt_2021_4cc68548b6ed",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3560,
+      "completion_tokens": 139,
+      "total_tokens": 3699,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.62,
+    "timestamp": "2026-11-11T09:16:42.767769+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "ce19486af3f291348c0eed069810f8a90e2357caf3a7942d83f46e8bce67d391",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p40:c2",
+    "reckitt_2021:p42:c1",
+    "reckitt_2021:p98:c3",
+    "reckitt_2021:p33:c2",
+    "reckitt_2021:p40:c1"
+  ]
+}

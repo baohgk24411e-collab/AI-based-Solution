@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt xác nhận mục tiêu làm cho tất cả bao bì nhựa của họ tái sử dụng hoặc tái chế được vào năm 2025 và đạt được 76.4% vào năm 2022 (so với 75.3% vào năm 2021).",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p28:c1",
+      "pdf_page": 28,
+      "quote": "Our ambition is to make all of our plastic packaging recyclable or reusable by 2025. We reached 76.4% in 2022 (versus 75.3% in 2021)."
+    }
+  ],
+  "claim_id": "reckitt_2023_c4bb7f6e7eb8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4079,
+      "completion_tokens": 174,
+      "total_tokens": 4253,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.78,
+    "timestamp": "2026-11-11T09:42:30.646879+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "9007276997d19b1cc8d75cfeb96394c9dc212cf18ea586f11ba11628de5bafc2",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p28:c1",
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p62:c1",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p29:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Coca-Cola đang hợp tác với các đối tác trong ngành để xây dựng cơ sở hạ tầng thu gom, bao gồm kinh nghiệm hơn 40 năm vận hành 40+ hệ thống trả tiền (DRS) tại thị trường phát triển. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p40:c2",
+      "pdf_page": 40,
+      "quote": "In developed markets, we are working with industry peers to build collection infrastructures—including our more than 40 years of experience operating 40+ local Deposit Return Systems (DRS)."
+    }
+  ],
+  "claim_id": "cocacola_2022_c230777f3c66",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3717,
+      "completion_tokens": 174,
+      "total_tokens": 3891,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.77,
+    "timestamp": "2026-11-11T09:02:28.650586+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "a8924b807bb9afaad371c1ba329df64a51b2edb00c3b612b859e836c25b3a846",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p42:c1",
+    "cocacola_2022:p41:c2",
+    "cocacola_2022:p41:c1"
+  ]
+}

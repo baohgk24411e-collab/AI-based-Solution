@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu về tỷ lệ vật liệu tái chế trong bao bì khác (Other) từ năm 2014 đến 2022, và số liệu cho năm 2019 là 11.3%, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Other 12.1% 11.8% 13.4% 9.7% 11.3%"
+    }
+  ],
+  "claim_id": "cocacola_2022_d4b5b6a51452",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4774,
+      "completion_tokens": 159,
+      "total_tokens": 4933,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.34,
+    "timestamp": "2026-11-11T09:05:12.499367+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "3305025439e0caeea9c3566ebc4d8fd6211b4f27e0b527d6064e7017ca611bb7",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p81:c1",
+    "cocacola_2022:p64:c2",
+    "cocacola_2022:p57:c1",
+    "cocacola_2022:p11:c1"
+  ]
+}

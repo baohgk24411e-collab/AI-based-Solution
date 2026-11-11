@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu chính xác về tỷ lệ bottles và cans được thu gom và tái chế hoặc tái sử dụng, phù hợp với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2024:p10:c1",
+      "pdf_page": 10,
+      "quote": "65%"
+    }
+  ],
+  "claim_id": "cocacola_2024_74d5dce3451b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3624,
+      "completion_tokens": 90,
+      "total_tokens": 3714,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.36,
+    "timestamp": "2026-11-11T09:07:17.475786+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2024",
+  "fingerprint": "b1898d82df8914fe6cfed2f1468c34c0c848b033db619cf20d829b376c9c5a7d",
+  "retrieved_chunk_ids": [
+    "cocacola_2024:p10:c1",
+    "cocacola_2024:p6:c3",
+    "cocacola_2024:p6:c1",
+    "cocacola_2024:p11:c1",
+    "cocacola_2024:p10:c2"
+  ]
+}

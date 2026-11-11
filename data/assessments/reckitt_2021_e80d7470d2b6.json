@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2021, Reckitt đã chuẩn bị một số sản phẩm của mình bằng cách tăng cường nhãn hiệu với mực nước số hóa. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p46:c1",
+      "pdf_page": 46,
+      "quote": "In 2021, we prepared some of our products by enhancing their labels with digital watermarks."
+    }
+  ],
+  "claim_id": "reckitt_2021_e80d7470d2b6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3524,
+      "completion_tokens": 142,
+      "total_tokens": 3666,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.44,
+    "timestamp": "2026-11-11T09:21:30.610579+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "63316e7a13b7b61eff395d53aefe8fd1ad4700100cdf985ba0f6c4d8e904476f",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p46:c1",
+    "reckitt_2021:p25:c2",
+    "reckitt_2021:p8:c1",
+    "reckitt_2021:p31:c1",
+    "reckitt_2021:p102:c2"
+  ]
+}

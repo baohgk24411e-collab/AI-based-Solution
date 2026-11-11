@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Coca-Cola hỗ trợ các quy định cho phép sử dụng rPET trong bao bì thực phẩm và đồ uống tại thị trường mới nổi, đồng thời thúc đẩy sự tham gia của ngành công nghiệp để phát triển cơ sở hạ tầng tái chế.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p40:c1",
+      "pdf_page": 40,
+      "quote": "In emerging markets, we advocate for government regulations permitting the use of rPET in food and beverage packaging, and we seek ways to empower the informal waste collection sector in the circular economy."
+    }
+  ],
+  "claim_id": "cocacola_2022_560839509880",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3846,
+      "completion_tokens": 152,
+      "total_tokens": 3998,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.27,
+    "timestamp": "2026-11-11T09:02:20.867240+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "49ecb70d3e99da878745addaf96ecf2327050abbb602fc40ab30268bb7e829f5",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p40:c1",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p41:c1",
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p41:c2"
+  ]
+}

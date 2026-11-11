@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Coca-Cola đã đạt được 90% độ tái chế của bao bì toàn cầu vào năm 2022, phù hợp với tuyên bố của họ về việc làm cho 100% bao bì tái chế vào năm 2025.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p37:c3",
+      "pdf_page": 37,
+      "quote": "Make 100% of our packaging recyclable globally by 2025 90% globally1"
+    }
+  ],
+  "claim_id": "cocacola_2022_83c54b8f1707",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4377,
+      "completion_tokens": 144,
+      "total_tokens": 4521,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.78,
+    "timestamp": "2026-11-11T09:00:42.579156+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "2bce288122ae91cc0f5efe43eac53f88834c4f43008fab5f0931b4454bca357c",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p7:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p76:c2"
+  ]
+}

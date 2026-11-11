@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về việc sử dụng 35% PCR trong chai của Rinse Aid và Gel rửa bát tại châu Âu, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p41:c2",
+      "pdf_page": 41,
+      "quote": "In Europe, Finish Rinse Aid has moved to a 35% Post Consumer Resin (PCR) bottle, with a sleeve that’s now perforated for easy removal before consumers recycle the bottle. Finish Dishwashing gel also has a 35% PCR bottle, with a perforated sleeve currently available in Italy to be rolled out further in 2023"
+    }
+  ],
+  "claim_id": "reckitt_2021_316c527e4ff8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3672,
+      "completion_tokens": 162,
+      "total_tokens": 3834,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.38,
+    "timestamp": "2026-11-11T09:17:41.017309+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "419df60218e92f0d7cc165277a97c84a7b5a5543271ecd783301596b56eed35e",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p41:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p42:c2",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p68:c2"
+  ]
+}

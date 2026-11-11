@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng trong năm 2021, tỷ lệ rác thải được tái chế là 96%, như công ty tiếp tục giảm thiểu rác thải và tái chế hoặc tái sử dụng nó, hay tìm ra các phương án xử lý tốt hơn, ví dụ chuyển đổi thành năng lượng. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p74:c1",
+      "pdf_page": 74,
+      "quote": "In 2021, it was 96%, as we continued both to reduce waste and to recycle and reprocess it, or find better disposal options, like turning it into energy."
+    }
+  ],
+  "claim_id": "reckitt_2021_0c1daa3450aa",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3942,
+      "completion_tokens": 174,
+      "total_tokens": 4116,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.64,
+    "timestamp": "2026-11-11T09:22:39.817590+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "4e8555c8ab1bfba605d05176eab52f60d9e5c9268204e3d8cbd249a951c85213",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p74:c1",
+    "reckitt_2021:p76:c1",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p74:c2",
+    "reckitt_2021:p77:c1"
+  ]
+}

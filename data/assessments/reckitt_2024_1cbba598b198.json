@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về hệ thống tái chế hiện tại hay cần thiết mà chỉ đề cập đến các vấn đề và nỗ lực cải thiện. Không có dữ liệu về tỷ lệ tái chế hoặc tiến trình thực hiện.",
+  "flags": [
+    "无具体数据支持"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p21:c1",
+      "pdf_page": 21,
+      "quote": "This situation has underscored the urgent need for more robust and sustainable recycling systems generally."
+    }
+  ],
+  "claim_id": "reckitt_2024_1cbba598b198",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3938,
+      "completion_tokens": 123,
+      "total_tokens": 4061,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.34,
+    "timestamp": "2026-11-11T09:50:29.728918+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "58ab24328b737cf1fd408938e53283e66180cbe1f6843ddd066ca8183552d98f",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p21:c1",
+    "reckitt_2024:p41:c1",
+    "reckitt_2024:p19:c2",
+    "reckitt_2024:p39:c1",
+    "reckitt_2024:p19:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho biết Dettol đã ra mắt một chai tẩy rửa bề mặt tái sử dụng tại Anh, và nó cũng có thể được tái chế. Điều này cung cấp bằng chứng hỗ trợ cho tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p28:c2",
+      "pdf_page": 28,
+      "quote": "The refill bottle can also be recycled."
+    }
+  ],
+  "claim_id": "reckitt_2023_372b4e8c4152",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4225,
+      "completion_tokens": 103,
+      "total_tokens": 4328,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.05,
+    "timestamp": "2026-11-11T09:42:51.274888+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "e67d0da6562c8726f2ac9293423576fbad28163f2f557fbe9179435648200a43",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p28:c1",
+    "reckitt_2023:p15:c1",
+    "reckitt_2023:p26:c1",
+    "reckitt_2023:p29:c1"
+  ]
+}

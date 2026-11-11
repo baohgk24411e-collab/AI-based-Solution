@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ nội dung tái chế (PCR) được sử dụng trong bao bì nhựa của công ty. Chỉ có đề cập chung đến việc sử dụng PCR để thay thế nhựa nguyên sinh, nhưng không đưa ra con số cụ thể.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p20:c1",
+      "pdf_page": 20,
+      "quote": "Using more recycled materials We use post-consumer recycled (PCR) content to replace virgin plastic in packaging."
+    }
+  ],
+  "claim_id": "reckitt_2024_b78b95c06455",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3498,
+      "completion_tokens": 143,
+      "total_tokens": 3641,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.52,
+    "timestamp": "2026-11-11T09:50:03.708579+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "093243c22a0bc1e2cab8afa9e7147f8b4a46fded0f33e7aa38a9cd8d16758ee1",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p20:c1",
+    "reckitt_2024:p18:c2",
+    "reckitt_2024:p12:c2",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p29:c1"
+  ]
+}

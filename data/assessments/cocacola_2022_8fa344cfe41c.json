@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Coca-Cola đã công bố mục tiêu vào năm 2022 để có ít nhất 25% sản phẩm đồ uống được bán trên toàn cầu trong các chai tái sử dụng hoặc tái chế bằng thủy tinh hoặc nhựa hoặc từ các máy pha chế với bao bì tái sử dụng vào năm 2030. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p37:c2",
+      "pdf_page": 37,
+      "quote": "In 2022, we were proud to announce an industry-leading goal to have at least 25% of our beverage volume worldwide sold in refillable/returnable glass or plastic bottles or in fountain dispensers with reusable packaging by 2030."
+    }
+  ],
+  "claim_id": "cocacola_2022_8fa344cfe41c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4119,
+      "completion_tokens": 198,
+      "total_tokens": 4317,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.73,
+    "timestamp": "2026-11-11T09:00:34.790691+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "614c93c99e6ed766132b8c60107abf4f696c972ce5aa6ad49621e4bf1d7dec13",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p37:c2",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p9:c2"
+  ]
+}

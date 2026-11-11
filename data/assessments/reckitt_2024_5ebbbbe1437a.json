@@ -1,0 +1,40 @@
+{
+  "label": "not_yet_assessable",
+  "rationale": " CLAIM: 'We remain committed to driving down this footprint, in line with our goal for 2040', 2040 is a future target and the report does not provide any evidence of progress or achievement towards this specific claim before its deadline.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p40:c1",
+      "pdf_page": 40,
+      "quote": "We remain committed to driving down this footprint, in line with our goal for 2040, through the formulation of our products and the development of concentrates, and with consumers."
+    }
+  ],
+  "claim_id": "reckitt_2024_5ebbbbe1437a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4098,
+      "completion_tokens": 148,
+      "total_tokens": 4246,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.3,
+    "timestamp": "2026-11-11T09:53:36.821066+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "eff88106c1548190bffa801f50a12a67959cfbc0e6d46460ef5a27cece5d3cfd",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p40:c1",
+    "reckitt_2024:p27:c2",
+    "reckitt_2024:p17:c2",
+    "reckitt_2024:p38:c1",
+    "reckitt_2024:p27:c1"
+  ]
+}

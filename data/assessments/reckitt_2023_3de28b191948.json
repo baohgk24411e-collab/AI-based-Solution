@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho biết công ty cung cấp thêm thông tin về dấu chân nhựa của mình trong Báo cáo Cam kết Toàn cầu hàng năm của EMF, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p25:c2",
+      "pdf_page": 25,
+      "quote": "We report more information on our plastic footprint within the EMF’s Annual Global Commitment Report."
+    }
+  ],
+  "claim_id": "reckitt_2023_3de28b191948",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3870,
+      "completion_tokens": 119,
+      "total_tokens": 3989,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.12,
+    "timestamp": "2026-11-11T09:41:46.331938+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "9982d165b901dcd917d012840d24cd08152c8a8e8cb2aec2335de10d33aa4ff8",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p25:c2",
+    "reckitt_2023:p25:c1",
+    "reckitt_2023:p27:c1",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p12:c1"
+  ]
+}

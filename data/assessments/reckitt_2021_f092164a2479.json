@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng công ty đã thêm hơn 7,700 tấn nhựa tái chế vào quy trình sản xuất và hiện chiếm 3.5% trong tổng lượng nhựa sử dụng cho bao bì.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "Our work in recent years has added over 7,700 metric tonnes of PCR to our processes, and it now makes up 3.5% of plastic we use in our packaging."
+    }
+  ],
+  "claim_id": "reckitt_2021_f092164a2479",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3765,
+      "completion_tokens": 153,
+      "total_tokens": 3918,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.94,
+    "timestamp": "2026-11-11T09:21:16.427347+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "56825167170dae65f141375825f9ac18789616a944d491fd445cb47575ef0ad0",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p43:c2",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p44:c2"
+  ]
+}

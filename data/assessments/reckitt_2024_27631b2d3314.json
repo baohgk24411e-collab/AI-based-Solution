@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt xác nhận họ có mục tiêu thiết kế bao bì để cải thiện khả năng tái chế (We aim to design our packaging to improve recyclability.), phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p20:c1",
+      "pdf_page": 20,
+      "quote": "We aim to design our packaging to improve recyclability."
+    }
+  ],
+  "claim_id": "reckitt_2024_27631b2d3314",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3817,
+      "completion_tokens": 102,
+      "total_tokens": 3919,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.69,
+    "timestamp": "2026-11-11T09:49:57.184303+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "2f19f625086973095909669337fcdb1c73ad4803920872099105de65095da3e1",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p20:c1",
+    "reckitt_2024:p22:c1",
+    "reckitt_2024:p20:c2",
+    "reckitt_2024:p11:c2",
+    "reckitt_2024:p19:c2"
+  ]
+}

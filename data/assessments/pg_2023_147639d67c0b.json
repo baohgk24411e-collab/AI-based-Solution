@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc tăng sử dụng nhựa tái chế trong bao bì đồng thời giảm tổng lượng nhựa sử dụng - ít nhựa hơn và tỷ lệ từ nguồn tái chế cao hơn. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p2:c1",
+      "pdf_page": 2,
+      "quote": "We are increasing our use of recycled plastic resin while also decreasing our total use of plastic in packaging – less plastic overall and a higher proportion from recycled sources."
+    }
+  ],
+  "claim_id": "pg_2023_147639d67c0b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3063,
+      "completion_tokens": 133,
+      "total_tokens": 3196,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.12,
+    "timestamp": "2026-11-11T09:08:40.362417+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "a21c7e818f47330c0f4d9466b3a38ffa16486fca193974c2f0fcbe602164035c",
+  "retrieved_chunk_ids": [
+    "pg_2023:p2:c1",
+    "pg_2023:p59:c1",
+    "pg_2023:p60:c1",
+    "pg_2023:p62:c1",
+    "pg_2023:p58:c1"
+  ]
+}

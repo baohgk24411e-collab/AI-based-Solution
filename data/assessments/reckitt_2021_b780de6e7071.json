@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Vanish Zero sử dụng bao bì chứa 45% Post-Consumer Resin (PCR) trong khu vực Scandinavia.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p33:c1",
+      "pdf_page": 33,
+      "quote": "In Scandinavia, we launched Vanish Zero, which is free of fragrances, dyes, chlorines and optical brighteners and uses packaging that’s 45% Post-Consumer Resin (PCR)."
+    }
+  ],
+  "claim_id": "reckitt_2021_b780de6e7071",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3742,
+      "completion_tokens": 124,
+      "total_tokens": 3866,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.33,
+    "timestamp": "2026-11-11T09:15:55.996639+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "b24db3b423ebf63ebdc6381c6a4fa692cafb357e81abd9bf62ab09ba93bd07fd",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p33:c1",
+    "reckitt_2021:p41:c2",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p47:c1",
+    "reckitt_2021:p47:c2"
+  ]
+}

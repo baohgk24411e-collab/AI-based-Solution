@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế của chai thủy tinh không thể tái sử dụng theo năm như tuyên bố. Chỉ có tổng số lượng bao bì và tỷ lệ vật liệu tái chế trong tổng bao bì được đề cập.",
+  "flags": [
+    "缺少具体年份的数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Non-refillable glass bottles 2.3% 2.0% 1.4% 1.6% 1.6%"
+    }
+  ],
+  "claim_id": "cocacola_2022_02349c190387",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4667,
+      "completion_tokens": 153,
+      "total_tokens": 4820,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.09,
+    "timestamp": "2026-11-11T09:05:28.666413+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "b06406570fb304548fdf1cf670c397a2c7480f2202fe5107d7d272e4d40b3092",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p81:c1",
+    "cocacola_2022:p57:c1",
+    "cocacola_2022:p11:c1"
+  ]
+}

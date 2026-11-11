@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về việc thực hiện chương trình đào tạo kỹ năng cho lao động thu gom rác phi chính thức tại Philippines. Chỉ có thông tin chung về các hoạt động khác như việc thiết lập các trạm thu gom nhựa tái chế và hợp tác với Save Philippine Seas.",
+  "flags": [
+    "missing_details"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p41:c2",
+      "pdf_page": 41,
+      "quote": "In the Philippines, we partnered with the Technical Education and Skills Development Authority to pilot a certified skills training program for workers in the informal waste collection sector. These workers have access to training, tools and equipment for efficient waste collection and connections to materials recovery facilities (MRF) that buy the waste that is collected."
+    }
+  ],
+  "claim_id": "cocacola_2022_a605b4886ad3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3777,
+      "completion_tokens": 189,
+      "total_tokens": 3966,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.2,
+    "timestamp": "2026-11-11T09:02:51.182605+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "c0d3d77688d0111ded61fd1ba4d48737bca4ea8a8039fe41daac82070b5c5a3b",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p41:c2",
+    "cocacola_2022:p62:c3",
+    "cocacola_2022:p62:c2",
+    "cocacola_2022:p41:c1",
+    "cocacola_2022:p42:c2"
+  ]
+}

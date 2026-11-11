@@ -434,8 +434,8 @@ with tab_hallucination:
             val = cl.get('value')
             txt = cl.get('claim_text', '')
             if val is not None:
-                nums_in_txt = re.findall(r'\d+(?:\.\d+)?', txt)
-                floats_in_txt = [float(n) for n in nums_in_txt]
+                nums_in_txt = re.findall(r'\d[\d,]*(?:\.\d+)?', txt)
+                floats_in_txt = [float(n.replace(',', '')) for n in nums_in_txt]
                 try:
                     v_float = float(val)
                     if any(abs(v_float - f) < 1e-4 for f in floats_in_txt):

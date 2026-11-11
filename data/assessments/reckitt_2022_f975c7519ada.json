@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Enfagrow Stage 3 Bag in Boxes ở Mexico đã được chuyển từ carton mạ kim loại sang carton không mạ kim loại có thể tái chế. Điều này cung cấp bằng chứng cho tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p36:c2",
+      "pdf_page": 36,
+      "quote": "In Mexico, we moved Enfagrow Stage 3 Bag in Boxes from metalised cartons to lighter, non-metalised cartons, which can now be recycled"
+    }
+  ],
+  "claim_id": "reckitt_2022_f975c7519ada",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4137,
+      "completion_tokens": 151,
+      "total_tokens": 4288,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.2,
+    "timestamp": "2026-11-11T09:30:51.953525+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "085fbf52f0063c691c1c637615680e832032876017c3464d063efc6868945a21",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p83:c1",
+    "reckitt_2022:p34:c2",
+    "reckitt_2022:p67:c1",
+    "reckitt_2022:p40:c2"
+  ]
+}

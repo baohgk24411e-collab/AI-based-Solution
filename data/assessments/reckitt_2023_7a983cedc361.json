@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy chúng đã đạt được 29.6% vào năm 2023, tăng từ 24.4% vào năm 2022.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p3:c1",
+      "pdf_page": 3,
+      "quote": "In 2023, we reached 29.6%, up from 24.4% in 2022."
+    }
+  ],
+  "claim_id": "reckitt_2023_7a983cedc361",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3942,
+      "completion_tokens": 114,
+      "total_tokens": 4056,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.03,
+    "timestamp": "2026-11-11T09:39:21.695500+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "40f3067bbef21a5a13c0933451887f74cf9f2551760675b4fab656f15e73bd29",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p3:c1",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p3:c2",
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p5:c1"
+  ]
+}

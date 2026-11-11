@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Procter & Gamble đang hỗ trợ các tổ chức như The Recycling Partnership và Closed Loop Partners để cải thiện khả năng thu gom và tái chế tại Hoa Kỳ. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p62:c1",
+      "pdf_page": 62,
+      "quote": "• Ongoing funding to The Recycling Partnership and Closed Loop Partners, who are helping improve recycling access and engagement to recycle more types of materials in the U.S."
+    }
+  ],
+  "claim_id": "pg_2023_f6251f24681c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3187,
+      "completion_tokens": 140,
+      "total_tokens": 3327,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.28,
+    "timestamp": "2026-11-11T09:10:06.289787+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "79a704ce066173c2a7356f6ed98df453be717e7317ebfa7a03879d90822f38af",
+  "retrieved_chunk_ids": [
+    "pg_2023:p62:c1",
+    "pg_2023:p63:c1",
+    "pg_2023:p20:c1",
+    "pg_2023:p11:c1",
+    "pg_2023:p13:c1"
+  ]
+}

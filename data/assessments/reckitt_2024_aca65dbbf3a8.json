@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc thiết kế bao bì để cải thiện khả năng tái chế và sử dụng chất thải tái chế (PCR), nhưng không cung cấp thông tin cụ thể về tỷ lệ tái chế của các loại bao bì nhựa mà công ty sản xuất.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p11:c2",
+      "pdf_page": 11,
+      "quote": "Plastics and packaging KPIs based on circular economy principles focusing on three KPIs for weight, % PCR content and recyclability Scope: Packaging that the consumer takes home"
+    }
+  ],
+  "claim_id": "reckitt_2024_aca65dbbf3a8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3866,
+      "completion_tokens": 150,
+      "total_tokens": 4016,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.06,
+    "timestamp": "2026-11-11T09:48:15.217427+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "dae84927c15531afdfb456177327d8ef6e8b4043ead4abe31cb53854fff54d31",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p11:c2",
+    "reckitt_2024:p11:c1",
+    "reckitt_2024:p20:c1",
+    "reckitt_2024:p21:c1",
+    "reckitt_2024:p19:c2"
+  ]
+}

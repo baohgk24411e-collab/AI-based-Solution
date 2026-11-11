@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc loại bỏ chất liệu mạ kim loại từ hộp carton trong năm tới.",
+  "flags": [
+    "缺少具体年份和实施细节"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p47:c1",
+      "pdf_page": 47,
+      "quote": "We’ll also look to remove metallised material from cartons so they can be more widely recycled."
+    }
+  ],
+  "claim_id": "reckitt_2021_86e048956a5f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4044,
+      "completion_tokens": 113,
+      "total_tokens": 4157,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.17,
+    "timestamp": "2026-11-11T09:22:20.935317+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "077bcfdb88d5844455a82d9accf734f2cd70d7417a9dad201b222ee1e78ee342",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p47:c1",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p43:c1"
+  ]
+}

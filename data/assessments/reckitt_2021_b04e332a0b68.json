@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về giảm lượng rác thải từ sản xuất theo phần trăm như tuyên bố.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p74:c2",
+      "pdf_page": 74,
+      "quote": "Aim 2021 25% reduction in waste from manufacturing 14% † reduction in waste per unit of production vs 2015"
+    }
+  ],
+  "claim_id": "reckitt_2021_b04e332a0b68",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4175,
+      "completion_tokens": 123,
+      "total_tokens": 4298,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.52,
+    "timestamp": "2026-11-11T09:22:55.371123+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "1d7307045baf7cd017785e6817ca642a204910d76801529fe9f03b355dd422fd",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p74:c2",
+    "reckitt_2021:p9:c1",
+    "reckitt_2021:p75:c1",
+    "reckitt_2021:p53:c1",
+    "reckitt_2021:p68:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu sử dụng 25% nội dung tái chế trong bao bì nhựa vào năm 2025 và các nỗ lực hiện tại, nhưng không cung cấp dữ liệu cụ thể về việc đạt được mục tiêu này.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p43:c1",
+      "pdf_page": 43,
+      "quote": "Our headline targets are to: • Use 50% less virgin plastic in our packaging by 2030 • Make 100% of our plastic packaging recyclable or reusable by 2025 • Use 25% recycled content in our plastic packaging by 2025"
+    }
+  ],
+  "claim_id": "reckitt_2021_c1a87059036d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3940,
+      "completion_tokens": 179,
+      "total_tokens": 4119,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.78,
+    "timestamp": "2026-11-11T09:23:49.523198+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "f306c0497626a77c7143462cbe2802c8c95b8d6391b81bbb92c045008a207853",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p81:c2",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p47:c1",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p46:c1"
+  ]
+}

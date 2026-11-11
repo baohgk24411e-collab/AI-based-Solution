@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc thêm PCR vào gần một phần tư bao bì Vanish, sử dụng hơn 750 tấn nhựa tái chế trong quá trình này. Điều này được xác nhận bởi đoạn văn: 'Adding PCR into almost a quarter of Vanish packs, using over 750 metric tonnes of recycled plastic in the process'.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "Adding PCR into almost a quarter of Vanish packs, using over 750 metric tonnes of recycled plastic in the process"
+    }
+  ],
+  "claim_id": "reckitt_2021_5a7bafd8a985",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3672,
+      "completion_tokens": 144,
+      "total_tokens": 3816,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.67,
+    "timestamp": "2026-11-11T09:21:09.478750+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "23652e4bc2fb4ad081fe17cb6a4f04c7c19fcb57cd2a2bc329307ea059717429",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p47:c1",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p47:c2"
+  ]
+}

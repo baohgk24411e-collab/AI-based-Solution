@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ chai nhựa tái sử dụng (primarily PET) trong năm 2019. Dữ liệu chỉ được cập nhật đến năm 2022.",
+  "flags": [
+    "数据不完整"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Refillable (primarily PET) plastic bottles 1.6% 1.5% 1.6% 1.5% 1.4%"
+    }
+  ],
+  "claim_id": "cocacola_2022_dc79100f9003",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4265,
+      "completion_tokens": 143,
+      "total_tokens": 4408,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.51,
+    "timestamp": "2026-11-11T09:05:56.689804+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "0370c8be1fe9880bf946fb579509630af4ab87f6f9d7ffd8a98ba7f720da4c6d",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p37:c2",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p81:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc giảm rác thải từ sản xuất và kho bãi 25% vào năm 2025 trong phần mục tiêu nhưng không cung cấp dữ liệu cụ thể về tiến trình thực hiện.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p77:c1",
+      "pdf_page": 77,
+      "quote": "We’re aiming to reduce waste from manufacturing and warehouses by 25% by 2025."
+    }
+  ],
+  "claim_id": "reckitt_2021_0e00852d63e8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3858,
+      "completion_tokens": 135,
+      "total_tokens": 3993,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.56,
+    "timestamp": "2026-11-11T09:23:41.722977+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "c519483365b08e3229c99742c69cd72cb4edf2ca42337f4de47f84f6d6349630",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p77:c1",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p74:c2",
+    "reckitt_2021:p66:c2"
+  ]
+}

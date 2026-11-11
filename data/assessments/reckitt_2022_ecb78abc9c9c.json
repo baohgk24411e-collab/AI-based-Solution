@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc giảm 7.3% nhựa nguyên sinh trong bao bì vào năm 2022 so với năm 2021, không cung cấp dữ liệu về năm 2020 để xác minh mục tiêu 50% vào năm 2030.",
+  "flags": [
+    "missing_2020_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p40:c3",
+      "pdf_page": 40,
+      "quote": "is to reduce virgin plastic in packaging by 50% by 2030 against a 2020 baseline. In 2022, we achieved a 7.3% reduction compared with 2021."
+    }
+  ],
+  "claim_id": "reckitt_2022_ecb78abc9c9c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3912,
+      "completion_tokens": 187,
+      "total_tokens": 4099,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.97,
+    "timestamp": "2026-11-11T09:28:09.328040+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "a539185653127620609fa21087097af61d6d8675726d31d3372a87758dde629b",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p4:c2",
+    "reckitt_2022:p7:c1",
+    "reckitt_2022:p39:c1",
+    "reckitt_2022:p4:c1",
+    "reckitt_2022:p40:c3"
+  ]
+}

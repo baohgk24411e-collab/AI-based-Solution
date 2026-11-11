@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy 'Our Global Waste Management Standard prioritises avoiding waste. Where this isn’t possible, we focus on reducing, reusing, recycling or reprocessing and minimising the impacts associated with waste treatment.' Đây là một phần của tuyên bố về cách tiếp cận quản lý rác thải toàn cầu của Reckitt.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c2",
+      "pdf_page": 42,
+      "quote": "Our Global Waste Management Standard prioritises avoiding waste. Where this isn’t possible, we focus on reducing, reusing, recycling or reprocessing and minimising the impacts associated with waste treatment."
+    }
+  ],
+  "claim_id": "reckitt_2024_a1ad907a9846",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3662,
+      "completion_tokens": 159,
+      "total_tokens": 3821,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.0,
+    "timestamp": "2026-11-11T09:54:56.680409+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "9f750b13160823b71d83d2384f1f374d8ad4729ed28984cbf0680efe273d56d8",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p39:c1",
+    "reckitt_2024:p40:c2",
+    "reckitt_2024:p39:c2"
+  ]
+}

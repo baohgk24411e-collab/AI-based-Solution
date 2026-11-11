@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã xác định rõ ràng rằng để báo cáo một sản phẩm là 'more sustainable', nó phải cải thiện đáng kể về các tác động của carbon, nước, nhựa, bao bì hoặc nguyên liệu so với sản phẩm thay thế. Điều này được thể hiện trong đoạn văn trên trang 39 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p39:c1",
+      "pdf_page": 39,
+      "quote": "For us to report a product as ‘more sustainable’, it must improve significantly on the carbon, water, plastics, packaging or ingredients impacts of the benchmark it’s replacing."
+    }
+  ],
+  "claim_id": "reckitt_2021_81247eaf3862",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3880,
+      "completion_tokens": 157,
+      "total_tokens": 4037,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.38,
+    "timestamp": "2026-11-11T09:16:09.502493+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "06b62ebeb4777f4ee0062fd13713893b209f7042a6daf61b4f3ec04f321b691e",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p39:c1",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p42:c1",
+    "reckitt_2021:p26:c1",
+    "reckitt_2021:p39:c2"
+  ]
+}

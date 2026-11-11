@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận mục tiêu tạo ra 50% doanh thu ròng từ các sản phẩm bền vững hơn vào năm 2030.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p37:c2",
+      "pdf_page": 37,
+      "quote": "Looking ahead We have a target to generate 50% of our net revenue from more sustainable products by 2030."
+    }
+  ],
+  "claim_id": "reckitt_2022_a5acdeaac246",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3862,
+      "completion_tokens": 116,
+      "total_tokens": 3978,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.08,
+    "timestamp": "2026-11-11T09:31:30.204045+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "8e3496da4c0d484e06d9a6199bef6a43bfc4b1e187f16c9268010016d2fbb9cf",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p37:c2",
+    "reckitt_2022:p35:c1",
+    "reckitt_2022:p37:c1",
+    "reckitt_2022:p4:c2",
+    "reckitt_2022:p55:c2"
+  ]
+}

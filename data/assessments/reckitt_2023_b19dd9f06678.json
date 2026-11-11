@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt đề cập đến việc GEC đã thảo luận về thách thức trong việc đạt được mục tiêu bao bì, bao gồm tỷ lệ 25% nội dung tái chế sau sử dụng (PCR) trong bao bì nhựa vào năm 2025.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p11:c1",
+      "pdf_page": 11,
+      "quote": "During 2023, the GEC discussed the following issues: Packaging The GEC discussed the challenges surrounding our ability to deliver our packaging targets, principally our goal to have 25% post-consumer recycled content (PCR) in our plastic packaging by 2025."
+    }
+  ],
+  "claim_id": "reckitt_2023_b19dd9f06678",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3640,
+      "completion_tokens": 176,
+      "total_tokens": 3816,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.47,
+    "timestamp": "2026-11-11T09:39:58.160782+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "318bb494ec4dd15c2d286004dfb0fcc39bf923f2cf44e37e7c843c1313d47c17",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p11:c1",
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p24:c2",
+    "reckitt_2023:p26:c2",
+    "reckitt_2023:p24:c1"
+  ]
+}

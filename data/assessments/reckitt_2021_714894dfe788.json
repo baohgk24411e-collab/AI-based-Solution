@@ -1,0 +1,42 @@
+{
+  "label": "not_yet_assessable",
+  "rationale": " CLAIM: 'Our new Polymer Science function in our global packaging team is exploring the next generation of plastics, and finding new methods of recycling, including dissolution and chemical recycling.'\n\nEVIDENCE: 2021 Raport trích dẫn về việc công ty đang tập trung vào ba ưu tiên chính: sử dụng ít nhựa và vật liệu bao bì hơn; sử dụng các vật liệu tốt hơn để tăng tính tái chế; và tích hợp nhiều nội dung tái chế. Tuy nhiên, không có thông tin cụ thể về việc công ty đã bắt đầu nghiên cứu hoặc phát triển các phương pháp tái chế mới như giải phóng hóa học.\n\nCLAIM: 'By 2025, all our plastic packaging will be recyclable and we’ll be using more materials like PCR.'\n\nEVIDENCE: Không có thông tin về việc công ty đã bắt đầu nghiên cứu hoặc phát triển các phương pháp tái chế mới như giải phóng hóa học vào năm 2021.\n",
+  "flags": [
+    "未来目标未具体实现"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p47:c2",
+      "pdf_page": 47,
+      "quote": "Our new Polymer Science function in our global packaging team is exploring the next generation of plastics, and finding new methods of recycling, including dissolution and chemical recycling."
+    }
+  ],
+  "claim_id": "reckitt_2021_714894dfe788",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3822,
+      "completion_tokens": 303,
+      "total_tokens": 4125,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 11.03,
+    "timestamp": "2026-11-11T09:22:14.727122+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "88f17105c5fd7122dfa61e9687372ae71e4bd23b55af443c5f44538dfc92f9d7",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p47:c2",
+    "reckitt_2021:p46:c1",
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p47:c1"
+  ]
+}

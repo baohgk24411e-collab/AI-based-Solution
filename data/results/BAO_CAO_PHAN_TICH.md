@@ -1,8 +1,8 @@
 # Kết quả phân tích 20 báo cáo PTBV
 
-Cập nhật (UTC): 2026-11-11T08:59:22.985613+00:00
+Cập nhật (UTC): 2026-11-11T16:17:53.070020+00:00
 
-Độ phủ hiện tại: 279/389 trang qua bộ lọc; 394 claim được chấp nhận; 294 đối chiếu hợp lệ; 100 claim chưa có đối chiếu hợp lệ.
+Độ phủ hiện tại: 388/389 trang qua bộ lọc; 631 claim được chấp nhận; 560 đối chiếu hợp lệ; 71 claim chưa có đối chiếu hợp lệ.
 
 Model/provider từng báo cáo có trong summary.csv. Metadata từng lần gọi gồm thời gian UTC, token và cache; bản ghi AI chưa được người đọc xác nhận.
 
@@ -20,18 +20,18 @@ Nhãn là nhận định AI cần người đọc kiểm tra. Supported chỉ l�
 | danone_2022 | 30/30 | 34 | 20 | 6 | 0 | 0 | 1 | 7 |
 | danone_2023 | 55/56 | 62 | 42 | 6 | 0 | 0 | 0 | 14 |
 | danone_2024 | 63/63 | 75 | 51 | 12 | 0 | 0 | 0 | 12 |
-| cocacola_2022 | 29/29 | 58 | 6 | 4 | 0 | 0 | 0 | 48 |
-| cocacola_2023 | 3/3 | 11 | 4 | 1 | 0 | 0 | 0 | 6 |
-| cocacola_2024 | 5/5 | 9 | 5 | 1 | 0 | 0 | 0 | 3 |
+| cocacola_2022 | 29/29 | 58 | 36 | 19 | 0 | 0 | 0 | 3 |
+| cocacola_2023 | 3/3 | 11 | 7 | 2 | 0 | 0 | 0 | 2 |
+| cocacola_2024 | 5/5 | 9 | 7 | 1 | 0 | 0 | 0 | 1 |
 | pg_2021 | 2/2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
 | pg_2022 | 4/4 | 16 | 11 | 5 | 0 | 0 | 0 | 0 |
-| pg_2023 | 0/10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| pg_2023 | 10/10 | 17 | 10 | 5 | 0 | 0 | 1 | 1 |
 | pg_2024 | 4/4 | 5 | 2 | 3 | 0 | 0 | 0 | 0 |
-| reckitt_2021 | 0/28 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| reckitt_2022 | 0/30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| reckitt_2023 | 0/24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| reckitt_2024 | 0/17 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| cocacola_2025 | 5/5 | 17 | 6 | 7 | 0 | 0 | 0 | 4 |
+| reckitt_2021 | 28/28 | 68 | 40 | 21 | 0 | 0 | 1 | 6 |
+| reckitt_2022 | 30/30 | 58 | 32 | 19 | 0 | 0 | 0 | 7 |
+| reckitt_2023 | 24/24 | 43 | 28 | 11 | 0 | 0 | 0 | 4 |
+| reckitt_2024 | 17/17 | 51 | 26 | 19 | 0 | 0 | 1 | 5 |
+| cocacola_2025 | 5/5 | 17 | 7 | 7 | 0 | 0 | 0 | 3 |
 
 ## Chi tiết cần rà soát
 
@@ -184,8 +184,8 @@ recyclable and compostable.
   Báo cáo xác nhận rằng Coca-Cola đã sử dụng 28% vật liệu tái chế trong bao bì tiêu dùng chính toàn cầu vào năm 2024.
 - PDF trang 6 — **supported**: 18% OF PET USED WAS RECYCLED PET (rPET) 4 IN 2024.
   Báo cáo cung cấp thông tin rằng 18% của PET sử dụng là PET tái chế (rPET) vào năm 2024, phù hợp với tuyên bố.
-- PDF trang 10 — **not_assessed**: Percent of the equivalent bottles and cans introduced into the market that were collected and refilled or collected for recycling1 • The Coca-Cola system 61% 62% 65%
-  
+- PDF trang 10 — **supported**: Percent of the equivalent bottles and cans introduced into the market that were collected and refilled or collected for recycling1 • The Coca-Cola system 61% 62% 65%
+  Báo cáo cung cấp dữ liệu chính xác về tỷ lệ bottles và cans được thu gom và tái chế hoặc tái sử dụng, phù hợp với tuyên bố của Coca-Cola.
 - PDF trang 10 — **supported**: Percent of recycled material2 used in global primary consumer packaging3 • The Coca-Cola system 25% 27% 28%
   Báo cáo cung cấp thông tin chính xác về tỷ lệ sử dụng vật liệu tái chế trong bao bì tiêu dùng chủ yếu toàn cầu là 28%, phù hợp với tuyên bố.
 
@@ -209,6 +209,16 @@ recyclable and compostable.
 
 ### pg_2023
 
+- PDF trang 2 — **supported**: We are increasing our use of recycled plastic resin while also decreasing our total use of plastic in packaging – less plastic overall and a higher proportion from recycled sources.
+  Báo cáo đề cập đến việc tăng sử dụng nhựa tái chế trong bao bì đồng thời giảm tổng lượng nhựa sử dụng - ít nhựa hơn và tỷ lệ từ nguồn tái chế cao hơn. Điều này tương ứng với tuyên bố của công ty.
+- PDF trang 53 — **insufficient_evidence**: This single component package used in China is 40% lighter and 75% less bulky than corrugated flat boxes. This innovative package is made with a recyclable polyethylene film while the multiple inflatable chambers give structural rigidity and puncture-surviving strength that helps secure the product during shipping.
+  Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ tái chế của màng polyethylene film được sử dụng trong bao bì đa thành phần. Chỉ có thông tin về trọng lượng và kích thước giảm so với hộp corrugated.
+- PDF trang 59 — **supported**: 100% of our consumer packaging will be designed to be recyclable or reusable
+  Báo cáo đề cập đến mục tiêu rằng 100% bao bì tiêu dùng sẽ được thiết kế để tái sử dụng hoặc tái chế. Mặc dù không cung cấp số liệu cụ thể về năm 2030, báo cáo xác nhận rằng công ty đã đạt được tiến bộ đáng kể trong việc thực hiện mục tiêu này.
+- PDF trang 59 — **not_assessed**: 78% of our consumer packaging is designed to be recyclable or reusable
+  
+- PDF trang 59 — **insufficient_evidence**: 14% of our resins (or about 101,000 metric tons) came from recycled sources in 2023.
+  Báo cáo không cung cấp thông tin cụ thể về lượng resin tái chế sử dụng trong năm 2023.
 
 ### pg_2024
 
@@ -227,15 +237,55 @@ Percent total resin from recycled sources 17% recycled resin
 
 ### reckitt_2021
 
+- PDF trang 14 — **supported**: More and more, consumers want packaging that’s sustainable, by which they mean packaging that uses less plastic and is recyclable.
+  Báo cáo của Reckitt xác nhận rằng ngày càng có nhiều người tiêu dùng muốn bao bì bền vững, nghĩa là sử dụng ít nhựa hơn và tái chế được. Điều này xuất hiện ở trang 14 của báo cáo.
+- PDF trang 14 — **supported**: We are reducing waste in our own operations, and it follows that we also don’t want to create waste when people use our products.
+  Báo cáo xác nhận rằng Reckitt đang giảm lượng rác thải trong hoạt động của mình và không muốn tạo ra rác thải khi người tiêu dùng sử dụng sản phẩm. Điều này được thể hiện qua việc công ty đã giành giải thưởng cho chai Gaviscon mới, đồng thời cũng đang tìm cách tái chế và tái sử dụng chất thải.
+- PDF trang 14 — **insufficient_evidence**: For example, in 2021, our team won the Glass Packaging of the Year prize at the UK Packaging Awards for the newly developed Gaviscon bottle. The pink shrink sleeve has been replaced with a spray coating that significantly improves sustainability by saving plastic – while also not losing that essential ‘stand-out’ factor on the shelf, which helps maintain brand equity.
+  Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế của bottle Gaviscon hay các bằng chứng về khả năng tái sử dụng và tái chế.
+- PDF trang 14 — **insufficient_evidence**: Even so, we’ve been able to use more recycled paper and cardboard.
+  Báo cáo không cung cấp thông tin cụ thể về lượng giấy và carton tái chế được sử dụng trong năm 2021.
+- PDF trang 14 — **not_assessed**: We are also continually looking at ways of reducing the amount of material we use in the first place.
+  
 
 ### reckitt_2022
 
+- PDF trang 4 — **supported**: 25% recycled content in our plastic packaging by 2025
+  Báo cáo đề cập đến mục tiêu sử dụng 25% nội dung tái chế trong bao bì nhựa vào năm 2025, trùng khớp với tuyên bố của công ty.
+- PDF trang 4 — **insufficient_evidence**: 50% reduction in amount of virgin plastic packaging by 2030 vs 2020
+  Báo cáo chỉ đề cập đến việc giảm 7.3% nhựa nguyên sinh trong bao bì vào năm 2022 so với năm 2021, không cung cấp dữ liệu về năm 2020 để xác minh mục tiêu 50% vào năm 2030.
+- PDF trang 5 — **supported**: By 2040, we aim to be net zero across our entire value chain.
+  Báo cáo của Reckitt đã xác nhận mục tiêu trở thành doanh nghiệp net zero trong toàn bộ chuỗi giá trị vào năm 2040.
+- PDF trang 5 — **not_assessed**: These are the pillars of our Sustainability Ambitions. We have set ourselves stretching targets. They include: generating 50% of our net revenue from more sustainable products, using 100% renewable electricity and cutting greenhouse gas emissions by 65% in our operations against a 2015 baseline, all by 2030.
+  
+- PDF trang 6 — **supported**: In 2022, we launched our first ever paper-based packaging for Finish, beginning with 1,200 Carrefour stores in France. This combines paper with 75% less plastic to make a fully recyclable, stand-up container.
+  Báo cáo cung cấp thông tin chi tiết về việc Reckitt đã ra mắt bao bì giấy cho Finish vào năm 2022 tại 1.200 cửa hàng Carrefour ở Pháp, với lượng nhựa giảm 75% so với bao bì hiện có.
 
 ### reckitt_2023
 
+- PDF trang 3 — **insufficient_evidence**: We are now targeting the carbon footprint of our products to have a similar impact.
+  Báo cáo không cung cấp thông tin cụ thể về mục tiêu giảm carbon footprint của sản phẩm trong năm 2023 hoặc các biện pháp thực hiện. Chỉ có một tuyên bố chung về việc hướng tới mục tiêu này.
+- PDF trang 3 — **supported**: We improved progress towards our goal of achieving 50% net revenue from more sustainable products. In 2023, we reached 29.6%, up from 24.4% in 2022.
+  Báo cáo cho thấy chúng đã đạt được 29.6% vào năm 2023, tăng từ 24.4% vào năm 2022.
+- PDF trang 5 — **not_assessed**: 50% reduction in amount of virgin plastic packaging by 2030
+  
+- PDF trang 5 — **supported**: 25% recycled content in our plastic packaging by 2025
+  Báo cáo đề cập đến mục tiêu 25% nội dung tái chế trong bao bì nhựa của công ty vào năm 2025. Các đoạn văn bản cung cấp thông tin này đều được trích dẫn từ trang 5, 24 và 29 của báo cáo.
+- PDF trang 5 — **supported**: 100% of packaging recyclable or reusable by 2025
+  Báo cáo đề cập đến mục tiêu 100% bao bì nhựa tái sử dụng hoặc tái chế vào năm 2025, trùng khớp với tuyên bố của công ty.
 
 ### reckitt_2024
 
+- PDF trang 11 — **insufficient_evidence**: Plastics and packaging KPIs based on circular economy principles focusing on three KPIs for weight, % PCR content and recyclability
+  Báo cáo chỉ đề cập đến việc thiết kế bao bì để cải thiện khả năng tái chế và sử dụng chất thải tái chế (PCR), nhưng không cung cấp thông tin cụ thể về tỷ lệ tái chế của các loại bao bì nhựa mà công ty sản xuất.
+- PDF trang 12 — **supported**: In Europe, we’ve increased PCR content in our pre-treatment trigger bottles to 75% and in our powder jars to 70%
+  Báo cáo cho biết PCR content trong các chai bơm tiền xử lý đã tăng lên 75% và trong các chai bột tinh thể là 70% tại châu Âu, phù hợp với tuyên bố của công ty.
+- PDF trang 12 — **insufficient_evidence**: We increased PCR content in our toilet bowl cleaners to 75% in Europe, 50% in India, and 30% in South Africa*
+  Báo cáo không cung cấp đủ thông tin về việc tăng nội dung PCR trong các sản phẩm vệ sinh bồn cầu tại các khu vực Europe, India và South Africa như tuyên bố. Các đoạn trích chỉ đề cập đến một số sản phẩm khác của công ty.
+- PDF trang 18 — **insufficient_evidence**: 100% of plastic packaging recyclable or reusable by 2025
+  Báo cáo chỉ đề cập đến mục tiêu 100% bao bì nhựa tái sử dụng hoặc tái chế vào năm 2025 nhưng không cung cấp thông tin cụ thể về tiến trình thực hiện. Không có dữ liệu về tỷ lệ tái chế hay tái sử dụng bao bì nhựa trong các năm trước.
+- PDF trang 18 — **insufficient_evidence**: 25% recycled content in our plastic packaging by 2025 On track
+  Dựa trên thông tin trong báo cáo, mục tiêu 25% nội dung tái chế trong bao bì nhựa của Reckitt dự kiến sẽ được đạt được vào năm 2025. Tuy nhiên, báo cáo chỉ đề cập rằng mục tiêu này đang tiến triển đúng kế hoạch nhưng không cung cấp số liệu cụ thể về tỷ lệ nội dung tái chế hiện tại hay kết quả thực tế trong năm 2024.
 
 ### cocacola_2025
 

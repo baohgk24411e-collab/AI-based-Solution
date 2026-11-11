@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho biết PCR content trong các chai bơm tiền xử lý đã tăng lên 75% và trong các chai bột tinh thể là 70% tại châu Âu, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p12:c2",
+      "pdf_page": 12,
+      "quote": "PCR content in our pre-treatment trigger bottles to 75% and in our powder jars to 70%"
+    }
+  ],
+  "claim_id": "reckitt_2024_ad879a052240",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3865,
+      "completion_tokens": 121,
+      "total_tokens": 3986,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.2,
+    "timestamp": "2026-11-11T09:48:21.437563+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "088774acce23465505fbece0c850d1b24f082aa2173b8ae079d50aa73ad675ce",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p12:c2",
+    "reckitt_2024:p12:c1",
+    "reckitt_2024:p23:c1",
+    "reckitt_2024:p22:c2",
+    "reckitt_2024:p22:c1"
+  ]
+}

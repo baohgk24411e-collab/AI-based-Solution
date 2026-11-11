@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã tham gia vào Business Coalition for a Global Plastics Treaty và International Council of Beverages Associations để hỗ trợ một thỏa thuận toàn cầu về nhựa, như được đề cập trong đoạn văn bản từ trang 22 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p22:c2",
+      "pdf_page": 22,
+      "quote": "• W e joined with the Business Coalition for a Global Plastics Treaty and the International Council of Beverages Associations in support of a UN Global Plastics Treaty."
+    }
+  ],
+  "claim_id": "cocacola_2022_1ffa83c63c1a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3571,
+      "completion_tokens": 128,
+      "total_tokens": 3699,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.34,
+    "timestamp": "2026-11-11T09:00:02.700320+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "a29b5ed3699e5ca3f527d6375040f56a8132ff79e575c3093c756147db6efa88",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p22:c2",
+    "cocacola_2022:p42:c1",
+    "cocacola_2022:p42:c4",
+    "cocacola_2022:p42:c2",
+    "cocacola_2022:p42:c3"
+  ]
+}

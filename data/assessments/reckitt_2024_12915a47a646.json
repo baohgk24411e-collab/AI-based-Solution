@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy trong năm 2023, Reckitt đã bao gồm 8% nội dung PCR (tăng từ 5% vào năm 2022) như kết quả của khoản đầu tư bổ sung này.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p23:c1",
+      "pdf_page": 23,
+      "quote": "In 2023, we included 8% PCR content (up from 5% in 2022) as a result of this additional investment."
+    }
+  ],
+  "claim_id": "reckitt_2024_12915a47a646",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4242,
+      "completion_tokens": 134,
+      "total_tokens": 4376,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.86,
+    "timestamp": "2026-11-11T09:52:00.940380+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "ecc3a169a242db2acf5cb133e55b45a8fd8d94655f13f49a2a6998325cf4bfd6",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p23:c1",
+    "reckitt_2024:p66:c1",
+    "reckitt_2024:p57:c1",
+    "reckitt_2024:p18:c2",
+    "reckitt_2024:p59:c1"
+  ]
+}

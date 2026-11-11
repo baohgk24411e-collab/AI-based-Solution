@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc tái chế và tái sử dụng chất xà phòng Dettol từ nhà máy Elandsfontein, bao gồm việc tạo ra chất xà phòng tái chế và tạo công ăn việc làm cho phụ nữ địa phương. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c2",
+      "pdf_page": 42,
+      "quote": "To support our zero waste to landfill and waste reduction commitments whilst also helping to address social challenges relating to health, hygiene and sanitation in South Africa, we initiated a social procurement initiative with Eco-Soap Bank. The partnership aims to deliver environmental and social benefits by: • Recycling residual Dettol soap waste from our Elandsfontein factory • Repurposing the residual soap into usable soap and creating jobs for disadvantaged women in the local community • Providing recycled soap to children via our Dettol Hygiene Quest programme"
+    }
+  ],
+  "claim_id": "reckitt_2024_7ab8e90380b7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3665,
+      "completion_tokens": 221,
+      "total_tokens": 3886,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.64,
+    "timestamp": "2026-11-11T09:54:43.507353+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "31f057b8bd8db8d1e97b307bd5e19535f132efda424b31d7460fdbce0944e1ab",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p39:c2",
+    "reckitt_2024:p41:c1",
+    "reckitt_2024:p41:c2"
+  ]
+}

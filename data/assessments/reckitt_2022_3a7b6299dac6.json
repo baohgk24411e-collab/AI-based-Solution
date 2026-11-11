@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Đoạn văn bản cung cấp thông tin rằng thiết kế sản phẩm là một yếu tố quan trọng trong việc đảm bảo tính bền vững của sản phẩm ở mọi giai đoạn chuỗi giá trị. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p34:c2",
+      "pdf_page": 34,
+      "quote": "Our designers are critical to this, as their decisions dictate how sustainable a product is at every stage of the value chain."
+    }
+  ],
+  "claim_id": "reckitt_2022_3a7b6299dac6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3622,
+      "completion_tokens": 120,
+      "total_tokens": 3742,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.97,
+    "timestamp": "2026-11-11T09:29:46.872606+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "676db7a5b8c29b3e2671c5c927ce64983b3a3168db8c9a9eb7fdc3e2d7eced83",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p34:c2",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p22:c1",
+    "reckitt_2022:p35:c1",
+    "reckitt_2022:p6:c2"
+  ]
+}

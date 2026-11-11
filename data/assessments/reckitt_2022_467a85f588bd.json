@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt đã xác nhận mục tiêu trở thành doanh nghiệp net zero trong toàn bộ chuỗi giá trị vào năm 2040.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p5:c1",
+      "pdf_page": 5,
+      "quote": "By 2040, we aim to be net zero across our entire value chain."
+    }
+  ],
+  "claim_id": "reckitt_2022_467a85f588bd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4359,
+      "completion_tokens": 98,
+      "total_tokens": 4457,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.08,
+    "timestamp": "2026-11-11T09:28:15.421474+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "25ed0791f74e14db592b5e2d499fdb3e3f0c9e64e537b27b636f0277419061ce",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p5:c1",
+    "reckitt_2022:p61:c2",
+    "reckitt_2022:p4:c2",
+    "reckitt_2022:p50:c1",
+    "reckitt_2022:p7:c1"
+  ]
+}

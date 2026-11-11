@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc giảm nhựa nguyên sinh trong bao bì từ năm 2020 đến năm 2030 với mục tiêu 50%, nhưng không cung cấp dữ liệu cụ thể về tiến trình thực hiện mục tiêu này.",
+  "flags": [
+    "missing_progress_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p28:c2",
+      "pdf_page": 28,
+      "quote": "We aim to reduce virgin plastic in packaging by 50% by 2030 versus 2020."
+    }
+  ],
+  "claim_id": "reckitt_2023_2808ce42d8b7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4110,
+      "completion_tokens": 145,
+      "total_tokens": 4255,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.06,
+    "timestamp": "2026-11-11T09:42:37.723787+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "49ebfb2983397e0475655f987c7aa50897ee053c4c51847fe703787169eac71c",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p14:c2",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p36:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin về tỷ lệ tái chế cho bottle và can làm từ nhôm và thép cụ thể như tuyên bố.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Percentage of bottles and cans we collected and refilled or collected for recycling 5 61% 59% 59% 59% 58% Percentage of bottles and cans we collected and refilled or collected for recycling 6 56% 60% 60% 61% 61%"
+    }
+  ],
+  "claim_id": "cocacola_2022_ff804074e06d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4535,
+      "completion_tokens": 163,
+      "total_tokens": 4698,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.23,
+    "timestamp": "2026-11-11T09:05:04.139115+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "825461297300598f4dfcc1f2c54e2d404b18214c49457b9878fbf251237028de",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p40:c2",
+    "cocacola_2022:p81:c1",
+    "cocacola_2022:p80:c1",
+    "cocacola_2022:p67:c2"
+  ]
+}

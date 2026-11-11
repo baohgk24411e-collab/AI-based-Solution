@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp số liệu cụ thể về tỷ lệ tái chế của bìa carton mà chỉ đề cập đến việc sử dụng nguồn giấy và bìa carton được chứng nhận hoặc tái chế. Không có thông tin về năm 2022.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p83:c1",
+      "pdf_page": 83,
+      "quote": "For the boxes we use to transport products, we also use the highest practical percentage of recycled cardboard."
+    }
+  ],
+  "claim_id": "reckitt_2022_d766df1bf6bf",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3936,
+      "completion_tokens": 136,
+      "total_tokens": 4072,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.64,
+    "timestamp": "2026-11-11T09:36:20.343647+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "3f84561f271f28d0c3720466af5709919829e9ad62225626348b48deae19a1d0",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p83:c1",
+    "reckitt_2022:p125:c1",
+    "reckitt_2022:p74:c1",
+    "reckitt_2022:p39:c1",
+    "reckitt_2022:p75:c1"
+  ]
+}

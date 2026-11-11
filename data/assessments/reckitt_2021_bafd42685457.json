@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt xác nhận rằng ngày càng có nhiều người tiêu dùng muốn bao bì bền vững, nghĩa là sử dụng ít nhựa hơn và tái chế được. Điều này xuất hiện ở trang 14 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p14:c1",
+      "pdf_page": 14,
+      "quote": "More and more, consumers want packaging that’s sustainable, by which they mean packaging that uses less plastic and is recyclable."
+    }
+  ],
+  "claim_id": "reckitt_2021_bafd42685457",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4038,
+      "completion_tokens": 129,
+      "total_tokens": 4167,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.89,
+    "timestamp": "2026-11-11T09:14:50.191449+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "a6c79133e63acfb1a093db023d5b48174e1662b15554341600ec162a4f1bed20",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p14:c1",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p43:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p44:c1"
+  ]
+}

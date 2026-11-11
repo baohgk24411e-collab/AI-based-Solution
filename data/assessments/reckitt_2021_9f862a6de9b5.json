@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc thêm các đường cắt và thông điệp trên bao bì sleeve để giúp người tiêu dùng loại bỏ chúng trước khi tái chế, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "And we’re adding perforations and messaging to bottle sleeves to help consumers remove them before recycling."
+    }
+  ],
+  "claim_id": "reckitt_2021_9f862a6de9b5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3805,
+      "completion_tokens": 123,
+      "total_tokens": 3928,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.2,
+    "timestamp": "2026-11-11T09:20:35.498607+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "d66794c4883f2acd9789947a2d2774b3a6af6c93a51ef70178afea8d36e46385",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p5:c1",
+    "reckitt_2021:p41:c2",
+    "reckitt_2021:p46:c1"
+  ]
+}

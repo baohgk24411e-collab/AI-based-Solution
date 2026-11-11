@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về tỷ lệ vật liệu tái chế được sử dụng trong bao bì PET của Coca-Cola toàn cầu. Chỉ có dữ liệu về tổng trọng lượng bao bì và tỷ lệ vật liệu tái chế trong bao bì PET, nhưng không xác định rõ ràng tỷ lệ này cho năm 2021.",
+  "flags": [
+    "数据不明确"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Percentage of recycled material used in our PET plastic packaging globally 9% 9.4% 11.5% 13.6% 15%"
+    }
+  ],
+  "claim_id": "cocacola_2022_d73a72129feb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4559,
+      "completion_tokens": 171,
+      "total_tokens": 4730,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.48,
+    "timestamp": "2026-11-11T09:04:17.192556+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "b948dad8aef5264b57125025a554ef3fca4823d5628ef40766fded15748b7b20",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p81:c1",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p7:c2"
+  ]
+}

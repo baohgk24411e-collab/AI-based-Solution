@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về việc Reckitt đã ra mắt bao bì giấy cho Finish vào năm 2022 tại 1.200 cửa hàng Carrefour ở Pháp, với lượng nhựa giảm 75% so với bao bì hiện có.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p6:c1",
+      "pdf_page": 6,
+      "quote": "In 2022, we launched our first ever paper-based packaging for Finish, beginning with 1,200 Carrefour stores in France. This combines paper with 75% less plastic to make a fully recyclable, stand-up container."
+    }
+  ],
+  "claim_id": "reckitt_2022_f45ad346b9f3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4134,
+      "completion_tokens": 169,
+      "total_tokens": 4303,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.72,
+    "timestamp": "2026-11-11T09:28:43.625517+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "a8abf6e0c586453e51287c29957249e0a49745ce061a6642e786f32b4105d30b",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p6:c1",
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p36:c1",
+    "reckitt_2022:p40:c1"
+  ]
+}

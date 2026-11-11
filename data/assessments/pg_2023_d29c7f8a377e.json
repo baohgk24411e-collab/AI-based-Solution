@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công trình đã đề cập đến việc đầu tư vào các giải pháp quy mô lớn trong các thị trường đang phát triển, bao gồm cả khu vực Đông Nam Á và Mỹ Latinh thông qua Circulate Capital’s Ocean Fund và Delterra. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p62:c1",
+      "pdf_page": 62,
+      "quote": "• Startup funding that includes the Southeast Asia and Latin America regions with developing infrastructure, through Circulate Capital’s Ocean Fund and Delterra."
+    }
+  ],
+  "claim_id": "pg_2023_d29c7f8a377e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2980,
+      "completion_tokens": 148,
+      "total_tokens": 3128,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.31,
+    "timestamp": "2026-11-11T09:10:12.614630+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "23e40db0e6c223753410caa260e53199c8df2cf1409f9b990100d0de864dd757",
+  "retrieved_chunk_ids": [
+    "pg_2023:p62:c1",
+    "pg_2023:p63:c1",
+    "pg_2023:p73:c1",
+    "pg_2023:p59:c1",
+    "pg_2023:p58:c1"
+  ]
+}

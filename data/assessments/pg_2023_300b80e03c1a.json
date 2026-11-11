@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về lượng resin tái chế sử dụng trong năm 2023.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p59:c1",
+      "pdf_page": 59,
+      "quote": "14% of our resins (or about 101,000 metric tons) came from recycled sources in 2023."
+    }
+  ],
+  "claim_id": "pg_2023_300b80e03c1a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3477,
+      "completion_tokens": 107,
+      "total_tokens": 3584,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.62,
+    "timestamp": "2026-11-11T09:09:31.030015+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "0b181913f5bbff5a5260c802758fa6cb104fd6fed6e01c6ad5a72f5b99d4a41c",
+  "retrieved_chunk_ids": [
+    "pg_2023:p59:c1",
+    "pg_2023:p49:c1",
+    "pg_2023:p64:c1",
+    "pg_2023:p2:c1",
+    "pg_2023:p61:c1"
+  ]
+}

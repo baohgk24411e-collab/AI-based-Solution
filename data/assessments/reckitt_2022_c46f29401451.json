@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp đủ thông tin về việc triển khai hoàn toàn sản phẩm sử dụng bao bì giấy và giảm lượng nhựa 2.000 tấn mỗi năm.",
+  "flags": [
+    "缺少具体实施时间"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p6:c1",
+      "pdf_page": 6,
+      "quote": "Once fully rolled out, this will help to eliminate 2,000 tonnes of plastic every year, equivalent to 50 million one-litre bottles."
+    }
+  ],
+  "claim_id": "reckitt_2022_c46f29401451",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4261,
+      "completion_tokens": 132,
+      "total_tokens": 4393,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.88,
+    "timestamp": "2026-11-11T09:28:50.515497+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "94cfd2176e40f2e29ddadeb508f8b0ee6d9dd61d3c6b4239f097dadc0e6579ac",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p6:c1",
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p113:c3"
+  ]
+}

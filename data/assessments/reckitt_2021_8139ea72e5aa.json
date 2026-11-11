@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc đạt được mục tiêu 99% nguồn gốc giấy và bìa từ các nguồn tái chế hoặc chứng nhận trước năm 2025, nhưng không cung cấp thông tin về mức độ tái chế thực tế hay tiến trình đạt được mục tiêu này.",
+  "flags": [
+    "缺少具体的数据支持"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p44:c1",
+      "pdf_page": 44,
+      "quote": "We aim to reach and maintain this before 2025."
+    }
+  ],
+  "claim_id": "reckitt_2021_8139ea72e5aa",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4248,
+      "completion_tokens": 137,
+      "total_tokens": 4385,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.08,
+    "timestamp": "2026-11-11T09:19:25.644978+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "7c9634d0a10c48af4170057020d7426af53ab0134d0a73a998a25baffc4a22b0",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p44:c1",
+    "reckitt_2021:p77:c1",
+    "reckitt_2021:p85:c1",
+    "reckitt_2021:p68:c1",
+    "reckitt_2021:p70:c1"
+  ]
+}

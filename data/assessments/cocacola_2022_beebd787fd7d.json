@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc tám thị trường châu Âu cung cấp sản phẩm địa phương hoàn toàn bằng rPET, nhưng không có thông tin về năm 2022. Không có dữ liệu cụ thể về tỷ lệ sử dụng rPET của các sản phẩm Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p38:c3",
+      "pdf_page": 38,
+      "quote": "• Eigh t markets in Europe ( Austria, Belgium, Iceland, Luxembourg, Netherlands, Norway, Sweden, Switzerland) offer their entire locally produced portfolios in 100% rPET."
+    }
+  ],
+  "claim_id": "cocacola_2022_beebd787fd7d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3607,
+      "completion_tokens": 145,
+      "total_tokens": 3752,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.83,
+    "timestamp": "2026-11-11T09:01:36.940194+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "cd9a09b0c0d98156ce2ebf5853440dceae5b0ce080f59b7a8e2bdc3d7dd674fc",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p38:c3",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p39:c1",
+    "cocacola_2022:p7:c2",
+    "cocacola_2022:p35:c3"
+  ]
+}

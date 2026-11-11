@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc 97% sợi giấy tái chế hoặc được chứng nhận thứ ba trong bao bì giấy của họ, nhưng không cung cấp thông tin về tỷ lệ giấy virgin FSC™ đã chứng nhận. Tỷ lệ 75% đã đạt được là một tuyên bố riêng biệt và không có bằng chứng trực tiếp hỗ trợ.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p72:c1",
+      "pdf_page": 72,
+      "quote": "Sourced 97% recycled or third-party certified wood fiber"
+    }
+  ],
+  "claim_id": "pg_2023_911a58e70648",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3371,
+      "completion_tokens": 134,
+      "total_tokens": 3505,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.19,
+    "timestamp": "2026-11-11T09:10:43.410137+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "c777f3ea7ceb2524201a67681a7a3b93ec02b96adfc11bfd61beae87ad7e5ab4",
+  "retrieved_chunk_ids": [
+    "pg_2023:p72:c1",
+    "pg_2023:p59:c1",
+    "pg_2023:p64:c1",
+    "pg_2023:p60:c1",
+    "pg_2023:p61:c1"
+  ]
+}

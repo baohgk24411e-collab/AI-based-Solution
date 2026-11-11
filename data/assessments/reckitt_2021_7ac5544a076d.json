@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã xác nhận họ đang thay đổi laminate đa lớp thành vật liệu đơn nguyên để tăng tính tái chế của bao bì, ví dụ như trong túi Finish dishwasher tab. Điều này được đề cập cụ thể trong đoạn văn bản.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "To make our packs easier to recycle, we’re swapping multi-layer laminates for mono-materials, for example in Finish dishwasher tab pouches."
+    }
+  ],
+  "claim_id": "reckitt_2021_7ac5544a076d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4011,
+      "completion_tokens": 123,
+      "total_tokens": 4134,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.34,
+    "timestamp": "2026-11-11T09:19:53.597841+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "7e325f4a88e4f84646e3a50271c2869de12139e221b54f4cc69fdf26c2187c1f",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p46:c1",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p38:c1"
+  ]
+}

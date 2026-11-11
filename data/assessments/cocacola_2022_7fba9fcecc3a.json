@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Costa Limited thực hiện một thí điểm 14 cửa hàng về chương trình ly tái sử dụng tại Scotland, hỗ trợ mục tiêu toàn cầu của Coca-Cola là 25% sản phẩm được phục vụ trong bao bì tái sử dụng hoặc có thể nạp lại vào năm 2030.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p37:c1",
+      "pdf_page": 37,
+      "quote": "In Scotland, Costa Limited (“Costa”) carried out a 14-store pilot of an on-the-go reusable cup scheme, which invited consumers to rent a cup by scanning a QR code before enjoying their drink and then returning the cup for it to be washed and reused. The effort supports Costa’s global goal for 25% of its drinks to be served in reusable or refillable packaging by 2030."
+    }
+  ],
+  "claim_id": "cocacola_2022_7fba9fcecc3a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4227,
+      "completion_tokens": 213,
+      "total_tokens": 4440,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.31,
+    "timestamp": "2026-11-11T09:00:26.035636+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "ebf3162075ede9f56bdfc49c80ea86d32aa6ec7161c45d73e4fa86bd68561c5f",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p37:c1",
+    "cocacola_2022:p37:c2",
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p15:c1",
+    "cocacola_2022:p9:c1"
+  ]
+}

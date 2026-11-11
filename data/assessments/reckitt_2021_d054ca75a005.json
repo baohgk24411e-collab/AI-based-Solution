@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc giảm carbon và nước trong sản phẩm Lysol Power Bathroom foamer ở Mỹ, nhưng không cung cấp số liệu cụ thể về mức độ giảm. Không có thông tin về năm nào hoặc liệu mục tiêu đã được đạt được hay chưa.",
+  "flags": [
+    "missing_target_year",
+    "missing_value"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p42:c2",
+      "pdf_page": 42,
+      "quote": "In the US, reformulating surfactants in Lysol Power Bathroom foamer, sold in a trigger bottle, delivered a reduction of over 8% in carbon impact and over 9% in water impact"
+    }
+  ],
+  "claim_id": "reckitt_2021_d054ca75a005",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3832,
+      "completion_tokens": 164,
+      "total_tokens": 3996,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.5,
+    "timestamp": "2026-11-11T09:18:07.793873+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "b4bc2d39cf913418ead43841130881484f9c351ba5217d9378c87e7f7ff73256",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p42:c2",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p51:c2",
+    "reckitt_2021:p45:c1"
+  ]
+}

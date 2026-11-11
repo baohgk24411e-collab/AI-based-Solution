@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về tỷ lệ tái chế của màng polyethylene film được sử dụng trong bao bì đa thành phần. Chỉ có thông tin về trọng lượng và kích thước giảm so với hộp corrugated.",
+  "flags": [
+    "缺少具体的数据支持"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p53:c1",
+      "pdf_page": 53,
+      "quote": "This single component package used in China is 40% lighter and 75% less bulky than corrugated flat boxes. This innovative package is made with a recyclable polyethylene film while the multiple inflatable chambers give structural rigidity and puncture-surviving strength that helps secure the product during shipping."
+    }
+  ],
+  "claim_id": "pg_2023_7e5338175c7b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2917,
+      "completion_tokens": 175,
+      "total_tokens": 3092,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.98,
+    "timestamp": "2026-11-11T09:08:47.357060+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "451eef9f11a280e86fab795a5bdfd96dc25bc83fff8bc2bdd26a9e92b01cf048",
+  "retrieved_chunk_ids": [
+    "pg_2023:p53:c1",
+    "pg_2023:p60:c1",
+    "pg_2023:p61:c1",
+    "pg_2023:p59:c1",
+    "pg_2023:p58:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Simply C Gummies đã giảm bao nhiêu carbon và nước so với sản phẩm hiện tại. Chỉ có thông tin chung về mục tiêu giảm thiểu tác động môi trường của công ty.",
+  "flags": [
+    "missing_specific_impact_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p42:c2",
+      "pdf_page": 42,
+      "quote": "Also in the US, Airborne launched Simply C Gummies. These provide the same immunity benefit as the current product but with reduced carbon and water impact due to ingredient changes"
+    }
+  ],
+  "claim_id": "reckitt_2021_fdf984afffb0",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3894,
+      "completion_tokens": 147,
+      "total_tokens": 4041,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.12,
+    "timestamp": "2026-11-11T09:18:14.933992+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "31e2f9dc292c494f936f3407ac237075ecc2bab540d7ce0a2461419931c4c674",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p42:c2",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p39:c1",
+    "reckitt_2021:p62:c2",
+    "reckitt_2021:p33:c1"
+  ]
+}

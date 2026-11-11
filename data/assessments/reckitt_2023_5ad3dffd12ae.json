@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về mục tiêu giảm carbon footprint của sản phẩm trong năm 2023 hoặc các biện pháp thực hiện. Chỉ có một tuyên bố chung về việc hướng tới mục tiêu này.",
+  "flags": [
+    "目标年份和具体措施缺失"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p3:c1",
+      "pdf_page": 3,
+      "quote": "We are now targeting the carbon footprint of our products to have a similar impact."
+    }
+  ],
+  "claim_id": "reckitt_2023_5ad3dffd12ae",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4061,
+      "completion_tokens": 127,
+      "total_tokens": 4188,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.67,
+    "timestamp": "2026-11-11T09:39:15.631795+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "ec58682be8903296d0a5cd4e3d4568bdac0769e71243bbf45661b079a1ef6b81",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p3:c1",
+    "reckitt_2023:p56:c1",
+    "reckitt_2023:p33:c2",
+    "reckitt_2023:p36:c1",
+    "reckitt_2023:p21:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy mục tiêu giảm 25% rác thải từ sản xuất (theo tấn sản phẩm) vào năm 2025 được đề cập rõ ràng.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p61:c1",
+      "pdf_page": 61,
+      "quote": "25% reduction in waste from manufacturing (per tonne of production) by 20251"
+    }
+  ],
+  "claim_id": "reckitt_2023_fb772ad4de7d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4101,
+      "completion_tokens": 108,
+      "total_tokens": 4209,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.08,
+    "timestamp": "2026-11-11T09:44:37.344285+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "ef28c65bb122589b24321ccfc7d5d23b4813f112db742035fdfadeac4bafe8f3",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p5:c1",
+    "reckitt_2023:p61:c1",
+    "reckitt_2023:p38:c2",
+    "reckitt_2023:p56:c1",
+    "reckitt_2023:p32:c1"
+  ]
+}

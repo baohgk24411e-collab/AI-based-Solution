@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy P&G là một đối tác sáng lập của Alliance to End Plastic Waste, một tổ chức với hơn 70 công ty toàn cầu đang hợp tác để thúc đẩy các mô hình giải pháp có thể tái tạo quy mô lớn nhằm tăng cường thu gom và tái chế rác thải nhựa, ngăn chặn chúng vào môi trường.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p63:c1",
+      "pdf_page": 63,
+      "quote": "P&G is also a founding partner of the Alliance to End Plastic Waste, an organization with over 70 global companies working together to catalyze solution models that are replicable at scale for increasing collection and recycling of plastic waste to prevent it from entering the environment."
+    }
+  ],
+  "claim_id": "pg_2023_3a78b5798aee",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3073,
+      "completion_tokens": 180,
+      "total_tokens": 3253,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.25,
+    "timestamp": "2026-11-11T09:10:25.828290+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "739c0aa9853d161a924a2bca888e40eac69917e504d5daa29b6dd37002d898d0",
+  "retrieved_chunk_ids": [
+    "pg_2023:p63:c1",
+    "pg_2023:p62:c1",
+    "pg_2023:p60:c1",
+    "pg_2023:p59:c1",
+    "pg_2023:p73:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về lượng nước sử dụng trong sản xuất và sự tăng trưởng này so với năm trước.",
+  "flags": [
+    "缺少具体数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p40:c2",
+      "pdf_page": 40,
+      "quote": "From 2020, amid the COVID-19 pandemic, we’ve seen a sharp increase in production volumes for disinfectant products and anti-bacterials, like hand sanitiser, that use a significant amount of water."
+    }
+  ],
+  "claim_id": "reckitt_2021_bc2a07fa2481",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3582,
+      "completion_tokens": 137,
+      "total_tokens": 3719,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.55,
+    "timestamp": "2026-11-11T09:16:49.352695+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "a9da4d60466cfe589583800fe1ecd9317230e4bbce4e9fc484c18458c7d8c9da",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p40:c2",
+    "reckitt_2021:p51:c2",
+    "reckitt_2021:p68:c1",
+    "reckitt_2021:p15:c1",
+    "reckitt_2021:p101:c1"
+  ]
+}

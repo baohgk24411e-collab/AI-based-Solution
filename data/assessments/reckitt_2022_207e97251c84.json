@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng đổi mới bền vững có thể làm cho sản phẩm của chúng tôi trở nên linh hoạt hơn bằng cách tìm kiếm thay thế cho hóa chất có thể bị quản lý hoặc giảm tác động như phát thải carbon, điều này có thể dẫn đến tăng chi phí trong tương lai. Nó cũng tạo ra cơ hội tăng trưởng, cho phép chúng tôi giành được thị phần hoặc thậm chí tạo ra các lớp sản phẩm mới.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p34:c2",
+      "pdf_page": 34,
+      "quote": "Sustainable innovation can make our products more resilient by finding alternatives to chemicals that could be regulated, or by reducing impacts, like carbon emissions, that may incur higher costs in the future. It also presents growth opportunities, allowing us to gain market share or even create new classes of product."
+    }
+  ],
+  "claim_id": "reckitt_2022_207e97251c84",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3913,
+      "completion_tokens": 202,
+      "total_tokens": 4115,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.39,
+    "timestamp": "2026-11-11T09:29:40.889486+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "8dfec8e810af30deb884fc57b15c412d41c78fbf5a24e32bc5d7a4df1706a89d",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p34:c2",
+    "reckitt_2022:p45:c2",
+    "reckitt_2022:p6:c1",
+    "reckitt_2022:p30:c2",
+    "reckitt_2022:p47:c2"
+  ]
+}

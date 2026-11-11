@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy tất cả các cơ sở sản xuất của Reckitt đều đã đạt và duy trì chứng nhận ISO 14001 về quản lý môi trường. Điều này được đề cập trong đoạn văn trên trang 42.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c1",
+      "pdf_page": 42,
+      "quote": "Our manufacturing sites are subject to ISO 14001 environmental certification."
+    }
+  ],
+  "claim_id": "reckitt_2024_7483bc097ce8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3864,
+      "completion_tokens": 115,
+      "total_tokens": 3979,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.02,
+    "timestamp": "2026-11-11T09:54:09.706793+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "4b9f94b75d8492b12f8ede2df2a209cf7814d072f58d26b3b07ef4208c12bdab",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p6:c2",
+    "reckitt_2024:p39:c1",
+    "reckitt_2024:p39:c2",
+    "reckitt_2024:p62:c1"
+  ]
+}

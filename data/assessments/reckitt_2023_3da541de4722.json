@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt đề cập đến việc sử dụng chất liệu tái chế và tối ưu hóa thiết kế bao bì để tăng tính tái chế. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p26:c1",
+      "pdf_page": 26,
+      "quote": "Reckitt Sustainability Report 2023 Using more recyclable materials We aim to incorporate recycled content where possible and design our packs to maximise recyclability."
+    }
+  ],
+  "claim_id": "reckitt_2023_3da541de4722",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3919,
+      "completion_tokens": 124,
+      "total_tokens": 4043,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.3,
+    "timestamp": "2026-11-11T09:41:52.652376+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "1984c96e5f03bc3d771b33c232923f16a9b1b3496dc929a1ad1656484b504b46",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p26:c1",
+    "reckitt_2023:p29:c1",
+    "reckitt_2023:p26:c2",
+    "reckitt_2023:p29:c2",
+    "reckitt_2023:p28:c2"
+  ]
+}

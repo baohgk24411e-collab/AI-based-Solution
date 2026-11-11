@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Dựa trên thông tin trong báo cáo, mục tiêu 25% nội dung tái chế trong bao bì nhựa của Reckitt dự kiến sẽ được đạt được vào năm 2025. Tuy nhiên, báo cáo chỉ đề cập rằng mục tiêu này đang tiến triển đúng kế hoạch nhưng không cung cấp số liệu cụ thể về tỷ lệ nội dung tái chế hiện tại hay kết quả thực tế trong năm 2024.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p18:c2",
+      "pdf_page": 18,
+      "quote": "25% recycled content in our plastic packaging by 2025 On track"
+    }
+  ],
+  "claim_id": "reckitt_2024_1dd70b8b76f7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3727,
+      "completion_tokens": 169,
+      "total_tokens": 3896,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.31,
+    "timestamp": "2026-11-11T09:48:42.742373+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "b052b67605b9bf0c9bb0eade5cb19c6dd0fd4d5d8c9277540661464d1216d39e",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p18:c2",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p23:c1",
+    "reckitt_2024:p23:c2",
+    "reckitt_2024:p29:c1"
+  ]
+}

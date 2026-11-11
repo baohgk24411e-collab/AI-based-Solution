@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế của bao bì trong năm 2023 và 2022.",
+  "flags": [
+    "missing_details"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p22:c1",
+      "pdf_page": 22,
+      "quote": "We reached 78.2% in 2023 (versus 76.4% in 2022)."
+    }
+  ],
+  "claim_id": "reckitt_2024_5915568844e9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4151,
+      "completion_tokens": 124,
+      "total_tokens": 4275,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.56,
+    "timestamp": "2026-11-11T09:51:19.309583+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "169fdb3e7ad98b966ec6f7bffdf00843857e5dc75a1a657a74c1d8b06a3a76f3",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p22:c1",
+    "reckitt_2024:p66:c1",
+    "reckitt_2024:p58:c1",
+    "reckitt_2024:p23:c1",
+    "reckitt_2024:p61:c1"
+  ]
+}

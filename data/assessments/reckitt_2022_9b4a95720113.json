@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Reckitt đang nghiên cứu và phát triển các loại nhựa mới và vật liệu, cũng như khám phá các phương pháp tái chế nâng cao để tăng cường khả năng tái chế. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c2",
+      "pdf_page": 42,
+      "quote": "Through R&D, science and partnerships, we’re exploring the next generation of plastics and materials, investigating advanced recycling methods to enable more material to be recycled, with better quality outputs, and assessing technologies and processes which can make an impact in the manufacture of our packaging."
+    }
+  ],
+  "claim_id": "reckitt_2022_9b4a95720113",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3805,
+      "completion_tokens": 177,
+      "total_tokens": 3982,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.61,
+    "timestamp": "2026-11-11T09:33:47.487742+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "47b4f47c3008ce0b5cf72abc323c8ed9345a78c1fec8046a4d10a3fb4ef2e40f",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p72:c2",
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p41:c2",
+    "reckitt_2022:p58:c1"
+  ]
+}

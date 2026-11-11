@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc giảm lượng nhựa trong gói gọn tổng thể của sản phẩm Air Wick Essential Mist từ 24% đến 26%, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p41:c1",
+      "pdf_page": 41,
+      "quote": "We’ve reduced the weight of the device by 24% as well as achieving a 26% plastic reduction in the overall starter kit."
+    }
+  ],
+  "claim_id": "reckitt_2021_354f9bf3f9a7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3836,
+      "completion_tokens": 132,
+      "total_tokens": 3968,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.64,
+    "timestamp": "2026-11-11T09:16:56.003125+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "b95807beb36a2d8a78a3d2b0496d7396aeb2c301ae27837427308c6e26f59134",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p43:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p46:c1"
+  ]
+}

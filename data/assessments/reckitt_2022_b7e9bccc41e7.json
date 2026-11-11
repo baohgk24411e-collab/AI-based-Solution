@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt có mục tiêu giảm sử dụng nhựa nguyên sinh bằng 50% vào năm 2030.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c2",
+      "pdf_page": 42,
+      "quote": "By 2025, we’ll be using more materials like PCR, and we’ll be on our way to reducing our use of virgin plastic by 50% by 2030."
+    }
+  ],
+  "claim_id": "reckitt_2022_b7e9bccc41e7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4094,
+      "completion_tokens": 120,
+      "total_tokens": 4214,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.36,
+    "timestamp": "2026-11-11T09:33:39.856124+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "62e2c1cd309718ec39ab7f1d8f4dbc36f9fea615c91d7f7e349fd25e675828c2",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p4:c2"
+  ]
+}

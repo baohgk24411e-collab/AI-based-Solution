@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Công ty đã xác nhận rằng tiến trình đạt được mục tiêu về nhựa và bao bì chậm hơn so với mong đợi khi các mục tiêu này lần đầu tiên được đặt ra. Điều này tương đồng với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p19:c2",
+      "pdf_page": 19,
+      "quote": "We continually monitor the plastics landscape which is complex and evolving, and industry progress has been slower than hoped when our targets were first set."
+    }
+  ],
+  "claim_id": "reckitt_2024_480c3f664396",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4009,
+      "completion_tokens": 129,
+      "total_tokens": 4138,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.55,
+    "timestamp": "2026-11-11T09:49:33.443006+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "9327bbd5c0f8d8ece58b15c157b6c9d2b39bb4216a26f0d1085ff841f685a0b1",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p19:c2",
+    "reckitt_2024:p34:c1",
+    "reckitt_2024:p22:c1",
+    "reckitt_2024:p18:c1",
+    "reckitt_2024:p21:c2"
+  ]
+}

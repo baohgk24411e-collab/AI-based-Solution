@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Finish Power Gel tại EU đã được sử dụng chai nhựa chứa 35% PCR và có lỗ thủng để dễ dàng xử lý. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "Giving Finish Power Gel in the EU a 35% PCR bottle with sleeve perforation for easy disposal"
+    }
+  ],
+  "claim_id": "reckitt_2021_853b529eb156",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3806,
+      "completion_tokens": 129,
+      "total_tokens": 3935,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.38,
+    "timestamp": "2026-11-11T09:20:56.785818+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "b2daca87ee85c82e34e4102a8f5c65625891e3370de96406bbba76b47ed42394",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p41:c2",
+    "reckitt_2021:p42:c2",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p46:c1"
+  ]
+}

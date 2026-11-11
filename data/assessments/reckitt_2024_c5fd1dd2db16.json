@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đã đạt được mục tiêu zero waste to landfill tại tất cả các nhà máy của mình và đã triển khai một số hoạt động tái chế và tái sử dụng, bao gồm việc hợp tác với Eco-Soap Bank để tái chế rác thải từ xà phòng Dettol.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c2",
+      "pdf_page": 42,
+      "quote": "To support our zero waste to landfill and waste reduction commitments whilst also helping to address social challenges relating to health, hygiene and sanitation in South Africa, we initiated a social procurement initiative with Eco-Soap Bank."
+    }
+  ],
+  "claim_id": "reckitt_2024_c5fd1dd2db16",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3647,
+      "completion_tokens": 162,
+      "total_tokens": 3809,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.06,
+    "timestamp": "2026-11-11T09:54:34.866081+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "78e65f206bc721db9bf54c75bb55f20613c9ef5757044a9942ba71e7589d826b",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p24:c1",
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p38:c1",
+    "reckitt_2024:p41:c1"
+  ]
+}

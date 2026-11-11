@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Calculator now encourages doing more than simply avoiding ingredients on our Restricted Substances List, thay vào đó, it gives higher scores for using ingredients that are from circular feedstocks, that biodegrade better and that have a lower hazardous chemical footprint. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p39:c1",
+      "pdf_page": 39,
+      "quote": "The calculator now encourages doing more than simply avoiding ingredients on our Restricted Substances List. Instead, it gives higher scores for using ingredients that are from circular feedstocks, that biodegrade better and that have a lower hazardous chemical footprint."
+    }
+  ],
+  "claim_id": "reckitt_2021_f1571fc732cc",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3916,
+      "completion_tokens": 166,
+      "total_tokens": 4082,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.62,
+    "timestamp": "2026-11-11T09:16:17.157690+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "4a62ba17d7495cd326e2d5906a3e46eadb843591dedfaa713448b05183e9666b",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p39:c1",
+    "reckitt_2021:p32:c2",
+    "reckitt_2021:p39:c2",
+    "reckitt_2021:p35:c2",
+    "reckitt_2021:p34:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đang giảm lượng rác thải trong hoạt động của mình và không muốn tạo ra rác thải khi người tiêu dùng sử dụng sản phẩm. Điều này được thể hiện qua việc công ty đã giành giải thưởng cho chai Gaviscon mới, đồng thời cũng đang tìm cách tái chế và tái sử dụng chất thải.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p14:c2",
+      "pdf_page": 14,
+      "quote": "We are reducing waste in our own operations, and it follows that we also don’t want to create waste when people use our products."
+    }
+  ],
+  "claim_id": "reckitt_2021_5197359a75c8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4049,
+      "completion_tokens": 155,
+      "total_tokens": 4204,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.52,
+    "timestamp": "2026-11-11T09:14:57.732314+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "b08889586d0c853fecee5e203b782958f46ce07fc94e71ab6f1f3c2db5fcadc5",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p14:c2",
+    "reckitt_2021:p14:c1",
+    "reckitt_2021:p48:c1",
+    "reckitt_2021:p74:c1",
+    "reckitt_2021:p50:c2"
+  ]
+}

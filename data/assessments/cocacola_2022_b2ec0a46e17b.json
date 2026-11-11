@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế của túi (pouches) theo năm như tuyên bố. Chỉ có dữ liệu tổng thể về tỷ lệ tái chế của các loại bao bì được đề cập.",
+  "flags": [
+    "数据不一致"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p76:c2",
+      "pdf_page": 76,
+      "quote": "Pouches 0.6% 0.5% 0.4% 0.4% 0.5%"
+    }
+  ],
+  "claim_id": "cocacola_2022_b2ec0a46e17b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4659,
+      "completion_tokens": 141,
+      "total_tokens": 4800,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.77,
+    "timestamp": "2026-11-11T09:06:04.454757+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "4b7f2afaae9570aefe45a0ac19484a701dd78c145088f5300ce958d75ca093f9",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p76:c2",
+    "cocacola_2022:p81:c1",
+    "cocacola_2022:p11:c1",
+    "cocacola_2022:p57:c1",
+    "cocacola_2022:p40:c2"
+  ]
+}

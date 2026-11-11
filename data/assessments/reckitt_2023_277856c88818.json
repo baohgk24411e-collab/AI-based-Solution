@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng plastic mềm chiếm khoảng 15% tổng lượng plastic trong bao bì của công ty, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p25:c2",
+      "pdf_page": 25,
+      "quote": "Flexible plastic makes up around 15% of our plastic footprint, for products such as dishwasher tablet pouches and wipes packaging."
+    }
+  ],
+  "claim_id": "reckitt_2023_277856c88818",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4022,
+      "completion_tokens": 108,
+      "total_tokens": 4130,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.0,
+    "timestamp": "2026-11-11T09:41:40.192159+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "228fbc322f03c612f92d99c25052e9083bd373ccb4c9ea96a76c9ec36faae755",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p25:c2",
+    "reckitt_2023:p33:c2",
+    "reckitt_2023:p28:c1",
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p45:c1"
+  ]
+}

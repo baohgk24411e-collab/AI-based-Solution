@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2022, 53% của giấy và bìa được sử dụng từ nguồn tái chế. Chunk_id: reckitt_2022:p83:c1, pdf_page: 83.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p83:c1",
+      "pdf_page": 83,
+      "quote": "Of the paper and board, 14% was from virgin sources, 53% from recycled sources and 33% from mixed sources."
+    }
+  ],
+  "claim_id": "reckitt_2022_45101228230c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4282,
+      "completion_tokens": 142,
+      "total_tokens": 4424,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.11,
+    "timestamp": "2026-11-11T09:36:13.692748+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "317e26508fed5e900701efc03ce870641ce591909a4afec4385ee6e141b43a93",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p83:c1",
+    "reckitt_2022:p39:c1",
+    "reckitt_2022:p74:c1",
+    "reckitt_2022:p41:c1",
+    "reckitt_2022:p42:c1"
+  ]
+}

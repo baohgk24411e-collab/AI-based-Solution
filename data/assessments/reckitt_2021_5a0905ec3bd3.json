@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đang chuẩn bị một dự án sẽ ra mắt vào năm 2022, bao gồm 75% nhựa tái chế trong 22 triệu chai xịt Cillit Bang được sản xuất mỗi năm. Quotation: \"• Preparing a project that will launch in 2022, incorporating 75% recycled plastic into the 22 million spray bottles Cillit Bang produces each year\"",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p45:c1",
+      "pdf_page": 45,
+      "quote": "• Preparing a project that will launch in 2022, incorporating 75% recycled plastic into the 22 million spray bottles Cillit Bang produces each year"
+    }
+  ],
+  "claim_id": "reckitt_2021_5a0905ec3bd3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3777,
+      "completion_tokens": 202,
+      "total_tokens": 3979,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.27,
+    "timestamp": "2026-11-11T09:20:50.384105+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "2a14cf736dd0e5b229624fcd76c75167c4a9d841156d9b56953ae7974240801b",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p14:c2",
+    "reckitt_2021:p43:c2"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Reckitt đang làm nhỏ hơn, mỏng hơn và nhẹ hơn các thành phần để giảm lượng nhựa sử dụng, đồng thời giảm không gian trống trong bao bì. Điều này tương thích với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p26:c1",
+      "pdf_page": 26,
+      "quote": "We’re using less plastic by making components smaller, thinner and lighter, and reducing the spare space in our packs."
+    }
+  ],
+  "claim_id": "reckitt_2023_723185a9a9ee",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3980,
+      "completion_tokens": 131,
+      "total_tokens": 4111,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.55,
+    "timestamp": "2026-11-11T09:42:07.272382+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "7831d7fb4a4dc9c7d2d28c60b78ff2eae71799b94fbc5ceee954350b8a72b678",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p26:c1",
+    "reckitt_2023:p26:c2",
+    "reckitt_2023:p28:c2",
+    "reckitt_2023:p62:c1",
+    "reckitt_2023:p56:c1"
+  ]
+}

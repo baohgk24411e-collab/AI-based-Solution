@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp dữ liệu về tỷ lệ vật liệu tái chế được sử dụng trong bao bì tiêu dùng toàn cầu là 22%, 25% và 27% cho các năm 2021, 2022 và 2023. Điều này phù hợp với tuyên bố của Coca-Cola.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2023:p9:c1",
+      "pdf_page": 9,
+      "quote": "Percent of recycled material used in select global primary consumer packaging 22% 25% 27%"
+    }
+  ],
+  "claim_id": "cocacola_2023_449d1d9b540c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4029,
+      "completion_tokens": 162,
+      "total_tokens": 4191,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.67,
+    "timestamp": "2026-11-11T09:06:50.350372+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2023",
+  "fingerprint": "858deb8eef883455de406ffb9b9da212549cfed5b0de45caaf153d80adf7c578",
+  "retrieved_chunk_ids": [
+    "cocacola_2023:p9:c1",
+    "cocacola_2023:p5:c2",
+    "cocacola_2023:p9:c2",
+    "cocacola_2023:p5:c1",
+    "cocacola_2023:p3:c1"
+  ]
+}

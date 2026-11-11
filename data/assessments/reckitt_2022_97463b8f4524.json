@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng R&D của Reckitt áp dụng nguyên tắc hóa học xanh để tìm kiếm các thành phần tự nhiên hoặc phát triển nhựa nhẹ hơn (‘Sustainable innovation includes R&D specialists applying green chemistry principles (see our Product Stewardship Insight) to find more natural ingredients or developing lighter plastics.’).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p34:c2",
+      "pdf_page": 34,
+      "quote": "Sustainable innovation includes R&D specialists applying green chemistry principles (see our Product Stewardship Insight) to find more natural ingredients or developing lighter plastics."
+    }
+  ],
+  "claim_id": "reckitt_2022_97463b8f4524",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3178,
+      "completion_tokens": 154,
+      "total_tokens": 3332,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.41,
+    "timestamp": "2026-11-11T09:29:53.308335+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "755df79f8f5afa3484620870a495025baa3384db914b4eeb651eaacfcb75afd2",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p34:c2",
+    "reckitt_2022:p124:c2",
+    "reckitt_2022:p72:c3",
+    "reckitt_2022:p28:c2",
+    "reckitt_2022:p35:c2"
+  ]
+}

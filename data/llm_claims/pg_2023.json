@@ -1,0 +1,561 @@
+{
+  "claims": [
+    {
+      "claim_text": "We are increasing our use of recycled plastic resin while also decreasing our total use of plastic in packaging – less plastic overall and a higher proportion from recycled sources.",
+      "source_page": 2,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_147639d67c0b",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "This single component package used in China is 40% lighter and 75% less bulky than corrugated flat boxes. This innovative package is made with a recyclable polyethylene film while the multiple inflatable chambers give structural rigidity and puncture-surviving strength that helps secure the product during shipping.",
+      "source_page": 53,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "polyethylene film",
+      "unit": "%",
+      "measurement_year": 2022,
+      "target_year": null,
+      "value": 40,
+      "claim_id": "pg_2023_7e5338175c7b",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "100% of our consumer packaging will be designed to be recyclable or reusable",
+      "source_page": 59,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "pg_2023_e97c3ffa0ae1",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "78% of our consumer packaging is designed to be recyclable or reusable",
+      "source_page": 59,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 78,
+      "claim_id": "pg_2023_a1541ef289a7",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "14% of our resins (or about 101,000 metric tons) came from recycled sources in 2023.",
+      "source_page": 59,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "resins",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 14,
+      "claim_id": "pg_2023_300b80e03c1a",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Our Ariel laundry capsules sold in Europe feature patent-pending cardboard packaging which is made with FSC certified materials and a minimum of 70% recycled fibers.",
+      "source_page": 60,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "cardboard",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": 70,
+      "claim_id": "pg_2023_34fb8472cb62",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "The package is fully recyclable in municipal paper collection streams and can help reduce plastic waste.",
+      "source_page": 60,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "cardboard",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_07c729f38d7f",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "With the launch of these cardboard boxes on premium refillable razors and cartridges, we estimate to have eliminated a total of 4,680 metric tons of plastic globally over the past three years. This is equivalent to over 170 million water bottles.",
+      "source_page": 61,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "metric tons",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 4680,
+      "claim_id": "pg_2023_e6beb1a3f96a",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "DESIGN: We’re designing consumer packing to be recycled and sourcing recycled materials for use in our designs to enable circularity.",
+      "source_page": 62,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_7c1bfef36187",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We’re partnering to enable more people to have equitable access to recycling collection systems.",
+      "source_page": 62,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_d5fe1cac5ea7",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "• Ongoing funding to The Recycling Partnership and Closed Loop Partners, who are helping improve recycling access and engagement to recycle more types of materials in the U.S.",
+      "source_page": 62,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_f6251f24681c",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "• Startup funding that includes the Southeast Asia and Latin America regions with developing infrastructure, through Circulate Capital’s Ocean Fund and Delterra. The Alliance to End Plastic Waste is also helping advance a circular economy in developing markets and other regions worldwide.",
+      "source_page": 62,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_d29c7f8a377e",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "We’ll continue to drive collective progress for systemic transformation in how the world makes, uses and renews items.",
+      "source_page": 63,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_ac4524736ee3",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "P&G is also a founding partner of the Alliance to End Plastic Waste, an organization with over 70 global companies working together to catalyze solution models that are replicable at scale for increasing collection and recycling of plastic waste to prevent it from entering the environment.",
+      "source_page": 63,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "pg_2023_3a78b5798aee",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "100% of our paper packaging is either recycled or third-party certified virgin content",
+      "source_page": 72,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "paper packaging",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": 100,
+      "claim_id": "pg_2023_c5dcd9cd5dfe",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Sourced 97% recycled or third-party certified wood fiber",
+      "source_page": 72,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "wood pulp",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": 97,
+      "claim_id": "pg_2023_7b618733df45",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "50% of our virgin paper packaging is FSC™ certified by 2025\nAchieved 75% FSC™ certified virgin paper packaging",
+      "source_page": 72,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "paper packaging",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 75,
+      "claim_id": "pg_2023_911a58e70648",
+      "report_id": "pg_2023",
+      "company": "Procter & Gamble",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    }
+  ],
+  "processed_pages": [
+    2,
+    53,
+    54,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    72
+  ],
+  "runs": [
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1319,
+          "completion_tokens": 113,
+          "total_tokens": 1432,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.19,
+        "timestamp": "2026-11-11T09:07:45.726270+00:00"
+      },
+      "processed_pages": [
+        2
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1083,
+          "completion_tokens": 120,
+          "total_tokens": 1203,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 3.62,
+        "timestamp": "2026-11-11T09:07:49.345883+00:00"
+      },
+      "processed_pages": [
+        53
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1323,
+          "completion_tokens": 12,
+          "total_tokens": 1335,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.88,
+        "timestamp": "2026-11-11T09:07:50.226925+00:00"
+      },
+      "processed_pages": [
+        54
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 975,
+          "completion_tokens": 12,
+          "total_tokens": 987,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.56,
+        "timestamp": "2026-11-11T09:07:50.794366+00:00"
+      },
+      "processed_pages": [
+        58
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1228,
+          "completion_tokens": 297,
+          "total_tokens": 1525,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 8.31,
+        "timestamp": "2026-11-11T09:07:59.108238+00:00"
+      },
+      "processed_pages": [
+        59
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1063,
+          "completion_tokens": 204,
+          "total_tokens": 1267,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 5.72,
+        "timestamp": "2026-11-11T09:08:04.841715+00:00"
+      },
+      "processed_pages": [
+        60
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1095,
+          "completion_tokens": 113,
+          "total_tokens": 1208,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 3.41,
+        "timestamp": "2026-11-11T09:08:08.266712+00:00"
+      },
+      "processed_pages": [
+        61
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1169,
+          "completion_tokens": 401,
+          "total_tokens": 1570,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 11.09,
+        "timestamp": "2026-11-11T09:08:19.371427+00:00"
+      },
+      "processed_pages": [
+        62
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1154,
+          "completion_tokens": 223,
+          "total_tokens": 1377,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 6.39,
+        "timestamp": "2026-11-11T09:08:25.776596+00:00"
+      },
+      "processed_pages": [
+        63
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1309,
+          "completion_tokens": 298,
+          "total_tokens": 1607,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 8.44,
+        "timestamp": "2026-11-11T09:08:34.223711+00:00"
+      },
+      "processed_pages": [
+        72
+      ]
+    }
+  ],
+  "fingerprint": "4274679a257c30681178289ff40ccb1e118acd9a74c444b3940a24225532fe25",
+  "config": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "prompt_version": "greenclaim-v2-local",
+    "endpoint": "http://127.0.0.1:1234/v1"
+  }
+}

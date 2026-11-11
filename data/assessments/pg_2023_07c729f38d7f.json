@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho biết bao bì được làm từ giấy tái chế và có thể được phân hủy trong các dòng thu gom rác thải giấy ở khu vực dân cư. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "pg_2023:p60:c1",
+      "pdf_page": 60,
+      "quote": "The package is fully recyclable in municipal paper collection streams and can help reduce plastic waste."
+    }
+  ],
+  "claim_id": "pg_2023_07c729f38d7f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 2901,
+      "completion_tokens": 112,
+      "total_tokens": 3013,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.2,
+    "timestamp": "2026-11-11T09:09:41.797653+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "pg_2023",
+  "fingerprint": "dabaaa13ef965ac711324e479b6341bd4bfddc12d74fef11b334b797c19ca064",
+  "retrieved_chunk_ids": [
+    "pg_2023:p60:c1",
+    "pg_2023:p59:c1",
+    "pg_2023:p61:c1",
+    "pg_2023:p63:c1",
+    "pg_2023:p58:c1"
+  ]
+}

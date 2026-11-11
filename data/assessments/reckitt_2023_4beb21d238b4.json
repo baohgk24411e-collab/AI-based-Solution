@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt xác nhận rằng các cam kết tăng tỷ lệ PCR và cải thiện tái chế là phù hợp với các đối tác EMF, đồng thời tiến trình về tái chế cũng tương đồng. Điều này được thể hiện trong đoạn văn: 'Our commitments to increase PCR inclusion, improve recyclability, and reduce virgin plastics are aligned with our EMF peers, and our progress on recyclability is also closely aligned.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p25:c1",
+      "pdf_page": 25,
+      "quote": "Our commitments to increase PCR inclusion, improve recyclability, and reduce virgin plastics are aligned with our EMF peers, and our progress on recyclability is also closely aligned."
+    }
+  ],
+  "claim_id": "reckitt_2023_4beb21d238b4",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3478,
+      "completion_tokens": 175,
+      "total_tokens": 3653,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.28,
+    "timestamp": "2026-11-11T09:41:34.161995+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "d70b1a91b886da6558b960f124b33ba8a271a98ac3e91929c6c0341d6527e20f",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p25:c1",
+    "reckitt_2023:p26:c1",
+    "reckitt_2023:p27:c1",
+    "reckitt_2023:p24:c2",
+    "reckitt_2023:p25:c2"
+  ]
+}

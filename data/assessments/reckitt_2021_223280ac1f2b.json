@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc giảm lượng vật liệu thông qua các quy trình như làm nhẹ (lightweighting) hoặc cung cấp gói tái sử dụng (refill packs), điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p76:c2",
+      "pdf_page": 76,
+      "quote": "Through processes such as lightweighting or offering refill packs we can also reduce the amount of material used within packaging."
+    }
+  ],
+  "claim_id": "reckitt_2021_223280ac1f2b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4032,
+      "completion_tokens": 116,
+      "total_tokens": 4148,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.25,
+    "timestamp": "2026-11-11T09:23:29.378265+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "1c61935878e81c4015bb9685dbe76c197145bbf229a55dc4e69455b112d3c919",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p45:c2",
+    "reckitt_2021:p46:c1",
+    "reckitt_2021:p40:c1"
+  ]
+}

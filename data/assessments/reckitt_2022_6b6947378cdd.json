@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc sử dụng bột để tạo xà phòng tay và tái sử dụng chai cũ, đồng thời giảm lượng nhựa nguyên sinh sử dụng đến 50% vào năm 2030. Các đoạn trích từ báo cáo đều hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p40:c1",
+      "pdf_page": 40,
+      "quote": "By simply adding a sachet of powder to water, the consumer can create a hand wash with the same renowned germ protection. The original bottle and pump can be reused up to 20 times and, with a powder refill sachet containing 33% less plastic than a liquid refill pouch, and 90% less than that in another bottle and pump, it’s an innovation which helps move us towards our 50% reduction in virgin plastic use 2030 target."
+    }
+  ],
+  "claim_id": "reckitt_2022_6b6947378cdd",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3393,
+      "completion_tokens": 219,
+      "total_tokens": 3612,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.38,
+    "timestamp": "2026-11-11T09:32:07.866770+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "4182f8926a1f131fe3e52a50258d1f5440654ca2cf968c992e13ec1a06d5b872",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p72:c3",
+    "reckitt_2022:p40:c3",
+    "reckitt_2022:p40:c2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Dữ liệu cung cấp chỉ đề cập đến tỷ lệ vật liệu tái chế được sử dụng trong bao bì và tỷ lệ bao bì được thu gom để tái chế, nhưng không có thông tin cụ thể về tỷ lệ bao bì toàn cầu có thể tái chế.",
+  "flags": [
+    "缺少直接支持的证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2023:p9:c1",
+      "pdf_page": 9,
+      "quote": "Percentage of packaging recyclable globally3 90% 90% 90%"
+    }
+  ],
+  "claim_id": "cocacola_2023_0a5564bd6ca1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4469,
+      "completion_tokens": 142,
+      "total_tokens": 4611,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.58,
+    "timestamp": "2026-11-11T09:07:04.480910+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2023",
+  "fingerprint": "36bfbbba845130a6e4d8816ffdfcba6d550c9d6fdcfaba3b77a8baa0a00b6ed3",
+  "retrieved_chunk_ids": [
+    "cocacola_2023:p9:c1",
+    "cocacola_2023:p5:c1",
+    "cocacola_2023:p5:c2",
+    "cocacola_2023:p9:c2",
+    "cocacola_2023:p10:c1"
+  ]
+}

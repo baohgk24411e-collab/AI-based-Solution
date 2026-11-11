@@ -1,0 +1,43 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về mức độ tái chế của bottle glass hoặc giảm lượng bao bì nhựa tổng thể cho sản phẩm Gaviscon. Chỉ có thông tin chung về việc sử dụng bottle glass tái chế và giảm bao bì nhựa, nhưng không đề cập đến mức độ tái chế cụ thể.",
+  "flags": [
+    "missing_recyclability_data",
+    "general_statements"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p41:c1",
+      "pdf_page": 41,
+      "quote": "In Europe, Gaviscon launched GaviNatura, a new product which provides heartburn and indigestion relief from 100% natural ingredients. In addition, packaging the new product in a glass bottle increased the overall packaging recyclability and reduced the amount of plastic packaging"
+    }
+  ],
+  "claim_id": "reckitt_2021_a9bc68dd4d22",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3906,
+      "completion_tokens": 196,
+      "total_tokens": 4102,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.52,
+    "timestamp": "2026-11-11T09:17:19.093009+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "feb415d867d6a4c59cfa34a38f31f420999297e8615abbebaecce93d8d81006c",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p36:c2",
+    "reckitt_2021:p44:c2",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p44:c1"
+  ]
+}

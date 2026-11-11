@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng điểm số SIC có thể thay đổi dựa trên cải tiến và cập nhật hệ thống. Ví dụ, các yếu tố phát thải đã được cập nhật trong năm 2022 để phản ánh dữ liệu mới nhất về carbon và nước.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p34:c1",
+      "pdf_page": 34,
+      "quote": "SIC scores are subject to change, based on system improvements and updates. For example, emissions factors were updated during 2022 to reflect the latest data on carbon and water."
+    }
+  ],
+  "claim_id": "reckitt_2022_da510a67c816",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3887,
+      "completion_tokens": 159,
+      "total_tokens": 4046,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.26,
+    "timestamp": "2026-11-11T09:29:25.465737+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "fd94d8d08374095e586f89cb91a0d9880c7dea4ada5c4303205d7825534ec2b1",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p34:c1",
+    "reckitt_2022:p119:c1",
+    "reckitt_2022:p47:c2",
+    "reckitt_2022:p117:c1",
+    "reckitt_2022:p29:c3"
+  ]
+}

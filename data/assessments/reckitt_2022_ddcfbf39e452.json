@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế của Enfa Stage 1 A+ Gentlecare trong khu vực châu Á.",
+  "flags": [
+    "missing_recycled_content_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p36:c2",
+      "pdf_page": 36,
+      "quote": "In Asia, we reformulated Enfa Stage 1 A+ Gentlecare to provide new consumer benefits, reducing its water impact by over 14% per dose and improving its ingredients score"
+    }
+  ],
+  "claim_id": "reckitt_2022_ddcfbf39e452",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4145,
+      "completion_tokens": 132,
+      "total_tokens": 4277,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.83,
+    "timestamp": "2026-11-11T09:31:15.883696+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "faa0b26d279b793382a09046236541f038f81cb80d3a9413ec2dc152223bc64e",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p36:c2",
+    "reckitt_2022:p36:c1",
+    "reckitt_2022:p34:c2",
+    "reckitt_2022:p31:c1",
+    "reckitt_2022:p119:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin xác nhận rằng trong Vương quốc Anh, chỉ khoảng một phần tư bao bì nhà ở được tái chế và đối với nhựa mềm, con số này còn thấp hơn, chỉ là 6%. Điều này trùng khớp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c2",
+      "pdf_page": 42,
+      "quote": "In the UK, for instance, only about a quarter of household packaging goes to recycling and, for flexible plastics, this is even lower, at just 6%1."
+    }
+  ],
+  "claim_id": "reckitt_2022_1a3c4e625700",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3520,
+      "completion_tokens": 162,
+      "total_tokens": 3682,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.92,
+    "timestamp": "2026-11-11T09:33:27.285484+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "390ad4722e4d0c801aff2c7b133adf66d1fb24745a26be0d62813830a5c1d9b0",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p40:c1",
+    "reckitt_2022:p38:c1",
+    "reckitt_2022:p47:c2"
+  ]
+}

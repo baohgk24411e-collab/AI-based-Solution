@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": " CLAIM: 'In 2024, we continued to assess reusable packaging progress and have worked collaboratively to design how a model may look and scale in the future.'\nEVIDENCE: Báo cáo chỉ đề cập đến việc hợp tác và thiết kế mô hình tái sử dụng trong tương lai mà không cung cấp thông tin về tiến trình cụ thể hoặc kết quả. Không có dữ liệu về tỷ lệ tái sử dụng hay tiến độ thực hiện.",
+  "flags": [
+    "missing_progress_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p21:c2",
+      "pdf_page": 21,
+      "quote": "In 2024, we continued to assess reusable packaging progress and have worked collaboratively to design how a model may look and scale in the future."
+    }
+  ],
+  "claim_id": "reckitt_2024_b342b0768d00",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3863,
+      "completion_tokens": 186,
+      "total_tokens": 4049,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.95,
+    "timestamp": "2026-11-11T09:51:04.189590+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "f2ef23c5b29ea05a95b7b09b6c85124940378f8a26c255149212f3b8292d0e18",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p21:c2",
+    "reckitt_2024:p22:c1",
+    "reckitt_2024:p20:c2",
+    "reckitt_2024:p11:c1",
+    "reckitt_2024:p22:c2"
+  ]
+}

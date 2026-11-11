@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến mục tiêu sử dụng vật liệu tái chế trong bao bì và đầu tư vào cơ sở hạ tầng tái chế, nhưng không cung cấp số liệu cụ thể về tỷ lệ tái chế của năm 2022.",
+  "flags": [
+    "missing_specific_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p44:c1",
+      "pdf_page": 44,
+      "quote": "A circular economy helps reduce GHG emissions. We are incorporating more recycled material, lightweighting our packaging, investing in recycling infrastructure and using more reusable packaging."
+    }
+  ],
+  "claim_id": "cocacola_2022_0bfa0da6afed",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4085,
+      "completion_tokens": 145,
+      "total_tokens": 4230,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.33,
+    "timestamp": "2026-11-11T09:03:43.495919+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "00183fbfd98992bb1bce25f3b2ab0da2a90cbeef83380cf83541b92e2e8b68e8",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p44:c1",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p37:c1",
+    "cocacola_2022:p36:c1",
+    "cocacola_2022:p37:c3"
+  ]
+}

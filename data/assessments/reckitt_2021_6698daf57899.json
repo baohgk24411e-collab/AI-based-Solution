@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về thành phần chính xác của bao bì tái chế 70% và không đề cập đến việc sử dụng nhựa trong bao bì.",
+  "flags": [
+    "missing_recycled_content_details"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p46:c1",
+      "pdf_page": 46,
+      "quote": "The packs are made of a corrugated cardboard insert and box with 70% recycled content and no plastic packaging."
+    }
+  ],
+  "claim_id": "reckitt_2021_6698daf57899",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4034,
+      "completion_tokens": 129,
+      "total_tokens": 4163,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.53,
+    "timestamp": "2026-11-11T09:21:37.163621+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "24980ad07d4a8f977f9ff14d2ddcd5178e397bc65d15e720aa493ea08ded2b5f",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p46:c1",
+    "reckitt_2021:p45:c1",
+    "reckitt_2021:p43:c1",
+    "reckitt_2021:p41:c1",
+    "reckitt_2021:p76:c2"
+  ]
+}

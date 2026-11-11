@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc Reckitt đã hợp tác với TerraCycle's Loop programme tại Anh, một khái niệm bao bì bền vững giúp tái sử dụng bao bì rỗng. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p46:c2",
+      "pdf_page": 46,
+      "quote": "In a trial with the UK supermarket Tesco that started in September 2021, ten stores are carrying Loop’s brand partners – including Finish – giving consumers the option to buy familiar brands in sustainable packaging that’s reused time and time again."
+    }
+  ],
+  "claim_id": "reckitt_2021_693bbee52ec7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3251,
+      "completion_tokens": 151,
+      "total_tokens": 3402,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.44,
+    "timestamp": "2026-11-11T09:21:43.627494+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "fb689ab450708de302420434ddc0d7dc5385d8865740c8d6535ea960ec52ef6a",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p46:c2",
+    "reckitt_2021:p46:c1",
+    "reckitt_2021:p76:c2",
+    "reckitt_2021:p77:c2",
+    "reckitt_2021:p47:c1"
+  ]
+}

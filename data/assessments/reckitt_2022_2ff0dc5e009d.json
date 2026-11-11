@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tiến trình làm việc với các nhà cung cấp để cải thiện bao bì không phải nhựa. Chỉ đề cập đến mục tiêu và nỗ lực chung.",
+  "flags": [
+    "repeated_claims"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p42:c1",
+      "pdf_page": 42,
+      "quote": "We are also working with our suppliers to make progress on our non-plastic packaging."
+    }
+  ],
+  "claim_id": "reckitt_2022_2ff0dc5e009d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3902,
+      "completion_tokens": 124,
+      "total_tokens": 4026,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.33,
+    "timestamp": "2026-11-11T09:33:20.340606+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "525bfd4b865955cd294e244424ee95260748d489dfdd5a41bcb924723b23a75b",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p42:c1",
+    "reckitt_2022:p41:c2",
+    "reckitt_2022:p42:c2",
+    "reckitt_2022:p6:c1",
+    "reckitt_2022:p40:c2"
+  ]
+}

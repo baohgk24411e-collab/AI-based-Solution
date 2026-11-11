@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cho thấy Reckitt đã có các hoạt động với Eco-Soap Bank tại Indonesia và kế hoạch mở rộng chương trình đến các địa điểm khác của công ty. Điều này tương đồng với tuyên bố trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2024:p42:c2",
+      "pdf_page": 42,
+      "quote": "We also have initiatives with Eco-Soap Bank in Indonesia and aim to expand the programme to more Reckitt sites, driving circularity further within our operations."
+    }
+  ],
+  "claim_id": "reckitt_2024_4afc659e83ac",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3483,
+      "completion_tokens": 132,
+      "total_tokens": 3615,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.14,
+    "timestamp": "2026-11-11T09:54:49.662228+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2024",
+  "fingerprint": "1a788b98ac5eda2eb0fa8d2ff9535a0068122387f9581278d5e4b59c828e2517",
+  "retrieved_chunk_ids": [
+    "reckitt_2024:p42:c2",
+    "reckitt_2024:p40:c2",
+    "reckitt_2024:p40:c3",
+    "reckitt_2024:p42:c1",
+    "reckitt_2024:p39:c2"
+  ]
+}

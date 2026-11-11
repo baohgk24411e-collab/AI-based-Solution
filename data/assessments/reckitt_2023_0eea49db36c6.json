@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Reckitt xác nhận họ có mục tiêu để 100% bao bì nhựa là tái chế hoặc tái sử dụng được vào năm 2025 và giảm 50% bao bì nhựa nguyên sinh vào năm 2030 so với năm 2020. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2023:p26:c2",
+      "pdf_page": 26,
+      "quote": "Our Sustainability Ambitions focus on reducing virgin plastic packaging, having 100% of our plastic packaging recyclable or reusable, and increasing post-consumer recycled (PCR) content to reduce our environmental footprint associated with plastics."
+    }
+  ],
+  "claim_id": "reckitt_2023_0eea49db36c6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3572,
+      "completion_tokens": 177,
+      "total_tokens": 3749,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.38,
+    "timestamp": "2026-11-11T09:42:14.662740+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2023",
+  "fingerprint": "91a8c7013fedc78e7492f0ac148eec90cf2e21cee397e7d78c97e3b5d74ae622",
+  "retrieved_chunk_ids": [
+    "reckitt_2023:p26:c2",
+    "reckitt_2023:p24:c1",
+    "reckitt_2023:p24:c2",
+    "reckitt_2023:p5:c2",
+    "reckitt_2023:p28:c2"
+  ]
+}

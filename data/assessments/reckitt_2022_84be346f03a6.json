@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Reckitt đã tập trung vào việc bảo vệ bướm monarch và các loài thụ phấn khác ở Mexico thông qua việc bảo tồn cây hoa dại trong con đường di chuyển monarch Mexico và tham gia cộng đồng địa phương vào công tác bảo tồn.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2022:p82:c2",
+      "pdf_page": 82,
+      "quote": "In Mexico, we’ve focused on protecting the Monarch butterfly and other pollinators by preserving wild flowering plants in the Monarch Mexican Flyway and by engaging local communities in conservation."
+    }
+  ],
+  "claim_id": "reckitt_2022_84be346f03a6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3668,
+      "completion_tokens": 151,
+      "total_tokens": 3819,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.83,
+    "timestamp": "2026-11-11T09:35:59.397648+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2022",
+  "fingerprint": "8ab965630f1e225fd86b7a3eeef664216f30b55e8661c303bc5a016c7add87ec",
+  "retrieved_chunk_ids": [
+    "reckitt_2022:p82:c2",
+    "reckitt_2022:p82:c1",
+    "reckitt_2022:p77:c2",
+    "reckitt_2022:p68:c1",
+    "reckitt_2022:p76:c1"
+  ]
+}

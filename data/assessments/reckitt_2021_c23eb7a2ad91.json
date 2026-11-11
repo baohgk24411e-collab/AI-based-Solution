@@ -1,0 +1,60 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo chỉ đề cập đến việc đạt được 96% mục tiêu zero waste to landfill vào năm 2021, nhưng không cung cấp thông tin cụ thể về tỷ lệ tái chế. Không có dữ liệu trực tiếp hỗ trợ cho tuyên bố 100%.",
+  "flags": [
+    "缺少具体的数据支持"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "reckitt_2021:p74:c2",
+      "pdf_page": 74,
+      "quote": "Aim 2021 100% zero waste to landfill 96%"
+    }
+  ],
+  "claim_id": "reckitt_2021_c23eb7a2ad91",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4287,
+      "completion_tokens": 146,
+      "total_tokens": 4433,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.41,
+    "timestamp": "2026-11-11T09:23:10.907981+00:00",
+    "repair_attempt": true,
+    "first_attempt": {
+      "provider": "lmstudio",
+      "model": "qwen2.5-7b-instruct",
+      "endpoint": "http://127.0.0.1:1234/v1",
+      "prompt_version": "greenclaim-v2-local",
+      "cache_hit": false,
+      "usage": {
+        "prompt_tokens": 4060,
+        "completion_tokens": 186,
+        "total_tokens": 4246,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "seconds": 8.12,
+      "timestamp": "2026-11-11T09:23:03.502824+00:00"
+    }
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "reckitt_2021",
+  "fingerprint": "96636771cf1ad0a99bf564296bdc9d72c994410cea0eb6c047221e5c363fb1c4",
+  "retrieved_chunk_ids": [
+    "reckitt_2021:p74:c2",
+    "reckitt_2021:p74:c1",
+    "reckitt_2021:p76:c1",
+    "reckitt_2021:p75:c1",
+    "reckitt_2021:p9:c1"
+  ]
+}
