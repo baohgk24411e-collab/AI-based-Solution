@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đầu tư 5 triệu đô la vào Quỹ Cơ sở hạ tầng Đóng gói Khép kín (CLIF) của Closed Loop Partners tại Hoa Kỳ, đồng thời là thành viên sáng lập của Circular Action Alliance (CAA), một tổ chức trách nhiệm sản xuất kéo dài (EPR) được chọn để thực hiện EPR ở Colorado và California. Điều này hỗ trợ tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p267:c3",
+      "pdf_page": 267,
+      "quote": "In the United States, Danone is a founding member of the Circular Action Alliance (CAA), an Extended Producer Responsibility (EPR) Organization selected to implement the EPR in Colorado and California. The Group also invested 5 million dollars in the Closed Loop Infrastructure Fund (CLIF) of Closed Loop Partners."
+    }
+  ],
+  "claim_id": "danone_2023_3adda076f659",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3758,
+      "completion_tokens": 210,
+      "total_tokens": 3968,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.69,
+    "timestamp": "2026-11-11T08:31:49.680557+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "5772dde6adf92f5527407c2764ad258fe79b29080648cd0f7664d0188c2c5386",
+  "retrieved_chunk_ids": [
+    "danone_2023:p267:c3",
+    "danone_2023:p203:c1",
+    "danone_2023:p264:c1",
+    "danone_2023:p268:c1",
+    "danone_2023:p28:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về cam kết đầu tư 15 triệu đô la vào Quỹ Circulate Capital Ocean Fund (CCOF) ở Nam và Đông Nam Á năm 2018, như một phần của cam kết của nhãn hiệu AQUA (Indonesia) để thu hồi nhựa nhiều hơn so với lượng sử dụng vào năm 2025. Điều này được đề cập trong đoạn văn bản: 'In 2018, Danone is committed to invest $15 million to the Circulate Capital Ocean Fund (CCOF) in South and South-East Asia as part of Water brand AQUA’s pledge (Indonesia) to recover more plastic than used by 2025.'",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p268:c1",
+      "pdf_page": 268,
+      "quote": "In 2018, Danone is committed to invest 15 million dollars in the Circulate Capital Ocean Fund (CCOF) in South and Southeast Asia, as part of the AQUA water brand's (Indonesia) commitment to recover more plastic by 2025 than what is used."
+    }
+  ],
+  "claim_id": "danone_2023_1869098e5bd2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3757,
+      "completion_tokens": 272,
+      "total_tokens": 4029,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.38,
+    "timestamp": "2026-11-11T08:32:00.116085+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "06d5a4107f942f2080594d587318fdfebd4ee7640c656e122859f5552def1e00",
+  "retrieved_chunk_ids": [
+    "danone_2023:p268:c1",
+    "danone_2023:p203:c1",
+    "danone_2023:p203:c2",
+    "danone_2023:p245:c2",
+    "danone_2023:p245:c1"
+  ]
+}

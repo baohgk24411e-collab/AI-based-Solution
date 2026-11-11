@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Danone đã ra mắt nắp tái sử dụng cho các bữa ăn Blédina tại châu Âu.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p55:c1",
+      "pdf_page": 55,
+      "quote": "In Europe, Danone launched re-usable caps for Blédina meals."
+    }
+  ],
+  "claim_id": "danone_2024_0b3b019c44e6",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3850,
+      "completion_tokens": 95,
+      "total_tokens": 3945,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.66,
+    "timestamp": "2026-11-11T08:41:24.307517+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "1a283e69a7ec932a735c023d7e65da5cd78bc09560b31cf02416477e4da3e138",
+  "retrieved_chunk_ids": [
+    "danone_2024:p55:c1",
+    "danone_2024:p54:c2",
+    "danone_2024:p20:c2",
+    "danone_2024:p358:c2",
+    "danone_2024:p358:c1"
+  ]
+}

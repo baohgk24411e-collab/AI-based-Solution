@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Danone xác nhận họ đang làm việc để đảm bảo rằng tất cả các cốc được đưa ra thị trường đều có thể tái chế. Cụ thể, trong đoạn văn trên trang 245, Danone tuyên bố: 'for Essential Dairy & Plant-Based cups, whether made from PS or PET, Danone aims to ensure that 100% of the cups put on the market are recyclable.'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p245:c1",
+      "pdf_page": 245,
+      "quote": "for Essential Dairy & Plant-Based cups, whether made from PS or PET, Danone aims to ensure that 100% of the cups put on the market are recyclable."
+    }
+  ],
+  "claim_id": "danone_2024_6870f55027a4",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4021,
+      "completion_tokens": 183,
+      "total_tokens": 4204,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.33,
+    "timestamp": "2026-11-11T08:46:19.343786+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "745c2a80e5fc5a5bc875c2f7f5f1c3f00e29262183540295c346e18340be8c15",
+  "retrieved_chunk_ids": [
+    "danone_2024:p245:c1",
+    "danone_2024:p358:c2",
+    "danone_2024:p214:c1",
+    "danone_2024:p359:c1",
+    "danone_2024:p228:c2"
+  ]
+}

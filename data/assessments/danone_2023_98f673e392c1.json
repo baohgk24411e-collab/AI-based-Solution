@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã tham gia vào INITIATIVE CIRCULATE CAPITAL cho khu vực Mỹ Latinh và Caribe vào năm 2023 và cam kết đầu tư thêm 15 triệu đô la để đối phó với ô nhiễm nhựa và phát triển chuỗi giá trị tái chế trong khu vực. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p268:c1",
+      "pdf_page": 268,
+      "quote": "In 2023, Danone joined the Circulate Capital initiative for Latin America and the Caribbean and committed an additional 15 million dollars to combat plastic pollution and develop the recycling value chain in the region."
+    }
+  ],
+  "claim_id": "danone_2023_98f673e392c1",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3738,
+      "completion_tokens": 189,
+      "total_tokens": 3927,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.09,
+    "timestamp": "2026-11-11T08:32:08.250829+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "ab59361c40070664c71aff7879c709fc64ea3749c01cfb6ca8a25fcb39674b69",
+  "retrieved_chunk_ids": [
+    "danone_2023:p268:c1",
+    "danone_2023:p245:c2",
+    "danone_2023:p203:c2",
+    "danone_2023:p245:c1",
+    "danone_2023:p203:c1"
+  ]
+}

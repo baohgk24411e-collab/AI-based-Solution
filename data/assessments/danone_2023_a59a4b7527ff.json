@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Danone đã đạt được sự giảm 16% trong việc sử dụng bao bì từ nguồn nhiên liệu hóa thạch nguyên sinh giữa năm 2018 và 2023 (trừ EDP Russia), phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p267:c2",
+      "pdf_page": 267,
+      "quote": "– 16% reduction in the use of virgin fossil-based packaging between 2018 and 2023 (excluding EDP Russia);"
+    }
+  ],
+  "claim_id": "danone_2023_a59a4b7527ff",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4236,
+      "completion_tokens": 143,
+      "total_tokens": 4379,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.34,
+    "timestamp": "2026-11-11T08:31:19.170612+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "5ff0ac2a20b2c2760a198a2ebedd318f0507b2e490132efc93ea95b7eb175478",
+  "retrieved_chunk_ids": [
+    "danone_2023:p261:c1",
+    "danone_2023:p267:c2",
+    "danone_2023:p266:c2",
+    "danone_2023:p273:c1",
+    "danone_2023:p266:c3"
+  ]
+}

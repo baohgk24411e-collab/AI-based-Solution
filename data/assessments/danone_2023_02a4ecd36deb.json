@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng Danone đã đạt được mục tiêu sử dụng trung bình 23.8% rPET trong danh mục Waters vào năm 2020 và đặt mục tiêu tăng lên 50% trung bình vào năm 2025 tại các quốc gia cho phép.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p267:c2",
+      "pdf_page": 267,
+      "quote": "In the Waters category, the Group met its commitment to achieve an average of 25% rPET in 2020 and aims to reach 50% on average by 2025 in countries where local standards and regulations allow it."
+    }
+  ],
+  "claim_id": "danone_2023_02a4ecd36deb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4162,
+      "completion_tokens": 172,
+      "total_tokens": 4334,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.03,
+    "timestamp": "2026-11-11T08:31:27.260541+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "6e802717aa4c9a7e83282beaeb709e4bea37dc0901f5bbde7d16260972b2f1ed",
+  "retrieved_chunk_ids": [
+    "danone_2023:p267:c2",
+    "danone_2023:p203:c3",
+    "danone_2023:p268:c2",
+    "danone_2023:p202:c2",
+    "danone_2023:p261:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Danone xác nhận mục tiêu 100% bao bì tái sử dụng, tái chế hoặc phân hủy được vào năm 2030. Các đoạn văn bản từ trang 214 và 356 đều đề cập đến mục tiêu này.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p356:c2",
+      "pdf_page": 356,
+      "quote": "Commitments Building on its progress and experience, Danone is continuing its transition to a circular and low-carbon packaging system, while aiming to recover as much plastic as it uses. This approach is outlined in its sustainability strategy – the Danone Impact Journey – which sets out three main objectives: ■ 100% reusable, recyclable or compostable packaging by 2030;"
+    }
+  ],
+  "claim_id": "danone_2024_8258d8eb3062",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4044,
+      "completion_tokens": 195,
+      "total_tokens": 4239,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.64,
+    "timestamp": "2026-11-11T08:40:40.581958+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "99f8c92fcec523b3cf2272eecb73000cc53d65c95ce6477e10c707fac4ea7f22",
+  "retrieved_chunk_ids": [
+    "danone_2024:p214:c1",
+    "danone_2024:p356:c2",
+    "danone_2024:p351:c1",
+    "danone_2024:p228:c2",
+    "danone_2024:p243:c3"
+  ]
+}

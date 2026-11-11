@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu thiết kế bao bì để tái sử dụng, tái chế hoặc phân hủy trong năm 2030, đồng thời xác nhận Danone đã đạt được tỷ lệ 84% bao bì tái sử dụng, tái chế hoặc phân hủy vào năm 2023.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p265:c2",
+      "pdf_page": 265,
+      "quote": "■ design packaging to be 100% reusable, recyclable or compostable by 2030;"
+    }
+  ],
+  "claim_id": "danone_2023_eadb17acb962",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4043,
+      "completion_tokens": 147,
+      "total_tokens": 4190,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.23,
+    "timestamp": "2026-11-11T08:30:26.470047+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "e36efe1040916434aefac389c3f1215a0949d650533e874addc51223cfecf8f1",
+  "retrieved_chunk_ids": [
+    "danone_2023:p261:c1",
+    "danone_2023:p265:c2",
+    "danone_2023:p202:c2",
+    "danone_2023:p267:c1",
+    "danone_2023:p265:c3"
+  ]
+}

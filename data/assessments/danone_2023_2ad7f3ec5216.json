@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng các cơ sở sản xuất của Danone sử dụng các thành phần nhựa để đảm bảo hoạt động hiệu quả của chúng.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p265:c1",
+      "pdf_page": 265,
+      "quote": "■ Danone's production sites also use plastic components to enable its sites to operate effectively."
+    }
+  ],
+  "claim_id": "danone_2023_2ad7f3ec5216",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3956,
+      "completion_tokens": 97,
+      "total_tokens": 4053,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.84,
+    "timestamp": "2026-11-11T08:29:52.149583+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "8be866d1d7f659448c3bcfe086c862e3cb05fe5c95143f3f01a87fac0ed3d72e",
+  "retrieved_chunk_ids": [
+    "danone_2023:p265:c1",
+    "danone_2023:p273:c1",
+    "danone_2023:p245:c1",
+    "danone_2023:p296:c1",
+    "danone_2023:p201:c1"
+  ]
+}

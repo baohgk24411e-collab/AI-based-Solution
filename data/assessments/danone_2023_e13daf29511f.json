@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin về tỷ lệ tái chế nhựa bao bì sau công nghiệp trong năm 2025 như tuyên bố. Chỉ có dữ liệu cho năm 2023.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p204:c1",
+      "pdf_page": 204,
+      "quote": "The target is to reach 0% by 2025."
+    }
+  ],
+  "claim_id": "danone_2023_e13daf29511f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4074,
+      "completion_tokens": 121,
+      "total_tokens": 4195,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.56,
+    "timestamp": "2026-11-11T08:27:37.518075+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "3ff2eee512e8419ef49436e1342ebe88f263fcce3e05bbf3acf1fc5e193f2fce",
+  "retrieved_chunk_ids": [
+    "danone_2023:p204:c1",
+    "danone_2023:p374:c1",
+    "danone_2023:p368:c2",
+    "danone_2023:p369:c2",
+    "danone_2023:p351:c1"
+  ]
+}

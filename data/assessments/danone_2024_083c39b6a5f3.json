@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Volvic sparkling flavored waters trong lon đã được thu gom và tái chế ở đâu hay tỷ lệ tái chế như thế nào. Chỉ có thông tin chung về việc Danone đang nỗ lực tăng cường tái sử dụng, tái chế và thay thế nhựa bằng các vật liệu khác.",
+  "flags": [
+    "缺少具体回收和再利用数据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p55:c1",
+      "pdf_page": 55,
+      "quote": "In Europe, Danone launched re-usable caps for Blédina meals. Waters 2024 In 2024, Research and Innovation Waters Category was dedicated to advancing Danone Impact Journey commitments toward decarbonization, increased recyclability, and reducing the use of virgin fossil-based packaging."
+    }
+  ],
+  "claim_id": "danone_2024_083c39b6a5f3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3817,
+      "completion_tokens": 201,
+      "total_tokens": 4018,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.52,
+    "timestamp": "2026-11-11T08:41:55.277437+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "2c3312b0175890f3d39aac272ca3eaa417ede2dc597bf3abbc5ccfc98ffe505a",
+  "retrieved_chunk_ids": [
+    "danone_2024:p55:c1",
+    "danone_2024:p55:c2",
+    "danone_2024:p244:c2",
+    "danone_2024:p357:c2",
+    "danone_2024:p357:c3"
+  ]
+}

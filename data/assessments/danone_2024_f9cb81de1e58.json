@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc tethered caps đã được triển khai trên tất cả chai nước trong khu vực châu Âu. Chỉ có thông tin về việc Danone đã ra mắt các nắp tái sử dụng cho Blédina meals tại châu Âu, nhưng không đề cập đến tất cả các chai nước.",
+  "flags": [
+    "缺少具体实施细节"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p55:c1",
+      "pdf_page": 55,
+      "quote": "In Europe, Danone launched re-usable caps for Blédina meals. Waters 2024 In 2024, Research and Innovation Waters Category was dedicated to advancing Danone Impact Journey commitments toward decarbonization, increased recyclability, and reducing the use of virgin fossil-based packaging."
+    }
+  ],
+  "claim_id": "danone_2024_f9cb81de1e58",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3941,
+      "completion_tokens": 200,
+      "total_tokens": 4141,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.61,
+    "timestamp": "2026-11-11T08:41:32.987432+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "8a6c718f01bca24848b174355b337bed80b4ea2079e95f3643eb8402db89120f",
+  "retrieved_chunk_ids": [
+    "danone_2024:p55:c1",
+    "danone_2024:p32:c1",
+    "danone_2024:p214:c1",
+    "danone_2024:p357:c2",
+    "danone_2024:p334:c1"
+  ]
+}

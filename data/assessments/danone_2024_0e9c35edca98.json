@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về mục tiêu giảm sử dụng nhựa nguyên sinh bằng 30% vào năm 2030 và 50% vào năm 2040 so với mức cơ sở năm 2020, đồng thời tăng cường tái chế và tái sử dụng. Các mục tiêu này được đề cập trong phần 'Mục tiêu và chỉ số' (Metrics and targets) trên trang 228.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p228:c2",
+      "pdf_page": 228,
+      "quote": "halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 compared to the 2020 baseline (684.9 ktons), by accelerating reuse and the use of recycled materials;"
+    }
+  ],
+  "claim_id": "danone_2024_0e9c35edca98",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4084,
+      "completion_tokens": 206,
+      "total_tokens": 4290,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.09,
+    "timestamp": "2026-11-11T08:43:42.661064+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "88b8b3852187da4eaed5e5b5fff33df0f2d9bdde3fe640460032f9ea6384f2a9",
+  "retrieved_chunk_ids": [
+    "danone_2024:p228:c2",
+    "danone_2024:p351:c1",
+    "danone_2024:p246:c2",
+    "danone_2024:p243:c3",
+    "danone_2024:p32:c2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã ký kết cam kết toàn cầu về nhựa với Quỹ Ellen MacArthur (EMF) vào năm 2018, đồng thời công bố chính sách bao bì của mình. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p242:c1",
+      "pdf_page": 242,
+      "quote": "In 2018, Danone signed up to the Ellen MacArthur Foundation (EMF) Global Commitment on Plastics in collaboration with the United Nations Environment Programme (UNEP), and published its Packaging Policy, setting out the Group's roadmap to (i) shift from a linear to a circular economy of packaging throughout its value chain and (ii) reduce the use of plastic in accordance with the French anti-waste law known as AGEC (Anti-Gaspillage pour une Économie Circulaire) of February 10, 2020."
+    }
+  ],
+  "claim_id": "danone_2023_f444987de09d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3505,
+      "completion_tokens": 247,
+      "total_tokens": 3752,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.48,
+    "timestamp": "2026-11-11T08:28:01.693219+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "5dac1e45aaa2b4707ed9f76c28c6886523c26a3d15f94bc96541577e96a74780",
+  "retrieved_chunk_ids": [
+    "danone_2023:p242:c1",
+    "danone_2023:p28:c2",
+    "danone_2023:p263:c3",
+    "danone_2023:p242:c2",
+    "danone_2023:p200:c3"
+  ]
+}

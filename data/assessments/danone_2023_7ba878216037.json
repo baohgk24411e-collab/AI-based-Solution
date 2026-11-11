@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc Danone đang hợp tác chặt chẽ với CITEO tại Pháp để thiết lập một hệ thống tái sử dụng toàn quốc cho bao bì thực phẩm, tương tự như tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p267:c1",
+      "pdf_page": 267,
+      "quote": "ó In France, the Group is collaborating closely with CITEO on the ReUse program to establish a unified and nationwide operational reuse system for food packaging."
+    }
+  ],
+  "claim_id": "danone_2023_7ba878216037",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4045,
+      "completion_tokens": 132,
+      "total_tokens": 4177,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.84,
+    "timestamp": "2026-11-11T08:31:34.170784+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "e94509328bb54b1921c0e4993477d89806425caf5d3fe245d29249990766802f",
+  "retrieved_chunk_ids": [
+    "danone_2023:p267:c1",
+    "danone_2023:p202:c1",
+    "danone_2023:p264:c1",
+    "danone_2023:p265:c2",
+    "danone_2023:p267:c2"
+  ]
+}

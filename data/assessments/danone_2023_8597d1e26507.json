@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc chỉ tính toán chỉ số PET tái chế (rPET) cho các quốc gia mà quy định địa phương cho phép sử dụng vật liệu tái chế, ngoại trừ Trung Quốc và Thổ Nhĩ Kỳ. Thông tin này không được xác nhận trong các đoạn văn khác.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p292:c1",
+      "pdf_page": 292,
+      "quote": "The % recycled PET (rPET) indicator, used on average by the Waters Category in countries where local standards and regulations permit, is calculated excluding China and Turkey, where local regulations prohibit the use of recycled materials in plastic bottles."
+    }
+  ],
+  "claim_id": "danone_2023_8597d1e26507",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4000,
+      "completion_tokens": 161,
+      "total_tokens": 4161,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.61,
+    "timestamp": "2026-11-11T08:33:54.499495+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "375689cd258f14f5e0b8f13dee1b69f2042d163271b96f4c16bcb786e73cc841",
+  "retrieved_chunk_ids": [
+    "danone_2023:p292:c1",
+    "danone_2023:p267:c2",
+    "danone_2023:p202:c2",
+    "danone_2023:p261:c1",
+    "danone_2023:p202:c3"
+  ]
+}

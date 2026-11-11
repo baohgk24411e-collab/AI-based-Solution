@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone tham gia vào báo cáo tiến trình hàng năm của Ellen MacArthur Foundation (EMF) về cam kết toàn cầu về nhựa (2018) như một thành viên hội đồng tư vấn của New Plastics Economy Initiative, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p245:c1",
+      "pdf_page": 245,
+      "quote": "■ Participation in the Ellen MacArthur Foundation's (EMF) annual progress report on the Global Plastics Commitment (2018) as a member of the Advisory Board of the New Plastics Economy Initiative."
+    }
+  ],
+  "claim_id": "danone_2023_974d56fa2634",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3598,
+      "completion_tokens": 152,
+      "total_tokens": 3750,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.97,
+    "timestamp": "2026-11-11T08:28:15.461918+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "fe5cce2fd0cc4a8774ccb70c096b78bed1f9f139fd4f7beccdc7c8714a8a049e",
+  "retrieved_chunk_ids": [
+    "danone_2023:p245:c1",
+    "danone_2023:p230:c1",
+    "danone_2023:p28:c2",
+    "danone_2023:p263:c3",
+    "danone_2023:p265:c2"
+  ]
+}

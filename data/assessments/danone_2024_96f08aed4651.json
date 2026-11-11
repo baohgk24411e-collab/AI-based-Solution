@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone là thành viên của Consumer Goods Forum Plastic Waste Coalition of Action (CGF PWCoA), tổ chức này làm việc để thiết lập tiêu chuẩn, sắp xếp các thực hành ngành và khuyến khích sự hợp tác giữa các thành viên nhằm cải thiện thu gom, tái sử dụng và tái chế nhựa. Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p240:c1",
+      "pdf_page": 240,
+      "quote": "The Consumer Goods Forum Plastic Waste Coalition of Action (CGF PWCoA), of which Danone is a member, which works to set standards, align industry practices and encourage collaboration between members to improve plastic collection, reuse and recycling;"
+    }
+  ],
+  "claim_id": "danone_2024_96f08aed4651",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3772,
+      "completion_tokens": 186,
+      "total_tokens": 3958,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.16,
+    "timestamp": "2026-11-11T08:44:45.359750+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "3cf77dfdc5e847b9c6c2c4823fdd3ffbbe23c17654c7923cc912f31cb92c253a",
+  "retrieved_chunk_ids": [
+    "danone_2024:p240:c1",
+    "danone_2024:p354:c2",
+    "danone_2024:p317:c1",
+    "danone_2024:p334:c1",
+    "danone_2024:p320:c1"
+  ]
+}

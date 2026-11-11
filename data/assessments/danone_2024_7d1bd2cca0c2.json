@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng trong tổng khối lượng bao bì của Danone, nhựa chiếm khoảng 50%.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p240:c1",
+      "pdf_page": 240,
+      "quote": "Of Danone’s total packaging footprint, plastic packaging represents around 50% of volumes of packaging purchased."
+    }
+  ],
+  "claim_id": "danone_2024_7d1bd2cca0c2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3098,
+      "completion_tokens": 100,
+      "total_tokens": 3198,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.14,
+    "timestamp": "2026-11-11T08:44:37.149921+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "1f092c4b4cdef0539dd9de6ebf54b6fd804af70fab898ec71e6423d458101438",
+  "retrieved_chunk_ids": [
+    "danone_2024:p240:c1",
+    "danone_2024:p355:c2",
+    "danone_2024:p249:c2",
+    "danone_2024:p251:c3",
+    "danone_2024:p244:c2"
+  ]
+}

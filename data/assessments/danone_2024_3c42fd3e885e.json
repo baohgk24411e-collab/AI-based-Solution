@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Danone xác nhận họ đã làm việc nhiều năm để giảm sử dụng bao bì nhựa, cải thiện tính tái chế của nhựa không thể loại bỏ và thu hồi những gì không được giữ trong chu trình. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p228:c1",
+      "pdf_page": 228,
+      "quote": "Danone has been working for many years to reduce the use of plastic packaging, improve the circularity of plastics that cannot be eliminated to date, and recover what is not kept in circulation, as well as collaborating with industry alliances, civil society and governments to develop effective systems to collect, reuse and recycle packaging."
+    }
+  ],
+  "claim_id": "danone_2024_3c42fd3e885e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3668,
+      "completion_tokens": 169,
+      "total_tokens": 3837,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.5,
+    "timestamp": "2026-11-11T08:44:17.870631+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "76f29e819717335792f41c7e2ece69422eaa1811cd2e23e5ddaf1cc1b0366707",
+  "retrieved_chunk_ids": [
+    "danone_2024:p228:c1",
+    "danone_2024:p224:c3",
+    "danone_2024:p244:c1",
+    "danone_2024:p243:c2",
+    "danone_2024:p357:c1"
+  ]
+}

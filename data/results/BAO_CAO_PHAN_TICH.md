@@ -1,8 +1,8 @@
 # Kết quả phân tích 20 báo cáo PTBV
 
-Cập nhật (UTC): 2026-11-11T08:20:59.646050+00:00
+Cập nhật (UTC): 2026-11-11T08:48:51.336796+00:00
 
-Độ phủ hiện tại: 163/389 trang qua bộ lọc; 220 claim được chấp nhận; 173 đối chiếu hợp lệ; 47 claim chưa có đối chiếu hợp lệ.
+Độ phủ hiện tại: 250/389 trang qua bộ lọc; 336 claim được chấp nhận; 263 đối chiếu hợp lệ; 73 claim chưa có đối chiếu hợp lệ.
 
 Model/provider từng báo cáo có trong summary.csv. Metadata từng lần gọi gồm thời gian UTC, token và cache; bản ghi AI chưa được người đọc xác nhận.
 
@@ -18,8 +18,8 @@ Nhãn là nhận định AI cần người đọc kiểm tra. Supported chỉ l�
 | nestle_2024 | 6/6 | 7 | 5 | 2 | 0 | 0 | 0 | 0 |
 | danone_2021 | 25/25 | 27 | 15 | 8 | 0 | 0 | 0 | 4 |
 | danone_2022 | 30/30 | 34 | 20 | 6 | 0 | 0 | 1 | 7 |
-| danone_2023 | 31/56 | 21 | 0 | 0 | 0 | 0 | 0 | 21 |
-| danone_2024 | 0/63 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| danone_2023 | 55/56 | 62 | 42 | 6 | 0 | 0 | 0 | 14 |
+| danone_2024 | 63/63 | 75 | 34 | 8 | 0 | 0 | 0 | 33 |
 | cocacola_2022 | 0/29 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | cocacola_2023 | 3/3 | 11 | 4 | 1 | 0 | 0 | 0 | 6 |
 | cocacola_2024 | 5/5 | 9 | 5 | 1 | 0 | 0 | 0 | 3 |
@@ -126,8 +126,8 @@ recyclable and compostable.
 
 ### danone_2023
 
-- PDF trang 28 — **not_assessed**: have 100% of its packaging to be reusable, recyclable, or compostable by 2030;
-  
+- PDF trang 28 — **supported**: have 100% of its packaging to be reusable, recyclable, or compostable by 2030;
+  Báo cáo cung cấp thông tin rằng Danone có mục tiêu thiết kế bao bì để tái sử dụng, tái chế hoặc phân hủy sinh học vào năm 2030. Điều này được đề cập trong nhiều đoạn văn khác nhau của báo cáo.
 - PDF trang 28 — **not_assessed**: halve the use of virgin fossil-based packaging by 2040, with 30% reduction by 2030, accelerating reuse and recycled materials;
   
 - PDF trang 28 — **not_assessed**: lead the development of effective collection systems to recover as much plastic as the Group uses by 2040.
@@ -139,6 +139,16 @@ recyclable and compostable.
 
 ### danone_2024
 
+- PDF trang 32 — **supported**: have 100% of its packaging to be reusable, recyclable, or compostable by 2030;
+  Báo cáo của Danone xác nhận mục tiêu 100% bao bì tái sử dụng, tái chế hoặc phân hủy được vào năm 2030. Các đoạn văn bản từ trang 214 và 356 đều đề cập đến mục tiêu này.
+- PDF trang 32 — **not_assessed**: halve the use of virgin fossil-based packaging by 2040, with 30% reduction by 2030, accelerating reuse and recycled materials;
+  
+- PDF trang 32 — **supported**: lead the development of effective collection systems to recover as much plastic as the Group uses by 2040.
+  Báo cáo của Danone xác nhận mục tiêu phát triển hệ thống thu gom hiệu quả để tái chế lượng nhựa sử dụng bằng năm 2040. Các đoạn văn bản trong báo cáo đều đề cập đến cùng một mục tiêu này.
+- PDF trang 55 — **insufficient_evidence**: In the United States, Danone expanded the successful and innovative platform of cold foam creamers to Silk and Dunkin brands.
+  Báo cáo không cung cấp thông tin cụ thể về việc Danone mở rộng thành công và sáng tạo nền tảng kem lạnh cho các thương hiệu Silk và Dunkin tại Mỹ vào năm 2024.
+- PDF trang 55 — **insufficient_evidence**: In the United States, another big project was the harmonization of the yogurt cups for lightweighting and design for recyclability.
+  Báo cáo không cung cấp thông tin cụ thể về việc harmonization của các ly chua kem tại Mỹ đã cải thiện khả năng tái chế như thế nào. Chỉ đề cập đến mục tiêu tổng quát về tái chế 100% bao bì vào năm 2030.
 
 ### cocacola_2022
 

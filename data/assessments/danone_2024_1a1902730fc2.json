@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã sử dụng trung bình 16.8% vật liệu tái chế trong bao bì nhựa vào năm 2024, so với 14.6% vào năm 2023, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p245:c2",
+      "pdf_page": 245,
+      "quote": "16.8% recycled materials on average in its plastic packaging (compared with 14.6% in 2023);"
+    }
+  ],
+  "claim_id": "danone_2024_1a1902730fc2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4427,
+      "completion_tokens": 160,
+      "total_tokens": 4587,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.08,
+    "timestamp": "2026-11-11T08:46:27.454121+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "fc04d6ea8ce595eec48b93940017498513371a37b0c2027420df0716a8f9454c",
+  "retrieved_chunk_ids": [
+    "danone_2024:p245:c2",
+    "danone_2024:p351:c1",
+    "danone_2024:p369:c1",
+    "danone_2024:p214:c1",
+    "danone_2024:p365:c1"
+  ]
+}

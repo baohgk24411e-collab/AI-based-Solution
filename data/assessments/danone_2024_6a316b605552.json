@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc áp dụng chiến lược 4R (Reduce, Reuse, Recycle, Reclaim) cho quản lý rác thải bao bì với mục tiêu đạt được mục tiêu không có rác thải băm nát trong năm 2025. Chunk_id: danone_2024:p334:c2, pdf_page: 334.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p334:c2",
+      "pdf_page": 334,
+      "quote": "A similar 4R strategy is also applied to packaging waste management, with the aim of recovering and reclaiming waste to achieve the target of zero-waste landfill by 2025."
+    }
+  ],
+  "claim_id": "danone_2024_6a316b605552",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3792,
+      "completion_tokens": 189,
+      "total_tokens": 3981,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.36,
+    "timestamp": "2026-11-11T08:48:54.511635+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "be09800396d5fecfd70e32a0f7f293784006aa9e07a8fb6b4d4f8e79e2e1768a",
+  "retrieved_chunk_ids": [
+    "danone_2024:p334:c2",
+    "danone_2024:p248:c2",
+    "danone_2024:p231:c1",
+    "danone_2024:p330:c1",
+    "danone_2024:p252:c1"
+  ]
+}

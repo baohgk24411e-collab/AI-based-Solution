@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về mục tiêu giảm sử dụng bao bì nhựa nguyên sinh từ năm tài chính 2020 với tỷ lệ 50% vào năm 2040 và 30% vào năm 2030, phù hợp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p182:c1",
+      "pdf_page": 182,
+      "quote": "The Group is targeting a 50% reduction in the use of virgin fossil-based packaging by 2040, with an interim goal of a 30% reduction by 2030 from a FY2020 baseline."
+    }
+  ],
+  "claim_id": "danone_2023_9888279d5bfb",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4110,
+      "completion_tokens": 172,
+      "total_tokens": 4282,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.06,
+    "timestamp": "2026-11-11T08:25:33.436843+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "3f80938b158804606f4c6cbe4bbf2f7a47c7efc770ccf934e5fa7ae5662fef1d",
+  "retrieved_chunk_ids": [
+    "danone_2023:p182:c1",
+    "danone_2023:p181:c2",
+    "danone_2023:p261:c1",
+    "danone_2023:p181:c3",
+    "danone_2023:p267:c2"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng hơn 94% nhựa trong chuỗi giá trị của Danone được sử dụng cho bao bì (được mô tả ở phần 5.7 Plan Giám sát).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p240:c1",
+      "pdf_page": 240,
+      "quote": "• Most plastics in Danone’s value chain, i.e., more than 94%, are used for packaging (assessment described in 5.7 Vigilance plan);"
+    }
+  ],
+  "claim_id": "danone_2024_0d1c736791e3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3316,
+      "completion_tokens": 132,
+      "total_tokens": 3448,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.27,
+    "timestamp": "2026-11-11T08:44:31.946342+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "3ecf0aa08192e08fb2b301c1c37a2e26b2c96c0b3fe11b7116b3a34637fe4876",
+  "retrieved_chunk_ids": [
+    "danone_2024:p355:c2",
+    "danone_2024:p240:c1",
+    "danone_2024:p279:c3",
+    "danone_2024:p234:c3",
+    "danone_2024:p322:c2"
+  ]
+}

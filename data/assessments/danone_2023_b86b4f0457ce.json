@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng tỷ lệ phục hồi rác thải nhựa tại các cơ sở sản xuất vào năm 2023 là 99%, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p265:c1",
+      "pdf_page": 265,
+      "quote": "In 2023, the recovery rate for plastic packaging waste at the production sites totaled 99%."
+    }
+  ],
+  "claim_id": "danone_2023_b86b4f0457ce",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4162,
+      "completion_tokens": 115,
+      "total_tokens": 4277,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.5,
+    "timestamp": "2026-11-11T08:29:58.708708+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "9b7dd129098b363cdf5bd89f61889acbefeae5c7a329297d959459f39ceff6f6",
+  "retrieved_chunk_ids": [
+    "danone_2023:p265:c1",
+    "danone_2023:p204:c1",
+    "danone_2023:p273:c1",
+    "danone_2023:p296:c2",
+    "danone_2023:p296:c1"
+  ]
+}

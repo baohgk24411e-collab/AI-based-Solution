@@ -665,6 +665,456 @@
       "assessment": "not_assessed",
       "extraction_method": "lmstudio",
       "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone’s objective is to halve the use of virgin fossil-based packaging \nby 2040, with a 30% reduction by 2030.",
+      "source_page": 267,
+      "claim_type": "target",
+      "scope": null,
+      "material": "fossil-based",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2040,
+      "value": 50,
+      "claim_id": "danone_2023_4a49ce3268c4",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2023, the Group achieved the following results:\n– 16% reduction in the use of virgin fossil-based packaging \nbetween 2018 and 2023 (excluding EDP Russia);",
+      "source_page": 267,
+      "claim_type": "target",
+      "scope": null,
+      "material": "fossil-based",
+      "unit": "% reduction",
+      "measurement_year": 2023,
+      "target_year": 2040,
+      "value": 16,
+      "claim_id": "danone_2023_a59a4b7527ff",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In the Waters category, the Group met its commitment to \nachieve an average of 25% rPET in 2020 and aims to reach 50% \non average by 2025 in countries where local standards and \nregulations allow it.",
+      "source_page": 267,
+      "claim_type": "target",
+      "scope": null,
+      "material": "rPET",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": 50,
+      "claim_id": "danone_2023_02a4ecd36deb",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone actively participates in co-creating the future of \nreuse:\nó In France, the Group is collaborating closely with CITEO on the \nReUse program to establish a unified and nationwide \noperational reuse system for food packaging.",
+      "source_page": 267,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_7ba878216037",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone designs its packaging with a focus on ensuring \nrecyclability\nDanone strives to ensure that the materials it markets can be sorted \nand recycled in practice, by adapting them to local infrastructures. In \n2023, 84% of Danone packaging was reusable, recyclable and \ncompostable.",
+      "source_page": 267,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 84,
+      "claim_id": "danone_2023_f79c260d1984",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In the United States, Danone is a founding member of the \nCircular Action Alliance (CAA), an Extended Producer \nResponsibility (EPR) Organization selected to implement the EPR \nin Colorado and California. The Group also invested 5 million \ndollars in the Closed Loop Infrastructure Fund (CLIF) of Closed \nLoop Partners.",
+      "source_page": 267,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": "$",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 5000000,
+      "claim_id": "danone_2023_3adda076f659",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2018, Danone is committed to invest 15 million dollars in the Circulate Capital Ocean Fund (CCOF) in South and Southeast Asia, as part of the AQUA water brand's (Indonesia) commitment to recover more plastic by 2025 than what is used.",
+      "source_page": 268,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2025,
+      "value": null,
+      "claim_id": "danone_2023_1869098e5bd2",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2023, Danone joined the Circulate Capital initiative for Latin America and the Caribbean and committed an additional 15 million dollars to combat plastic pollution and develop the recycling value chain in the region.",
+      "source_page": 268,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2023,
+      "value": null,
+      "claim_id": "danone_2023_98f673e392c1",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In the Waters Category, the Group met its commitment to achieve an average of 25% rPET in 2020 and is aiming to reach an average of 50% by 2025 in countries where local standards and regulations allow it, thereby doubling its volumes of recycled materials from 2020.",
+      "source_page": 268,
+      "claim_type": "target",
+      "scope": null,
+      "material": "rPET",
+      "unit": "%",
+      "measurement_year": 2020,
+      "target_year": 2025,
+      "value": 50,
+      "claim_id": "danone_2023_2de1244d1806",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone extends the use of recycled materials to pots, launching PET pots containing 30% rPET in France and Belgium.",
+      "source_page": 268,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "rPET",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 30,
+      "claim_id": "danone_2023_fff839b7cf66",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone only uses recycled packaging that has been assessed and declared risk-free by the relevant authorities (EFSA, FDA).",
+      "source_page": 269,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_932ecf5163c2",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone has set up an in-house procedure involving further requirements and analysis to focus on substances that could be created during recycling. The aim is to ensure that the chosen packaging is risk-free for consumers.",
+      "source_page": 269,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastics",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_677dfc89aca5",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ Total packaging volumes: 1,393,759 metric tons, of which 693,156 metric tons of plastic.",
+      "source_page": 273,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "metric tons",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 693156,
+      "claim_id": "danone_2023_9dabd73cf57a",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ Absolute reduction of 8% in the use of plastic packaging between 2018 and 2023 (excluding EDP Russia).",
+      "source_page": 273,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 8,
+      "claim_id": "danone_2023_5638a286246b",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ In 2023, 58% of the plastic that the Group placed on the market was recovered (versus 56% in 2022).",
+      "source_page": 273,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 58,
+      "claim_id": "danone_2023_d469c2518dff",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ The recovery rate for plastic waste at Danone production sites amounted to 99% (compared to 98.2% in 2022).",
+      "source_page": 273,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 99,
+      "claim_id": "danone_2023_dc5b746141d5",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "14.6% recycled materials on average in its plastic packaging (compared with 11.9% in 2022).",
+      "source_page": 276,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 14.6,
+      "claim_id": "danone_2023_7b48779d000d",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "23.8% recycled PET (rPET) used on average by the Waters category (compared with 20.9% in 2022) and 31.3% in countries where local standards and regulations allow it (compared with 26.4% in 2022).",
+      "source_page": 276,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "PET",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 23.8,
+      "claim_id": "danone_2023_74c5e4e48d0c",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "16% reduction in the use of virgin fossil-based packaging between 2018 and 2023 (excluding EDP Russia); and 3% reduction between 2020 and 2023 (excluding EDP Russia).",
+      "source_page": 276,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "fossil-based packaging",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 16,
+      "claim_id": "danone_2023_5055743da206",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Packaging In 2023, packaging data was collected from all Danone production entities, representing 99% of its production volumes.",
+      "source_page": 292,
+      "claim_type": "collection_recycling",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 99,
+      "claim_id": "danone_2023_0e1c43a11a8a",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "The % recycled PET (rPET) indicator, used on average by the Waters Category in countries where local standards and regulations permit, is calculated excluding China and Turkey, where local regulations prohibit the use of recycled materials in plastic bottles.",
+      "source_page": 292,
+      "claim_type": "recycled_content",
+      "scope": "Waters Category",
+      "material": "PET (rPET)",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_8597d1e26507",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Calculations related to the recyclability rates of Danone packaging are based on the new definition of recyclability by type of packaging recommended by the Ellen MacArthur Foundation (EMF) for the circular economy. According to this methodology, packaging is considered recyclable if post-consumer collection, sorting, and recycling are proven to work in practice and at scale. This implies achieving a 30% post-consumer recycling rate in multiple regions, collectively representing at least 400 million inhabitants.",
+      "source_page": 295,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": 30,
+      "claim_id": "danone_2023_a9653f958f00",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ recycled components for glass: 50% worldwide\n■ recycled components for metal and aluminum: 40% worldwide.",
+      "source_page": 296,
+      "claim_type": "recycled_content",
+      "scope": null,
+      "material": "glass, metal, aluminum",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": null,
+      "value": 50,
+      "claim_id": "danone_2023_84020faead52",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "100% reusable, recyclable or compostable by 2030",
+      "source_page": 304,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": null,
+      "claim_id": "danone_2023_9cf2bdc16209",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "50% use of virgin fossil-based packaging by 2040 with a 30% reduction by 2030, accelerating reuse and recycled materials",
+      "source_page": 304,
+      "claim_type": "target",
+      "scope": null,
+      "material": "fossil-based",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2040,
+      "value": 50,
+      "claim_id": "danone_2023_179418c1c02b",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
     }
   ],
   "processed_pages": [
@@ -710,7 +1160,19 @@
     263,
     264,
     265,
-    266
+    266,
+    267,
+    268,
+    269,
+    273,
+    274,
+    276,
+    292,
+    295,
+    296,
+    302,
+    303,
+    304
   ],
   "runs": [
     {
@@ -1803,6 +2265,311 @@
       },
       "processed_pages": [
         266
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "In 2023, the Group achieved the following results:\n– 14.6% recycled materials on average in its plastic packaging \n(compared with 11.9% in 2022);",
+            "source_page": 267,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "plastic",
+            "unit": "%",
+            "measurement_year": 2023,
+            "target_year": null,
+            "value": 14.6
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "In 2023, the Group achieved the following results:\n– 23.8% recycled PET (rPET) used on average by the Waters category (compared with 20.9% in 2022) and 31.3% in \ncountries where local standards and regulations allow it \n(compared with 26.4% in 2022).",
+            "source_page": 267,
+            "claim_type": "recycled_content",
+            "scope": null,
+            "material": "rPET",
+            "unit": "%",
+            "measurement_year": 2023,
+            "target_year": null,
+            "value": 23.8
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2221,
+          "completion_tokens": 1453,
+          "total_tokens": 3674,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 40.97,
+        "timestamp": "2026-11-11T08:22:59.469191+00:00"
+      },
+      "processed_pages": [
+        267
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2187,
+          "completion_tokens": 512,
+          "total_tokens": 2699,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 15.09,
+        "timestamp": "2026-11-11T08:23:14.583046+00:00"
+      },
+      "processed_pages": [
+        268
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1981,
+          "completion_tokens": 219,
+          "total_tokens": 2200,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 7.09,
+        "timestamp": "2026-11-11T08:23:21.685591+00:00"
+      },
+      "processed_pages": [
+        269
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1741,
+          "completion_tokens": 463,
+          "total_tokens": 2204,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 13.41,
+        "timestamp": "2026-11-11T08:23:35.112357+00:00"
+      },
+      "processed_pages": [
+        273
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1549,
+          "completion_tokens": 10,
+          "total_tokens": 1559,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.11,
+        "timestamp": "2026-11-11T08:23:36.238583+00:00"
+      },
+      "processed_pages": [
+        274
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1620,
+          "completion_tokens": 401,
+          "total_tokens": 2021,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 11.58,
+        "timestamp": "2026-11-11T08:23:47.832108+00:00"
+      },
+      "processed_pages": [
+        276
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1659,
+          "completion_tokens": 239,
+          "total_tokens": 1898,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 7.39,
+        "timestamp": "2026-11-11T08:23:55.225530+00:00"
+      },
+      "processed_pages": [
+        292
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2441,
+          "completion_tokens": 183,
+          "total_tokens": 2624,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 6.52,
+        "timestamp": "2026-11-11T08:24:01.747842+00:00"
+      },
+      "processed_pages": [
+        295
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2225,
+          "completion_tokens": 115,
+          "total_tokens": 2340,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 4.59,
+        "timestamp": "2026-11-11T08:24:06.356611+00:00"
+      },
+      "processed_pages": [
+        296
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1265,
+          "completion_tokens": 12,
+          "total_tokens": 1277,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 0.94,
+        "timestamp": "2026-11-11T08:24:07.315666+00:00"
+      },
+      "processed_pages": [
+        302
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1489,
+          "completion_tokens": 12,
+          "total_tokens": 1501,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 1.03,
+        "timestamp": "2026-11-11T08:24:08.356109+00:00"
+      },
+      "processed_pages": [
+        303
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 1728,
+          "completion_tokens": 212,
+          "total_tokens": 1940,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 6.58,
+        "timestamp": "2026-11-11T08:24:14.956182+00:00"
+      },
+      "processed_pages": [
+        304
       ]
     }
   ],

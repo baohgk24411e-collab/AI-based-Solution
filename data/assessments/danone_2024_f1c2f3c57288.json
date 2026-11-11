@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đạt được một sự giảm 8% trong việc sử dụng nhựa hóa thạch nguyên sinh so với năm cơ sở 2020, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p228:c2",
+      "pdf_page": 228,
+      "quote": "Danone achieved a 8% reduction in the use of virgin fossil-based plastic packaging versus baseline 2020;"
+    }
+  ],
+  "claim_id": "danone_2024_f1c2f3c57288",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4008,
+      "completion_tokens": 127,
+      "total_tokens": 4135,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.77,
+    "timestamp": "2026-11-11T08:43:57.186005+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "ac5da592b8cdc6d3cad2204271d8f4ced3ed188a7fb296383d40d5249c60814d",
+  "retrieved_chunk_ids": [
+    "danone_2024:p228:c2",
+    "danone_2024:p244:c2",
+    "danone_2024:p246:c3",
+    "danone_2024:p357:c2",
+    "danone_2024:p351:c1"
+  ]
+}

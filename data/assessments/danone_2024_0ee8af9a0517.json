@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone hợp tác với các liên minh ngành công nghiệp, cộng đồng xã hội và chính phủ để phát triển hệ thống hiệu quả nhằm thu gom, tái sử dụng và tái chế bao bì. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p239:c3",
+      "pdf_page": 239,
+      "quote": "Danone also collaborates with industry alliances, civil society and governments to develop effective systems to collect, reuse and recycle packaging."
+    }
+  ],
+  "claim_id": "danone_2024_0ee8af9a0517",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3606,
+      "completion_tokens": 143,
+      "total_tokens": 3749,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.72,
+    "timestamp": "2026-11-11T08:43:26.067927+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "0e1fae1ba70d332c8251527fcdfe5f25f9ac7e044804ad6efadc5bebbb8cb10f",
+  "retrieved_chunk_ids": [
+    "danone_2024:p239:c3",
+    "danone_2024:p224:c3",
+    "danone_2024:p243:c2",
+    "danone_2024:p239:c2",
+    "danone_2024:p228:c1"
+  ]
+}

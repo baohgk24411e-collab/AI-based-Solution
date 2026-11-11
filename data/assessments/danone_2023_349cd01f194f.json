@@ -1,0 +1,50 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã cam kết lâu dài với việc thúc đẩy một tiếp cận vòng đời cho bao bì từ nhiều năm trước. Báo cáo nêu rõ Danone tham gia vào việc tạo ra hệ thống trách nhiệm sản xuất kéo dài (Eco-Emballages, nay là Citeo) tại Pháp từ năm 1992 và trở thành thương hiệu đầu tiên sử dụng PET tái chế cho nước khoáng tự nhiên tại Pháp vào năm 2008. Danone cũng đã cam kết đến năm 2030 sẽ có 100% bao bì tái sử dụng, tái chế hoặc phân hủy được.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p265:c2",
+      "pdf_page": 265,
+      "quote": "Danone has long been committed to promoting a circular approach to packaging."
+    },
+    {
+      "chunk_id": "danone_2023:p201:c1",
+      "pdf_page": 201,
+      "quote": "Danone has long been committed to promoting a circular approach to packaging."
+    },
+    {
+      "chunk_id": "danone_2023:p28:c2",
+      "pdf_page": 28,
+      "quote": "Building on challenges faced and the learnings gathered over the last years, while acknowledging the need to reduce greenhouse gas emissions related to packaging, in 2023, as part of our new sustainability strategy, Danone Impact Journey, the Group updated and reaffirmed its commitment to: ■ have 100% of its packaging to be reusable, recyclable, or compostable by 2030"
+    }
+  ],
+  "claim_id": "danone_2023_349cd01f194f",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3743,
+      "completion_tokens": 383,
+      "total_tokens": 4126,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 13.3,
+    "timestamp": "2026-11-11T08:30:12.057539+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "88457b1442029d54f245f273a6e3c8b9d1a0f495c5f1a7d5eeda228cb66149b6",
+  "retrieved_chunk_ids": [
+    "danone_2023:p265:c2",
+    "danone_2023:p201:c1",
+    "danone_2023:p268:c3",
+    "danone_2023:p201:c2",
+    "danone_2023:p28:c2"
+  ]
+}

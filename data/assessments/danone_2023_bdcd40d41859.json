@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về các mục tiêu và hành động của Danone nhằm giảm phát thải, bao gồm việc khuyến khích nhà cung cấp và nhà phân phối phụ thuộc để thiết lập mục tiêu SBTi. Mục tiêu cụ thể được đề cập trong báo cáo cho thấy Danone mong muốn có 90% nhà cung cấp chiến lược nhất của mình tuân thủ cam kết Net Zero 1.5°C SBTi vào năm 2030 và giảm phát thải FLAG của họ 30%.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p250:c1",
+      "pdf_page": 250,
+      "quote": "Danone encourages its Suppliers and Subcontractors to set SBTi targets, including those who do not yet have deforestation and conversion targets. Danone aims to have its most strategic Suppliers and Subcontractors align with the 1.5°C SBTi Net Zero emission commitment and commit to a 30% reduction in their FLAG emissions within Danone's supply chains by 2030."
+    }
+  ],
+  "claim_id": "danone_2023_bdcd40d41859",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3857,
+      "completion_tokens": 264,
+      "total_tokens": 4121,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 10.25,
+    "timestamp": "2026-11-11T08:28:52.924090+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "9f871aff55ebe88ebcb204fd3c8bd8678b0bbdac7dedf4df5b30f5e0794afb63",
+  "retrieved_chunk_ids": [
+    "danone_2023:p250:c1",
+    "danone_2023:p181:c1",
+    "danone_2023:p260:c1",
+    "danone_2023:p258:c1",
+    "danone_2023:p258:c2"
+  ]
+}

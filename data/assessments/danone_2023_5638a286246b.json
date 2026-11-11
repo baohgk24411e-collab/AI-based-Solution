@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về giảm sử dụng bao bì nhựa tuyệt đối từ năm 2018 đến 2023. Dữ liệu chỉ được đề cập trong một số phần của báo cáo, nhưng không có thông tin chính xác về giảm 8%.",
+  "flags": [
+    "数据不具体"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p273:c1",
+      "pdf_page": 273,
+      "quote": "■ Absolute reduction of 8% in the use of plastic packaging between 2018 and 2023 (excluding EDP Russia)."
+    }
+  ],
+  "claim_id": "danone_2023_5638a286246b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4438,
+      "completion_tokens": 157,
+      "total_tokens": 4595,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.92,
+    "timestamp": "2026-11-11T08:33:00.471524+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "a253aca1d00520cff105ba7826d77819365d6b65b5c952a0ee4a461853c0a940",
+  "retrieved_chunk_ids": [
+    "danone_2023:p273:c1",
+    "danone_2023:p266:c2",
+    "danone_2023:p261:c1",
+    "danone_2023:p201:c3",
+    "danone_2023:p267:c2"
+  ]
+}

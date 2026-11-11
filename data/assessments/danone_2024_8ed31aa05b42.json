@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Danone mở rộng thành công và sáng tạo nền tảng kem lạnh cho các thương hiệu Silk và Dunkin tại Mỹ vào năm 2024.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p55:c1",
+      "pdf_page": 55,
+      "quote": "In the United States, Danone expanded the successful and innovative platform of cold foam creamers to Silk and Dunkin brands."
+    }
+  ],
+  "claim_id": "danone_2024_8ed31aa05b42",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3588,
+      "completion_tokens": 115,
+      "total_tokens": 3703,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 5.95,
+    "timestamp": "2026-11-11T08:41:11.459077+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "5d5ea156adb64c976b31ed104069a4935d18a5da38535bb220ac304688be38a2",
+  "retrieved_chunk_ids": [
+    "danone_2024:p55:c1",
+    "danone_2024:p54:c2",
+    "danone_2024:p21:c1",
+    "danone_2024:p352:c2",
+    "danone_2024:p422:c1"
+  ]
+}

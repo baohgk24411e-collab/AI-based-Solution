@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin chi tiết về các nỗ lực của Danone trong việc giảm sử dụng bao bì nhựa, cải thiện tính tái chế của nhựa không thể loại bỏ và phục hồi những gì không được giữ trong chu trình. Các mục tiêu cụ thể như 100% bao bì tái sử dụng, tái chế hoặc phân hủy sinh học vào năm 2030 cũng được đề cập.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p228:c1",
+      "pdf_page": 228,
+      "quote": "Danone has been working for many years to reduce the use of plastic packaging, improve the circularity of plastics that cannot be eliminated to date, and recover what is not kept in circulation, as well as collaborating with industry alliances, civil society and governments to develop effective systems to collect, reuse and recycle packaging."
+    }
+  ],
+  "claim_id": "danone_2024_cf3d5dee1b21",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3665,
+      "completion_tokens": 196,
+      "total_tokens": 3861,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.25,
+    "timestamp": "2026-11-11T08:43:19.288846+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "66696af4c4f47cebc97a5630b48e218ae87cec161674496493fb9023211d5ff1",
+  "retrieved_chunk_ids": [
+    "danone_2024:p228:c1",
+    "danone_2024:p224:c3",
+    "danone_2024:p244:c1",
+    "danone_2024:p243:c2",
+    "danone_2024:p357:c1"
+  ]
+}

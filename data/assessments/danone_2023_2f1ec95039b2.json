@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đánh giá dấu chân bao bì hàng năm theo thể tích sản phẩm được bán và sử dụng các KPI môi trường cho mỗi quốc gia và loại bao bì. Các KPI này bao gồm tỷ lệ tái chế, tỷ lệ tái chế thực tế, nội dung tái chế và khí thải nhà kính.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p200:c2",
+      "pdf_page": 200,
+      "quote": "Danone’s packaging footprint is assessed annually in terms of volumes marketed and using environmental Key Performance Indicators (KPIs) calculated for each country and for each type of packaging. These environmental KPIs include packaging recyclability rates, actual recycling rates, recycled content use and greenhouse gas emissions."
+    }
+  ],
+  "claim_id": "danone_2023_2f1ec95039b2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3772,
+      "completion_tokens": 192,
+      "total_tokens": 3964,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.2,
+    "timestamp": "2026-11-11T08:25:55.910168+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "eb336c06d71f0b002095cab6252b3f6cde2ff9736673c7e936f572af72608921",
+  "retrieved_chunk_ids": [
+    "danone_2023:p200:c2",
+    "danone_2023:p266:c1",
+    "danone_2023:p200:c3",
+    "danone_2023:p266:c2",
+    "danone_2023:p295:c3"
+  ]
+}

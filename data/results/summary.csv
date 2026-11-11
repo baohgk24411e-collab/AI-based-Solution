@@ -5,8 +5,8 @@ nestle_2023,Nestlé,2023,lmstudio,qwen2.5-7b-instruct,89,20,20,38,3,20,17,0,0,0,
 nestle_2024,Nestlé,2024,lmstudio,qwen2.5-7b-instruct,50,6,6,7,7,5,2,0,0,0,0
 danone_2021,Danone,2021,lmstudio,qwen2.5-7b-instruct,345,25,25,27,9,15,8,0,0,0,4
 danone_2022,Danone,2022,lmstudio,qwen2.5-7b-instruct,345,30,30,34,7,20,6,0,0,1,7
-danone_2023,Danone,2023,lmstudio,qwen2.5-7b-instruct,421,56,31,21,2,0,0,0,0,0,21
-danone_2024,Danone,2024,,,494,63,0,0,0,0,0,0,0,0,0
+danone_2023,Danone,2023,lmstudio,qwen2.5-7b-instruct,421,56,55,62,9,42,6,0,0,0,14
+danone_2024,Danone,2024,lmstudio,qwen2.5-7b-instruct,494,63,63,75,10,34,8,0,0,0,33
 cocacola_2022,The Coca-Cola Company,2022,,,88,29,0,0,0,0,0,0,0,0,0
 cocacola_2023,The Coca-Cola Company,2023,lmstudio,qwen2.5-7b-instruct,12,3,3,11,1,4,1,0,0,0,6
 cocacola_2024,The Coca-Cola Company,2024,lmstudio,qwen2.5-7b-instruct,14,5,5,9,7,5,1,0,0,0,3

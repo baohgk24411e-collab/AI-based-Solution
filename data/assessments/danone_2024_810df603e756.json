@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã giảm sử dụng bao bì nhựa tuyệt đối từ năm 2020 đến 2024 là 2%, phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p351:c1",
+      "pdf_page": 351,
+      "quote": "■ 2% absolute reduction in the use of plastic packaging between 2020 and 2024;"
+    }
+  ],
+  "claim_id": "danone_2024_810df603e756",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4318,
+      "completion_tokens": 119,
+      "total_tokens": 4437,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.84,
+    "timestamp": "2026-11-11T08:49:09.629193+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "6392f0a19a3c20ec6de96d11029a926009ed8741a4cf2a152b1b3b805f136339",
+  "retrieved_chunk_ids": [
+    "danone_2024:p351:c1",
+    "danone_2024:p357:c2",
+    "danone_2024:p365:c1",
+    "danone_2024:p244:c2",
+    "danone_2024:p214:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone chỉ sử dụng nhựa tái chế đã được đánh giá và xác nhận là an toàn bởi các cơ quan có thẩm quyền (EFSA, FDA). Điều này phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p269:c3",
+      "pdf_page": 269,
+      "quote": "case of recycled plastics, Danone only uses recycled packaging that has been assessed and declared risk-free by the relevant authorities (EFSA, FDA)."
+    }
+  ],
+  "claim_id": "danone_2023_932ecf5163c2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3516,
+      "completion_tokens": 125,
+      "total_tokens": 3641,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.2,
+    "timestamp": "2026-11-11T08:32:38.181312+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "56ded02dd465fb0b5ef2884fedff856763d5acb902421762825dcc5b2f0e32dc",
+  "retrieved_chunk_ids": [
+    "danone_2023:p269:c3",
+    "danone_2023:p269:c2",
+    "danone_2023:p265:c2",
+    "danone_2023:p201:c1",
+    "danone_2023:p255:c1"
+  ]
+}

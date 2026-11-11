@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận rằng nhựa chiếm khoảng 50% tổng lượng bao bì của Danone và đã trở thành tiêu chuẩn cho thực phẩm và đồ uống.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p239:c2",
+      "pdf_page": 239,
+      "quote": "Plastic packaging, which accounts for about 50% of Danone's total packaging volume, has notably become the standard for food and beverages."
+    }
+  ],
+  "claim_id": "danone_2024_51d18991b03a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3820,
+      "completion_tokens": 114,
+      "total_tokens": 3934,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.23,
+    "timestamp": "2026-11-11T08:44:10.307149+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "d082ab520b6b00e1f565b3ed312cb3478c58c4a2a75c6f9b9758151ba357fb85",
+  "retrieved_chunk_ids": [
+    "danone_2024:p243:c2",
+    "danone_2024:p239:c2",
+    "danone_2024:p354:c1",
+    "danone_2024:p32:c1",
+    "danone_2024:p174:c1"
+  ]
+}

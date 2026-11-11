@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu giảm sử dụng bao bì từ nguyên liệu hóa thạch mới một nửa vào năm 2040 và giảm 30% vào năm 2030 so với năm 2020 (trừ EDP Russia) bằng cách tăng tái chế và tái sử dụng. Các đoạn trích trong báo cáo đều xác nhận mục tiêu này.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p265:c3",
+      "pdf_page": 265,
+      "quote": "■ halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 from a 2020 base year excluding EDP Russia by accelerating materials reuse and recycling;"
+    }
+  ],
+  "claim_id": "danone_2023_82fcf0004cb7",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4108,
+      "completion_tokens": 197,
+      "total_tokens": 4305,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.64,
+    "timestamp": "2026-11-11T08:30:35.161996+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "eef933c871c148435434e3b0019a2e8db797696963b213abbf859908459b33b6",
+  "retrieved_chunk_ids": [
+    "danone_2023:p265:c3",
+    "danone_2023:p265:c2",
+    "danone_2023:p261:c1",
+    "danone_2023:p267:c2",
+    "danone_2023:p201:c2"
+  ]
+}

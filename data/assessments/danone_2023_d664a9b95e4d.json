@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc Danone đang làm để đảm bảo rằng các vật liệu được đưa ra thị trường có thể được phân loại và tái chế thực tế, điều chỉnh chúng theo cơ sở hạ tầng địa phương. Báo cáo cũng nêu rõ rằng 84% bao bì của Danone trong năm 2023 là tái sử dụng, tái chế hoặc phân hủy (stabile so với năm 2022).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p202:c2",
+      "pdf_page": 202,
+      "quote": "Danone is working to ensure that the materials put on the market can be sorted and recycled in practice, adapting them to local infrastructure. In 2023, 84% of Danone’s packaging was reusable, recyclable, or compostable (stable versus 2022)."
+    }
+  ],
+  "claim_id": "danone_2023_d664a9b95e4d",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4091,
+      "completion_tokens": 213,
+      "total_tokens": 4304,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.17,
+    "timestamp": "2026-11-11T08:26:12.913568+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "cb48ed57b5139e166a6e04dafedc2eec38becea9cf0fde3f416d77a561424fea",
+  "retrieved_chunk_ids": [
+    "danone_2023:p202:c2",
+    "danone_2023:p267:c1",
+    "danone_2023:p261:c1",
+    "danone_2023:p265:c3",
+    "danone_2023:p28:c2"
+  ]
+}

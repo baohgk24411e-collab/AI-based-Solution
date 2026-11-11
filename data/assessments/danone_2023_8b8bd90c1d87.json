@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đạt được 14.6% vật liệu tái chế trong bao bì nhựa vào năm 2023 (so với 11.9% vào năm 2022), phù hợp với tuyên bố.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p202:c2",
+      "pdf_page": 202,
+      "quote": "In 2023, the Group achieved 14.6% recycled materials on average in its plastic packaging (versus 11.9% in 2022);"
+    }
+  ],
+  "claim_id": "danone_2023_8b8bd90c1d87",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4461,
+      "completion_tokens": 149,
+      "total_tokens": 4610,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.72,
+    "timestamp": "2026-11-11T08:26:03.672477+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "6f7b032f7e7277618691996cae9c7a671dc6ef32ab680dec8454144435730b0b",
+  "retrieved_chunk_ids": [
+    "danone_2023:p202:c2",
+    "danone_2023:p267:c2",
+    "danone_2023:p261:c1",
+    "danone_2023:p276:c1",
+    "danone_2023:p266:c2"
+  ]
+}

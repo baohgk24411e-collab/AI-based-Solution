@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về việc sử dụng PET tái chế (rPET) đạt 23.8% trong danh mục nước uống vào năm 2023, so với 20.9% vào năm 2022, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p276:c1",
+      "pdf_page": 276,
+      "quote": "23.8% recycled PET (rPET) used on average by the Waters category (compared with 20.9% in 2022)"
+    }
+  ],
+  "claim_id": "danone_2023_74c5e4e48d0c",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4262,
+      "completion_tokens": 168,
+      "total_tokens": 4430,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.03,
+    "timestamp": "2026-11-11T08:33:30.864388+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "305e6db1eca177702e0d4305581b666692780492a085dd59565d168b73ca4121",
+  "retrieved_chunk_ids": [
+    "danone_2023:p267:c2",
+    "danone_2023:p202:c2",
+    "danone_2023:p261:c1",
+    "danone_2023:p276:c1",
+    "danone_2023:p203:c3"
+  ]
+}

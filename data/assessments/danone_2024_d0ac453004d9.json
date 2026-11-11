@@ -1,0 +1,52 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo của Danone xác nhận mục tiêu phát triển hệ thống thu gom hiệu quả để tái chế lượng nhựa sử dụng bằng năm 2040. Các đoạn văn bản trong báo cáo đều đề cập đến cùng một mục tiêu này.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p356:c2",
+      "pdf_page": 356,
+      "quote": "lead the development of effective collection systems to recover as much plastic as Danone uses by 2040."
+    },
+    {
+      "chunk_id": "danone_2024:p228:c1",
+      "pdf_page": 228,
+      "quote": "lead the development of effective collection systems to recover as much plastic as Danone uses by 2040."
+    },
+    {
+      "chunk_id": "danone_2024:p32:c2",
+      "pdf_page": 32,
+      "quote": "lead the development of effective collection systems to recover as much plastic as the Group uses by 2040."
+    }
+  ],
+  "claim_id": "danone_2024_d0ac453004d9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3898,
+      "completion_tokens": 242,
+      "total_tokens": 4140,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.72,
+    "timestamp": "2026-11-11T08:41:05.430027+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "c6e94ea149d3f8ead77e5bac2120fe88139970acc5aa8a6f535ab990bd6cd194",
+  "retrieved_chunk_ids": [
+    "danone_2024:p356:c2",
+    "danone_2024:p228:c1",
+    "danone_2024:p243:c3",
+    "danone_2024:p246:c2",
+    "danone_2024:p32:c2"
+  ]
+}

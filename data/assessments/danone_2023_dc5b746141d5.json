@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế rác thải nhựa tại các cơ sở sản xuất của Danone trong năm 2023. Chỉ có số liệu cho năm 2022 được đề cập.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p273:c1",
+      "pdf_page": 273,
+      "quote": "■ The recovery rate for plastic waste at Danone production sites amounted to 99% (compared to 98.2% in 2022)."
+    }
+  ],
+  "claim_id": "danone_2023_dc5b746141d5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4213,
+      "completion_tokens": 135,
+      "total_tokens": 4348,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.14,
+    "timestamp": "2026-11-11T08:33:15.083800+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "7bb8f73b732ea7654d8944d51d0f774cc52f180812b6bd1dc958fc8375fcacd8",
+  "retrieved_chunk_ids": [
+    "danone_2023:p273:c1",
+    "danone_2023:p204:c1",
+    "danone_2023:p265:c1",
+    "danone_2023:p292:c1",
+    "danone_2023:p296:c2"
+  ]
+}

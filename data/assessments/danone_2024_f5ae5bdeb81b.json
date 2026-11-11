@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về các chỉ số KPI môi trường bao gồm tỷ lệ tái chế nhựa, tỷ lệ thực tế tái chế, sử dụng nội dung tái chế và khí thải nhà kính. Điều này được đề cập trong đoạn văn trên trang 239: 'These environmental KPIs include metrics on packaging recyclability rates, actual recycling rates, use of recycled content, and greenhouse gas emissions;'",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p239:c3",
+      "pdf_page": 239,
+      "quote": "These environmental KPIs include metrics on packaging recyclability rates, actual recycling rates, use of recycled content, and greenhouse gas emissions;"
+    }
+  ],
+  "claim_id": "danone_2024_f5ae5bdeb81b",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3741,
+      "completion_tokens": 172,
+      "total_tokens": 3913,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.7,
+    "timestamp": "2026-11-11T08:44:25.622672+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "df293560a2d9a9fd0e18d870e0ab72da501534094827a4a8cf09ab65d3e3f52e",
+  "retrieved_chunk_ids": [
+    "danone_2024:p239:c3",
+    "danone_2024:p357:c1",
+    "danone_2024:p357:c2",
+    "danone_2024:p32:c2",
+    "danone_2024:p330:c2"
+  ]
+}

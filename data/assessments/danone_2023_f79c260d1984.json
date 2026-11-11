@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2023, 84% bao bì của Danone là tái sử dụng được, tái chế được hoặc phân hủy sinh học. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p267:c1",
+      "pdf_page": 267,
+      "quote": "In 2023, 84% of Danone packaging was reusable, recyclable and compostable."
+    }
+  ],
+  "claim_id": "danone_2023_f79c260d1984",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4073,
+      "completion_tokens": 127,
+      "total_tokens": 4200,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.72,
+    "timestamp": "2026-11-11T08:31:40.935928+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "ad564bf6e7276c2212549d2ed0764a825a05f249284bb7d8ac232ebb4f1ab506",
+  "retrieved_chunk_ids": [
+    "danone_2023:p267:c1",
+    "danone_2023:p202:c2",
+    "danone_2023:p261:c1",
+    "danone_2023:p265:c3",
+    "danone_2023:p201:c2"
+  ]
+}

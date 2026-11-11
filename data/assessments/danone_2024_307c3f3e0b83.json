@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone có mục tiêu đạt 100% bao bì tái sử dụng, tái chế hoặc phân hủy được vào năm 2030 và thu hồi lượng nhựa tương đương với lượng nhựa mà Danone sử dụng vào năm 2040. Đây trùng khớp với tuyên bố của công ty.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p214:c1",
+      "pdf_page": 214,
+      "quote": "Danone aims to reach 100% recyclable, reusable or compostable packaging by 2030 and to recover as much plastic as Danone uses by 2040."
+    }
+  ],
+  "claim_id": "danone_2024_307c3f3e0b83",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4060,
+      "completion_tokens": 170,
+      "total_tokens": 4230,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.88,
+    "timestamp": "2026-11-11T08:42:27.757834+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "e32776bb9284cb16dc906e1776b060bf5cc7baab63dca1be02ff08b0da38d49b",
+  "retrieved_chunk_ids": [
+    "danone_2024:p356:c2",
+    "danone_2024:p214:c1",
+    "danone_2024:p351:c1",
+    "danone_2024:p228:c1",
+    "danone_2024:p171:c2"
+  ]
+}

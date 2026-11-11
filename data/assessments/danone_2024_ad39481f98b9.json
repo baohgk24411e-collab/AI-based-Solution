@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về tỷ lệ nội dung tái chế trong bao bì là 37.4% (522,464 ktons) và tỷ lệ nội dung tái chế trong bao bì nhựa là 16.8% (112,324 ktons). Những con số này được trích dẫn từ trang 251 của báo cáo Danone năm 2024.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p251:c1",
+      "pdf_page": 251,
+      "quote": "Recycled content in packaging 37.4% 522,464 ktons\no/w recycled content in plastic packaging 16.8% 112,324 ktons"
+    }
+  ],
+  "claim_id": "danone_2024_ad39481f98b9",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4181,
+      "completion_tokens": 196,
+      "total_tokens": 4377,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.81,
+    "timestamp": "2026-11-11T08:47:25.611243+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "7ae36cd8897875d5dae2fe7516b9523959e36e30cdd25758a9ca9996cdc2dfd5",
+  "retrieved_chunk_ids": [
+    "danone_2024:p251:c1",
+    "danone_2024:p228:c2",
+    "danone_2024:p214:c1",
+    "danone_2024:p351:c1",
+    "danone_2024:p357:c2"
+  ]
+}

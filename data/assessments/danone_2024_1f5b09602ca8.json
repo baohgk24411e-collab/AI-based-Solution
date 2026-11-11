@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Danone tham gia vào Consumer Goods Forum Plastic Waste Coalition of Action, một tổ chức có mục tiêu thiết lập chuẩn mực và sắp xếp ngành công nghiệp để cải thiện thu gom và tái chế nhựa.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p334:c1",
+      "pdf_page": 334,
+      "quote": "■ Participation in the Consumer Goods Forum Plastic Waste Coalition of Action, which aims to set standards and align the industry to improve plastic collection and recycling."
+    }
+  ],
+  "claim_id": "danone_2024_1f5b09602ca8",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3761,
+      "completion_tokens": 128,
+      "total_tokens": 3889,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.53,
+    "timestamp": "2026-11-11T08:48:39.537654+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "27327e787d1d5708c2915a71e82561fc4cd069766031f528d90a0281fda61699",
+  "retrieved_chunk_ids": [
+    "danone_2024:p334:c1",
+    "danone_2024:p240:c1",
+    "danone_2024:p354:c2",
+    "danone_2024:p317:c1",
+    "danone_2024:p245:c1"
+  ]
+}

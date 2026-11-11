@@ -1,0 +1,47 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu về tỷ lệ tái chế rác thải công nghiệp trong năm 2023 như tuyên bố. Dữ liệu chỉ có cho các năm trước đó.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p204:c1",
+      "pdf_page": 204,
+      "quote": "Proportion of packaging industrial waste recovered 98.4% 99.0% 99.0%"
+    },
+    {
+      "chunk_id": "danone_2023:p273:c1",
+      "pdf_page": 273,
+      "quote": "In 2023, 58% of the plastic that the Group placed on the market was recovered (versus 56% in 2022)."
+    }
+  ],
+  "claim_id": "danone_2023_7d362205b445",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4700,
+      "completion_tokens": 198,
+      "total_tokens": 4898,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 9.25,
+    "timestamp": "2026-11-11T08:27:19.386985+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "e8dd7779240c84e1328991189ffcbd9cc4eee4e74bdf3b27aca4a8ca4132f035",
+  "retrieved_chunk_ids": [
+    "danone_2023:p204:c1",
+    "danone_2023:p303:c1",
+    "danone_2023:p205:c1",
+    "danone_2023:p273:c1",
+    "danone_2023:p184:c1"
+  ]
+}

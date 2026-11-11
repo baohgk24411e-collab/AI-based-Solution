@@ -1,0 +1,47 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến mục tiêu 85% bao bì tái sử dụng, tái chế hoặc phân hủy trong năm 2030, phù hợp với tuyên bố của công ty. Các đoạn trích từ trang 171 và 356 của báo cáo đều xác nhận mục tiêu này.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p171:c2",
+      "pdf_page": 171,
+      "quote": "100% reusable, recyclable or compostable by 2030 85 %"
+    },
+    {
+      "chunk_id": "danone_2024:p356:c2",
+      "pdf_page": 356,
+      "quote": "100% reusable, recyclable or compostable packaging by 2030"
+    }
+  ],
+  "claim_id": "danone_2024_9d2d8fbb33c4",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4390,
+      "completion_tokens": 195,
+      "total_tokens": 4585,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.88,
+    "timestamp": "2026-11-11T08:42:04.187632+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "81b549d2e7b5feb804fed5e6d9f908fda8c54219c6d2f560803f8280cccd7607",
+  "retrieved_chunk_ids": [
+    "danone_2024:p171:c2",
+    "danone_2024:p171:c1",
+    "danone_2024:p214:c1",
+    "danone_2024:p356:c2",
+    "danone_2024:p351:c1"
+  ]
+}

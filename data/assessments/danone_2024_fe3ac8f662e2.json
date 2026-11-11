@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc harmonization của các ly chua kem tại Mỹ đã cải thiện khả năng tái chế như thế nào. Chỉ đề cập đến mục tiêu tổng quát về tái chế 100% bao bì vào năm 2030.",
+  "flags": [
+    "缺少具体证据"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p55:c1",
+      "pdf_page": 55,
+      "quote": "In the United States, another big project was the harmonization of the yogurt cups for lightweighting and design for recyclability."
+    }
+  ],
+  "claim_id": "danone_2024_fe3ac8f662e2",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3842,
+      "completion_tokens": 148,
+      "total_tokens": 3990,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.11,
+    "timestamp": "2026-11-11T08:41:18.593214+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "6010c1f197c659efc3e02a71f42540599ea933b3f3f57d3403857d627bd8ff0a",
+  "retrieved_chunk_ids": [
+    "danone_2024:p55:c1",
+    "danone_2024:p245:c1",
+    "danone_2024:p54:c2",
+    "danone_2024:p358:c2",
+    "danone_2024:p214:c1"
+  ]
+}

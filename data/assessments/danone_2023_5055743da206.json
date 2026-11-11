@@ -1,0 +1,42 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về giảm sử dụng bao bì từ nguồn nhiên liệu hóa thạch virgin giữa năm 2018 và 2023, ngoại trừ EDP Russia. Các thông tin chỉ được đề cập chung chung mà không có số liệu chính xác.",
+  "flags": [
+    "missing_data"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p267:c2",
+      "pdf_page": 267,
+      "quote": "16% reduction in the use of virgin fossil-based packaging between 2018 and 2023 (excluding EDP Russia); and a 3% reduction between 2020 and 2023 (excluding EDP Russia)."
+    }
+  ],
+  "claim_id": "danone_2023_5055743da206",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4238,
+      "completion_tokens": 181,
+      "total_tokens": 4419,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.44,
+    "timestamp": "2026-11-11T08:33:39.349994+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "741ed90a01bbc22fc9f38e70c5e5d19f58893497016ecb65848a41ddae5bb478",
+  "retrieved_chunk_ids": [
+    "danone_2023:p273:c1",
+    "danone_2023:p261:c1",
+    "danone_2023:p266:c3",
+    "danone_2023:p267:c2",
+    "danone_2023:p266:c2"
+  ]
+}

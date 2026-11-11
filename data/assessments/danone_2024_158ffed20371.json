@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về các nỗ lực của Danone nhằm đảm bảo rằng các vật liệu được đưa ra thị trường có thể được phân loại và tái chế, xem xét cơ sở hạ tầng hiện tại. Các ví dụ bao gồm việc điều chỉnh thiết kế bao bì để cải thiện khả năng phân loại, sử dụng mực mới để cải thiện tái chế của hộp carton đen, và các nỗ lực khác như tham gia vào các liên minh ngành công nghiệp (Ceflex, Consumer Goods Forum Golden Design Rules).",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p245:c1",
+      "pdf_page": 245,
+      "quote": "Danone is working to ensure that the materials put on the market can be sorted and recycled, considering existing local infrastructure."
+    }
+  ],
+  "claim_id": "danone_2024_158ffed20371",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4017,
+      "completion_tokens": 196,
+      "total_tokens": 4213,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 8.67,
+    "timestamp": "2026-11-11T08:46:10.971448+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "022ac118c6e0abbcfb8c0a914795d5fd174fefa4e042934843d72eefee9fe23f",
+  "retrieved_chunk_ids": [
+    "danone_2024:p245:c1",
+    "danone_2024:p358:c2",
+    "danone_2024:p214:c1",
+    "danone_2024:p359:c1",
+    "danone_2024:p228:c2"
+  ]
+}

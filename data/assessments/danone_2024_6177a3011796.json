@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về mức độ tăng cường của Danone Impact Journey trong năm 2024 liên quan đến tái chế. Chỉ có thông tin chung về các nỗ lực tái chế và giảm sử dụng nhựa nguyên sinh, nhưng không đề cập đến mục tiêu cụ thể cho năm 2024.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p55:c1",
+      "pdf_page": 55,
+      "quote": "In 2024, Research and Innovation Waters Category was dedicated to advancing Danone Impact Journey commitments toward decarbonization, increased recyclability, and reducing the use of virgin fossil-based packaging."
+    }
+  ],
+  "claim_id": "danone_2024_6177a3011796",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4006,
+      "completion_tokens": 158,
+      "total_tokens": 4164,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.5,
+    "timestamp": "2026-11-11T08:41:46.707741+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "a26adefde9331f4051781d4dd6604960644ee2a2142cb58b87feae0f35271f1c",
+  "retrieved_chunk_ids": [
+    "danone_2024:p55:c1",
+    "danone_2024:p55:c2",
+    "danone_2024:p228:c2",
+    "danone_2024:p357:c2",
+    "danone_2024:p356:c2"
+  ]
+}

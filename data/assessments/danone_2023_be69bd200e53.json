@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đang hướng tới mục tiêu tất cả bao bì được thiết kế để tái sử dụng, tái chế hoặc phân hủy sinh học một cách an toàn. Điều này tương đồng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p200:c2",
+      "pdf_page": 200,
+      "quote": "This means all packaging is designed to be safely reused, recycled or composted and in a way that the materials used by Danone could stay in the economy and never become waste or pollution."
+    }
+  ],
+  "claim_id": "danone_2023_be69bd200e53",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3860,
+      "completion_tokens": 135,
+      "total_tokens": 3995,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.73,
+    "timestamp": "2026-11-11T08:25:47.662238+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "b8a5a691a4a3359dbf552efa68043cd0cec342638ff96bcfefb58dc446f1768e",
+  "retrieved_chunk_ids": [
+    "danone_2023:p200:c2",
+    "danone_2023:p28:c1",
+    "danone_2023:p28:c2",
+    "danone_2023:p265:c1",
+    "danone_2023:p268:c2"
+  ]
+}

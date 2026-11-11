@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin về tổng lượng bao bì nhựa là 693,156 tấn trong năm 2023, phù hợp với tuyên bố của công ty. Tuy nhiên, báo cáo không cung cấp thêm thông tin về tỷ lệ tái chế.",
+  "flags": [
+    "无进一步的回收率信息"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p273:c1",
+      "pdf_page": 273,
+      "quote": "■ Total packaging volumes: 1,393,759 metric tons, of which 693,156 metric tons of plastic."
+    }
+  ],
+  "claim_id": "danone_2023_9dabd73cf57a",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4333,
+      "completion_tokens": 160,
+      "total_tokens": 4493,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.92,
+    "timestamp": "2026-11-11T08:32:52.501445+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "81d4e164c9ea0148aaf1cc17880580fc88e30d71b6c002838008ea094986e34c",
+  "retrieved_chunk_ids": [
+    "danone_2023:p266:c2",
+    "danone_2023:p201:c3",
+    "danone_2023:p266:c1",
+    "danone_2023:p273:c1",
+    "danone_2023:p204:c1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Danone dự định cập nhật chính sách bao bì vào năm 2024 để phản ánh các mục tiêu và lộ trình của mình về bao bì. Điều này được nêu rõ trong đoạn văn trên trang 242.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p242:c1",
+      "pdf_page": 242,
+      "quote": "In 2024, Danone plans to update its Packaging Policy to reflect its packaging ambitions and roadmap."
+    }
+  ],
+  "claim_id": "danone_2023_ee2ef7e34454",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3692,
+      "completion_tokens": 139,
+      "total_tokens": 3831,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.7,
+    "timestamp": "2026-11-11T08:28:08.434378+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "1b261d09d43b486be35340660f50ee494f2464f61aab4b7ab9ead707a2375e0f",
+  "retrieved_chunk_ids": [
+    "danone_2023:p242:c1",
+    "danone_2023:p266:c1",
+    "danone_2023:p323:c2",
+    "danone_2023:p327:c2",
+    "danone_2023:p327:c1"
+  ]
+}

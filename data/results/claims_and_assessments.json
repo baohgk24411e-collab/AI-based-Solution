@@ -3733,9 +3733,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone có mục tiêu thiết kế bao bì để tái sử dụng, tái chế hoặc phân hủy sinh học vào năm 2030. Điều này được đề cập trong nhiều đoạn văn khác nhau của báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p28:c2",
+        "pdf_page": 28,
+        "quote": "■ have 100% of its packaging to be reusable, recyclable, or compostable by 2030;"
+      }
+    ]
   },
   {
     "claim_text": "halve the use of virgin fossil-based packaging by 2040, with 30% reduction by 2030, accelerating reuse and recycled materials;",
@@ -3838,9 +3844,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về mục tiêu giảm sử dụng bao bì nhựa nguyên sinh từ năm tài chính 2020 với tỷ lệ 50% vào năm 2040 và 30% vào năm 2030, phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p182:c1",
+        "pdf_page": 182,
+        "quote": "The Group is targeting a 50% reduction in the use of virgin fossil-based packaging by 2040, with an interim goal of a 30% reduction by 2030 from a FY2020 baseline."
+      }
+    ]
   },
   {
     "claim_text": "Danone expects to have maintained 99% of paper and board packaging made of recycled fibers or virgin certified (FSC, PEFC, SFI) fibers.",
@@ -3859,9 +3871,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận rằng họ dự kiến sẽ duy trì 99% bao bì giấy và carton được làm từ sợi tái chế hoặc sợi tự nhiên đã chứng nhận (FSC, PEFC, SFI). Điều này tương đồng với tuyên bố trong báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p199:c1",
+        "pdf_page": 199,
+        "quote": "Danone expects to have maintained 99% of paper and board packaging made of recycled fibers or virgin certified (FSC, PEFC, SFI) fibers."
+      }
+    ]
   },
   {
     "claim_text": "This means all packaging is designed to be safely reused, recycled or composted and in a way that the materials used by Danone could stay in the economy and never become waste or pollution.",
@@ -3880,9 +3898,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đang hướng tới mục tiêu tất cả bao bì được thiết kế để tái sử dụng, tái chế hoặc phân hủy sinh học một cách an toàn. Điều này tương đồng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p200:c2",
+        "pdf_page": 200,
+        "quote": "This means all packaging is designed to be safely reused, recycled or composted and in a way that the materials used by Danone could stay in the economy and never become waste or pollution."
+      }
+    ]
   },
   {
     "claim_text": "Danone’s packaging footprint is assessed annually in terms of volumes marketed and using environmental Key Performance Indicators (KPIs) calculated for each country and for each type of packaging. These environmental KPIs include packaging recyclability rates, actual recycling rates, recycled content use and greenhouse gas emissions.",
@@ -3901,9 +3925,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đánh giá dấu chân bao bì hàng năm theo thể tích sản phẩm được bán và sử dụng các KPI môi trường cho mỗi quốc gia và loại bao bì. Các KPI này bao gồm tỷ lệ tái chế, tỷ lệ tái chế thực tế, nội dung tái chế và khí thải nhà kính.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p200:c2",
+        "pdf_page": 200,
+        "quote": "Danone’s packaging footprint is assessed annually in terms of volumes marketed and using environmental Key Performance Indicators (KPIs) calculated for each country and for each type of packaging. These environmental KPIs include packaging recyclability rates, actual recycling rates, recycled content use and greenhouse gas emissions."
+      }
+    ]
   },
   {
     "claim_text": "In 2023, the Group achieved 14.6% recycled materials on average in its plastic packaging (versus 11.9% in 2022);",
@@ -3922,9 +3952,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đạt được 14.6% vật liệu tái chế trong bao bì nhựa vào năm 2023 (so với 11.9% vào năm 2022), phù hợp với tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p202:c2",
+        "pdf_page": 202,
+        "quote": "In 2023, the Group achieved 14.6% recycled materials on average in its plastic packaging (versus 11.9% in 2022);"
+      }
+    ]
   },
   {
     "claim_text": "Danone is working to ensure that the materials put on the market can be sorted and recycled in practice, adapting them to local infrastructure. In 2023, 84% of Danone’s packaging was reusable, recyclable, or compostable (stable versus 2022).",
@@ -3943,9 +3979,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp chi tiết về việc Danone đang làm để đảm bảo rằng các vật liệu được đưa ra thị trường có thể được phân loại và tái chế thực tế, điều chỉnh chúng theo cơ sở hạ tầng địa phương. Báo cáo cũng nêu rõ rằng 84% bao bì của Danone trong năm 2023 là tái sử dụng, tái chế hoặc phân hủy (stabile so với năm 2022).",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p202:c2",
+        "pdf_page": 202,
+        "quote": "Danone is working to ensure that the materials put on the market can be sorted and recycled in practice, adapting them to local infrastructure. In 2023, 84% of Danone’s packaging was reusable, recyclable, or compostable (stable versus 2022)."
+      }
+    ]
   },
   {
     "claim_text": "Danone’s goal is to achieve 100% recyclable cups. In this regard, Danone is working with value chain partners to create recycling streams, for instance: PET25 coalition in France with CITEO or PET Recycling Coalition in US (since 2022);",
@@ -3964,9 +4006,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến mục tiêu của Danone là đạt được 100% bao bì tái chế cho các sản phẩm sữa. Điều này tương ứng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c2",
+        "pdf_page": 267,
+        "quote": "ó The aim is to achieve 100% recyclable pots for dairy products. To this end, Danone works with value chain partners to create recycling channels: PET25 coalition in France with CITEO, PET Recycling Coalition in the United States (since 2022)."
+      }
+    ]
   },
   {
     "claim_text": "In 2023, 58% of plastic put on the market was recovered (versus 56% in 2022).",
@@ -4027,9 +4075,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã triển khai vật liệu tái chế đến các ly PET chứa 30% rPET tại Pháp và Bỉ. Điều này được đề cập trong đoạn văn trên trang 203 của báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p203:c3",
+        "pdf_page": 203,
+        "quote": "Danone is extending recycled materials to cups, launching PET cups containing 30% rPET in France and Belgium."
+      }
+    ]
   },
   {
     "claim_text": "Proportion of packaging industrial waste recovered 98.4% 99.0% 99.0%",
@@ -4048,9 +4102,20 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp dữ liệu về tỷ lệ tái chế rác thải công nghiệp trong năm 2023 như tuyên bố. Dữ liệu chỉ có cho các năm trước đó.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p204:c1",
+        "pdf_page": 204,
+        "quote": "Proportion of packaging industrial waste recovered 98.4% 99.0% 99.0%"
+      },
+      {
+        "chunk_id": "danone_2023:p273:c1",
+        "pdf_page": 273,
+        "quote": "In 2023, 58% of the plastic that the Group placed on the market was recovered (versus 56% in 2022)."
+      }
+    ]
   },
   {
     "claim_text": "Proportion of plastic packaging waste recovered 98.2% 99.0% 99.0%",
@@ -4090,9 +4155,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin về tỷ lệ tái chế nhựa bao bì sau công nghiệp trong năm 2025 như tuyên bố. Chỉ có dữ liệu cho năm 2023.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p204:c1",
+        "pdf_page": 204,
+        "quote": "The target is to reach 0% by 2025."
+      }
+    ]
   },
   {
     "claim_text": "■ plastic use can have risks on water, air, soil, the climate, as well as risks on human rights and health.",
@@ -4132,9 +4203,15 @@
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",
-    "label": "not_assessed",
-    "rationale": "",
-    "evidence_refs": []
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã ký kết cam kết toàn cầu về nhựa với Quỹ Ellen MacArthur (EMF) vào năm 2018, đồng thời công bố chính sách bao bì của mình. Điều này phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p242:c1",
+        "pdf_page": 242,
+        "quote": "In 2018, Danone signed up to the Ellen MacArthur Foundation (EMF) Global Commitment on Plastics in collaboration with the United Nations Environment Programme (UNEP), and published its Packaging Policy, setting out the Group's roadmap to (i) shift from a linear to a circular economy of packaging throughout its value chain and (ii) reduce the use of plastic in accordance with the French anti-waste law known as AGEC (Anti-Gaspillage pour une Économie Circulaire) of February 10, 2020."
+      }
+    ]
   },
   {
     "claim_text": "In 2024, Danone plans to update its Packaging Policy to reflect its packaging ambitions and roadmap.",
@@ -4150,6 +4227,2950 @@
     "report_id": "danone_2023",
     "company": "Danone",
     "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến việc Danone dự định cập nhật chính sách bao bì vào năm 2024 để phản ánh các mục tiêu và lộ trình của mình về bao bì. Điều này được nêu rõ trong đoạn văn trên trang 242.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p242:c1",
+        "pdf_page": 242,
+        "quote": "In 2024, Danone plans to update its Packaging Policy to reflect its packaging ambitions and roadmap."
+      }
+    ]
+  },
+  {
+    "claim_text": "Participation in the Ellen MacArthur Foundation's (EMF) annual progress report on the Global Plastics Commitment (2018) as a member of the Advisory Board of the New Plastics Economy Initiative.",
+    "source_page": 245,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_974d56fa2634",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone tham gia vào báo cáo tiến trình hàng năm của Ellen MacArthur Foundation (EMF) về cam kết toàn cầu về nhựa (2018) như một thành viên hội đồng tư vấn của New Plastics Economy Initiative, phù hợp với tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p245:c1",
+        "pdf_page": 245,
+        "quote": "■ Participation in the Ellen MacArthur Foundation's (EMF) annual progress report on the Global Plastics Commitment (2018) as a member of the Advisory Board of the New Plastics Economy Initiative."
+      }
+    ]
+  },
+  {
+    "claim_text": "Participation in the Consumer Goods Forum Plastic Waste Coalition of Action, which aims to set standards and align the industry to improve plastic collection and recycling.",
+    "source_page": 245,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_e027782a2432",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Partnership with Loop Industries to enhance closed-loop recycling for PET bottles and enable the recycling of hard-to-recycle packaging and materials.",
+    "source_page": 245,
+    "claim_type": "target",
+    "scope": null,
+    "material": "PET, plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_5bdcb12f78a3",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến việc Danone hợp tác với Loop Industries để cải thiện tái chế đóng vòng và tái chế các vật liệu bao bì khó tái chế. Điều này tương ứng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p245:c1",
+        "pdf_page": 245,
+        "quote": "Partnership with Loop Industries to enhance closed-loop recycling for PET bottles and enable the recycling of hard-to-recycle packaging and materials."
+      }
+    ]
+  },
+  {
+    "claim_text": "Joining the Circulate Capital initiative for Latin America and the Caribbean in 2023. Danone committed a further 15 million dollars to combat plastic pollution and develop the recycling value chain in the region.",
+    "source_page": 245,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_7b98ec75a520",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận Danone đã tham gia vào INITIATIVE Circulate Capital cho khu vực Latin Mỹ và Caribe vào năm 2023 và cam kết đầu tư thêm 15 triệu đô la để đối phó với ô nhiễm nhựa và phát triển chuỗi giá trị tái chế trong khu vực. Điều này được đề cập ở trang 245 của báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p245:c2",
+        "pdf_page": 245,
+        "quote": "Joining the Circulate Capital initiative for Latin America and the Caribbean in 2023. Danone committed a further 15 million dollars to combat plastic pollution and develop the recycling value chain in the region."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone encourages its Suppliers and Subcontractors to set SBTi targets, including those who do not yet have deforestation and conversion targets. Danone aims to have its most strategic Suppliers and Subcontractors align with the 1.5°C SBTi Net Zero emission commitment and commit to a 30% reduction in their FLAG emissions within Danone's supply chains by 2030.",
+    "source_page": 250,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": null,
+    "claim_id": "danone_2023_bdcd40d41859",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin chi tiết về các mục tiêu và hành động của Danone nhằm giảm phát thải, bao gồm việc khuyến khích nhà cung cấp và nhà phân phối phụ thuộc để thiết lập mục tiêu SBTi. Mục tiêu cụ thể được đề cập trong báo cáo cho thấy Danone mong muốn có 90% nhà cung cấp chiến lược nhất của mình tuân thủ cam kết Net Zero 1.5°C SBTi vào năm 2030 và giảm phát thải FLAG của họ 30%.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p250:c1",
+        "pdf_page": 250,
+        "quote": "Danone encourages its Suppliers and Subcontractors to set SBTi targets, including those who do not yet have deforestation and conversion targets. Danone aims to have its most strategic Suppliers and Subcontractors align with the 1.5°C SBTi Net Zero emission commitment and commit to a 30% reduction in their FLAG emissions within Danone's supply chains by 2030."
+      }
+    ]
+  },
+  {
+    "claim_text": "■ Design packaging to be 100% reusable, recyclable or compostable by 2030;",
+    "source_page": 261,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": null,
+    "claim_id": "danone_2023_5d9c2be228f5",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone có mục tiêu thiết kế bao bì để tái sử dụng, tái chế hoặc phân hủy trong năm 2030. Điều này được đề cập rõ ràng tại trang 261 của báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p261:c1",
+        "pdf_page": 261,
+        "quote": "■ Design packaging to be 100% reusable, recyclable or compostable by 2030;"
+      }
+    ]
+  },
+  {
+    "claim_text": "■ In 2023, 84% of Danone packaging was reusable, recyclable or compostable (stable vs 2022). For plastic packaging, this proportion represented 74% (vs 65% in 2018);",
+    "source_page": 261,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 74,
+    "claim_id": "danone_2023_85bd79c004e2",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Currently, plastic represents around 50% of Danone's packaging.",
+    "source_page": 264,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 50,
+    "claim_id": "danone_2023_bf0450ce43f2",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone's production sites also use plastic components to enable its sites to operate effectively.",
+    "source_page": 265,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_2ad7f3ec5216",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận rằng các cơ sở sản xuất của Danone sử dụng các thành phần nhựa để đảm bảo hoạt động hiệu quả của chúng.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c1",
+        "pdf_page": 265,
+        "quote": "■ Danone's production sites also use plastic components to enable its sites to operate effectively."
+      }
+    ]
+  },
+  {
+    "claim_text": "In 2023, the recovery rate for plastic packaging waste at the production sites totaled 99%.",
+    "source_page": 265,
+    "claim_type": "recyclability",
+    "scope": "production sites",
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 99,
+    "claim_id": "danone_2023_b86b4f0457ce",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng tỷ lệ phục hồi rác thải nhựa tại các cơ sở sản xuất vào năm 2023 là 99%, phù hợp với tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c1",
+        "pdf_page": 265,
+        "quote": "In 2023, the recovery rate for plastic packaging waste at the production sites totaled 99%."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone has long been committed to promoting a circular approach to packaging.",
+    "source_page": 265,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_349cd01f194f",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã cam kết lâu dài với việc thúc đẩy một tiếp cận vòng đời cho bao bì từ nhiều năm trước. Báo cáo nêu rõ Danone tham gia vào việc tạo ra hệ thống trách nhiệm sản xuất kéo dài (Eco-Emballages, nay là Citeo) tại Pháp từ năm 1992 và trở thành thương hiệu đầu tiên sử dụng PET tái chế cho nước khoáng tự nhiên tại Pháp vào năm 2008. Danone cũng đã cam kết đến năm 2030 sẽ có 100% bao bì tái sử dụng, tái chế hoặc phân hủy được.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c2",
+        "pdf_page": 265,
+        "quote": "Danone has long been committed to promoting a circular approach to packaging."
+      },
+      {
+        "chunk_id": "danone_2023:p201:c1",
+        "pdf_page": 201,
+        "quote": "Danone has long been committed to promoting a circular approach to packaging."
+      },
+      {
+        "chunk_id": "danone_2023:p28:c2",
+        "pdf_page": 28,
+        "quote": "Building on challenges faced and the learnings gathered over the last years, while acknowledging the need to reduce greenhouse gas emissions related to packaging, in 2023, as part of our new sustainability strategy, Danone Impact Journey, the Group updated and reaffirmed its commitment to: ■ have 100% of its packaging to be reusable, recyclable, or compostable by 2030"
+      }
+    ]
+  },
+  {
+    "claim_text": "This approach is outlined in its Packaging Policy (2018) which will be updated in 2024 and in its sustainability strategy - the Danone Impact Journey - which sets out three main objectives:",
+    "source_page": 265,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_c80f18aa2925",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Đoạn văn bản cung cấp thông tin về mục tiêu của Danone trong chính sách bao bì (2018) và chiến lược bền vững - Danone Impact Journey. Mục tiêu này được xác định là 100% bao bì tái sử dụng, tái chế hoặc phân hủy hữu cơ vào năm 2030.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c2",
+        "pdf_page": 265,
+        "quote": "■ design packaging to be 100% reusable, recyclable or compostable by 2030;"
+      }
+    ]
+  },
+  {
+    "claim_text": "■ design packaging to be 100% reusable, recyclable or compostable by 2030;",
+    "source_page": 265,
+    "claim_type": "target",
+    "scope": null,
+    "material": "packaging",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": 100,
+    "claim_id": "danone_2023_eadb17acb962",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến mục tiêu thiết kế bao bì để tái sử dụng, tái chế hoặc phân hủy trong năm 2030, đồng thời xác nhận Danone đã đạt được tỷ lệ 84% bao bì tái sử dụng, tái chế hoặc phân hủy vào năm 2023.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c2",
+        "pdf_page": 265,
+        "quote": "■ design packaging to be 100% reusable, recyclable or compostable by 2030;"
+      }
+    ]
+  },
+  {
+    "claim_text": "■ halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 from a 2020 base year excluding EDP Russia by accelerating materials reuse and recycling;",
+    "source_page": 265,
+    "claim_type": "target",
+    "scope": null,
+    "material": "virgin fossil-based packaging",
+    "unit": "%",
+    "measurement_year": 2030,
+    "target_year": 2040,
+    "value": 50,
+    "claim_id": "danone_2023_82fcf0004cb7",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến mục tiêu giảm sử dụng bao bì từ nguyên liệu hóa thạch mới một nửa vào năm 2040 và giảm 30% vào năm 2030 so với năm 2020 (trừ EDP Russia) bằng cách tăng tái chế và tái sử dụng. Các đoạn trích trong báo cáo đều xác nhận mục tiêu này.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c3",
+        "pdf_page": 265,
+        "quote": "■ halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 from a 2020 base year excluding EDP Russia by accelerating materials reuse and recycling;"
+      }
+    ]
+  },
+  {
+    "claim_text": "■ lead the development of effective collection systems to recover as much plastic as we use by 2040.",
+    "source_page": 265,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": null,
+    "claim_id": "danone_2023_23d0dea98f99",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận mục tiêu phát triển hệ thống thu gom hiệu quả để tái chế nhựa sử dụng bằng năm 2040.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c2",
+        "pdf_page": 265,
+        "quote": "■ lead the development of effective collection systems to recover as much plastic as we use by 2040."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone's environmental packaging footprint is assessed on a yearly basis and monitored using environmental Key Performance Indicators (KPIs) calculated for each country and for each type of packaging. These indicators include packaging volumes that Danone places on the markets where it operates, packaging recyclability rates, actual recycling rates, use of recycled materials and greenhouse gas emissions.",
+    "source_page": 266,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_c9f0841257af",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone’s objective is to halve the use of virgin fossil-based packaging \nby 2040, with a 30% reduction by 2030.",
+    "source_page": 267,
+    "claim_type": "target",
+    "scope": null,
+    "material": "fossil-based",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": 50,
+    "claim_id": "danone_2023_4a49ce3268c4",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone có mục tiêu giảm sử dụng nhựa nguyên sinh hóa thạch bằng một nửa vào năm 2040 và giảm 30% vào năm 2030, phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c2",
+        "pdf_page": 267,
+        "quote": "Danone’s objective is to halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030."
+      }
+    ]
+  },
+  {
+    "claim_text": "In 2023, the Group achieved the following results:\n– 16% reduction in the use of virgin fossil-based packaging \nbetween 2018 and 2023 (excluding EDP Russia);",
+    "source_page": 267,
+    "claim_type": "target",
+    "scope": null,
+    "material": "fossil-based",
+    "unit": "% reduction",
+    "measurement_year": 2023,
+    "target_year": 2040,
+    "value": 16,
+    "claim_id": "danone_2023_a59a4b7527ff",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về việc Danone đã đạt được sự giảm 16% trong việc sử dụng bao bì từ nguồn nhiên liệu hóa thạch nguyên sinh giữa năm 2018 và 2023 (trừ EDP Russia), phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c2",
+        "pdf_page": 267,
+        "quote": "– 16% reduction in the use of virgin fossil-based packaging between 2018 and 2023 (excluding EDP Russia);"
+      }
+    ]
+  },
+  {
+    "claim_text": "In the Waters category, the Group met its commitment to \nachieve an average of 25% rPET in 2020 and aims to reach 50% \non average by 2025 in countries where local standards and \nregulations allow it.",
+    "source_page": 267,
+    "claim_type": "target",
+    "scope": null,
+    "material": "rPET",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2025,
+    "value": 50,
+    "claim_id": "danone_2023_02a4ecd36deb",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận rằng Danone đã đạt được mục tiêu sử dụng trung bình 23.8% rPET trong danh mục Waters vào năm 2020 và đặt mục tiêu tăng lên 50% trung bình vào năm 2025 tại các quốc gia cho phép.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c2",
+        "pdf_page": 267,
+        "quote": "In the Waters category, the Group met its commitment to achieve an average of 25% rPET in 2020 and aims to reach 50% on average by 2025 in countries where local standards and regulations allow it."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone actively participates in co-creating the future of \nreuse:\nó In France, the Group is collaborating closely with CITEO on the \nReUse program to establish a unified and nationwide \noperational reuse system for food packaging.",
+    "source_page": 267,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_7ba878216037",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về việc Danone đang hợp tác chặt chẽ với CITEO tại Pháp để thiết lập một hệ thống tái sử dụng toàn quốc cho bao bì thực phẩm, tương tự như tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c1",
+        "pdf_page": 267,
+        "quote": "ó In France, the Group is collaborating closely with CITEO on the ReUse program to establish a unified and nationwide operational reuse system for food packaging."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone designs its packaging with a focus on ensuring \nrecyclability\nDanone strives to ensure that the materials it markets can be sorted \nand recycled in practice, by adapting them to local infrastructures. In \n2023, 84% of Danone packaging was reusable, recyclable and \ncompostable.",
+    "source_page": 267,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": null,
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 84,
+    "claim_id": "danone_2023_f79c260d1984",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2023, 84% bao bì của Danone là tái sử dụng được, tái chế được hoặc phân hủy sinh học. Điều này tương ứng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c1",
+        "pdf_page": 267,
+        "quote": "In 2023, 84% of Danone packaging was reusable, recyclable and compostable."
+      }
+    ]
+  },
+  {
+    "claim_text": "In the United States, Danone is a founding member of the \nCircular Action Alliance (CAA), an Extended Producer \nResponsibility (EPR) Organization selected to implement the EPR \nin Colorado and California. The Group also invested 5 million \ndollars in the Closed Loop Infrastructure Fund (CLIF) of Closed \nLoop Partners.",
+    "source_page": 267,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": null,
+    "unit": "$",
+    "measurement_year": null,
+    "target_year": null,
+    "value": 5000000,
+    "claim_id": "danone_2023_3adda076f659",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đầu tư 5 triệu đô la vào Quỹ Cơ sở hạ tầng Đóng gói Khép kín (CLIF) của Closed Loop Partners tại Hoa Kỳ, đồng thời là thành viên sáng lập của Circular Action Alliance (CAA), một tổ chức trách nhiệm sản xuất kéo dài (EPR) được chọn để thực hiện EPR ở Colorado và California. Điều này hỗ trợ tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c3",
+        "pdf_page": 267,
+        "quote": "In the United States, Danone is a founding member of the Circular Action Alliance (CAA), an Extended Producer Responsibility (EPR) Organization selected to implement the EPR in Colorado and California. The Group also invested 5 million dollars in the Closed Loop Infrastructure Fund (CLIF) of Closed Loop Partners."
+      }
+    ]
+  },
+  {
+    "claim_text": "In 2018, Danone is committed to invest 15 million dollars in the Circulate Capital Ocean Fund (CCOF) in South and Southeast Asia, as part of the AQUA water brand's (Indonesia) commitment to recover more plastic by 2025 than what is used.",
+    "source_page": 268,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2025,
+    "value": null,
+    "claim_id": "danone_2023_1869098e5bd2",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về cam kết đầu tư 15 triệu đô la vào Quỹ Circulate Capital Ocean Fund (CCOF) ở Nam và Đông Nam Á năm 2018, như một phần của cam kết của nhãn hiệu AQUA (Indonesia) để thu hồi nhựa nhiều hơn so với lượng sử dụng vào năm 2025. Điều này được đề cập trong đoạn văn bản: 'In 2018, Danone is committed to invest $15 million to the Circulate Capital Ocean Fund (CCOF) in South and South-East Asia as part of Water brand AQUA’s pledge (Indonesia) to recover more plastic than used by 2025.'",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p268:c1",
+        "pdf_page": 268,
+        "quote": "In 2018, Danone is committed to invest 15 million dollars in the Circulate Capital Ocean Fund (CCOF) in South and Southeast Asia, as part of the AQUA water brand's (Indonesia) commitment to recover more plastic by 2025 than what is used."
+      }
+    ]
+  },
+  {
+    "claim_text": "In 2023, Danone joined the Circulate Capital initiative for Latin America and the Caribbean and committed an additional 15 million dollars to combat plastic pollution and develop the recycling value chain in the region.",
+    "source_page": 268,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2023,
+    "value": null,
+    "claim_id": "danone_2023_98f673e392c1",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã tham gia vào INITIATIVE CIRCULATE CAPITAL cho khu vực Mỹ Latinh và Caribe vào năm 2023 và cam kết đầu tư thêm 15 triệu đô la để đối phó với ô nhiễm nhựa và phát triển chuỗi giá trị tái chế trong khu vực. Điều này phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p268:c1",
+        "pdf_page": 268,
+        "quote": "In 2023, Danone joined the Circulate Capital initiative for Latin America and the Caribbean and committed an additional 15 million dollars to combat plastic pollution and develop the recycling value chain in the region."
+      }
+    ]
+  },
+  {
+    "claim_text": "In the Waters Category, the Group met its commitment to achieve an average of 25% rPET in 2020 and is aiming to reach an average of 50% by 2025 in countries where local standards and regulations allow it, thereby doubling its volumes of recycled materials from 2020.",
+    "source_page": 268,
+    "claim_type": "target",
+    "scope": null,
+    "material": "rPET",
+    "unit": "%",
+    "measurement_year": 2020,
+    "target_year": 2025,
+    "value": 50,
+    "claim_id": "danone_2023_2de1244d1806",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone extends the use of recycled materials to pots, launching PET pots containing 30% rPET in France and Belgium.",
+    "source_page": 268,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "rPET",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": null,
+    "value": 30,
+    "claim_id": "danone_2023_fff839b7cf66",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã triển khai sử dụng rPET trong các chai PET với tỷ lệ 30% tại Pháp và Bỉ. Điều này được đề cập ở trang 268 của báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p268:c3",
+        "pdf_page": 268,
+        "quote": "ó Danone extends the use of recycled materials to pots, launching PET pots containing 30% rPET in France and Belgium."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone only uses recycled packaging that has been assessed and declared risk-free by the relevant authorities (EFSA, FDA).",
+    "source_page": 269,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "plastics",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_932ecf5163c2",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone chỉ sử dụng nhựa tái chế đã được đánh giá và xác nhận là an toàn bởi các cơ quan có thẩm quyền (EFSA, FDA). Điều này phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p269:c3",
+        "pdf_page": 269,
+        "quote": "case of recycled plastics, Danone only uses recycled packaging that has been assessed and declared risk-free by the relevant authorities (EFSA, FDA)."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone has set up an in-house procedure involving further requirements and analysis to focus on substances that could be created during recycling. The aim is to ensure that the chosen packaging is risk-free for consumers.",
+    "source_page": 269,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "plastics",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_677dfc89aca5",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã thiết lập một quy trình nội bộ để đánh giá và đảm bảo chất lượng của nhựa tái chế, phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p269:c3",
+        "pdf_page": 269,
+        "quote": "To remain one step ahead, Danone has set up an in-house procedure involving further requirements and analysis to focus on substances that could be created during recycling. The aim is to ensure that the chosen packaging is risk-free for consumers."
+      }
+    ]
+  },
+  {
+    "claim_text": "■ Total packaging volumes: 1,393,759 metric tons, of which 693,156 metric tons of plastic.",
+    "source_page": 273,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "metric tons",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 693156,
+    "claim_id": "danone_2023_9dabd73cf57a",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về tổng lượng bao bì nhựa là 693,156 tấn trong năm 2023, phù hợp với tuyên bố của công ty. Tuy nhiên, báo cáo không cung cấp thêm thông tin về tỷ lệ tái chế.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p273:c1",
+        "pdf_page": 273,
+        "quote": "■ Total packaging volumes: 1,393,759 metric tons, of which 693,156 metric tons of plastic."
+      }
+    ]
+  },
+  {
+    "claim_text": "■ Absolute reduction of 8% in the use of plastic packaging between 2018 and 2023 (excluding EDP Russia).",
+    "source_page": 273,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 8,
+    "claim_id": "danone_2023_5638a286246b",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về giảm sử dụng bao bì nhựa tuyệt đối từ năm 2018 đến 2023. Dữ liệu chỉ được đề cập trong một số phần của báo cáo, nhưng không có thông tin chính xác về giảm 8%.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p273:c1",
+        "pdf_page": 273,
+        "quote": "■ Absolute reduction of 8% in the use of plastic packaging between 2018 and 2023 (excluding EDP Russia)."
+      }
+    ]
+  },
+  {
+    "claim_text": "■ In 2023, 58% of the plastic that the Group placed on the market was recovered (versus 56% in 2022).",
+    "source_page": 273,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 58,
+    "claim_id": "danone_2023_d469c2518dff",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2023, 58% nhựa được nhóm công ty đặt trên thị trường đã được thu hồi (so với 56% vào năm 2022), đây trùng khớp với tuyên bố của Danone.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p273:c1",
+        "pdf_page": 273,
+        "quote": "In 2023, 58% of the plastic that the Group placed on the market was recovered (versus 56% in 2022)."
+      }
+    ]
+  },
+  {
+    "claim_text": "■ The recovery rate for plastic waste at Danone production sites amounted to 99% (compared to 98.2% in 2022).",
+    "source_page": 273,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 99,
+    "claim_id": "danone_2023_dc5b746141d5",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về tỷ lệ tái chế rác thải nhựa tại các cơ sở sản xuất của Danone trong năm 2023. Chỉ có số liệu cho năm 2022 được đề cập.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p273:c1",
+        "pdf_page": 273,
+        "quote": "■ The recovery rate for plastic waste at Danone production sites amounted to 99% (compared to 98.2% in 2022)."
+      }
+    ]
+  },
+  {
+    "claim_text": "14.6% recycled materials on average in its plastic packaging (compared with 11.9% in 2022).",
+    "source_page": 276,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 14.6,
+    "claim_id": "danone_2023_7b48779d000d",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đạt được 14.6% vật liệu tái chế trung bình trong bao bì nhựa vào năm 2023, so với 11.9% vào năm 2022.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p276:c1",
+        "pdf_page": 276,
+        "quote": "14.6% recycled materials on average in its plastic packaging (compared with 11.9% in 2022)."
+      }
+    ]
+  },
+  {
+    "claim_text": "23.8% recycled PET (rPET) used on average by the Waters category (compared with 20.9% in 2022) and 31.3% in countries where local standards and regulations allow it (compared with 26.4% in 2022).",
+    "source_page": 276,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "PET",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 23.8,
+    "claim_id": "danone_2023_74c5e4e48d0c",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về việc sử dụng PET tái chế (rPET) đạt 23.8% trong danh mục nước uống vào năm 2023, so với 20.9% vào năm 2022, phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p276:c1",
+        "pdf_page": 276,
+        "quote": "23.8% recycled PET (rPET) used on average by the Waters category (compared with 20.9% in 2022)"
+      }
+    ]
+  },
+  {
+    "claim_text": "16% reduction in the use of virgin fossil-based packaging between 2018 and 2023 (excluding EDP Russia); and 3% reduction between 2020 and 2023 (excluding EDP Russia).",
+    "source_page": 276,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "fossil-based packaging",
+    "unit": "%",
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 16,
+    "claim_id": "danone_2023_5055743da206",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp dữ liệu cụ thể về giảm sử dụng bao bì từ nguồn nhiên liệu hóa thạch virgin giữa năm 2018 và 2023, ngoại trừ EDP Russia. Các thông tin chỉ được đề cập chung chung mà không có số liệu chính xác.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p267:c2",
+        "pdf_page": 267,
+        "quote": "16% reduction in the use of virgin fossil-based packaging between 2018 and 2023 (excluding EDP Russia); and a 3% reduction between 2020 and 2023 (excluding EDP Russia)."
+      }
+    ]
+  },
+  {
+    "claim_text": "Packaging In 2023, packaging data was collected from all Danone production entities, representing 99% of its production volumes.",
+    "source_page": 292,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": 2023,
+    "target_year": null,
+    "value": 99,
+    "claim_id": "danone_2023_0e1c43a11a8a",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận rằng trong năm 2023, Danone đã thu thập dữ liệu về bao bì từ tất cả các đơn vị sản xuất của mình, chiếm 99% tổng lượng sản phẩm sản xuất. Tuy nhiên, không có thông tin chi tiết về việc này đối với bao bì cụ thể.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p292:c1",
+        "pdf_page": 292,
+        "quote": "Packaging In 2023, packaging data was collected from all Danone production entities, representing 99% of its production volumes."
+      }
+    ]
+  },
+  {
+    "claim_text": "The % recycled PET (rPET) indicator, used on average by the Waters Category in countries where local standards and regulations permit, is calculated excluding China and Turkey, where local regulations prohibit the use of recycled materials in plastic bottles.",
+    "source_page": 292,
+    "claim_type": "recycled_content",
+    "scope": "Waters Category",
+    "material": "PET (rPET)",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2023_8597d1e26507",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc chỉ tính toán chỉ số PET tái chế (rPET) cho các quốc gia mà quy định địa phương cho phép sử dụng vật liệu tái chế, ngoại trừ Trung Quốc và Thổ Nhĩ Kỳ. Thông tin này không được xác nhận trong các đoạn văn khác.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p292:c1",
+        "pdf_page": 292,
+        "quote": "The % recycled PET (rPET) indicator, used on average by the Waters Category in countries where local standards and regulations permit, is calculated excluding China and Turkey, where local regulations prohibit the use of recycled materials in plastic bottles."
+      }
+    ]
+  },
+  {
+    "claim_text": "Calculations related to the recyclability rates of Danone packaging are based on the new definition of recyclability by type of packaging recommended by the Ellen MacArthur Foundation (EMF) for the circular economy. According to this methodology, packaging is considered recyclable if post-consumer collection, sorting, and recycling are proven to work in practice and at scale. This implies achieving a 30% post-consumer recycling rate in multiple regions, collectively representing at least 400 million inhabitants.",
+    "source_page": 295,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": 30,
+    "claim_id": "danone_2023_a9653f958f00",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về định nghĩa mới của tái chế theo loại bao bì do Quỹ Ellen MacArthur (EMF) đề xuất cho kinh tế tuần hoàn. Theo phương pháp này, bao bì được coi là tái chế nếu việc thu gom, phân loại và tái chế sau sử dụng đã được chứng minh hoạt động hiệu quả ở quy mô lớn. Điều này đòi hỏi đạt tỷ lệ tái chế sau sử dụng 30% tại nhiều khu vực, đại diện cho ít nhất 400 triệu dân.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p295:c4",
+        "pdf_page": 295,
+        "quote": "According to this methodology, packaging is considered recyclable if post-consumer collection, sorting, and recycling are proven to work in practice and at scale. This implies achieving a 30% post-consumer recycling rate in multiple regions, collectively representing at least 400 million inhabitants."
+      }
+    ]
+  },
+  {
+    "claim_text": "■ recycled components for glass: 50% worldwide\n■ recycled components for metal and aluminum: 40% worldwide.",
+    "source_page": 296,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "glass, metal, aluminum",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": null,
+    "value": 50,
+    "claim_id": "danone_2023_84020faead52",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Công ty Danone đã cung cấp thông tin về tỷ lệ thành phần tái chế cho thủy tinh là 50% và kim loại, nhôm là 40% trên toàn cầu. Đây trùng khớp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p296:c1",
+        "pdf_page": 296,
+        "quote": "■ recycled components for glass: 50% worldwide ■ recycled components for metal and aluminum: 40% worldwide."
+      }
+    ]
+  },
+  {
+    "claim_text": "100% reusable, recyclable or compostable by 2030",
+    "source_page": 304,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": null,
+    "claim_id": "danone_2023_9cf2bdc16209",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "50% use of virgin fossil-based packaging by 2040 with a 30% reduction by 2030, accelerating reuse and recycled materials",
+    "source_page": 304,
+    "claim_type": "target",
+    "scope": null,
+    "material": "fossil-based",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": 50,
+    "claim_id": "danone_2023_179418c1c02b",
+    "report_id": "danone_2023",
+    "company": "Danone",
+    "report_year": 2023,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến mục tiêu giảm sử dụng nhựa nguyên sinh bằng 50% vào năm 2040 và giảm 30% vào năm 2030 so với năm 2020, đồng thời tăng tái chế và tái sử dụng. Điều này phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2023:p265:c3",
+        "pdf_page": 265,
+        "quote": "halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 from a 2020 base year excluding EDP Russia by accelerating materials reuse and recycling;"
+      }
+    ]
+  },
+  {
+    "claim_text": "have 100% of its packaging to be reusable, recyclable, or compostable by 2030;",
+    "source_page": 32,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": null,
+    "claim_id": "danone_2024_8258d8eb3062",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận mục tiêu 100% bao bì tái sử dụng, tái chế hoặc phân hủy được vào năm 2030. Các đoạn văn bản từ trang 214 và 356 đều đề cập đến mục tiêu này.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p356:c2",
+        "pdf_page": 356,
+        "quote": "Commitments Building on its progress and experience, Danone is continuing its transition to a circular and low-carbon packaging system, while aiming to recover as much plastic as it uses. This approach is outlined in its sustainability strategy – the Danone Impact Journey – which sets out three main objectives: ■ 100% reusable, recyclable or compostable packaging by 2030;"
+      }
+    ]
+  },
+  {
+    "claim_text": "halve the use of virgin fossil-based packaging by 2040, with 30% reduction by 2030, accelerating reuse and recycled materials;",
+    "source_page": 32,
+    "claim_type": "target",
+    "scope": null,
+    "material": "virgin fossil-based plastic",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": 50,
+    "claim_id": "danone_2024_f968547277af",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "lead the development of effective collection systems to recover as much plastic as the Group uses by 2040.",
+    "source_page": 32,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": null,
+    "claim_id": "danone_2024_d0ac453004d9",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận mục tiêu phát triển hệ thống thu gom hiệu quả để tái chế lượng nhựa sử dụng bằng năm 2040. Các đoạn văn bản trong báo cáo đều đề cập đến cùng một mục tiêu này.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p356:c2",
+        "pdf_page": 356,
+        "quote": "lead the development of effective collection systems to recover as much plastic as Danone uses by 2040."
+      },
+      {
+        "chunk_id": "danone_2024:p228:c1",
+        "pdf_page": 228,
+        "quote": "lead the development of effective collection systems to recover as much plastic as Danone uses by 2040."
+      },
+      {
+        "chunk_id": "danone_2024:p32:c2",
+        "pdf_page": 32,
+        "quote": "lead the development of effective collection systems to recover as much plastic as the Group uses by 2040."
+      }
+    ]
+  },
+  {
+    "claim_text": "In the United States, Danone expanded the successful and innovative platform of cold foam creamers to Silk and Dunkin brands.",
+    "source_page": 55,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_8ed31aa05b42",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Danone mở rộng thành công và sáng tạo nền tảng kem lạnh cho các thương hiệu Silk và Dunkin tại Mỹ vào năm 2024.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p55:c1",
+        "pdf_page": 55,
+        "quote": "In the United States, Danone expanded the successful and innovative platform of cold foam creamers to Silk and Dunkin brands."
+      }
+    ]
+  },
+  {
+    "claim_text": "In the United States, another big project was the harmonization of the yogurt cups for lightweighting and design for recyclability.",
+    "source_page": 55,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "yogurt cups",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_fe3ac8f662e2",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc harmonization của các ly chua kem tại Mỹ đã cải thiện khả năng tái chế như thế nào. Chỉ đề cập đến mục tiêu tổng quát về tái chế 100% bao bì vào năm 2030.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p55:c1",
+        "pdf_page": 55,
+        "quote": "In the United States, another big project was the harmonization of the yogurt cups for lightweighting and design for recyclability."
+      }
+    ]
+  },
+  {
+    "claim_text": "In Europe, Danone launched re-usable caps for Blédina meals.",
+    "source_page": 55,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "caps",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_0b3b019c44e6",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Danone đã ra mắt nắp tái sử dụng cho các bữa ăn Blédina tại châu Âu.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p55:c1",
+        "pdf_page": 55,
+        "quote": "In Europe, Danone launched re-usable caps for Blédina meals."
+      }
+    ]
+  },
+  {
+    "claim_text": "In Europe, tethered caps on all water bottles have been launched. This initiative not only boosts recyclability but also aligns with Danone’s commitment to sustainability.",
+    "source_page": 55,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "water bottles",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_f9cb81de1e58",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc tethered caps đã được triển khai trên tất cả chai nước trong khu vực châu Âu. Chỉ có thông tin về việc Danone đã ra mắt các nắp tái sử dụng cho Blédina meals tại châu Âu, nhưng không đề cập đến tất cả các chai nước.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p55:c1",
+        "pdf_page": 55,
+        "quote": "In Europe, Danone launched re-usable caps for Blédina meals. Waters 2024 In 2024, Research and Innovation Waters Category was dedicated to advancing Danone Impact Journey commitments toward decarbonization, increased recyclability, and reducing the use of virgin fossil-based packaging."
+      }
+    ]
+  },
+  {
+    "claim_text": "In Indonesia, the Group undertook a major renovation of the AQUA jugs, replacing polycarbonate with PET material and introducing a new ergonomic design.",
+    "source_page": 55,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "jugs",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_5a2e9ce27aac",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc thay đổi từ polycarbonate sang PET trong chai AQUA tại Indonesia.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p55:c1",
+        "pdf_page": 55,
+        "quote": "In Indonesia, the Group undertook a major renovation of the AQUA jugs, replacing polycarbonate with PET material and introducing a new ergonomic design."
+      }
+    ]
+  },
+  {
+    "claim_text": "In 2024, Research and Innovation Waters Category was dedicated to advancing Danone Impact Journey commitments toward decarbonization, increased recyclability, and reducing the use of virgin fossil-based packaging.",
+    "source_page": 55,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "packaging",
+    "unit": null,
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_6177a3011796",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về mức độ tăng cường của Danone Impact Journey trong năm 2024 liên quan đến tái chế. Chỉ có thông tin chung về các nỗ lực tái chế và giảm sử dụng nhựa nguyên sinh, nhưng không đề cập đến mục tiêu cụ thể cho năm 2024.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p55:c1",
+        "pdf_page": 55,
+        "quote": "In 2024, Research and Innovation Waters Category was dedicated to advancing Danone Impact Journey commitments toward decarbonization, increased recyclability, and reducing the use of virgin fossil-based packaging."
+      }
+    ]
+  },
+  {
+    "claim_text": "A flagship project in this category was the introduction of Volvic sparkling flavored waters in cans in the United Kingdom. This move represents a significant step towards reducing Danone’s reliance on virgin fossil-based packaging materials.",
+    "source_page": 55,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "packaging",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_083c39b6a5f3",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc Volvic sparkling flavored waters trong lon đã được thu gom và tái chế ở đâu hay tỷ lệ tái chế như thế nào. Chỉ có thông tin chung về việc Danone đang nỗ lực tăng cường tái sử dụng, tái chế và thay thế nhựa bằng các vật liệu khác.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p55:c1",
+        "pdf_page": 55,
+        "quote": "In Europe, Danone launched re-usable caps for Blédina meals. Waters 2024 In 2024, Research and Innovation Waters Category was dedicated to advancing Danone Impact Journey commitments toward decarbonization, increased recyclability, and reducing the use of virgin fossil-based packaging."
+      }
+    ]
+  },
+  {
+    "claim_text": "100% reusable, recyclable or compostable by 2030 85 %",
+    "source_page": 171,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": 85,
+    "claim_id": "danone_2024_9d2d8fbb33c4",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến mục tiêu 85% bao bì tái sử dụng, tái chế hoặc phân hủy trong năm 2030, phù hợp với tuyên bố của công ty. Các đoạn trích từ trang 171 và 356 của báo cáo đều xác nhận mục tiêu này.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p171:c2",
+        "pdf_page": 171,
+        "quote": "100% reusable, recyclable or compostable by 2030 85 %"
+      },
+      {
+        "chunk_id": "danone_2024:p356:c2",
+        "pdf_page": 356,
+        "quote": "100% reusable, recyclable or compostable packaging by 2030"
+      }
+    ]
+  },
+  {
+    "claim_text": "in 2024, 85% of Danone’s packaging was reusable, recyclable, or compostable (versus 84% in 2023)",
+    "source_page": 174,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 85,
+    "claim_id": "danone_2024_09d1ce963f68",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2024, 85% bao bì của Danone là tái sử dụng, tái chế hoặc phân hủy sinh học (so với 84% vào năm 2023), phù hợp với tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p174:c1",
+        "pdf_page": 174,
+        "quote": "Indeed, in 2024, 85% of Danone’s packaging was reusable, recyclable, or compostable (versus 84% in 2023)"
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone’s transformation journey is supported by a dedicated team focusing on packaging circularity in cooperation with the Research & Innovation (R&I), Procurement and Operations functions, and the General Secretary team. This ambition involves redesigning packaging to be fully recyclable, reusable, or compostable, and fostering that all packaging is collected and recycled.",
+    "source_page": 213,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_c129644b0b90",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "insufficient_evidence",
+    "rationale": "Báo cáo chỉ đề cập đến việc Danone có một đội ngũ chuyên trách tập trung vào tái chế bao bì và hợp tác với các bộ phận R&D, mua sắm và vận hành. Tuy nhiên, không có thông tin cụ thể về mục tiêu hoặc tiến trình thực hiện để thiết kế bao bì hoàn toàn tái chế, tái sử dụng hay phân hủy sinh học.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p213:c3",
+        "pdf_page": 213,
+        "quote": "Danone’s transformation journey is supported by a dedicated team focusing on packaging circularity in cooperation with the Research & Innovation (R&I), Procurement and Operations functions, and the General Secretary team."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone aims to reach 100% recyclable, reusable or compostable packaging by 2030 and to recover as much plastic as Danone uses by 2040.",
+    "source_page": 214,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": null,
+    "claim_id": "danone_2024_307c3f3e0b83",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone có mục tiêu đạt 100% bao bì tái sử dụng, tái chế hoặc phân hủy được vào năm 2030 và thu hồi lượng nhựa tương đương với lượng nhựa mà Danone sử dụng vào năm 2040. Đây trùng khớp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p214:c1",
+        "pdf_page": 214,
+        "quote": "Danone aims to reach 100% recyclable, reusable or compostable packaging by 2030 and to recover as much plastic as Danone uses by 2040."
+      }
+    ]
+  },
+  {
+    "claim_text": "achieving 85% recyclable, reusable or compostable packaging, and recovery of 60% of the plastic put on the market from collection systems (vs 58% in 2023);",
+    "source_page": 214,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 85,
+    "claim_id": "danone_2024_e875751ebfb2",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "recovery of 60% of the plastic put on the market from collection systems (vs 58% in 2023);",
+    "source_page": 214,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 60,
+    "claim_id": "danone_2024_afb40731b1cc",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone has been working for many years to reduce the use of plastic packaging, improve the circularity of plastics that cannot be eliminated, and recover what is not kept in circulation.",
+    "source_page": 224,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_cf3d5dee1b21",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin chi tiết về các nỗ lực của Danone trong việc giảm sử dụng bao bì nhựa, cải thiện tính tái chế của nhựa không thể loại bỏ và phục hồi những gì không được giữ trong chu trình. Các mục tiêu cụ thể như 100% bao bì tái sử dụng, tái chế hoặc phân hủy sinh học vào năm 2030 cũng được đề cập.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p228:c1",
+        "pdf_page": 228,
+        "quote": "Danone has been working for many years to reduce the use of plastic packaging, improve the circularity of plastics that cannot be eliminated to date, and recover what is not kept in circulation, as well as collaborating with industry alliances, civil society and governments to develop effective systems to collect, reuse and recycle packaging."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone also collaborates with industry alliances, civil society and governments to develop effective systems to collect, reuse and recycle packaging.",
+    "source_page": 224,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "packaging",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_0ee8af9a0517",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone hợp tác với các liên minh ngành công nghiệp, cộng đồng xã hội và chính phủ để phát triển hệ thống hiệu quả nhằm thu gom, tái sử dụng và tái chế bao bì. Điều này tương ứng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p239:c3",
+        "pdf_page": 239,
+        "quote": "Danone also collaborates with industry alliances, civil society and governments to develop effective systems to collect, reuse and recycle packaging."
+      }
+    ]
+  },
+  {
+    "claim_text": "have 100% of its packaging to be reusable, recyclable, or compostable by 2030; by design, in practice and at scale (applying Ellen MacArthur Foundation definition and methodology);",
+    "source_page": 228,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": null,
+    "claim_id": "danone_2024_8185cc247fa4",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến mục tiêu 100% bao bì tái sử dụng, tái chế hoặc phân hủy được vào năm 2030, bằng thiết kế, thực tế và quy mô (theo định nghĩa và phương pháp của Ellen MacArthur Foundation).",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p228:c2",
+        "pdf_page": 228,
+        "quote": "■ have 100% of its packaging to be reusable, recyclable, or compostable by 2030; by design, in practice and at scale (applying Ellen MacArthur Foundation definition and methodology);"
+      }
+    ]
+  },
+  {
+    "claim_text": "halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 compared to the 2020 baseline (684.9 ktons), by accelerating reuse and the use of recycled materials;",
+    "source_page": 228,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "ktons",
+    "measurement_year": 2020,
+    "target_year": 2040,
+    "value": 342.45,
+    "claim_id": "danone_2024_0e9c35edca98",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp chi tiết về mục tiêu giảm sử dụng nhựa nguyên sinh bằng 30% vào năm 2030 và 50% vào năm 2040 so với mức cơ sở năm 2020, đồng thời tăng cường tái chế và tái sử dụng. Các mục tiêu này được đề cập trong phần 'Mục tiêu và chỉ số' (Metrics and targets) trên trang 228.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p228:c2",
+        "pdf_page": 228,
+        "quote": "halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 compared to the 2020 baseline (684.9 ktons), by accelerating reuse and the use of recycled materials;"
+      }
+    ]
+  },
+  {
+    "claim_text": "lead the development of effective collection systems to recover as much plastic as the Group puts on the market by 2040, while improving the working and living conditions of workers in the collection and recycling sectors.",
+    "source_page": 228,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": null,
+    "claim_id": "danone_2024_49447ff04747",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận Danone đã đặt mục tiêu phát triển hệ thống thu gom hiệu quả để tái chế lượng nhựa tương đương với số lượng nhựa được đưa ra thị trường vào năm 2040, đồng thời cải thiện điều kiện làm việc cho người lao động trong lĩnh vực thu gom và tái chế.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p228:c2",
+        "pdf_page": 228,
+        "quote": "lead the development of effective collection systems to recover as much plastic as the Group puts on the market by 2040, while improving the working and living conditions of workers in the collection and recycling sectors."
+      }
+    ]
+  },
+  {
+    "claim_text": "KPI 2 DIJ: Danone achieved a 8% reduction in the use of virgin fossil-based plastic packaging versus baseline 2020;",
+    "source_page": 228,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2020,
+    "target_year": 2040,
+    "value": -8,
+    "claim_id": "danone_2024_f1c2f3c57288",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đạt được một sự giảm 8% trong việc sử dụng nhựa hóa thạch nguyên sinh so với năm cơ sở 2020, phù hợp với tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p228:c2",
+        "pdf_page": 228,
+        "quote": "Danone achieved a 8% reduction in the use of virgin fossil-based plastic packaging versus baseline 2020;"
+      }
+    ]
+  },
+  {
+    "claim_text": "KPI 3 DIJ: 60% of plastic put on the market by Danone was recovered.",
+    "source_page": 228,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 60,
+    "claim_id": "danone_2024_1ecb7ea0d530",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã đạt được KPI 3 DIJ: 60% của nhựa được đưa ra thị trường bởi Danone đã được thu hồi trong năm 2024. Điều này tương ứng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p228:c2",
+        "pdf_page": 228,
+        "quote": "KPI 3 DIJ: 60% of plastic put on the market by Danone was recovered."
+      }
+    ]
+  },
+  {
+    "claim_text": "Plastic packaging, which accounts for about 50% of Danone's total packaging volume, has notably become the standard for food and beverages.",
+    "source_page": 239,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": 50,
+    "claim_id": "danone_2024_51d18991b03a",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo xác nhận rằng nhựa chiếm khoảng 50% tổng lượng bao bì của Danone và đã trở thành tiêu chuẩn cho thực phẩm và đồ uống.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p239:c2",
+        "pdf_page": 239,
+        "quote": "Plastic packaging, which accounts for about 50% of Danone's total packaging volume, has notably become the standard for food and beverages."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone has been working for many years to reduce the use of plastic packaging, improve the circularity of plastics that cannot be eliminated, and recover what is not kept in circulation.",
+    "source_page": 239,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_3c42fd3e885e",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận họ đã làm việc nhiều năm để giảm sử dụng bao bì nhựa, cải thiện tính tái chế của nhựa không thể loại bỏ và thu hồi những gì không được giữ trong chu trình. Điều này tương đồng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p228:c1",
+        "pdf_page": 228,
+        "quote": "Danone has been working for many years to reduce the use of plastic packaging, improve the circularity of plastics that cannot be eliminated to date, and recover what is not kept in circulation, as well as collaborating with industry alliances, civil society and governments to develop effective systems to collect, reuse and recycle packaging."
+      }
+    ]
+  },
+  {
+    "claim_text": "These environmental KPIs include metrics on packaging recyclability rates, actual recycling rates, use of recycled content, and greenhouse gas emissions;",
+    "source_page": 239,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "packaging",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_f5ae5bdeb81b",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về các chỉ số KPI môi trường bao gồm tỷ lệ tái chế nhựa, tỷ lệ thực tế tái chế, sử dụng nội dung tái chế và khí thải nhà kính. Điều này được đề cập trong đoạn văn trên trang 239: 'These environmental KPIs include metrics on packaging recyclability rates, actual recycling rates, use of recycled content, and greenhouse gas emissions;'",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p239:c3",
+        "pdf_page": 239,
+        "quote": "These environmental KPIs include metrics on packaging recyclability rates, actual recycling rates, use of recycled content, and greenhouse gas emissions;"
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone has identified: • Most plastics in Danone’s value chain, i.e., more than 94%, are used for packaging (assessment described in 5.7 Vigilance plan);",
+    "source_page": 240,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastics",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": 94,
+    "claim_id": "danone_2024_0d1c736791e3",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng hơn 94% nhựa trong chuỗi giá trị của Danone được sử dụng cho bao bì (được mô tả ở phần 5.7 Plan Giám sát).",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p240:c1",
+        "pdf_page": 240,
+        "quote": "• Most plastics in Danone’s value chain, i.e., more than 94%, are used for packaging (assessment described in 5.7 Vigilance plan);"
+      }
+    ]
+  },
+  {
+    "claim_text": "Of Danone’s total packaging footprint, plastic packaging represents around 50% of volumes of packaging purchased.",
+    "source_page": 240,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": null,
+    "value": 50,
+    "claim_id": "danone_2024_7d1bd2cca0c2",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng trong tổng khối lượng bao bì của Danone, nhựa chiếm khoảng 50%.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p240:c1",
+        "pdf_page": 240,
+        "quote": "Of Danone’s total packaging footprint, plastic packaging represents around 50% of volumes of packaging purchased."
+      }
+    ]
+  },
+  {
+    "claim_text": "The Consumer Goods Forum Plastic Waste Coalition of Action (CGF PWCoA), of which Danone is a member, which works to set standards, align industry practices and encourage collaboration between members to improve plastic collection, reuse and recycling;",
+    "source_page": 240,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_96f08aed4651",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone là thành viên của Consumer Goods Forum Plastic Waste Coalition of Action (CGF PWCoA), tổ chức này làm việc để thiết lập tiêu chuẩn, sắp xếp các thực hành ngành và khuyến khích sự hợp tác giữa các thành viên nhằm cải thiện thu gom, tái sử dụng và tái chế nhựa. Điều này phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p240:c1",
+        "pdf_page": 240,
+        "quote": "The Consumer Goods Forum Plastic Waste Coalition of Action (CGF PWCoA), of which Danone is a member, which works to set standards, align industry practices and encourage collaboration between members to improve plastic collection, reuse and recycling;"
+      }
+    ]
+  },
+  {
+    "claim_text": "100% reusable, recyclable or compostable packaging by 2030",
+    "source_page": 243,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": null,
+    "claim_id": "danone_2024_1066567ae6a3",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 vs 2020, by accelerating reuse and recycled materials",
+    "source_page": 243,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2020,
+    "target_year": 2030,
+    "value": 30,
+    "claim_id": "danone_2024_ce428af80e57",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về mục tiêu giảm sử dụng nhựa nguyên sinh bằng 50% vào năm 2040 và giảm 30% so với năm 2020 vào năm 2030, đồng thời tăng tái chế và tái sử dụng. Điều này phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p243:c3",
+        "pdf_page": 243,
+        "quote": "Halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 vs 2020, by accelerating reuse and recycled materials"
+      }
+    ]
+  },
+  {
+    "claim_text": "Lead the development of effective collection systems to recover as much plastic as Danone uses, by 2040",
+    "source_page": 243,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": null,
+    "claim_id": "danone_2024_a70ecc1e9d1b",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone aims to reduce the use of all types of packaging, including virgin plastics where possible, with actions including:",
+    "source_page": 244,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_ebe7d2cf288a",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về mục tiêu giảm sử dụng bao bì nhựa và các loại bao bì khác, bao gồm cả nhựa nguyên sinh. Danone đã đưa ra nhiều biện pháp như giảm bao bì không cần thiết, thay thế nhựa bằng vật liệu thay thế, tối ưu hóa thiết kế bao bì để tiết kiệm nguyên liệu, và tăng sử dụng vật liệu tái chế.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p244:c1",
+        "pdf_page": 244,
+        "quote": "Danone aims to reduce the use of all types of packaging, including virgin plastics where possible, with actions including:"
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone aims to achieve this by implementing a set of actions including: \n■ Developing reusable packaging models:\n• In its Waters category around 50% of Danone’s water volumes are sold in reusable packaging, mainly reusable jugs under the Bonafont (Mexico), AQUA (Indonesia) and Sirma (Turkey) brands. \nDanone has rolled out iconic returnable glass packaging for the HoReCa (Hotels, Restaurants, Catering) sector and is working towards expanding it in several countries, including France, Spain, and Indonesia;",
+    "source_page": 244,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": 50,
+    "claim_id": "danone_2024_7beae3273806",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã triển khai các mô hình bao bì tái sử dụng trong danh mục nước uống, với khoảng 50% lượng nước được bán qua bao bì tái sử dụng. Điều này tương ứng với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p244:c2",
+        "pdf_page": 244,
+        "quote": "• In its Waters category around 50% of Danone’s water volumes are sold in reusable packaging, mainly reusable jugs under the Bonafont (Mexico), AQUA (Indonesia) and Sirma (Turkey) brands."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone is committed to improving the circularity of packaging that cannot be eliminated by making it reusable, recyclable and/or compostable.",
+    "source_page": 244,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_64d3b9832f46",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận họ cam kết cải thiện tính tuần hoàn của bao bì không thể loại bỏ bằng cách làm cho chúng tái sử dụng, tái chế và/hoặc phân hủy sinh học. Điều này được thể hiện trong mục 2 của báo cáo, nơi Danone nhấn mạnh việc phát triển các mô hình bao bì tái sử dụng.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p244:c2",
+        "pdf_page": 244,
+        "quote": "Danone is committed to improving the circularity of packaging that cannot be eliminated by making it reusable, recyclable and/or compostable."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone is working to ensure that the materials put on the market can be sorted and recycled, considering existing local infrastructure.",
+    "source_page": 245,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastics",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_158ffed20371",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp chi tiết về các nỗ lực của Danone nhằm đảm bảo rằng các vật liệu được đưa ra thị trường có thể được phân loại và tái chế, xem xét cơ sở hạ tầng hiện tại. Các ví dụ bao gồm việc điều chỉnh thiết kế bao bì để cải thiện khả năng phân loại, sử dụng mực mới để cải thiện tái chế của hộp carton đen, và các nỗ lực khác như tham gia vào các liên minh ngành công nghiệp (Ceflex, Consumer Goods Forum Golden Design Rules).",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p245:c1",
+        "pdf_page": 245,
+        "quote": "Danone is working to ensure that the materials put on the market can be sorted and recycled, considering existing local infrastructure."
+      }
+    ]
+  },
+  {
+    "claim_text": "Danone aims to ensure that 100% of the cups put on the market are recyclable.",
+    "source_page": 245,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "PS or PET cups",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": 100,
+    "claim_id": "danone_2024_6870f55027a4",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận họ đang làm việc để đảm bảo rằng tất cả các cốc được đưa ra thị trường đều có thể tái chế. Cụ thể, trong đoạn văn trên trang 245, Danone tuyên bố: 'for Essential Dairy & Plant-Based cups, whether made from PS or PET, Danone aims to ensure that 100% of the cups put on the market are recyclable.'",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p245:c1",
+        "pdf_page": 245,
+        "quote": "for Essential Dairy & Plant-Based cups, whether made from PS or PET, Danone aims to ensure that 100% of the cups put on the market are recyclable."
+      }
+    ]
+  },
+  {
+    "claim_text": "16.8% recycled materials on average in its plastic packaging (compared with 14.6% in 2023);",
+    "source_page": 245,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "plastics",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 16.8,
+    "claim_id": "danone_2024_1a1902730fc2",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone đã sử dụng trung bình 16.8% vật liệu tái chế trong bao bì nhựa vào năm 2024, so với 14.6% vào năm 2023, phù hợp với tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p245:c2",
+        "pdf_page": 245,
+        "quote": "16.8% recycled materials on average in its plastic packaging (compared with 14.6% in 2023);"
+      }
+    ]
+  },
+  {
+    "claim_text": "29.2% recycled PET (rPET) used on average by the Waters category (compared with 23.8% in 2023 ) and 36.6% in countries where local standards and regulations allow it (compared with 31.3% in 2023).",
+    "source_page": 245,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "PET",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 29.2,
+    "claim_id": "danone_2024_d58ded859342",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "85% of Danone’s packaging was reusable, recyclable, or compostable (vs 84% in 2023), 76% in the case of plastic packaging;",
+    "source_page": 245,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastics",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 76,
+    "claim_id": "danone_2024_9e6909813346",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng 76% bao bì nhựa của Danone là tái sử dụng, tái chế hoặc phân hủy sinh học vào năm 2024, phù hợp với tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p245:c2",
+        "pdf_page": 245,
+        "quote": "85% of Danone’s packaging was reusable, recyclable, or compostable (vs 84% in 2023), 76% in the case of plastic packaging;"
+      },
+      {
+        "chunk_id": "danone_2024:p214:c1",
+        "pdf_page": 214,
+        "quote": "achieving 85% recyclable, reusable or compostable packaging, and recovery of 60% of the plastic put on the market from collection systems (vs 58% in 2023);"
+      }
+    ]
+  },
+  {
+    "claim_text": "100% reusable, recyclable, or compostable packaging by 2030",
+    "source_page": 246,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": 100,
+    "claim_id": "danone_2024_8002f4931f08",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận mục tiêu 100% bao bì tái sử dụng, tái chế hoặc phân hủy trong năm 2030. Các đoạn văn bản từ trang 214 và 356 đều đề cập đến mục tiêu này.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p214:c1",
+        "pdf_page": 214,
+        "quote": "Danone aims to reach 100% recyclable, reusable or compostable packaging by 2030"
+      },
+      {
+        "chunk_id": "danone_2024:p356:c2",
+        "pdf_page": 356,
+        "quote": "100% reusable, recyclable or compostable packaging by 2030"
+      }
+    ]
+  },
+  {
+    "claim_text": "In 2024, 85% of Danone’s packaging was reusable, recyclable, or compostable, 76% in the case of plastic packaging (vs 74% in 2023)",
+    "source_page": 246,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 76,
+    "claim_id": "danone_2024_2189c329834e",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng trong năm 2024, 76% của bao bì nhựa của Danone là tái sử dụng, tái chế hoặc phân hủy sinh học (tương ứng với 85% tổng bao bì). Điều này phù hợp với tuyên bố.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p246:c3",
+        "pdf_page": 246,
+        "quote": "In 2024, 85% of Danone’s packaging was reusable, recyclable, or compostable, 76% in the case of plastic packaging (vs 74% in 2023)"
+      }
+    ]
+  },
+  {
+    "claim_text": "Packaging purchased (w/o plastic)",
+    "source_page": 249,
+    "claim_type": "target",
+    "scope": null,
+    "material": "paper and board",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": null,
+    "value": 26.8,
+    "claim_id": "danone_2024_0dab1998245a",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo chỉ rõ rằng Danone có mục tiêu sử dụng bao bì tái sử dụng, tái chế hoặc phân hủy sinh học hoàn toàn vào năm 2030. Phần này không cung cấp thông tin về tỷ lệ bao bì giấy và gỗ mua (không tính nhựa) trong năm 2024.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p246:c2",
+        "pdf_page": 246,
+        "quote": "100% reusable, recyclable, or compostable packaging by 2030 This target concerns all the packaging volumes purchased by Danone to sell its products."
+      }
+    ]
+  },
+  {
+    "claim_text": "Recycled content in packaging  37.4% 522,464 ktons\no/w recycled content in plastic packaging  16.8% 112,324 ktons",
+    "source_page": 251,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "plastic",
+    "unit": "ktons",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 37.4,
+    "claim_id": "danone_2024_ad39481f98b9",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin về tỷ lệ nội dung tái chế trong bao bì là 37.4% (522,464 ktons) và tỷ lệ nội dung tái chế trong bao bì nhựa là 16.8% (112,324 ktons). Những con số này được trích dẫn từ trang 251 của báo cáo Danone năm 2024.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p251:c1",
+        "pdf_page": 251,
+        "quote": "Recycled content in packaging 37.4% 522,464 ktons\no/w recycled content in plastic packaging 16.8% 112,324 ktons"
+      }
+    ]
+  },
+  {
+    "claim_text": "In 2024, Danone recovered 98.9% of its post-industrial packaging waste (compared to 99.0% in 2023), close to its target of reaching 0% post-industrial plastic packaging waste sent to landfill by 2025.",
+    "source_page": 252,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastics",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": 2025,
+    "value": 98.9,
+    "claim_id": "danone_2024_18e6359be044",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "More than 568,200 metric tons of recyclable materials and more than 88,100 tons of PET were collected in eight countries from 2009 to 2024;",
+    "source_page": 285,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "recyclable materials, PET",
+    "unit": "metric tons",
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_a4d3649b822a",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Downstream plastic usage and plastic pollution generated by mismanagement of end-of-life of plastic packaging could lead to soil, water and air pollution, and biodiversity deterioration.",
+    "source_page": 287,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_90c25b19af12",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo của Danone xác nhận rằng việc sử dụng nhựa và ô nhiễm do quản lý không tốt về cuối chuỗi sản phẩm có thể dẫn đến ô nhiễm đất, nước và không khí, cũng như suy giảm đa dạng sinh học. Điều này được đề cập trong nhiều phần khác nhau của báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p287:c3",
+        "pdf_page": 287,
+        "quote": "Downstream plastic usage and plastic pollution generated by mismanagement of end-of-life of plastic packaging could lead to soil, water and air pollution, and biodiversity deterioration."
+      },
+      {
+        "chunk_id": "danone_2024:p287:c2",
+        "pdf_page": 287,
+        "quote": "Downstream plastic usage and plastic pollution generated by mismanagement of end-of-life of plastic packaging could lead to soil, water and air pollution, and biodiversity deterioration."
+      }
+    ]
+  },
+  {
+    "claim_text": "Participation in the Ellen MacArthur Foundation (EMF) annual progress report on the Global Plastics Commitment (2018) as a member of the Advisory Board of the New Plastics Economy Initiative.",
+    "source_page": 334,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_0d414179f7ee",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo cung cấp thông tin rằng Danone tham gia vào báo cáo tiến trình hàng năm của Ellen MacArthur Foundation (EMF) về cam kết toàn cầu về nhựa (2018), làm thành viên ban tư vấn của Khởi Nghiệp Mới Kinh Tế Plastics. Điều này phù hợp với tuyên bố trong báo cáo.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p334:c1",
+        "pdf_page": 334,
+        "quote": "■ Participation in the Ellen MacArthur Foundation (EMF) annual progress report on the Global Plastics Commitment (2018) as a member of the Advisory Board of the New Plastics Economy Initiative."
+      }
+    ]
+  },
+  {
+    "claim_text": "Participation in the Consumer Goods Forum Plastic Waste Coalition of Action, which aims to set standards and align the industry to improve plastic collection and recycling.",
+    "source_page": 334,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_1f5b09602ca8",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến việc Danone tham gia vào Consumer Goods Forum Plastic Waste Coalition of Action, một tổ chức có mục tiêu thiết lập chuẩn mực và sắp xếp ngành công nghiệp để cải thiện thu gom và tái chế nhựa.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p334:c1",
+        "pdf_page": 334,
+        "quote": "■ Participation in the Consumer Goods Forum Plastic Waste Coalition of Action, which aims to set standards and align the industry to improve plastic collection and recycling."
+      }
+    ]
+  },
+  {
+    "claim_text": "Partnership with Loop Industries to enhance closed-loop recycling for PET bottles and make it easier to recycle traditionally hard-to-recycle packaging and materials.",
+    "source_page": 334,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_60158c8411cc",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "supported",
+    "rationale": "Báo cáo đề cập đến việc Danone hợp tác với Loop Industries để cải thiện tái chế đóng vòng và làm cho việc tái chế các vật liệu bao bì khó tái chế trở nên dễ dàng hơn, tương tự như tuyên bố của công ty.",
+    "evidence_refs": [
+      {
+        "chunk_id": "danone_2024:p334:c1",
+        "pdf_page": 334,
+        "quote": "■ Partnership with Loop Industries to enhance closed-loop recycling for PET bottles and make it easier to recycle traditionally hard-to-recycle packaging and materials."
+      }
+    ]
+  },
+  {
+    "claim_text": "A similar 4R strategy is also applied to packaging waste management, with the aim of recovering and reclaiming waste to achieve the target of zero-waste landfill by 2025.",
+    "source_page": 334,
+    "claim_type": "target",
+    "scope": null,
+    "material": "packaging",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2025,
+    "value": null,
+    "claim_id": "danone_2024_6a316b605552",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "■ In 2024, 85% of Danone packaging was reusable, recyclable or compostable (84% in 2023). For plastic packaging, this proportion represented 76%",
+    "source_page": 351,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": 2030,
+    "value": 76,
+    "claim_id": "danone_2024_cabb4e3d9ca1",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "■ 2% absolute reduction in the use of plastic packaging between 2020 and 2024;",
+    "source_page": 351,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2020,
+    "target_year": 2030,
+    "value": -2,
+    "claim_id": "danone_2024_810df603e756",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone, like other Food and Beverages companies, has become a major user of plastic packaging, and one of the main users in certain countries and regions.",
+    "source_page": 354,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_afe8e52ba0c1",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Currently, plastic represents around 50% of Danone's packaging (same as last year).",
+    "source_page": 355,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 50,
+    "claim_id": "danone_2024_1531363c0622",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone's production sites also use plastic components to enable its sites to operate effectively.",
+    "source_page": 356,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_041524578f68",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "In 2024, the recovery rate for plastic packaging waste at the production sites totaled 99%.",
+    "source_page": 356,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 99,
+    "claim_id": "danone_2024_e429c3a78842",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone has made tangible progress in key areas such as in the reduction in the use of plastic, virgin plastic reduction, reuse, recyclability rate and recycled content.",
+    "source_page": 356,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_6f1e191a3f5c",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "100% reusable, recyclable or compostable packaging by 2030;",
+    "source_page": 356,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2030,
+    "value": 100,
+    "claim_id": "danone_2024_71250132c5da",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 compared to 2020; by accelerating reuse and recycling;",
+    "source_page": 356,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2020,
+    "target_year": 2040,
+    "value": 50,
+    "claim_id": "danone_2024_8af3348c9088",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "lead the development of effective collection systems to recover as much plastic as Danone uses by 2040.",
+    "source_page": 356,
+    "claim_type": "target",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": null,
+    "target_year": 2040,
+    "value": null,
+    "claim_id": "danone_2024_e340863eeac5",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "In 2024, 85% of Danone’s packaging was reusable, recyclable or compostable.",
+    "source_page": 357,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2024,
+    "value": 85,
+    "claim_id": "danone_2024_f5bb2fa4b315",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone is working to ensure that the materials purchased to sell its products on the market can be sorted and recycled, taking into account existing infrastructures.",
+    "source_page": 358,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_1b7c011e0877",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone aims to ensure that 100% of the cups put on the market are recyclable.",
+    "source_page": 358,
+    "claim_type": "target",
+    "scope": "Essential Dairy & Plant-Based cups",
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": 2024,
+    "value": 100,
+    "claim_id": "danone_2024_c7a985a6718e",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "The Group continued the launch of 100% rPET bottles. Since 2021, all Danone's main water brands have had at least one format made from 100% recycled materials (in the countries where it is authorized).",
+    "source_page": 359,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "PET",
+    "unit": "%",
+    "measurement_year": 2021,
+    "target_year": null,
+    "value": 100,
+    "claim_id": "danone_2024_fcf39742bffa",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone is committed to co-building and co-financing efficient and inclusive collection systems to recover as much plastic as it uses. Danone is engaged in developing efficient and inclusive collection and recycling systems, through a collaborative approach with its ecosystem. In 2024, 60% of the plastic that the Group placed on the market was recovered (versus 58% in 2023).",
+    "source_page": 359,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "Plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 60,
+    "claim_id": "danone_2024_3fa09cdeeb4b",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "In 2018, Danone has committed $15 million to the Circulate Capital Ocean Fund (CCOF) in Asia, as part of the AQUA water brand's (Indonesia) pledge to recover more plastic than it uses by 2025. To date, the CCOF has committed over $61.2 million. In 2024, CCOF portfolio companies prevented approximately 93,000 additional metric tons of plastic waste from leaking into the environment while improving the livelihoods of more than 5,600 workers across the recycling value chain since the start of the Fund.",
+    "source_page": 359,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "Plastic",
+    "unit": "metric tons",
+    "measurement_year": 2024,
+    "target_year": 2025,
+    "value": 93000,
+    "claim_id": "danone_2024_e5ccdec239ec",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "In 2020, Danone and five other companies co-founded the Indonesia Packaging Recovery Organization (IPRO), a voluntary PRO in Indonesia. Since then, more companies have joined the initiative, contributing to its growth and impact. In 2024, IPRO counts 18 members.",
+    "source_page": 359,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "Plastic",
+    "unit": "members",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 18,
+    "claim_id": "danone_2024_064970285513",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "In 2024, Danone Aqua Indonesia, in collaboration with its partner Prevented Ocean Plastic, opened the first major plastic collection center in Samarinda (Borneo), capable of processing 500 metric tons of recycled plastic per month and creating 96 direct jobs for the region.",
+    "source_page": 359,
+    "claim_type": "collection_recycling",
+    "scope": null,
+    "material": "Plastic",
+    "unit": "metric tons/month, jobs",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 500,
+    "claim_id": "danone_2024_ad2178978dda",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "Danone has engaged with diverse stakeholders to develop it, including union representatives, NGOs, and international experts.",
+    "source_page": 360,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_72ee0a2e93e9",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "The SSP is articulated around three sets of Fundamental Principles on social, environmental and business ethics issues.",
+    "source_page": 360,
+    "claim_type": "target",
+    "scope": null,
+    "material": null,
+    "unit": null,
+    "measurement_year": null,
+    "target_year": null,
+    "value": null,
+    "claim_id": "danone_2024_e6f0dc1afbab",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "In 2024, 88% of Plastic suppliers spend was covered by the RESPECT program (vs 85% in 2023).",
+    "source_page": 360,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "plastic",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 88,
+    "claim_id": "danone_2024_ea081ffe0cca",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "8% reduction in the use of virgin fossil-based packaging between 2020 (excluding EDP Russia) and 2024.",
+    "source_page": 369,
+    "claim_type": "recyclability",
+    "scope": null,
+    "material": "virgin fossil-based packaging",
+    "unit": "%",
+    "measurement_year": 2020,
+    "target_year": 2024,
+    "value": 8,
+    "claim_id": "danone_2024_107dc86773b1",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "16.8% recycled materials on average in its plastic packaging (compared with 14.6% in 2023).",
+    "source_page": 369,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "plastic packaging",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 16.8,
+    "claim_id": "danone_2024_82b9f46861ef",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
+    "assessment": "not_assessed",
+    "extraction_method": "lmstudio",
+    "review_status": "candidate_needs_review",
+    "label": "not_assessed",
+    "rationale": "",
+    "evidence_refs": []
+  },
+  {
+    "claim_text": "29.2% recycled PET (rPET) used on average by the Waters category (compared with 23.8% in 2023) and 36.6% in countries where local standards and regulations allow it (compared with 31.3% in 2023).",
+    "source_page": 369,
+    "claim_type": "recycled_content",
+    "scope": null,
+    "material": "rPET",
+    "unit": "%",
+    "measurement_year": 2024,
+    "target_year": null,
+    "value": 29.2,
+    "claim_id": "danone_2024_343985bfe931",
+    "report_id": "danone_2024",
+    "company": "Danone",
+    "report_year": 2024,
     "assessment": "not_assessed",
     "extraction_method": "lmstudio",
     "review_status": "candidate_needs_review",

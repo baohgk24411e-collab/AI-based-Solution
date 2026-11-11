@@ -1,0 +1,40 @@
+{
+  "label": "insufficient_evidence",
+  "rationale": "Báo cáo không cung cấp thông tin cụ thể về việc thay đổi từ polycarbonate sang PET trong chai AQUA tại Indonesia.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p55:c1",
+      "pdf_page": 55,
+      "quote": "In Indonesia, the Group undertook a major renovation of the AQUA jugs, replacing polycarbonate with PET material and introducing a new ergonomic design."
+    }
+  ],
+  "claim_id": "danone_2024_5a2e9ce27aac",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3824,
+      "completion_tokens": 112,
+      "total_tokens": 3936,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.11,
+    "timestamp": "2026-11-11T08:41:39.147467+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "e9182c12a552c4acb08bf153eeb7fb0717b1083b6bc26237ee29a68ecd97f667",
+  "retrieved_chunk_ids": [
+    "danone_2024:p55:c1",
+    "danone_2024:p244:c2",
+    "danone_2024:p357:c3",
+    "danone_2024:p246:c1",
+    "danone_2024:p387:c2"
+  ]
+}

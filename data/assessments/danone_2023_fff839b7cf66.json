@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã triển khai sử dụng rPET trong các chai PET với tỷ lệ 30% tại Pháp và Bỉ. Điều này được đề cập ở trang 268 của báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p268:c3",
+      "pdf_page": 268,
+      "quote": "ó Danone extends the use of recycled materials to pots, launching PET pots containing 30% rPET in France and Belgium."
+    }
+  ],
+  "claim_id": "danone_2023_fff839b7cf66",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3477,
+      "completion_tokens": 128,
+      "total_tokens": 3605,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.27,
+    "timestamp": "2026-11-11T08:32:31.922559+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "00876c7a4cc26c9e2b07e72c6bbd44e786f3575dfffac37b20dc0d6494fb7898",
+  "retrieved_chunk_ids": [
+    "danone_2023:p268:c3",
+    "danone_2023:p268:c2",
+    "danone_2023:p202:c3",
+    "danone_2023:p203:c3",
+    "danone_2023:p267:c2"
+  ]
+}

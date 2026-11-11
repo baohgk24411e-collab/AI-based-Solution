@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo xác nhận Danone đã đặt mục tiêu phát triển hệ thống thu gom hiệu quả để tái chế lượng nhựa tương đương với số lượng nhựa được đưa ra thị trường vào năm 2040, đồng thời cải thiện điều kiện làm việc cho người lao động trong lĩnh vực thu gom và tái chế.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2024:p228:c2",
+      "pdf_page": 228,
+      "quote": "lead the development of effective collection systems to recover as much plastic as the Group puts on the market by 2040, while improving the working and living conditions of workers in the collection and recycling sectors."
+    }
+  ],
+  "claim_id": "danone_2024_49447ff04747",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3815,
+      "completion_tokens": 164,
+      "total_tokens": 3979,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.66,
+    "timestamp": "2026-11-11T08:43:50.368993+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2024",
+  "fingerprint": "d6c5996577c1d30c14daa6a92d43901e865519075b951198e1889327d329160d",
+  "retrieved_chunk_ids": [
+    "danone_2024:p228:c2",
+    "danone_2024:p228:c1",
+    "danone_2024:p356:c2",
+    "danone_2024:p245:c2",
+    "danone_2024:p32:c3"
+  ]
+}

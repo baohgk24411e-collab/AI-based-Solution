@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone đã thiết lập một quy trình nội bộ để đánh giá và đảm bảo chất lượng của nhựa tái chế, phù hợp với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p269:c3",
+      "pdf_page": 269,
+      "quote": "To remain one step ahead, Danone has set up an in-house procedure involving further requirements and analysis to focus on substances that could be created during recycling. The aim is to ensure that the chosen packaging is risk-free for consumers."
+    }
+  ],
+  "claim_id": "danone_2023_677dfc89aca5",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3445,
+      "completion_tokens": 132,
+      "total_tokens": 3577,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.31,
+    "timestamp": "2026-11-11T08:32:44.542981+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "7e96b02e874c1f7cb9a72197081fbeafbcda3d92102bdec3bdfe9269f879c171",
+  "retrieved_chunk_ids": [
+    "danone_2023:p269:c3",
+    "danone_2023:p269:c2",
+    "danone_2023:p239:c2",
+    "danone_2023:p265:c3",
+    "danone_2023:p28:c1"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo đề cập đến việc Danone hợp tác với Loop Industries để cải thiện tái chế đóng vòng và tái chế các vật liệu bao bì khó tái chế. Điều này tương ứng với tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p245:c1",
+      "pdf_page": 245,
+      "quote": "Partnership with Loop Industries to enhance closed-loop recycling for PET bottles and enable the recycling of hard-to-recycle packaging and materials."
+    }
+  ],
+  "claim_id": "danone_2023_5bdcb12f78a3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3777,
+      "completion_tokens": 122,
+      "total_tokens": 3899,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.34,
+    "timestamp": "2026-11-11T08:28:34.278731+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "d799e8045c8e05e10e31e15d44e665d5291fa7054661b1cb417e9e5cc45265ea",
+  "retrieved_chunk_ids": [
+    "danone_2023:p245:c1",
+    "danone_2023:p202:c3",
+    "danone_2023:p267:c2",
+    "danone_2023:p202:c2",
+    "danone_2023:p266:c1"
+  ]
+}

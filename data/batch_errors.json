@@ -132,51 +132,159 @@
     "error": "LLM citation does not match retrieved source; assessment rejected"
   },
   {
-    "report_id": "cocacola_2024",
+    "report_id": "danone_2022",
     "stage": "verify",
-    "claim_id": "cocacola_2024_74d5dce3451b",
+    "claim_id": "danone_2022_11564aa9d310",
     "error": "LLM citation does not match retrieved source; assessment rejected"
   },
   {
-    "report_id": "cocacola_2024",
+    "report_id": "danone_2022",
     "stage": "verify",
-    "claim_id": "cocacola_2024_74d5dce3451b",
+    "claim_id": "danone_2022_ec508e5adc8f",
     "error": "LLM citation does not match retrieved source; assessment rejected"
   },
   {
-    "report_id": "cocacola_2024",
+    "report_id": "danone_2022",
     "stage": "verify",
-    "claim_id": "cocacola_2024_fa85c814364a",
+    "claim_id": "danone_2022_2dc2083d46d6",
     "error": "LLM citation does not match retrieved source; assessment rejected"
   },
   {
-    "report_id": "cocacola_2024",
+    "report_id": "danone_2023",
+    "stage": "extract",
+    "page": 201,
+    "error": "LM Studio trả kết quả chưa hoàn chỉnh; không lưu như kết quả thành công."
+  },
+  {
+    "report_id": "danone_2023",
     "stage": "verify",
-    "claim_id": "cocacola_2024_c2c1bb12302b",
+    "claim_id": "danone_2023_d7e0c16108b2",
     "error": "LLM citation does not match retrieved source; assessment rejected"
   },
   {
-    "report_id": "cocacola_2025",
+    "report_id": "danone_2023",
     "stage": "verify",
-    "claim_id": "cocacola_2025_c2c1bb12302b",
+    "claim_id": "danone_2023_1ad822fc1eef",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_c050e27cf715",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_3d47c0f96646",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_9a5dc5e56f70",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_e37e2c14308f",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_7d33882cc084",
     "error": "LM Studio HTTP 400; kiểm tra model và context length."
   },
   {
-    "report_id": "cocacola_2025",
+    "report_id": "danone_2023",
     "stage": "verify",
-    "claim_id": "cocacola_2025_d859412a984a",
+    "claim_id": "danone_2023_3dc69c2e5933",
     "error": "LLM citation does not match retrieved source; assessment rejected"
   },
   {
-    "report_id": "cocacola_2025",
+    "report_id": "danone_2023",
     "stage": "verify",
-    "claim_id": "cocacola_2025_4c7006dc47c1",
+    "claim_id": "danone_2023_e027782a2432",
     "error": "LLM citation does not match retrieved source; assessment rejected"
   },
   {
-    "report_id": "cocacola_2025",
+    "report_id": "danone_2023",
     "stage": "verify",
-    "claim_id": "cocacola_2025_ce447ba256a5",
+    "claim_id": "danone_2023_85bd79c004e2",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_bf0450ce43f2",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_c9f0841257af",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_2de1244d1806",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2023",
+    "stage": "verify",
+    "claim_id": "danone_2023_9cf2bdc16209",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_f968547277af",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_e875751ebfb2",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_afb40731b1cc",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_1066567ae6a3",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_a70ecc1e9d1b",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_d58ded859342",
+    "error": "LLM citation does not match retrieved source; assessment rejected"
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_18e6359be044",
+    "error": "LM Studio HTTP 400; kiểm tra model và context length."
+  },
+  {
+    "report_id": "danone_2024",
+    "stage": "verify",
+    "claim_id": "danone_2024_a4d3649b822a",
     "error": "LLM citation does not match retrieved source; assessment rejected"
   }
 ]

@@ -1,0 +1,42 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng Danone có mục tiêu thiết kế bao bì để tái sử dụng, tái chế hoặc phân hủy sinh học vào năm 2030. Điều này được đề cập trong nhiều đoạn văn khác nhau của báo cáo.",
+  "flags": [
+    "Support refers to stated target/design, not achieved future performance"
+  ],
+  "evidence_refs": [
+    {
+      "chunk_id": "danone_2023:p28:c2",
+      "pdf_page": 28,
+      "quote": "■ have 100% of its packaging to be reusable, recyclable, or compostable by 2030;"
+    }
+  ],
+  "claim_id": "danone_2023_f334433f9225",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 3986,
+      "completion_tokens": 125,
+      "total_tokens": 4111,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.78,
+    "timestamp": "2026-11-11T08:24:21.910530+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "danone_2023",
+  "fingerprint": "c27ae5597b3d9058463bece149703c84ce0500098b9836783485b262ed67b39b",
+  "retrieved_chunk_ids": [
+    "danone_2023:p261:c1",
+    "danone_2023:p265:c3",
+    "danone_2023:p28:c2",
+    "danone_2023:p265:c2",
+    "danone_2023:p201:c2"
+  ]
+}
