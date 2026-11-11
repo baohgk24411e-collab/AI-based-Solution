@@ -521,6 +521,150 @@
       "assessment": "not_assessed",
       "extraction_method": "lmstudio",
       "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone's production sites also use plastic components to enable its sites to operate effectively.",
+      "source_page": 265,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_2ad7f3ec5216",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "In 2023, the recovery rate for plastic packaging waste at the production sites totaled 99%.",
+      "source_page": 265,
+      "claim_type": "recyclability",
+      "scope": "production sites",
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": 2023,
+      "target_year": null,
+      "value": 99,
+      "claim_id": "danone_2023_b86b4f0457ce",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone has long been committed to promoting a circular approach to packaging.",
+      "source_page": 265,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_349cd01f194f",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "This approach is outlined in its Packaging Policy (2018) which will be updated in 2024 and in its sustainability strategy - the Danone Impact Journey - which sets out three main objectives:",
+      "source_page": 265,
+      "claim_type": "target",
+      "scope": null,
+      "material": null,
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_c80f18aa2925",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ design packaging to be 100% reusable, recyclable or compostable by 2030;",
+      "source_page": 265,
+      "claim_type": "target",
+      "scope": null,
+      "material": "packaging",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2030,
+      "value": 100,
+      "claim_id": "danone_2023_eadb17acb962",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ halve the use of virgin fossil-based packaging by 2040, with a 30% reduction by 2030 from a 2020 base year excluding EDP Russia by accelerating materials reuse and recycling;",
+      "source_page": 265,
+      "claim_type": "target",
+      "scope": null,
+      "material": "virgin fossil-based packaging",
+      "unit": "%",
+      "measurement_year": 2030,
+      "target_year": 2040,
+      "value": 50,
+      "claim_id": "danone_2023_82fcf0004cb7",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "■ lead the development of effective collection systems to recover as much plastic as we use by 2040.",
+      "source_page": 265,
+      "claim_type": "target",
+      "scope": null,
+      "material": "plastic",
+      "unit": "%",
+      "measurement_year": null,
+      "target_year": 2040,
+      "value": null,
+      "claim_id": "danone_2023_23d0dea98f99",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
+    },
+    {
+      "claim_text": "Danone's environmental packaging footprint is assessed on a yearly basis and monitored using environmental Key Performance Indicators (KPIs) calculated for each country and for each type of packaging. These indicators include packaging volumes that Danone places on the markets where it operates, packaging recyclability rates, actual recycling rates, use of recycled materials and greenhouse gas emissions.",
+      "source_page": 266,
+      "claim_type": "recyclability",
+      "scope": null,
+      "material": "plastic",
+      "unit": null,
+      "measurement_year": null,
+      "target_year": null,
+      "value": null,
+      "claim_id": "danone_2023_c9f0841257af",
+      "report_id": "danone_2023",
+      "company": "Danone",
+      "report_year": 2023,
+      "assessment": "not_assessed",
+      "extraction_method": "lmstudio",
+      "review_status": "candidate_needs_review"
     }
   ],
   "processed_pages": [
@@ -564,7 +708,9 @@
     261,
     262,
     263,
-    264
+    264,
+    265,
+    266
   ],
   "runs": [
     {
@@ -1568,6 +1714,95 @@
       },
       "processed_pages": [
         264
+      ]
+    },
+    {
+      "rejected": [],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2208,
+          "completion_tokens": 715,
+          "total_tokens": 2923,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 20.89,
+        "timestamp": "2026-11-11T08:21:58.547515+00:00"
+      },
+      "processed_pages": [
+        265
+      ]
+    },
+    {
+      "rejected": [
+        {
+          "item": {
+            "claim_text": "Danone aims to reduce plastic packaging use where possible, with actions and progress including: \n■ Eliminating problematic or unnecessary packaging:\no plastic straws: between 2018 and 2023, Danone removed or replaced around 3 billion units of plastic straws;\no plastic spoons: Danone removed or replaced around 30 million plastic spoons between 2018 and 2023, with total elimination in Europe; \no Sleeves: Danone has been eliminating sleeves on Danacol products since 2022 and on Actimel bottles since the end of 2023 in Europe, reducing a total of 1,000 metric tons of plastic;\no PVC: The Group eliminated more than 90% of PVC worldwide, and is working towards total elimination in the remaining countries. Danone has also completely eliminated PVC sleeves in China.",
+            "source_page": 266,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastic straws, plastic spoons, sleeves, PVC",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Danone aims to reduce plastic packaging use where possible, with actions and progress including: \n■ Replacing plastic packaging with alternative materials. The Group intends to offer consumers plastic-free options that are economically viable, tailored to local needs, and ensures, through life-cycle analysis, that the alternative solution is environmentally beneficial.",
+            "source_page": 266,
+            "claim_type": "target",
+            "scope": null,
+            "material": "plastic packaging",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": null
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        },
+        {
+          "item": {
+            "claim_text": "Danone is committed to developing reuse models: \n■ Around 50% of its water volumes are sold in reusable packaging, mainly reusable water jugs under the Bonafont (Mexico), AQUA (Indonesia), Hayat and Sirma (Turkey) brands.",
+            "source_page": 266,
+            "claim_type": "recyclability",
+            "scope": null,
+            "material": "water volumes",
+            "unit": null,
+            "measurement_year": null,
+            "target_year": null,
+            "value": 50
+          },
+          "reason": "Invalid schema or quote not present on cited PDF page"
+        }
+      ],
+      "metadata": {
+        "provider": "lmstudio",
+        "model": "qwen2.5-7b-instruct",
+        "endpoint": "http://127.0.0.1:1234/v1",
+        "prompt_version": "greenclaim-v2-local",
+        "cache_hit": false,
+        "usage": {
+          "prompt_tokens": 2117,
+          "completion_tokens": 683,
+          "total_tokens": 2800,
+          "completion_tokens_details": {
+            "reasoning_tokens": 0
+          }
+        },
+        "seconds": 19.94,
+        "timestamp": "2026-11-11T08:22:18.497257+00:00"
+      },
+      "processed_pages": [
+        266
       ]
     }
   ],
