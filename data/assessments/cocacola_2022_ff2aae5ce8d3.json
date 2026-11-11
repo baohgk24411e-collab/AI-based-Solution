@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp chi tiết về việc Coca-Cola Philippines và Indorama Ventures hợp tác thành lập PETValue Philippines, một nhà máy tái chế PET đầu tiên ở nước này. Điều này hỗ trợ tuyên bố của công ty.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p22:c1",
+      "pdf_page": 22,
+      "quote": "• C oca-Cola Philippines and Indorama Ventures partnered to establish PETValue Philippines, a full operation recycling facility that is the first of its kind in the country. The facility is helping to drive collective action toward a circular economy for PET plastic, by providing more than 800 collection points for PET bottles in the country."
+    }
+  ],
+  "claim_id": "cocacola_2022_ff2aae5ce8d3",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4014,
+      "completion_tokens": 167,
+      "total_tokens": 4181,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 7.91,
+    "timestamp": "2026-11-11T08:59:32.264319+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "832c56c55755912368219a699daa54fa906882bd1655fba66b5b4ae196e6d99e",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p22:c1",
+    "cocacola_2022:p38:c2",
+    "cocacola_2022:p42:c3",
+    "cocacola_2022:p38:c1",
+    "cocacola_2022:p41:c2"
+  ]
+}

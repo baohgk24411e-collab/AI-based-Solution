@@ -1,0 +1,40 @@
+{
+  "label": "supported",
+  "rationale": "Báo cáo cung cấp thông tin rằng 'Approximately 14% of total beverage volume was served in reusable packaging in 2022' là chính xác theo dữ liệu trong báo cáo.",
+  "flags": [],
+  "evidence_refs": [
+    {
+      "chunk_id": "cocacola_2022:p9:c1",
+      "pdf_page": 9,
+      "quote": "Approximately 14% of total beverage volume was served in reusable packaging in 2022"
+    }
+  ],
+  "claim_id": "cocacola_2022_76c4ee8fd26e",
+  "metadata": {
+    "provider": "lmstudio",
+    "model": "qwen2.5-7b-instruct",
+    "endpoint": "http://127.0.0.1:1234/v1",
+    "prompt_version": "greenclaim-v2-local",
+    "cache_hit": false,
+    "usage": {
+      "prompt_tokens": 4203,
+      "completion_tokens": 105,
+      "total_tokens": 4308,
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "seconds": 6.36,
+    "timestamp": "2026-11-11T08:59:24.340245+00:00"
+  },
+  "review_status": "ai_assessment_needs_review",
+  "report_id": "cocacola_2022",
+  "fingerprint": "bc7e8cb926ccfdd8e84bcc3226b9ed80624ddb71135ab5b8f84684f9efec77d9",
+  "retrieved_chunk_ids": [
+    "cocacola_2022:p37:c3",
+    "cocacola_2022:p9:c1",
+    "cocacola_2022:p9:c2",
+    "cocacola_2022:p37:c2",
+    "cocacola_2022:p37:c1"
+  ]
+}
