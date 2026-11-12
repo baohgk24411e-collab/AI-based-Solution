@@ -1186,58 +1186,57 @@ Circular Action Alliance (CAA), an Extended Producer..."</td>
         <div class="cyber-card">
             <h3>System Architecture & Multi-Stage Execution</h3>
             <pre>
-# System Architecture & AI Pipeline
+# Kiến Trúc Hệ Thống & Quy Trình Xử Lý AI (Pipeline)
 
 ```
 +-----------------------------------------------------------------------------------+
-|                            GREENCLAIM AI ARCHITECTURE                             |
+|                            KIẾN TRÚC AI GREENCLAIM                                |
 +-----------------------------------------------------------------------------------+
                                          │
- 1. DATA INGESTION                       ▼
-    [ Corporate PDFs (20 files) ] ──> [ pypdf Stream Extractor ]
+ 1. THU THẬP DỮ LIỆU                     ▼
+    [ 20 Báo cáo PDF Doanh nghiệp ] ──> [ Trình trích xuất pypdf ]
                                          │
- 2. TEXT PROCESSING                      ▼
-    [ Physical Page Indexing ] ──> [ Character Chunks (2500 chars, 400 overlap) ]
+ 2. TIỀN XỬ LÝ VĂN BẢN                   ▼
+    [ Đánh số trang vật lý ] ──> [ Chia đoạn (2.500 ký tự, gối đầu 400 ký tự) ]
                                          │
- 3. LEXICAL PRE-FILTER                   ▼
-    [ Packaging & Recycling Keywords ] ──> [ 389 Relevant Pages Identified ]
+ 3. LỌC TỪ KHÓA SƠ BỘ                    ▼
+    [ Từ khóa Bao bì & Tái chế ] ──> [ Lọc ra 389 Trang liên quan ]
                                          │
- 4. STRUCTURED LLM EXTRACTION            ▼
-    [ Local LM Studio (Qwen 2.5 7B) / Gemini ] ──> Strict JSON Schema Enforcement
+ 4. TRÍCH XUẤT CLAIM BẰNG LLM            ▼
+    [ LM Studio Cục bộ (Qwen 2.5 7B) / Gemini ] ──> Ràng buộc JSON Schema nghiêm ngặt
                                          │
-                                         ├──> [ Exact Quote Verification: 100% Grounded ]
-                                         └──> [ Extracted 631 Claims with Metadata ]
+                                         ├──> [ Kiểm tra trích dẫn nguyên văn: 100% Grounded ]
+                                         └──> [ Trích xuất 631 Claims kèm Metadata ]
                                          │
- 5. EVIDENCE RETRIEVAL                   ▼
-    [ BM25 Full-Report Inverted Index ] ──> [ Top-K Candidate Chunks per Claim ]
+ 5. TRUY XUẤT BẰNG CHỨNG (RETRIEVAL)     ▼
+    [ Chỉ mục đảo BM25 toàn báo cáo ] ──> [ Top-K Đoạn ứng viên cho mỗi Claim ]
                                          │
- 6. MULTI-STEP VERIFICATION & AUDIT      ▼
-    [ LLM Citation & Rationale Agent ] ──> [ Exact Substring Quote Validation ]
+ 6. THẨM ĐỊNH & KIỂM ĐỊNH ĐA BƯỚC        ▼
+    [ Agent Đối chiếu & Giải thích LLM ] ──> [ Xác thực khớp chuỗi nguyên văn ]
                                          │
-                                         ├──> Passed: Saved to Assessment Registry
-                                         └──> Mismatched Quote: Repair Loop or Rejected
+                                         ├──> Đạt chuẩn: Lưu vào Kho Đánh giá
+                                         └──> Sai trích dẫn: Tự động sửa hoặc Loại bỏ
                                          │
- 7. USER INTERFACE & REPORTING           ▼
-    [ Streamlit Research Workbench ] <── [ summary.json / claims_and_assessments.csv ]
+ 7. GIAO DIỆN & BÁO CÁO                  ▼
+    [ Streamlit Workbench / HTML Dashboard ] <── [ summary.json / claims_and_assessments.csv ]
 ```
 
-## Pipeline Execution Stages
-1. **Document Ingestion:** Reads 20 official English PDF reports from Nestlé, Danone, Coca-Cola, P&G, and Reckitt.
-2. **Chunking & Indexing:** Tokenizes and indexes text into 4,930 searchable passages with exact page tracking.
-3. **Keyword Filtering:** Filters 2,565 total pages down to 389 packaging-relevant candidate pages to conserve compute.
-4. **LLM Claim Extraction:** Prompts the model with strict JSON schema to parse:
-   * `claim_text`: Exact verbatim quotation from the text.
-   * `claim_type`: `target`, `recyclability`, `recycled_content`, `collection_recycling`.
-   * Quantitative metadata: `value`, `unit`, `target_year`, `measurement_year`.
-5. **Exact Substring Gatekeeper:** Validates that `claim_text` exists literally on the cited PDF page. Any fabricated or altered quotation is immediately discarded.
-6. **BM25 Evidence Retrieval:** Performs keyword-driven document retrieval for each claim across the entire publication to retrieve corresponding disclosures, definitions, or conflicting footnotes.
-7. **Adjudication & Verification:** Compares the claim against evidence chunks, producing labels:
-   * `supported`: Substantive corroborating evidence found in the document.
-   * `insufficient_evidence`: Broad statements or metrics lacking methodology or baseline context.
-   * `scope_mismatch`: Plastic claims mixed with paper, glass, or non-packaging scopes.
-   * `potential_inconsistency`: Conflicting figures across different sections or years.
-   * `not_yet_assessable`: Future commitments that have not matured.
-
+## Các Giai Đoạn Thực Thi Của Pipeline
+1. **Thu thập tài liệu (Document Ingestion):** Đọc 20 báo cáo phát triển bền vững định dạng PDF (tiếng Anh) từ 5 tập đoàn lớn: Nestlé, Danone, Coca-Cola, P&G và Reckitt.
+2. **Chia đoạn & Lập chỉ mục (Chunking & Indexing):** Tách văn bản thành 4.930 đoạn tìm kiếm kèm theo số trang PDF gốc chính xác.
+3. **Bộ lọc từ khóa (Keyword Filtering):** Lọc từ tổng số 2.565 trang xuống còn 389 trang chứa nội dung về bao bì nhựa/tái chế để tối ưu chi phí và thời gian xử lý của LLM.
+4. **Trích xuất Claim bằng LLM:** Ép mô hình trả về JSON Schema chặt chẽ gồm:
+   * `claim_text`: Câu trích dẫn nguyên văn từ văn bản gốc.
+   * `claim_type`: Phân loại gồm `target` (mục tiêu), `recyclability` (khả năng tái chế), `recycled_content` (hàm lượng tái chế), `collection_recycling` (thu gom/tái chế thực tế).
+   * Metadata định lượng: `value` (giá trị số), `unit` (đơn vị), `target_year` (năm mục tiêu), `measurement_year` (năm đo lường).
+5. **Cổng kiểm duyệt nguyên văn (Exact Substring Gatekeeper):** Kiểm tra bắt buộc chuỗi `claim_text` phải tồn tại nguyên vẹn trên đúng trang PDF được trích dẫn (`norm(claim_text) in page_text`). Mọi câu do LLM tự bịa hoặc diễn giải sai sẽ bị loại bỏ ngay lập tức.
+6. **Truy xuất bằng chứng bằng BM25 (Top-K Retrieval):** Tìm kiếm 5 đoạn văn bản (`K = 5`) có mức độ liên quan cao nhất trên toàn bộ báo cáo để lấy các định nghĩa, số liệu đối chứng hoặc ghi chú chân trang.
+7. **Thẩm định & Gán nhãn (Adjudication & Verification):** Đối chiếu tuyên bố với các đoạn bằng chứng tìm được để phân loại thành 5 nhãn:
+   * `supported`: Có bằng chứng tài liệu xác thực rõ ràng trong báo cáo.
+   * `insufficient_evidence`: Tuyên bố chung chung hoặc thiếu phương pháp đo lường / năm cơ sở (baseline).
+   * `scope_mismatch`: Lẫn lộn phạm vi (ví dụ: lấy số liệu của bao bì giấy/thủy tinh đánh đồng cho bao bì nhựa).
+   * `potential_inconsistency`: Số liệu mâu thuẫn giữa các phần hoặc giữa mục tiêu và thực tế.
+   * `not_yet_assessable`: Các cam kết mục tiêu tương lai (ví dụ mốc 2025/2030) chưa đến thời hạn đánh giá kết quả.
 
             </pre>
         </div>
@@ -1248,55 +1247,53 @@ Circular Action Alliance (CAA), an Extended Producer..."</td>
         <div class="cyber-card">
             <h3>Engineering Limitations & System Constraints</h3>
             <pre>
-# Pipeline Limitations & Engineering Constraints
+# Giới Hạn Kỹ Thuật & Ranh Giới Của Hệ Thống (Pipeline Limitations)
 
-## 1. PDF Text Extraction & Structural Layout Boundaries
-* **Pure Text Stream (No OCR):** The ingestion pipeline relies on `pypdf` stream extraction. Documents containing scanned images, rasterized text, or complex infographic banners without text layers cannot be extracted without an OCR subsystem (e.g., Tesseract/PaddleOCR).
-* **Multi-Column Tables & Layout Disruption:** Sustainability reports often present metrics in multi-column tables. Linear PDF text extraction can flatten rows into ambiguous sequences, occasionally causing LLMs to associate metric values with adjacent row headers or neighboring years.
-* **Page Indexing vs. Printed Folios:** Physical PDF page indices (1-indexed) frequently diverge from printed publication folios due to front-matter, cover pages, and Roman numeral numbering.
+## 1. Hạn Chế Trong Trích Xuất Văn Bản PDF & Cấu Trúc Bảng
+* **Chỉ xử lý luồng văn bản gốc (Chưa có OCR):** Hệ thống sử dụng `pypdf` để đọc text layer. Các trang báo cáo được xuất dưới dạng ảnh chụp, infographic hoặc biểu đồ chứa chữ mà không có lớp văn bản (text layer) sẽ không đọc được nếu không tích hợp thêm bộ nhận diện ký tự quang học (OCR như Tesseract/PaddleOCR).
+* **Bảng nhiều cột và mất cấu trúc dòng:** Báo cáo phát triển bền vững thường trình bày số liệu trong bảng nhiều cột phức tạp. Khi trích xuất tuyến tính thành chuỗi văn bản, các cột và dòng có thể bị trộn thứ tự, khiến LLM đôi khi gán nhầm số liệu của năm/cột kế cận vào câu tuyên bố.
+* **Số trang vật lý (PDF Page) khác số trang in:** Chỉ số trang PDF đếm từ 1 thường lệch so với số trang in hiển thị trên góc tài liệu do bao gồm trang bìa, mục lục hoặc số La Mã.
 
-## 2. Evidence Retrieval (BM25 Lexical Scope)
-* **Intra-Report Retrieval:** Current evidence retrieval is strictly scoped within the same report ID. Cross-year comparative analysis (e.g., comparing 2021 baseline vs. 2024 claimed achievement across different annual publications) is not autonomously linked in this single-report retrieval pass.
-* **Lexical vs. Semantic Embedding:** BM25 matching prioritizes keyword frequencies. Claims utilizing heavy paraphrase or corporate euphemisms without overlapping packaging keywords may experience lower retrieval recall than dense semantic vector embeddings.
+## 2. Giới Hạn Trong Truy Xuất Bằng Chứng (BM25 Lexical Scope)
+* **Chỉ đối chiếu trong nội bộ cùng một báo cáo (Intra-report):** Hệ thống tìm kiếm BM25 hiện tại chỉ quét dữ liệu trong cùng một `report_id`. Chưa tự động liên kết đối chiếu chéo liên niên (ví dụ: so sánh lời hứa ở báo cáo 2021 với kết quả thực tế ở báo cáo 2024).
+* **Truy xuất từ khóa vs Ngữ nghĩa sâu:** BM25 dựa trên tần suất từ khóa trùng khớp. Nếu phần bằng chứng nằm ở một trang dùng từ ngữ diễn giải hoàn toàn khác (paraphrase), độ phủ tìm kiếm (recall) có thể thấp hơn so với tìm kiếm vector ngữ nghĩa (dense embeddings).
 
-## 3. LLM Extraction & Assessment Hallucination Patterns
-* **Neighboring Table Cell Confusion (12.7% Metric Error Rate):** When extracting quantitative fields (`value`, `unit`, `target_year`), small local models (e.g., 7B parameters) occasionally pick up progress percentages from adjacent table rows rather than the target percentage stated in the sentence.
-* **Implicit Verbal Deduction:** Phrases like *"halve our virgin plastics"* are occasionally converted into numeric `50%` by the LLM even though the digit `50` does not literally appear in the sentence.
-* **Documentary Support vs. Factual Truth:** A verdict of `supported` exclusively denotes that the cited report text contains matching claims and documentary substantiation. It does **not** constitute independent forensic auditing or external physical verification of corporate practices.
+## 3. Hiện Tượng Hallucination Số Liệu Của LLM Cục Bộ
+* **Nhầm lẫn ô bảng lân cận (Context Cell Confusion):** Khi trích xuất các trường số liệu (`value`, `unit`, `target_year`), mô hình 7B cục bộ (Qwen 2.5 7B) thỉnh thoảng nhặt nhầm tỷ lệ tiến độ hiện tại (ví dụ: 90%) từ dòng kế bên thay vì tỷ lệ mục tiêu của câu (100%).
+* **Tự suy diễn từ ngữ định tính thành số (Implicit Deduction):** Các cụm từ như *"halve our virgin plastics"* (giảm một nửa nhựa nguyên sinh) đôi khi được LLM tự quy đổi thành `50%` dù con số `50` không xuất hiện nguyên văn trong câu.
+* **Quy đổi đơn vị quy mô (Scale Expansion):** Các cụm từ như *"3 million metric tons"* được LLM tự mở rộng thành `3000000` thay vì giữ nguyên giá trị số `3` và đơn vị `million metric tons`.
+* **Độ dài ngữ cảnh (Context Length Limit):** Các trang PDF quá dày đặc văn bản bảng biểu (như trang 201 của `danone_2023` dài 6.491 ký tự) có thể vượt ngưỡng bộ nhớ sinh JSON của mô hình cục bộ 7B dẫn đến lỗi sinh dở dang.
 
-## 4. Greenwashing Detection Scope
-* **Report-Internal Consistency:** The system flags internal discrepancies (e.g., future commitments presented as achieved, lack of baseline years, scope mismatch between plastic vs. all packaging). It cannot detect supply-chain fraud, unrecorded waste exports, or off-balance-sheet environmental impacts occurring outside official corporate filings.
-
+## 4. Phạm Vi Kết Luận Greenwashing
+* **Xác thực tài liệu (Documentary Support) ≠ Kiểm toán thực địa:** Nhãn `supported` chỉ xác nhận rằng *bên trong báo cáo có dẫn chứng và số liệu hỗ trợ cho tuyên bố đó*. Hệ thống không thay thế cho việc kiểm toán độc lập chuỗi cung ứng hoặc kiểm chứng dữ liệu thực tế bên ngoài báo cáo doanh nghiệp.
 
             </pre>
             <h3 style="margin-top:20px;">Greenwashing Taxonomy Framework</h3>
             <pre>
-# Greenwashing Classification Taxonomy in Plastic Packaging
+# Hệ Thống Phân Loại Rủi Ro Greenwashing Trong Bao Bì Nhựa
 
-## Framework Overview
-In corporate sustainability disclosures, "Greenwashing" refers to practices that mislead consumers, investors, or regulators regarding an enterprise's environmental impact or the sustainability performance of its products.
+## Tổng Quan Khung Phân Tích
+Trong báo cáo phát triển bền vững (ESG), **Greenwashing (Tẩy xanh)** là hành vi phóng đại, đánh tráo khái niệm hoặc công bố thông tin thiếu căn cứ nhằm tạo ấn tượng giả tạo với người tiêu dùng và nhà đầu tư rằng doanh nghiệp đang thân thiện với môi trường.
 
-In our analysis of FMCG packaging reports, we identify 5 primary risk patterns:
+Trong phạm vi phân tích báo cáo bao bì nhựa ngành FMCG, hệ thống nhận diện **5 nhóm rủi ro Greenwashing trọng tâm**:
 
-### 1. The Sin of No Proof (Insufficient Evidence)
-* **Definition:** Claims asserting high sustainability or packaging reduction without transparent measurement methodologies, baseline years, or third-party audit verification.
-* **Corpus Example:** Statements such as *"our refill packs are designed to be fully recyclable"* without reporting actual collection rates, infrastructure compatibility, or consumer recycling rates.
+### 1. Tội Thiếu Bằng Chứng (The Sin of No Proof — Insufficient Evidence)
+* **Định nghĩa:** Đưa ra tuyên bố tích cực về khả năng tái chế hoặc giảm thiểu nhựa nhưng không cung cấp số liệu cơ sở (baseline year), phương pháp đo lường, hoặc dẫn chứng kiểm toán đi kèm.
+* **Ví dụ thực tế trong tập dữ liệu:** Các câu như *"gói nạp lại Nescafé Gold có thể tái chế hoàn toàn"* nhưng không kèm tỷ lệ thu gom thực tế tại địa phương hay chứng nhận hạ tầng tái chế tương thích.
 
-### 2. The Sin of Vagueness (Unqualified Scope)
-* **Definition:** Using broad buzzwords such as *"sustainable packaging"*, *"eco-friendly design"*, or *"circular plastic"* without specifying whether the scope is global, regional, virgin plastic only, or total packaging mass.
-* **Corpus Example:** Reporting composite percentages (e.g., *"88% recyclable, reusable, or compostable packaging"*) to mask that actual post-consumer recycled plastic content remains in single digits.
+### 2. Tội Mơ Hồ / Chung Chung (The Sin of Vagueness — Unqualified Scope)
+* **Định nghĩa:** Sử dụng các thuật ngữ mỹ miều như *"bao bì bền vững"*, *"thiết kế xanh"*, *"nhựa tuần hoàn"* nhưng không định nghĩa rõ phạm vi địa lý, vật liệu áp dụng hay tỷ trọng thực tế.
+* **Ví dụ thực tế:** Công bố chỉ số gộp (ví dụ: *"88% bao bì có thể tái chế, tái sử dụng hoặc phân hủy"*) để che lấp việc tỷ lệ nhựa tái chế thực tế (PCR) chỉ đạt mức rất nhỏ.
 
-### 3. False Equivalence & Scope Mismatch
-* **Definition:** Blending distinct packaging substrates (e.g., glass, aluminum, corrugated cardboard, and PET) into an aggregated "sustainable packaging" metric to inflate the headline percentage while high-risk virgin plastic usage expands.
-* **Corpus Example:** Advertising a high headline packaging recyclability rate driven primarily by heavy glass bottles and corrugated shipping boxes, while flexible plastic pouches remain non-recyclable.
+### 3. Đánh Tráo Phạm Vi Vật Liệu (False Equivalence & Scope Mismatch)
+* **Định nghĩa:** Gộp chung nhiều loại vật liệu (thủy tinh, nhôm, thùng carton giấy và nhựa PET) vào cùng một tỷ lệ "bao bì tái chế chung" nhằm thổi phồng thành tích bề mặt trong khi lượng nhựa nguyên sinh dùng một lần vẫn gia tăng.
+* **Ví dụ thực tế:** Tỷ lệ tái chế chung đạt trên 90% nhờ chai thủy tinh và thùng giấy carton dễ tái chế, nhưng các loại bao bì màng nhựa mềm (flexible plastic) vẫn không thể tái chế.
 
-### 4. Premature Achievement Claims (Not Yet Assessable)
-* **Definition:** Framing distant future commitments (e.g., *"100% recyclable by 2025/2030"*) with promotional marketing rhetoric in the present tense, conflating target aspirations with achieved operating performance.
-* **Corpus Example:** Presenting headline reduction targets without annual progress baselines or interim milestones.
+### 4. Đánh Đồng Mục Tiêu Tương Lai Với Kết Quả Hiện Tại (Premature Achievement Claims)
+* **Định nghĩa:** Trình bày các cam kết dài hạn (ví dụ: *"100% bao bì tái chế vào năm 2025/2030"*) theo ngôn ngữ quảng bá như một thành tựu đã đạt được, hoặc không công bố lộ trình tiến độ hàng năm.
 
-### 5. Hidden Trade-Offs & Selective Disclosure
-* **Definition:** Highlighting an isolated environmental gain (such as a 10% weight reduction in bottle caps) while total virgin resin tonnage increases due to aggregate production volume expansion.
-
+### 5. Đánh Đổi Ẩn & Công Bố Chọn Lọc (Hidden Trade-Offs & Selective Disclosure)
+* **Định nghĩa:** Tập trung nhấn mạnh một cải tiến nhỏ mang tính cục bộ (ví dụ: giảm 10% trọng lượng nắp chai nhựa) trong khi tổng lượng nhựa nguyên sinh tiêu thụ toàn cầu lại tăng lên do mở rộng sản lượng bán ra.
 
             </pre>
         </div>

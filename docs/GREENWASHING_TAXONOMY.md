@@ -1,26 +1,24 @@
-# Greenwashing Classification Taxonomy in Plastic Packaging
+# Hệ Thống Phân Loại Rủi Ro Greenwashing Trong Bao Bì Nhựa
 
-## Framework Overview
-In corporate sustainability disclosures, "Greenwashing" refers to practices that mislead consumers, investors, or regulators regarding an enterprise's environmental impact or the sustainability performance of its products.
+## Tổng Quan Khung Phân Tích
+Trong báo cáo phát triển bền vững (ESG), **Greenwashing (Tẩy xanh)** là hành vi phóng đại, đánh tráo khái niệm hoặc công bố thông tin thiếu căn cứ nhằm tạo ấn tượng giả tạo với người tiêu dùng và nhà đầu tư rằng doanh nghiệp đang thân thiện với môi trường.
 
-In our analysis of FMCG packaging reports, we identify 5 primary risk patterns:
+Trong phạm vi phân tích báo cáo bao bì nhựa ngành FMCG, hệ thống nhận diện **5 nhóm rủi ro Greenwashing trọng tâm**:
 
-### 1. The Sin of No Proof (Insufficient Evidence)
-* **Definition:** Claims asserting high sustainability or packaging reduction without transparent measurement methodologies, baseline years, or third-party audit verification.
-* **Corpus Example:** Statements such as *"our refill packs are designed to be fully recyclable"* without reporting actual collection rates, infrastructure compatibility, or consumer recycling rates.
+### 1. Tội Thiếu Bằng Chứng (The Sin of No Proof — Insufficient Evidence)
+* **Định nghĩa:** Đưa ra tuyên bố tích cực về khả năng tái chế hoặc giảm thiểu nhựa nhưng không cung cấp số liệu cơ sở (baseline year), phương pháp đo lường, hoặc dẫn chứng kiểm toán đi kèm.
+* **Ví dụ thực tế trong tập dữ liệu:** Các câu như *"gói nạp lại Nescafé Gold có thể tái chế hoàn toàn"* nhưng không kèm tỷ lệ thu gom thực tế tại địa phương hay chứng nhận hạ tầng tái chế tương thích.
 
-### 2. The Sin of Vagueness (Unqualified Scope)
-* **Definition:** Using broad buzzwords such as *"sustainable packaging"*, *"eco-friendly design"*, or *"circular plastic"* without specifying whether the scope is global, regional, virgin plastic only, or total packaging mass.
-* **Corpus Example:** Reporting composite percentages (e.g., *"88% recyclable, reusable, or compostable packaging"*) to mask that actual post-consumer recycled plastic content remains in single digits.
+### 2. Tội Mơ Hồ / Chung Chung (The Sin of Vagueness — Unqualified Scope)
+* **Định nghĩa:** Sử dụng các thuật ngữ mỹ miều như *"bao bì bền vững"*, *"thiết kế xanh"*, *"nhựa tuần hoàn"* nhưng không định nghĩa rõ phạm vi địa lý, vật liệu áp dụng hay tỷ trọng thực tế.
+* **Ví dụ thực tế:** Công bố chỉ số gộp (ví dụ: *"88% bao bì có thể tái chế, tái sử dụng hoặc phân hủy"*) để che lấp việc tỷ lệ nhựa tái chế thực tế (PCR) chỉ đạt mức rất nhỏ.
 
-### 3. False Equivalence & Scope Mismatch
-* **Definition:** Blending distinct packaging substrates (e.g., glass, aluminum, corrugated cardboard, and PET) into an aggregated "sustainable packaging" metric to inflate the headline percentage while high-risk virgin plastic usage expands.
-* **Corpus Example:** Advertising a high headline packaging recyclability rate driven primarily by heavy glass bottles and corrugated shipping boxes, while flexible plastic pouches remain non-recyclable.
+### 3. Đánh Tráo Phạm Vi Vật Liệu (False Equivalence & Scope Mismatch)
+* **Định nghĩa:** Gộp chung nhiều loại vật liệu (thủy tinh, nhôm, thùng carton giấy và nhựa PET) vào cùng một tỷ lệ "bao bì tái chế chung" nhằm thổi phồng thành tích bề mặt trong khi lượng nhựa nguyên sinh dùng một lần vẫn gia tăng.
+* **Ví dụ thực tế:** Tỷ lệ tái chế chung đạt trên 90% nhờ chai thủy tinh và thùng giấy carton dễ tái chế, nhưng các loại bao bì màng nhựa mềm (flexible plastic) vẫn không thể tái chế.
 
-### 4. Premature Achievement Claims (Not Yet Assessable)
-* **Definition:** Framing distant future commitments (e.g., *"100% recyclable by 2025/2030"*) with promotional marketing rhetoric in the present tense, conflating target aspirations with achieved operating performance.
-* **Corpus Example:** Presenting headline reduction targets without annual progress baselines or interim milestones.
+### 4. Đánh Đồng Mục Tiêu Tương Lai Với Kết Quả Hiện Tại (Premature Achievement Claims)
+* **Định nghĩa:** Trình bày các cam kết dài hạn (ví dụ: *"100% bao bì tái chế vào năm 2025/2030"*) theo ngôn ngữ quảng bá như một thành tựu đã đạt được, hoặc không công bố lộ trình tiến độ hàng năm.
 
-### 5. Hidden Trade-Offs & Selective Disclosure
-* **Definition:** Highlighting an isolated environmental gain (such as a 10% weight reduction in bottle caps) while total virgin resin tonnage increases due to aggregate production volume expansion.
-
+### 5. Đánh Đổi Ẩn & Công Bố Chọn Lọc (Hidden Trade-Offs & Selective Disclosure)
+* **Định nghĩa:** Tập trung nhấn mạnh một cải tiến nhỏ mang tính cục bộ (ví dụ: giảm 10% trọng lượng nắp chai nhựa) trong khi tổng lượng nhựa nguyên sinh tiêu thụ toàn cầu lại tăng lên do mở rộng sản lượng bán ra.

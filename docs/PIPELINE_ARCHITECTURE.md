@@ -1,52 +1,51 @@
-# System Architecture & AI Pipeline
+# Kiến Trúc Hệ Thống & Quy Trình Xử Lý AI (Pipeline)
 
 ```
 +-----------------------------------------------------------------------------------+
-|                            GREENCLAIM AI ARCHITECTURE                             |
+|                            KIẾN TRÚC AI GREENCLAIM                                |
 +-----------------------------------------------------------------------------------+
                                          │
- 1. DATA INGESTION                       ▼
-    [ Corporate PDFs (20 files) ] ──> [ pypdf Stream Extractor ]
+ 1. THU THẬP DỮ LIỆU                     ▼
+    [ 20 Báo cáo PDF Doanh nghiệp ] ──> [ Trình trích xuất pypdf ]
                                          │
- 2. TEXT PROCESSING                      ▼
-    [ Physical Page Indexing ] ──> [ Character Chunks (2500 chars, 400 overlap) ]
+ 2. TIỀN XỬ LÝ VĂN BẢN                   ▼
+    [ Đánh số trang vật lý ] ──> [ Chia đoạn (2.500 ký tự, gối đầu 400 ký tự) ]
                                          │
- 3. LEXICAL PRE-FILTER                   ▼
-    [ Packaging & Recycling Keywords ] ──> [ 389 Relevant Pages Identified ]
+ 3. LỌC TỪ KHÓA SƠ BỘ                    ▼
+    [ Từ khóa Bao bì & Tái chế ] ──> [ Lọc ra 389 Trang liên quan ]
                                          │
- 4. STRUCTURED LLM EXTRACTION            ▼
-    [ Local LM Studio (Qwen 2.5 7B) / Gemini ] ──> Strict JSON Schema Enforcement
+ 4. TRÍCH XUẤT CLAIM BẰNG LLM            ▼
+    [ LM Studio Cục bộ (Qwen 2.5 7B) / Gemini ] ──> Ràng buộc JSON Schema nghiêm ngặt
                                          │
-                                         ├──> [ Exact Quote Verification: 100% Grounded ]
-                                         └──> [ Extracted 631 Claims with Metadata ]
+                                         ├──> [ Kiểm tra trích dẫn nguyên văn: 100% Grounded ]
+                                         └──> [ Trích xuất 631 Claims kèm Metadata ]
                                          │
- 5. EVIDENCE RETRIEVAL                   ▼
-    [ BM25 Full-Report Inverted Index ] ──> [ Top-K Candidate Chunks per Claim ]
+ 5. TRUY XUẤT BẰNG CHỨNG (RETRIEVAL)     ▼
+    [ Chỉ mục đảo BM25 toàn báo cáo ] ──> [ Top-K Đoạn ứng viên cho mỗi Claim ]
                                          │
- 6. MULTI-STEP VERIFICATION & AUDIT      ▼
-    [ LLM Citation & Rationale Agent ] ──> [ Exact Substring Quote Validation ]
+ 6. THẨM ĐỊNH & KIỂM ĐỊNH ĐA BƯỚC        ▼
+    [ Agent Đối chiếu & Giải thích LLM ] ──> [ Xác thực khớp chuỗi nguyên văn ]
                                          │
-                                         ├──> Passed: Saved to Assessment Registry
-                                         └──> Mismatched Quote: Repair Loop or Rejected
+                                         ├──> Đạt chuẩn: Lưu vào Kho Đánh giá
+                                         └──> Sai trích dẫn: Tự động sửa hoặc Loại bỏ
                                          │
- 7. USER INTERFACE & REPORTING           ▼
-    [ Streamlit Research Workbench ] <── [ summary.json / claims_and_assessments.csv ]
+ 7. GIAO DIỆN & BÁO CÁO                  ▼
+    [ Streamlit Workbench / HTML Dashboard ] <── [ summary.json / claims_and_assessments.csv ]
 ```
 
-## Pipeline Execution Stages
-1. **Document Ingestion:** Reads 20 official English PDF reports from Nestlé, Danone, Coca-Cola, P&G, and Reckitt.
-2. **Chunking & Indexing:** Tokenizes and indexes text into 4,930 searchable passages with exact page tracking.
-3. **Keyword Filtering:** Filters 2,565 total pages down to 389 packaging-relevant candidate pages to conserve compute.
-4. **LLM Claim Extraction:** Prompts the model with strict JSON schema to parse:
-   * `claim_text`: Exact verbatim quotation from the text.
-   * `claim_type`: `target`, `recyclability`, `recycled_content`, `collection_recycling`.
-   * Quantitative metadata: `value`, `unit`, `target_year`, `measurement_year`.
-5. **Exact Substring Gatekeeper:** Validates that `claim_text` exists literally on the cited PDF page. Any fabricated or altered quotation is immediately discarded.
-6. **BM25 Evidence Retrieval:** Performs keyword-driven document retrieval for each claim across the entire publication to retrieve corresponding disclosures, definitions, or conflicting footnotes.
-7. **Adjudication & Verification:** Compares the claim against evidence chunks, producing labels:
-   * `supported`: Substantive corroborating evidence found in the document.
-   * `insufficient_evidence`: Broad statements or metrics lacking methodology or baseline context.
-   * `scope_mismatch`: Plastic claims mixed with paper, glass, or non-packaging scopes.
-   * `potential_inconsistency`: Conflicting figures across different sections or years.
-   * `not_yet_assessable`: Future commitments that have not matured.
-
+## Các Giai Đoạn Thực Thi Của Pipeline
+1. **Thu thập tài liệu (Document Ingestion):** Đọc 20 báo cáo phát triển bền vững định dạng PDF (tiếng Anh) từ 5 tập đoàn lớn: Nestlé, Danone, Coca-Cola, P&G và Reckitt.
+2. **Chia đoạn & Lập chỉ mục (Chunking & Indexing):** Tách văn bản thành 4.930 đoạn tìm kiếm kèm theo số trang PDF gốc chính xác.
+3. **Bộ lọc từ khóa (Keyword Filtering):** Lọc từ tổng số 2.565 trang xuống còn 389 trang chứa nội dung về bao bì nhựa/tái chế để tối ưu chi phí và thời gian xử lý của LLM.
+4. **Trích xuất Claim bằng LLM:** Ép mô hình trả về JSON Schema chặt chẽ gồm:
+   * `claim_text`: Câu trích dẫn nguyên văn từ văn bản gốc.
+   * `claim_type`: Phân loại gồm `target` (mục tiêu), `recyclability` (khả năng tái chế), `recycled_content` (hàm lượng tái chế), `collection_recycling` (thu gom/tái chế thực tế).
+   * Metadata định lượng: `value` (giá trị số), `unit` (đơn vị), `target_year` (năm mục tiêu), `measurement_year` (năm đo lường).
+5. **Cổng kiểm duyệt nguyên văn (Exact Substring Gatekeeper):** Kiểm tra bắt buộc chuỗi `claim_text` phải tồn tại nguyên vẹn trên đúng trang PDF được trích dẫn (`norm(claim_text) in page_text`). Mọi câu do LLM tự bịa hoặc diễn giải sai sẽ bị loại bỏ ngay lập tức.
+6. **Truy xuất bằng chứng bằng BM25 (Top-K Retrieval):** Tìm kiếm 5 đoạn văn bản (`K = 5`) có mức độ liên quan cao nhất trên toàn bộ báo cáo để lấy các định nghĩa, số liệu đối chứng hoặc ghi chú chân trang.
+7. **Thẩm định & Gán nhãn (Adjudication & Verification):** Đối chiếu tuyên bố với các đoạn bằng chứng tìm được để phân loại thành 5 nhãn:
+   * `supported`: Có bằng chứng tài liệu xác thực rõ ràng trong báo cáo.
+   * `insufficient_evidence`: Tuyên bố chung chung hoặc thiếu phương pháp đo lường / năm cơ sở (baseline).
+   * `scope_mismatch`: Lẫn lộn phạm vi (ví dụ: lấy số liệu của bao bì giấy/thủy tinh đánh đồng cho bao bì nhựa).
+   * `potential_inconsistency`: Số liệu mâu thuẫn giữa các phần hoặc giữa mục tiêu và thực tế.
+   * `not_yet_assessable`: Các cam kết mục tiêu tương lai (ví dụ mốc 2025/2030) chưa đến thời hạn đánh giá kết quả.
